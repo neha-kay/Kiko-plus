@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# neha-kay.github.io
+=======
 # Kiko Plus Theme
 
 ![image](/images/image.png)
@@ -128,3 +131,4 @@ $ rake preview
 ## License
 
 This theme is released under MIT License.
+>>>>>>> c798a54fa6fc55a6a7e9e36f22c671a7872907d4
