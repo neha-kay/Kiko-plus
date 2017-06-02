@@ -18,12 +18,15 @@ Welcome, have fun, and if you see something you like, reach out - either on the 
 I spend a lot of time thinking about ...
 
 __Personal Development__
+
 I consider myself a constantly evolving piece of software - continually identifying the bugs and feature implementations I can add to myself and the million things I have yet to learn. Reid Hoffman terms this state of being “permanent beta”, which I *entirely* identify with.
 
 Sometimes a feature gets added and the whole thing blows up (cue Stack Overflow), but for the most part, it’s worked out pretty well. I can't imagine not being obsessed about personal development, what I can learn, and how I can improve; it comes with its ups and downs but for the most part, I'm incredibly proud of how far I've come and more importantly, how much further I have to go from here.
 
 __Optimizing / Engineering Life__
+
 …as opposed to simply letting it happen.
 
 __Future plans / future trajectory__
+
 or in other words, how to maximize the impact and value I provide in my chosen career path.
