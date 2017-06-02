@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Full and Comprehensive Style Test"
-description: "Test post for style"
+title: "I'm da OG"
+description: "neighborhood gang oooh ya u lookin fine"
 date: 2016-08-15
 tags: [test, style]
 comments: true
