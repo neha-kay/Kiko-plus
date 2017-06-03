@@ -11,40 +11,39 @@ share: true
 Footsteps as of June 2017.
 
 __Africa__
+* Ghana
 
-*Ghana
-
-__Asia | __
-Hong Kong
-India
-Japan
-Malaysia
-Myanmar
-South Korea
-Thailand
+__Asia__
+* Hong Kong
+* India
+* Japan
+* Malaysia
+* Myanmar
+* South Korea
+* Thailand
 
 __Europe__
-*Belgium
-*Czech Republic
-*France
-*Germany
-*Italy 
-*Netherlands
-*Spain
-*Switzerland
-*United Kingdom
+* Belgium
+* Czech Republic
+* France
+* Germany
+* Italy 
+* Netherlands
+* Spain
+* Switzerland
+* United Kingdom
 
 __North America__
-Canada
-United States
+* Canada
+* United States
 
 __South America__
-Argentina
-Brazil
-Chile
-Colombia
-Ecuador
-Peru
+* Argentina
+* Brazil
+* Chile
+* Colombia
+* Ecuador
+* Peru
 
 __Oceania__
 Coming soon ;) 
