@@ -10,9 +10,28 @@ share: true
 
 ### Footsteps as of June 2017.
 
-<div class="columns-3">
+<html>
+<head>
+  <title>Cols</title>
+  <style>
+    #left {
+      width: 200px;
+      float: left;
+    }
+    #right {
+      margin-left: 200px;
+      /* Change this to whatever the width of your left column is*/
+    }
+    .clear {
+      clear: both;
+    }
+  </style>
+</head>
 
-__Africa__
+<body>
+  <div id="container">
+    <div id="left">
+    __Africa__
 * Ghana
 
 __Asia__
@@ -52,7 +71,17 @@ Coming soon ;)
 
 __Antartica__
 Coming soon ;)
-</div>
+    </div>
+    <div id="right">
+      <div style="background-color: red; height: 10px;">Hello</div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</body>
+
+</html>
+
+
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
