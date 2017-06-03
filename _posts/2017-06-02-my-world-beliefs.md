@@ -53,13 +53,13 @@ I am obsessed with self-improvement -- always have been, always will be. I funda
 Victor Cheng puts it beautifully here:
 
 > > In the Olympics and many other sporting events, you don’t need to worry about perceptions. Your performance is measured down to the hundredths of a second. It is objective.  
-
+> >
 > > However, business is different. Ideas and perception of ideas are subject to the influence of human psychology and sociology. 
-	
+> >	
 > > To be successful in business (and in any subjective endeavor), you need to both BE and be PERCEIVED as competent. 
-	
+> >
 > > If your perceived competence < your actual competence, then you know how frustrating this can be. This is especially a problem if you’re young, a woman in a male-dominated field, an ethnic minority, or come from a non-Tier 1 school in a field full of Ivy League graduates.
-	
+> >
 > > Conversely, don’t think that by just merely getting more competent that perceptions will follow. If you are male, white (at least in the United States), a Harvard graduate, and haven’t damaged your reputation yet, then yes, perception of competence will often increase with actual competence. If you’re anyone else, perceptions don’t always automatically follow reality. Sometimes you need to take an active role in managing perceptions. Sometimes you need to make developing your gravitas a priority.
 
 ### You can never approach the limit of positive affirmation in a relationship.
