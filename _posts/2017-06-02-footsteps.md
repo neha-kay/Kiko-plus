@@ -10,7 +10,7 @@ share: true
 
 ### Footsteps as of June 2017.
 
-__Africa | __
+__Africa |__
 Ghana
 
 __Asia |__
