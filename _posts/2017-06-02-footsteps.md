@@ -10,6 +10,8 @@ share: true
 
 ### Footsteps as of June 2017.
 
+<div class="columns-3">
+
 __Africa__
 * Ghana
 
@@ -50,10 +52,7 @@ Coming soon ;)
 
 __Antartica__
 Coming soon ;)
-
-![map](/images/map.svg)
-![map](/images/map.png)
-
+</div>
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
