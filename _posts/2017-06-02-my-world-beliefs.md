@@ -22,6 +22,8 @@ This leads to the second belief, that . . .
 ### Life owes me nothing at all. Nothing whatsoever.
 By being born, I'm not entitled to neither a good life nor a happy family nor a great career. If anything, by sheer probability, I'm entitled a disadvantaged life:. At least 80% of humanity lives on less than $10 a day. By some miracle, I was born into the 0.10% of the world that has access to internet, a top education, and the comfort of having time and freedom to write this blog.
 
+![image](/images/privilege.png)
+
 And yet, in the past, a tragedy will happen in my life and I'd wonder, "why me? Why did this happen to *me*?" This belief is about moving away from that view. This belief is about acknowledging that any sickness or sadness I have, or will get, from cancer to death of loved ones, is simply a part of life, in the way a mouse might be born, might get cancer, and might eventually die. 
 
 Instead of expecting continuous joy and being heartbroken when life happens, this belief is about *expecting* these sad moments as part of life and valuing and appreciating anything beyond guaranteed suffering -- appreciating joy -- realizing it's extraneous and that I'm lucky to even have it.
@@ -49,7 +51,7 @@ If you've studied computer science or have seriously coded at any point in your 
 ### There's always more to learn, always more to improve on.
 I am obsessed with self-improvement -- always have been, always will be. I fundamentally believe no matter how awesome I am (or not am), there is always more to improve on, always more to learn. Maybe I'm not the most generous person now, BUT if I wanted to be, I *totally could*. I don't think this obsession with self-improvement will ever change.
 
-### Perception is just as important, if not more important, than objective measurement and often needs to be actively managed. 
+### Perception is just as important as objective measurement and often needs to be actively managed. 
 Victor Cheng puts it beautifully here:
 
 > > In the Olympics and many other sporting events, you don’t need to worry about perceptions. Your performance is measured down to the hundredths of a second. It is objective.  
@@ -60,7 +62,9 @@ Victor Cheng puts it beautifully here:
 > >
 > > If your perceived competence < your actual competence, then you know how frustrating this can be. This is especially a problem if you’re young, a woman in a male-dominated field, an ethnic minority, or come from a non-Tier 1 school in a field full of Ivy League graduates.
 > >
-> > Conversely, don’t think that by just merely getting more competent that perceptions will follow. If you are male, white (at least in the United States), a Harvard graduate, and haven’t damaged your reputation yet, then yes, perception of competence will often increase with actual competence. If you’re anyone else, perceptions don’t always automatically follow reality. Sometimes you need to take an active role in managing perceptions. Sometimes you need to make developing your gravitas a priority.
+> > Conversely, don’t think that by just merely getting more competent that perceptions will follow. If you are male, white (at least in the United States), a Harvard graduate, and haven’t damaged your reputation yet, then yes, perception of competence will often increase with actual competence. 
+> >
+> > __If you’re anyone else, perceptions don’t always automatically follow reality. Sometimes you need to take an active role in managing perceptions. Sometimes you need to make developing your gravitas a priority.__
 
 ### You can never approach the limit of positive affirmation in a relationship.
 We all love being loved. This reminds me to freely and unabashedly affirm those around me. 
