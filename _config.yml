@@ -62,7 +62,7 @@ nav:
   - name:           "Topics"
     url:            "/tags"
   - name:           "Footsteps"
-    url:            "/footsteps/footsteps.md"
+    url:            "/_posts/2017-06-02-my-world-beliefs.md"
 
 # Sass
 sass:
