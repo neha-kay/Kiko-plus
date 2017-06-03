@@ -8,16 +8,18 @@ comments: true
 share: true
 ---
 
-Below are some of my personal world beliefs. These beliefs are very much *The World According to Neha*; I know they don't hold universally and it isn't my intention to convince anyone of any of them. There're just things I strongly believe in, for better or for worse, rationally or irrationally.
+Below are some of my personal world beliefs. These beliefs are very much *The World According to Neha* ; I know they don't hold universally and it isn't my intention to convince anyone of any of them. There're just things I strongly believe in, for better or for worse, rationally or irrationally.
 
-Specifically, these views originate from various sources and schools of thought --  Buddhism to computer science to positive psychology to life experiences. They're here as better insight into who I am and what I believe. With that, enjoy!
+Specifically, these views originate from various sources and schools of thought --  Buddhism to computer science to positive psychology to life experiences. They're here as better insight into who I am and what I believe. I hope they're of some use / provide some insight to you upon reading :) 
 
-Suffering is universal.
+With that, here we go!
+
+## Suffering is universal.
 Simply put, life is suffering. I know this sounds depressing but it really isn't meant to be. On the contrary, it's meant to acknowledge that life's suffering should be expected and any joy beyond it is a gift, and not the other way around.
 
-This leads to the second belief, that …
+This leads to the second belief, that ...
 
-Life owes me nothing at all. Nothing whatsoever.
+### Life owes me nothing at all. Nothing whatsoever.
 By being born, I'm not entitled to neither a good life nor a happy family nor a long, healthy life. If anything, by sheer probability, I'm entitled a disadvantaged life:. At least 80% of humanity lives on less than $10 a day. By some miracle, I was born into the 1% that has access to internet, a top education, and modern comforts.
 
 In the past, a tragedy will happen in my life and I'd wonder, "why me? Why did this happen to *me*?" This belief is about moving away from that view. This belief is about acknowledging that any sickness or sadness I have, or will get, from cancer to death of loved ones is simply a part of life, in the way that a mouse might be born, might get cancer, and might eventually die. Instead of expecting continuous joy and being heartbroken when life happens, it's about expecting these sad moments as part of life and valuing and appreciating anything beyond guaranteed suffering -- appreciating the joy that happens, realizing it's extraneous and that I'm lucky to even have it.
