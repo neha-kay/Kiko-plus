@@ -3,7 +3,7 @@ layout: post
 title: "My World Beliefs"
 description: "aka truths I hold to be self-evident and very, very true."
 date: 2017-06-02
-tags: [life, perspective]
+tags: [life perspective, about neha]
 comments: true
 share: true
 ---
