@@ -62,9 +62,9 @@ nav:
   - name:           "Topics"
     url:            "/tags"
   - name:           "World Beliefs"
-    url:            "/posts/2017-06-02-my-world-beliefs.md"
-  - name:           "Image"
-    url:            "/images/privilege.png"
+    url:            "/posts/2017-06-02-footsteps.md"
+  - name:           "Foootsteps"
+    url:            "/_posts/2017-06-02-footsteps.md"
 
 # Sass
 sass:
