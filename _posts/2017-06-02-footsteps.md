@@ -14,8 +14,8 @@ __Africa__
 
 *Ghana
 
-__Asia__
-*Hong Kong
+__Asia | __
+Hong Kong
 India
 Japan
 Malaysia
@@ -24,15 +24,15 @@ South Korea
 Thailand
 
 __Europe__
-Belgium
-Czech Republic
-France
-Germany
-Italy 
-Netherlands
-Spain
-Switzerland
-United Kingdom
+*Belgium
+*Czech Republic
+*France
+*Germany
+*Italy 
+*Netherlands
+*Spain
+*Switzerland
+*United Kingdom
 
 __North America__
 Canada
