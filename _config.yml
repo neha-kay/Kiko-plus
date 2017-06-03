@@ -57,12 +57,12 @@ kramdown:
 nav:
   - name:           "About"
     url:            "/about"
-  - name:           "Archive"
+  - name:           "Posts"
     url:            "/archive"
-  - name:           "Tags"
+  - name:           "Topics"
     url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/neha-kay/"
+  - name:           "Footsteps"
+    url:            "/footsteps/footsteps.md"
 
 # Sass
 sass:
