@@ -10,77 +10,46 @@ share: true
 
 ### Footsteps as of June 2017.
 
-<html>
-<head>
-  <title>Cols</title>
-  <style>
-    #left {
-      width: 200px;
-      float: left;
-    }
-    #right {
-      margin-left: 200px;
-      /* Change this to whatever the width of your left column is*/
-    }
-    .clear {
-      clear: both;
-    }
-  </style>
-</head>
+__Africa | __
+Ghana
 
-<body>
-  <div id="container">
-    <div id="left">
-    __Africa__
-* Ghana
+__Asia |__
+Hong Kong
+India
+Japan
+Malaysia
+Myanmar
+South Korea
+Thailand
 
-__Asia__
-* Hong Kong
-* India
-* Japan
-* Malaysia
-* Myanmar
-* South Korea
-* Thailand
+__Europe |__
+Belgium
+Czech Republic
+France
+Germany
+Italy 
+Netherlands
+Spain
+Switzerland
+United Kingdom
 
-__Europe__
-* Belgium
-* Czech Republic
-* France
-* Germany
-* Italy 
-* Netherlands
-* Spain
-* Switzerland
-* United Kingdom
+__North America |__
+Canada
+United States
 
-__North America__
-* Canada
-* United States
+__South America |__
+Argentina
+Brazil
+Chile
+Colombia
+Ecuador
+Peru
 
-__South America__
-* Argentina
-* Brazil
-* Chile
-* Colombia
-* Ecuador
-* Peru
-
-__Oceania__
+__Oceania |__
 Coming soon ;) 
 
-__Antartica__
+__Antartica |__
 Coming soon ;)
-    </div>
-    <div id="right">
-      <div style="background-color: red; height: 10px;">Hello</div>
-    </div>
-    <div class="clear"></div>
-  </div>
-</body>
-
-</html>
-
 
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
