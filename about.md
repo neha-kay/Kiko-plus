@@ -5,7 +5,7 @@ permalink: /about/
 
 ## About the Site
 
-Hi! My name is Neha. This is my brain space - my tabla rusa for random thoughts.
+Hi! My name is Neha. This is my brain space - my tabula rasa for random thoughts.
 
 In September 2015, I published [The Official Couchsurfing Guide](http://www.neha-kulkarni.com/couchsurfing-101-the-ultimate-couchsurfing-guide/) which became super popular within the Couchsurfing community.
 
