@@ -22,7 +22,9 @@ This leads to the second belief, that . . .
 ### Life owes me nothing at all. Nothing whatsoever.
 By being born, I'm not entitled to neither a good life nor a happy family nor a great career. If anything, by sheer probability, I'm entitled a disadvantaged life:. At least 80% of humanity lives on less than $10 a day. By some miracle, I was born into the 0.10% of the world that has access to internet, a top education, and the comfort of having time and freedom to write this blog.
 
-![privilege](/images/privilege.png)
+<p align="center">
+  <img src="/images/privilege.png">
+</p>
 
 And yet, in the past, a tragedy will happen in my life and I'd wonder, "why me? Why did this happen to *me*?" This belief is about moving away from that view. This belief is about acknowledging that any sickness or sadness I have, or will get, from cancer to death of loved ones, is simply a part of life, in the way a mouse might be born, might get cancer, and might eventually die. 
 
