@@ -14,7 +14,7 @@ Specifically, these views originate from various sources and schools of thought 
 
 With that, here we go!
 
-## Suffering is universal.
+#### Suffering is universal.
 Simply put, life is suffering. I know this sounds depressing but it really isn't meant to be. On the contrary, it's meant to acknowledge that life's suffering should be expected and any joy beyond it is a gift, and not the other way around.
 
 This leads to the second belief, that ...
