@@ -55,7 +55,6 @@ Coming soon ;)
 <script src="https://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
 <div id="mapdiv" style="width: 1000px; height: 450px;"></div>
-<div style="width: 1000px; font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin-top: 1px; color: #B4B4B7;"></div>
 <script type="text/javascript">
 var map = AmCharts.makeChart("mapdiv",{
 type: "map",
