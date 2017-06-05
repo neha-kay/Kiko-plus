@@ -64,7 +64,7 @@ nav:
   - name:           "Footsteps"
     url:            "https://neha-kay.github.io/2017-06-02/footsteps/"
   - name:           "Couchsurfing Guide"
-  url:              "http://www.neha-kulkarni.com/couchsurfing-101-the-ultimate-couchsurfing-guide/"
+    url:            "http://www.neha-kulkarni.com/couchsurfing-101-the-ultimate-couchsurfing-guide/"
 
 # Sass
 sass:
