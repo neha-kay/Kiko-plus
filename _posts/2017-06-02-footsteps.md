@@ -11,6 +11,7 @@ share: true
 ### Footsteps as of June 2017.
 
 ![footsteps](/images/footsteps.jpg)
+*[Salinas Grandes, Argentina], one of the biggest salt flats in the world* (https://www.google.com/maps/place/Salinas+Grandes/@-23.621901,-65.8941867,-366m/data=!3m1!1e3!4m5!3m4!1s0x940355b07e40a169:0xe42ee3f2b7e54a39!8m2!3d-23.621901!4d-65.891998)
 
 __Africa |__
 Ghana
