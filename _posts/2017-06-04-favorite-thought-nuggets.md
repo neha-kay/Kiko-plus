@@ -8,8 +8,6 @@ comments: true
 share: true
 --- 
 
-<p align="center">
-
 Below is a list of favorite quotes I've read or picked up along the way. None of them are mine but if you Google them, I'm sure you'll find the original owner. Enjoy!
 
 
@@ -56,6 +54,4 @@ Below is a list of favorite quotes I've read or picked up along the way. None of
 * You will miss out on some near soul mates. This goes for friendships, too. There will be unforgettable people with whom you have shared an excellent evening or a few days. Now they live in Hong Kong, and you will never see them again. That’s just how life is.
 
 * But human happiness doesn’t function in sweeping strokes, because we don’t live in broad summations—we’re stuck in the tiny unglamorous folds of the fabric of life, and that’s where our happiness is determined. So if we want to find a happy marriage, we need to think small—we need to look at marriage up close and see that it’s built not out of anything poetic, but out of 20,000 mundane Wednesdays.
-
-</p>
 
