@@ -13,6 +13,16 @@ Now, back to a modest 10-20 daily visitors, I focus on updating the blog with my
 
 Welcome, have fun, and if you see something you like, reach out - either on the page itself, or to me directly.
 
+## Fun Facts
+
+* Really, really, really love Indian chai
+* Hiked up a giant volcano and almost died (Interesting story for later :P) 
+* Visited Dublin, Ireland during St. Patrick's Day 
+* Am a [super avid traveler](https://neha-kay.github.io/2017-06-02/footsteps/) -- 25+ countries and goin' strong...
+
+Last, and most important. . . 
+* Have a family and an epic set of friends who mean the world to me
+
 ## About Me
 
 I spend a lot of time thinking about ...
