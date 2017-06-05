@@ -10,6 +10,8 @@ share: true
 
 ### Footsteps as of June 2017.
 
+![footsteps](/images/footsteps.jpg)
+
 __Africa |__
 Ghana
 
