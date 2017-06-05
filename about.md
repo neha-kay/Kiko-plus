@@ -23,6 +23,9 @@ Welcome, have fun, and if you see something you like, reach out - either on the 
 Last, and most important. . . 
 * Have a family and an epic set of friends who mean the world to me
 
+![places](places.jpg)
+<sub>![Source](https://www.etsy.com/listing/179540130/printable-world-map-oh-the-places-youll)</sub>
+
 ## About Me
 
 I spend a lot of time thinking about ...
