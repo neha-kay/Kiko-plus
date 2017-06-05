@@ -2,7 +2,7 @@
 layout: post
 title: "Compiled Favorite Thought Nuggets/Quotes/Pieces of Advice"
 description: ""
-date: 2017-06-02
+date: 2017-06-04
 tags: [life perspective]
 comments: true
 share: true
