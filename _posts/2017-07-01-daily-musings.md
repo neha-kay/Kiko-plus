@@ -2,7 +2,7 @@
 layout: page
 title: Daily Musings
 description: Short thought nuggets about the world as they occur to me.
-date: {}
+date: 2017-07-01
 tags: [random insights]
 comments: true
 share: true
