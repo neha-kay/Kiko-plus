@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "Daily Musings"
-description: "Short thought nuggets about the world as they occur to me."
-date: 2017-07-01
-tags: [surprise me]
+title: Daily Musings
+description: Short thought nuggets about the world as they occur to me.
+date: {}
+tags:
+  - surprise me
 comments: true
 share: true
+published: true
 ---
 
 ## Pilot
