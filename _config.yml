@@ -1,5 +1,5 @@
 # # # # # # # # # # # # #
-#   K i k o - p l u s   #
+#    Neha Kay Website   #
 # # # # # # # # # # # # #
 
 # Basic
@@ -57,11 +57,9 @@ kramdown:
 nav:
   - name:           "About"
     url:            "/about"
-  - name:           "Footsteps"
-    url:            "https://neha-kay.github.io/2017-06-02/footsteps/"
-  - name:           "Couchsurfing Guide"
-    url:            "http://www.neha-kulkarni.com/couchsurfing-101-the-ultimate-couchsurfing-guide/"
-  - name:           "Posts"
+  - name:           "Daily Musings"
+    url:            "https://neha-kay.github.io/2017-06-02/daily-musings/"
+  - name:           "All Posts"
     url:            "/archive"
   - name:           "Topics"
     url:            "/tags"
