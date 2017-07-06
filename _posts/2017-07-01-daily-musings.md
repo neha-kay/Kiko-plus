@@ -1,6 +1,13 @@
 ---
-published: false
+layout: page
+title: "Daily Musings"
+description: ""
+date: 2017-07-01
+tags: [surprise me]
+comments: true
+share: true
 ---
-## Daily Musings
+# Daily Musings
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Daily Musings
+=============
