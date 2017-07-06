@@ -7,7 +7,4 @@ tags: [surprise me]
 comments: true
 share: true
 ---
-# Daily Musings
 
-Daily Musings
-=============
