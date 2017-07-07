@@ -53,21 +53,18 @@ If you make regular trips, signing up for the free accounts pays off. Companies 
 * 20% off next ticket with 5 roundtrip tickets + buy one get one free for a friend
 * Free trip anywhere with 8 roundtrip tickets 
 
-| Book    | Reward  | Reward  |
-|:--------|:-------:|--------:|
+|:--------:|:-------:|:--------:|
+| Book    | Reward    |
+|:--------:|:-------:|:--------:|
 | 3 roundtrip tickets   | 15% off next ticket   | Buy 1 get 1 free for a friend   |
 | 5 roundtrip tickets   | 20% off next ticket   | Buy 1 get 1 free for a friend   |
 | 8 roundtrip tickets   | Free trip anywhere   |    |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
+
 
 ###### Boltbus Rewards 
 Take 8 trips, get 1 free
 
-### 4. Snag overnight trips if you can.
+### 4. Snag overnight trips if you can
 
 Since you’ll be asleep a majority of the time you won’t even realize how much time you’ve been on the bus. Plus, you avoid paying for a hotel for that night ;) 
 
