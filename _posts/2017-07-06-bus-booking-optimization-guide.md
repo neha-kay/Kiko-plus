@@ -10,15 +10,14 @@ share: true
 
 A guide on how to optimize the bus booking process.
 
-This guide has 3 sections:
-
+The Bus Booking Optimization Guide starts here with the following 3 parts: 
 Part 1: The Basics of Bus Booking Optimization
 Part 2: How to Score $1 Bus Tickets
-Part 3: How to Optimize Bus Choices by Bus Carrier
+Part 3: How to Optimize Bus Bookings by Carrier
 
 Let’s get started! 
 
-The Basics of Bus Booking Optimization
+## The Basics of Bus Booking Optimization
 
 1.Use Wanderu instead of searching on Greyhound/Megabus/Boltbus site
 
@@ -50,4 +49,4 @@ Take 8 trips, get 1 free
 
 Since you’ll be asleep a majority of the time you won’t even realize how much time you’ve been on the bus. Plus, you avoid paying for a hotel for that night ;) 
 
-__This is Part 1 of the Bus Booking Optimization Guide. Continue to Part 2 of 3, How to Score $1 Bus Tickets here.__
+__This is Part 1 of the 3-part Bus Booking Optimization Guide. Continue to Part 2 of 3, How to Score $1 Bus Tickets here.__
