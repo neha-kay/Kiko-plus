@@ -49,9 +49,6 @@ Chances are this might be cheaper than buying one ticket last-minute, as prices 
 If you make regular trips, signing up for the free accounts pays off. Companies like Greyhound and Boltbus offer free rides and rewards with every ride you buy. 
 
 ###### Greyhound Rewards
-* Book 3 roundtrip tickets 15% off next ticket with 3 roundtrip tickets + buy one get one free for a friend
-* 20% off next ticket with 5 roundtrip tickets + buy one get one free for a friend
-* Free trip anywhere with 8 roundtrip tickets 
 
 |:--------:|:-------:|:--------:|
 | Book    | Reward    |
