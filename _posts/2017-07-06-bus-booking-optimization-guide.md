@@ -65,4 +65,4 @@ Take 8 trips, get 1 free =)
 
 Since you’ll be asleep a majority of the time you won’t even realize how much time you’ve been on the bus. Plus, you avoid paying for a hotel for that night ;) 
 
-Continue to Part 2, *How to Score $1 Bus Tickets*, of the 3-part Bus Booking Optimization Guide [here](https://neha-kay.github.io/2017-07-06/how-to-score-1-bus-tickets/).
+__Continue to Part 2, *How to Score $1 Bus Tickets*, of the 3-part Bus Booking Optimization Guide [here](https://neha-kay.github.io/2017-07-06/how-to-score-1-bus-tickets/).__
