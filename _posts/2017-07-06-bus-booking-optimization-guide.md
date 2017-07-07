@@ -20,34 +20,49 @@ Let’s get started!
 
 ## The Basics of Bus Booking Optimization
 
-### 1.Use Wanderu instead of searching on Greyhound/Megabus/Boltbus site
+### 1.Use Wanderu instead of searching on the Greyhound/Megabus/Boltbus site itself
 
-[Wanderu](https://www.wanderu.com/en/) is the Google of bus tickets -- it pulls and sorts options from all major bus providers so you can truly identify the cheapest/fastest/shortest across 100+ options instead of a few from 1 bus company. 
+[Wanderu](https://www.wanderu.com/en/) is the Google of bus tickets -- it pulls and sorts options from all major bus providers so you can identify the cheapest/fastest/shortest across 100+ options instead of a few from 1 bus company. 
 
-You can sort the options, select specific carriers, include nearby cities, and even adjust the ‘time slider’ to identify only the busses which leave after a certain time or arrive by a certain time. You can either 
+Moreover, you can sort the options, select specific carriers, include nearby cities, and even adjust the time slider to identify only the busses which leave after a certain time or arrive by a certain time. 
+
+Once you've found a bus, you can either 
 
 * Pay through the site (100% free as of July 2017) 
-* Navigate to the company site after identifying the best bus
+* Navigate to the company site and book there
 
 
-While I personally find Wanderu the most versatile, another great similar option is [BusBud](busbud.com). 
+While I personally find Wanderu the most versatile, another great option is [BusBud](busbud.com). 
 
 ### 2. Booking multiple dates 1-3 months in advance may be cheaper than a single date later on
 
-Say you’re traveling to New York from Philadelphia on a weekend 3 months in the future, though you’re not sure which weekend.
+Say you’re traveling from Philadelphia to New York on a weekend 3 months in the future, though you’re not sure which weekend.
 
-First, check the prices for this weekend, to get a sense of what the cost of a last-minute booking is. 
+1. Check the prices for this weekend, to get a sense of what the cost of a last-minute booking is. 
 
-Then, check the prices for 1-3 months out and consider buying tickets for a couple weekends; chances are this might be cheaper than buying them last-minute, as prices tend to increase as you get closer to the travel date. If you book on Megabus, you can always credit the un-used tickets to a future trip. 
+2. Check the prices for 1-3 months out and consider buying tickets for a couple weekends
+
+Chances are this might be cheaper than buying one ticket last-minute, as prices tend to increase as you get closer to the travel date. If you book on Megabus, you can always credit the un-used tickets to a future trip. 
 
 ### 2. If you travel often, make sure you join the rewards programs
 
-If you make regular trips, signing up for the free accounts pays off; companies like Greyhound and Boltbus offer free rides and rewards with every ride you buy. 
+If you make regular trips, signing up for the free accounts pays off. Companies like Greyhound and Boltbus offer free rides and rewards with every ride you buy. 
 
 ###### Greyhound Rewards
-15% off next ticket with 3 roundtrip tickets + buy one get one free for a friend
-20% off next ticket with 5 roundtrip tickets + buy one get one free for a friend
-Free trip anywhere with 8 roundtrip tickets 
+* Book 3 roundtrip tickets 15% off next ticket with 3 roundtrip tickets + buy one get one free for a friend
+* 20% off next ticket with 5 roundtrip tickets + buy one get one free for a friend
+* Free trip anywhere with 8 roundtrip tickets 
+
+| Book    | Reward  | Reward  |
+|:--------|:-------:|--------:|
+| 3 roundtrip tickets   | 15% off next ticket   | Buy 1 get 1 free for a friend   |
+| 5 roundtrip tickets   | 20% off next ticket   | Buy 1 get 1 free for a friend   |
+| 8 roundtrip tickets   | Free trip anywhere   |    |
+|----
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=====
+| Foot1   | Foot2   | Foot3
 
 ###### Boltbus Rewards 
 Take 8 trips, get 1 free
