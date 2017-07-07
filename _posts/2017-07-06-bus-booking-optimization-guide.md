@@ -59,7 +59,7 @@ If you make regular trips, signing up for the free accounts pays off. Companies 
 
 
 ###### Boltbus Rewards 
-Take 8 trips, get 1 free
+Take 8 trips, get 1 free =)
 
 ### 4. Snag overnight trips if you can
 
