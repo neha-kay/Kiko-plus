@@ -9,6 +9,7 @@ share: true
 published: true
 ---
 
+<font color="#44C0FE">Meow</font>
 ## 30 Days of Daily Musings
 ### Why Have a Daily Musings Page? | July 1, 2017
 
