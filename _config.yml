@@ -55,7 +55,7 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About m"
+  - name:           "About"
     url:            "/about"
   - name:           "Daily Musings"
     url:            "https://neha-kay.github.io/2017-07-01/daily-musings/"
@@ -66,7 +66,7 @@ nav:
   - name:           "Guides"
     url:            "https://neha-kay.github.io/2017-07-05/guides/"
   - name:           "Photos"
-    url:            https://www.flickr.com/photos/150567501@N07/
+    url:            "https://www.flickr.com/photos/150567501@N07/"
       target: '_blank'
     
 # Sass
