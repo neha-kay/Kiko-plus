@@ -55,6 +55,8 @@ kramdown:
 
 # Navigation
 nav:
+  attributes:
+    target: '_blank'
   - name:           "About"
     url:            "/about"
   - name:           "Daily Musings"
