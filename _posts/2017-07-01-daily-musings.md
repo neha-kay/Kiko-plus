@@ -9,8 +9,8 @@ share: true
 published: true
 ---
 
-<font color="#44C0FE">Meow</font>
-## 30 Days of Daily Musings
+<font color="#44C0FE"><h1>30 Days of Daily Musings</h1></font>
+
 ### Why Have a Daily Musings Page? | July 1, 2017
 
 In any case, that's part of the theoretical backbone of the 'daily musings' page. The goal, here, is to write in free blog form more frequently. The theoretical backbone of daily musings is: 
