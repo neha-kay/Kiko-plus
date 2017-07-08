@@ -65,6 +65,8 @@ nav:
     url:            "/tags"
   - name:           "Guides"
     url:            "https://neha-kay.github.io/2017-07-05/guides/"
+  - name:           "Photos"
+    url:            "https://www.flickr.com/photos/150567501@N07/"
     
 # Sass
 sass:
