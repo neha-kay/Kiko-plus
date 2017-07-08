@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Daily Musings
 description: Short thought nuggets about the world as they occur to me.
 date: 2017-07-01
@@ -9,8 +9,8 @@ share: true
 published: true
 ---
 
-## Pilot
-### July 1, 2017
+## 30 Days of Daily Musings
+### Why Have a Daily Musings Page? | July 1, 2017
 
 In any case, that's part of the theoretical backbone of the 'daily musings' page. The goal, here, is to write in free blog form more frequently. The theoretical backbone of daily musings is: 
 
