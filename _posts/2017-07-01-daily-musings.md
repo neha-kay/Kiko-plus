@@ -9,7 +9,7 @@ share: true
 published: true
 ---
 
-<font color="#44C0FE"><h1>30 Days of Daily Musings</h1></font>
+<h1 style="color:#44C0FE;">30 Days of Daily Musings</h1>
 
 ### Why Have a Daily Musings Page? | July 1, 2017
 
