@@ -11,6 +11,25 @@ published: true
 
 <h1 style="color:#44C0FE;">30 Days of Daily Musings</h1>
 
+### Why Have a Daily Musings Page? | July 2, 2017
+
+In Hawaii now! Hawaii is __dope__ not because it's hawaii in a boasting sort of way but fundamentally because the place itself is objectively _great_ It's *incredibly* safe to walk around in which is a huge factor for me, and for a tropical island, is not ~that~ expensive if you keep an eye out for cheaper eateries. Plus, since it's a part of the United States, you get the familiar perks of the U.S. (eg IHOP (lol), USPS, familiar chains, etc.,) 
+
+On top of that, there's tons of hiking, astronomy, nature, etc.,. I've been to a number of beachy-tropical areas (Jamaica, Los Angeles, etc.,) and this one surely tops the list. Definitely coming back =) 
+
+### Why Have a Daily Musings Page? | July 2, 2017
+The Northeast is Objectively the Best Place to Live
+
+I can't help but feel the Northeast is a /fantastic/ place to live, largely because of its proximity to action-packed cities -- namely New York, Philadelphia, Boston, Washington D.C., and Baltimore. 
+
+The fact that ~any~ of these locations are accessible by a cheap $20 bus amazes me. It would be such a huge thing I'd miss out on if I were to move away in the long-term. 
+
+But then I think about the weather; cold weather __does__ suck, after all. But you can also look at it as a matter of appreciation -- because you can't truly appreciate the great feeling of walking into a warm, cozy house or shop until you've been shivering outside.
+
+. . . but then again, that lasts about a week before it gets old. 
+
+But even with that in mind, I think the power of having such major cities at your disposal is pretty much irreplaceable -- at least for me. 
+
 ### Why Have a Daily Musings Page? | July 1, 2017
 
 In any case, that's part of the theoretical backbone of the 'daily musings' page. The goal, here, is to write in free blog form more frequently. The theoretical backbone of daily musings is: 
