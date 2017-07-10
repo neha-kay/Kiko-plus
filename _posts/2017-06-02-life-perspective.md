@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Life Perspectives"
+title: "Life Perspective"
 description: "5 min read"
 date: 2017-06-02
 tags: [life perspective, about neha, random insights]
