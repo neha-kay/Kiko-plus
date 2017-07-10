@@ -55,7 +55,7 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "About Me"
     url:            "/about"
   - name:           "Daily Musings"
     url:            "https://neha-kay.github.io/2017-07-01/daily-musings/"
