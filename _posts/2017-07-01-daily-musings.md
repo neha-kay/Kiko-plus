@@ -9,9 +9,9 @@ share: true
 published: true
 ---
 
-<h1 style="color:#44C0FE;">30 Days of Daily Musings</h1>
+# 30 Days of Daily Musings
 
-### Why Have a Daily Musings Page? | July 2, 2017
+<h3 style="color:#44C0FE;"> Hawaii is Objectively Great | July 2, 2017 </h3>
 
 In Hawaii now! Hawaii is __dope__ not because it's hawaii in a boasting sort of way but fundamentally because the place itself is objectively _great_ It's *incredibly* safe to walk around in which is a huge factor for me, and for a tropical island, is not ~that~ expensive if you keep an eye out for cheaper eateries. Plus, since it's a part of the United States, you get the familiar perks of the U.S. (eg IHOP (lol), USPS, familiar chains, etc.,) 
 
@@ -30,7 +30,7 @@ But then I think about the weather; cold weather __does__ suck, after all. But y
 
 But even with that in mind, I think the power of having such major cities at your disposal is pretty much irreplaceable -- at least for me. 
 
-### Why Have a Daily Musings Page? | July 1, 2017
+<h3 style="color:#44C0FE;"> Why Have a Daily Musings Page? | July 1, 2017 </h3>
 
 In any case, that's part of the theoretical backbone of the 'daily musings' page. The goal, here, is to write in free blog form more frequently. The theoretical backbone of daily musings is: 
 
