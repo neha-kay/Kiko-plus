@@ -11,21 +11,21 @@ published: true
 
 # 30 Days of Daily Musings
 
-<h3 style="color:#800000;"> I'll Buy You a Beer | July 4, 2017 </h3>
+<h3 style="color:#6495ed;"> I'll Buy You a Beer | July 4, 2017 </h3>
 
 I really love the concept of buying someone a beer. It's way cheaper than buying them a meal, makes me feel like sexism isn't a thing, and has a friendly undertone, compared to 'buying a drink'. It's freaking great.
 
-<h3 style="color:#44C0FE;"> Hawaii is Objectively Great | July 3, 2017 </h3>
+<h3 style="color:#6495ed;"> Hawaii is Objectively Great | July 3, 2017 </h3>
 
 In Hawaii now! Hawaii is __dope__ not because it's hawaii in a boasting sort of way but fundamentally because the place itself is objectively _great_ It's *incredibly* safe to walk around in which is a huge factor for me, and for a tropical island, is not ~that~ expensive if you keep an eye out for cheaper eateries. Plus, since it's a part of the United States, you get the familiar perks of the U.S. (eg IHOP (lol), USPS, familiar chains, etc.,) 
 
 On top of that, there's tons of hiking, astronomy, nature, etc.,. I've been to a number of beachy-tropical areas (Jamaica, Los Angeles, etc.,) and this one surely tops the list. Definitely coming back =) 
 
-<h3 style="color:#44C0FE;"> Productivity | July 4, 2017 </h3>
+<h3 style="color:#6495ed;"> Productivity | July 4, 2017 </h3>
 
 "There is noting more exhausting than the task you've never started."
 
-<h3 style="color:#44C0FE;"> The Northeast is Objectively the Best Place to Live | July 2, 2017 </h3>
+<h3 style="color:#6495ed;"> The Northeast is Objectively the Best Place to Live | July 2, 2017 </h3>
 
 I can't help but feel the Northeast is a /fantastic/ place to live, largely because of its proximity to action-packed cities -- namely New York, Philadelphia, Boston, Washington D.C., and Baltimore. 
 
@@ -38,7 +38,7 @@ But then I think about the weather; cold weather __does__ suck, after all. But y
 But even with that in mind, I think the power of having such major cities at your disposal is pretty much irreplaceable -- at least for me. 
 
 
-<h3 style="color:#44C0FE;"> Why Have a Daily Musings Page? | July 1, 2017 </h3>
+<h3 style="color:#6495ed;"> Why Have a Daily Musings Page? | July 1, 2017 </h3>
 
 In any case, that's part of the theoretical backbone of the 'daily musings' page. The goal, here, is to write in free blog form more frequently. The theoretical backbone of daily musings is: 
 
