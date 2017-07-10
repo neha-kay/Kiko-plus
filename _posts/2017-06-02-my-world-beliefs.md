@@ -1,21 +1,19 @@
 ---
 layout: post
-title: "My World Beliefs"
-description: "aka truths I hold to be self-evident and very, very true."
+title: "Life Perspectives"
+description: "5 min read"
 date: 2017-06-02
 tags: [life perspective, about neha, random insights]
 comments: true
 share: true
 ---
 
-Below are some of my personal world beliefs. These beliefs are very much *The World According to Neha* ; I know they don't hold universally and it isn't my intention to convince anyone of any of them. There're just things I strongly believe in, for better or for worse, rationally or irrationally.
-
-Specifically, these views originate from various sources and schools of thought --  Buddhism to computer science to positive psychology to life experiences. They're here as better insight into who I am and what I believe. I hope they're of some use / provide some insight to you upon reading :) 
+Below are some life perspectives; I know they don't hold universally and it isn't my intention to convince anyone of any of them. Specifically, these views originate from various sources and schools of thought --  Buddhism to computer science to positive psychology to life experiences. There're just things I strongly believe in, for better or for worse, rationally or irrationally.
 
 With that, here we go!
 
 ### Suffering is universal.
-Simply put, life is suffering. I know this sounds depressing but it really isn't meant to be. On the contrary, it's meant to acknowledge that life's suffering should be expected and any joy beyond it is a gift, and not the other way around.
+Simply put, life is suffering. While it may sound depressing, it really isn't meant to be. On the contrary, it's meant to acknowledge that life's suffering should be expected and any joy beyond it is a gift, not the other way around.
 
 This leads to the second belief, that . . .
 
@@ -26,16 +24,16 @@ By being born, I'm not entitled to neither a good life nor a happy family nor a 
   <img src="/images/privilege.png">
 </p>
 
-And yet, in the past, a tragedy will happen in my life and I'd wonder, "why me? Why did this happen to *me*?" This belief is about moving away from that view. This belief is about acknowledging that any sickness or sadness I have, or will get, from cancer to death of loved ones, is simply a part of life, in the way a mouse might be born, might get cancer, and might eventually die. 
+Sometimes, when things go wrong, I'll wonder, "why me? Why did this happen to *me*?" This belief is about moving away from that view. This belief is about acknowledging that any sickness or sadness I have or will get, from cancer to death of loved ones, is simply a part of life, in the way a mouse might be born, might get cancer, and might eventually die. 
 
 Instead of expecting continuous joy and being heartbroken when life happens, this belief is about *expecting* these sad moments as part of life and valuing and appreciating anything beyond guaranteed suffering -- appreciating joy -- realizing it's extraneous and that I'm lucky to even have it.
 
-### My identity is the average of my actions.
+### Identity is the average of one's actions.
 Even if I could theoretically be more generous, my defined generosity is the integration of my past giving behavior (or lack thereof). 
 
 This notion has a pretty impactful corollary: 
 
-### Contrary to popular belief, identities are dynamic and changed over tim, with the integration of controllable action.
+### Contrary to popular belief, identities are dynamic and changed over time, with the integration of controllable action.
 Labels which characterize our self-identity - for example 'extrovert' or 'introvert' - are simply determined by the integration of action over time. By this logic, changing our identities is relatively straightforward; it's a simple matter of changing my actions at time *t* and beyond. Over time, if I continue those actions, the integration of those behaviors generate the label, not the other way around. 
 
 In the same way a smoker becomes a non-smoker, by, day by day, not smoking, an intorvert can become an extrovert by, day by day, going out to events more, reaching out to more people, etc.,
@@ -45,10 +43,10 @@ Indeed a 60 year old impatient man, can be patient, of course if he decides to e
 In this way, changing an identity is __way__ simpler and straightforward than we originally think; it's a matter of changing small, daily action that is entirely independent of past action and entirely dependent on present motive.
 
 ### All is well that ends well, and if it's not well, it's not the end.
-Call me irrational or call me an optimist. I don't care, it's what I believe :P :D
+Call me irrational or call me an optimist. 
 
 ### 90% of things are Google-able
-If you've studied computer science or have seriously coded at any point in your life, you too, know that 90% of things are Google-able, given a requisite amount of patience, grit, and Stack Overflow. This one skill -- of being confident of finding a solution before you've done so --- is so, so powerful and makes the frustration of learning CS oh so worth it.
+If you've studied computer science or have seriously coded at any point in your life, you too, know that 90% of things are Google-able, given a requisite amount of patience, grit, and Stack Overflow. This one skill -- of being confident of finding a solution before you've done so --- is so, so powerful and makes the frustration of learning CS so worth it.
 
 ### There's always more to learn, always more to improve on.
 I am obsessed with self-improvement -- always have been, always will be. I fundamentally believe no matter how awesome I am (or not am), there is always more to improve on, always more to learn. Maybe I'm not the most generous person now, BUT if I wanted to be, I *totally could*. I don't think this obsession with self-improvement will ever change.
@@ -93,4 +91,4 @@ versus
 or
 *"I know I'm super insecure about X/have low self-esteem about it. And there is a way to get over it. I'll probably have to read a hundred books to find the 1 page that explains it, but in any case, the solution is out there -- I just have to dedicate the time to find it."*
 
-I strongly believe in the latter - that solutions do exist for really hard problems -- it's just a matter -sometimes years -- of finding them.
+I strongly believe in the latter - that solutions do exist for really hard problems -- it's just a matter of time -sometimes years -- of finding them.
