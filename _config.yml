@@ -32,7 +32,7 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               ""
+  id:               "neha-kay"
 
 # URL
 url:                "https://neha-kay.github.io" # the base hostname & protocol for your site
@@ -45,7 +45,7 @@ timezone:           Asia/Seoul
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
-paginate:           10
+paginate:           200
 paginate_path:      /page:num/
 
 # Markdown
