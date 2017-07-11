@@ -24,7 +24,7 @@ Last, and most important. . .
 * Have a family and an epic set of friends who mean the world to me
 
 <p align="center">
-  <img src="/images/places.jpg">
+  <img src="/images/places.png">
 </p>
 <sub>[Source](https://www.etsy.com/listing/179540130/printable-world-map-oh-the-places-youll)</sub>
 
