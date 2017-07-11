@@ -11,6 +11,10 @@ published: true
 
 # 30 Days of Daily Musings
 
+<h3 style="color:#6495ed;"> Disqus + Google Analytics | July 10, 2017 </h3>
+
+Disqus & Google Analytics are officially working! It’s amazing how small achievements seem after you’ve done them and how big tasks seem before you’ve achieved them. 
+
 <h3 style="color:#6495ed;"> I'll Buy You a Beer | July 4, 2017 </h3>
 
 I really love the concept of buying someone a beer. It's way cheaper than buying them a meal, makes me feel like sexism isn't a thing, and has a friendly undertone, compared to 'buying a drink'. It's freaking great.
