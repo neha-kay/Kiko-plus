@@ -31,18 +31,19 @@ It's a slower solution but a more tractable one, I think.
 Disqus & Google Analytics are officially working! It’s amazing how small achievements seem after you’ve done them and how big tasks seem before you’ve achieved them. 
 
 <h3 style="color:#6495ed;"> TO-DO | July 7, 2017 </h3>
+
 <h3 style="color:#6495ed;"> Interview with first female billionaire + Spanx fouder, Sara Blakely | July 6, 2017 </h3>
 
-Today I listened to a podcast which undoubtedly is on my all time favorite podcast episodes list -- an interview with the Spanx founder, Sara Blakely. It's definitely an experiential listen than a pure knowledge-based one so I'd highly recommend just downloading and getting into it. But below are a couple of the things that really resonated with me. 
+Today I listened to a podcast which undoubtedly is on my all time favorite podcast episodes list -- [an interview with the Spanx founder, Sara Blakely](http://one.npr.org/?sharedMediaId=493169696:493311384). It's definitely an experiential listen than a pure knowledge-based one so I'd highly recommend just downloading and getting into it. But below are a couple of the things that really resonated with me. 
 
 ##### The notion that ideas are most vulnerable in their infancy
 
- > > I kept it [the idea of Spanx] a secret for 1 year. I was very careful right away to keep it to myself because I believe ideas are most vulnerable in their infancy. It's instinct to turn to your right or left and tell a friend and when you do that, ego is invited into the mix and then you spend all your time defending the idea and explaining it and not pursuing it. I needed to be at the place where I knew I wouldn't turn back no matter what I heard. I had invested enough of my time and sweat equity into the idea that I told people and the things I heard were "if it's such a good idea why hasn't someone done it already?" and "if it's a good idea then you're gonna spend your savings on this and in 6 months, the big guys are gonna knock you out of the water." And these things were all coming from a place of love but I feel like if I heard all of that at the beginning, I'd probably still be selling fax machines. 
+ > > "I kept it [the idea of Spanx] a secret for 1 year. I was very careful right away to keep it to myself because I believe ideas are most vulnerable in their infancy. It's instinct to turn to your right or left and tell a friend and when you do that, ego is invited into the mix and then you spend all your time defending the idea and explaining it and not pursuing it. I needed to be at the place where I knew I wouldn't turn back no matter what I heard. I had invested enough of my time and sweat equity into the idea that I told people and the things I heard were "if it's such a good idea why hasn't someone done it already?" and "if it's a good idea then you're gonna spend your savings on this and in 6 months, the big guys are gonna knock you out of the water." And these things were all coming from a place of love but I feel like if I heard all of that at the beginning, I'd probably still be selling fax machines." 
 
 ##### Her sheer resolve and willingness to break the rules to get Spanx out there
 > > [Interviewer] "When you got into Neiman Marcus - were you like, I made it?""
-> > [Blakely] Absolutely not - that is the biggest mistake entrepreneurs make -- that's when the work begins! I paid friends to go out and buy the product and create a buzz about it.
-I called all the friends I had - called friends I hadn't spoken to since 4th grade saying, "hey this is Lisa, I  know we haven't spoken since 4th grade but do you mind going to the store and buying Spanx and I'll send you a check?"...I stood in the stores from 9-5 or 6 every day and went to Target and bought stands which I put up at at the checkout area in Neiman Marcus -- they all thought it was approved from higher ups so they all left the stands there. 
+> > [Blakely] "Absolutely not - that is the biggest mistake entrepreneurs make -- that's when the work begins! I paid friends to go out and buy the product and create a buzz about it.
+I called all the friends I had - called friends I hadn't spoken to since 4th grade saying, "hey this is Lisa, I  know we haven't spoken since 4th grade but do you mind going to the store and buying Spanx and I'll send you a check?"...I stood in the stores from 9-5 or 6 every day and went to Target and bought stands which I put up at at the checkout area in Neiman Marcus -- they all thought it was approved from higher ups so they all left the stands there." 
 
 
 <h3 style="color:#6495ed;"> I'll Buy You a Beer | July 5, 2017 </h3>

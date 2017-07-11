@@ -3,7 +3,7 @@ layout: post
 title: "How to Optimize Bus Bookings by Carrier"
 description: "A quick explanation on the perks of one carrier over another"
 date: 2017-07-06
-tags: [guides, travel]
+tags: [travel - bus]
 comments: true
 share: true
 ---
