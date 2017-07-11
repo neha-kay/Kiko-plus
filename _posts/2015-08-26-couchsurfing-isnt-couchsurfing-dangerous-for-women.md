@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Daily Musings
-description: Short thought nuggets about the world as they occur to me.
-date: 2017-07-01
-tags: [random insights]
+title: "Couchsurfing: Isn’t Couchsurfing Dangerous For Women?"
+description: 
+date: 2015-08-26
+tags: [couchsurfing]
 comments: true
 share: true
 published: true
@@ -21,13 +21,9 @@ That being said, this risk *can* be mitigated for safe traveling with the follow
 
 I personally surf with both men and women but this is a great option for beginner female Couchsurfers who are very uneasy about the idea of staying with a male host. Naturally you'll have way less options, but it's a good way to dip one's toe into the community to see what it's like. 
 
-### 2. Don't interact, stay with, or host people who have 0 references or seem off in some way. 
+### 2. Only stay with people with a large number of reviews. Additionally, don't interact, stay with, or host people who have 0 references or seem off in some way. 
 
 Every person on the platform has a reference section which details what staying with them is like. It's just like a Yelp or Airbnb review. As a solo surfer, stay away from people who don't have reviews -- while they're likely great people, they could also be more sinister, and since you cannot differentiate which of the two they are, don't stay with them or meet up in person.
-
-Also, if someone seems 'off' when messaging you, err on the side of caution and find another host. One of my to-be hosts with about ~7 reviews once messaged me with a 'Hi ;)'; of course, it could have been well-meaning but I didn't want to take the chance -- I quickly arranged another option and didn't stay with the host.  
-
-### 3. Only stay with people with a large number of reviews.
 
 How many is 'large'? This depends on how trusting you are of the community, really. I'd say the following is a good outline: 
 
@@ -37,7 +33,9 @@ Very Strict: 30+ reviews
 
 When I surf, I generally will stay with people with 12+ reviews -- if they're in the 12-22 range of reviews, I'll be sure to analyze the references and make sure they're above-and-beyond. 
 
-Generally, speaking, if they have 30+ positive reviews, they're very, very likely to be fantastic hosts. 
+Generally, speaking, if they have 30+ positive reviews, they're very, very likely to be fantastic hosts. It still helps to take some of the precautions listed below, especially if you're new to Couchsurfing. 
+
+Also, if someone seems 'off' when messaging you, err on the side of caution and find another host. One of my to-be hosts with about ~7 reviews once messaged me with a 'Hi ;)'; of course, it could have been well-meaning but I didn't want to take the chance -- I quickly arranged another option and didn't stay with the host.  
 
 If I'm still not sure if it's safe, I'll do some of the things outlined below.
 
@@ -55,15 +53,21 @@ To do this:
 
 This has been *incredibly* helpful for me in the past, with screenshots of what I've sent as an example below. If any one of them report anything 'off', don't take the risk and find another host.
 <p align="center">
-  <img src="/images/contact-previous-hosts.png">
+  <img src="/images/contact-previous-surfers.png">
 </p>
 
 ### 3. Analyze the references carefully
 
 Good hosts usually have a large number of rave reviews referring to the host as super great and generous. If a number of reviews have more neutral tones or mention things that seem 'off', it's better to dig deeper by contacting previous surfers. 
 
-All this seems like a lot of work but in reality it isn't and the pre-caution pays off; of my 31 Couchsurfing experiences, all have been positive ones. The closest I've come to in terms of trouble were 2 guys who subtly hit on me; when I made a point of declining, they totally honored it and both experiences were entirely positive.
+### In Conclusion: Is it safe?
 
-My good experiences on Couchsurfing.com have been purely ~because~ of the precautions I take above; a number of travelers who don't take these precautions naturally will have bad experiences. The flipside is the following; if you follow *all* of the guidelines above, I have a hard time believing you'll have a bad experience traveling -- no doubt about that. The Couchsurfing community offers *so much* richness when traveling. My best experiences abroad have almost always involved my hosts and surfers. 
+If you follow the guidelines above, yes.
 
-That being said, if you're a woman interesting in Couchsurfing -- do it! Take the steps above, embrace your freedom and Couchsurf on! 
+Of my 31 Couchsurfing experiences, all have been positive ones. The closest I've come to in terms of trouble were 2 guys who subtly hit on me; when I made a point of declining, they totally honored it and both experiences were entirely positive.
+
+My good experiences on Couchsurfing.com have been purely *because* of the precautions I took above; a number of travelers who don't take these precautions naturally will have bad experiences. 
+
+In other words, if you follow the guidelines above, I have a hard time believing you'll have a bad experience traveling -- no doubt about that. The Couchsurfing community offers *so much* richness when traveling. My best experiences abroad have almost always involved my hosts and surfers. 
+
+So, if you're a woman interesting in Couchsurfing -- do it! Take the steps above, embrace your freedom and Couchsurf on! 
