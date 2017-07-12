@@ -62,6 +62,11 @@ or in other words, how to maximize the impact and value I provide in my chosen c
 
 As of July 2017, I've [traveled to 26 countries](http://www.nehakay.com/2017-06-02/footsteps/){:target="_blank"} and fufilling the last few countries I want to see before settling down and starting work at Microsoft.
 
+<p align="center">
+  <img src="/images/footsteps.jpg">
+  <sub>[Salinas Grandes, Argentina](https://www.google.com/maps/place/Salinas+Grandes/@-23.621901,-65.8941867,-366m/data=!3m1!1e3!4m5!3m4!1s0x940355b07e40a169:0xe42ee3f2b7e54a39!8m2!3d-23.621901!4d-65.891998), one of the biggest salt flats in the world.</sub>
+</p>
+
 ### 10 things I could never do without . . . 
 
 - eBooks, audiobooks, podcasts
