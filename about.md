@@ -15,17 +15,7 @@ Welcome, have fun, and if you see something you like, reach out - either on the 
 
 ## About Me
 
-### What I'm Doing With My Life
-
-I studied at Johns Hopkins as a double major, double minor, majoring in Economics & Psychology and minoring in Computer Science and Entrepreneurship & Management. 
-
-Like most people, I had generally no clue as to what I'd want to do in the future, beyond wanting to gain technical skill. I researched a ton and even documented my research as a career guide (INSERT LINK) before hitting the college fall recruiting season in full force. 
-
-I was lucky enough to receive 8 job offers in the fall with companies probably far too good for me --  Deloitte, Booz Allen Hamilton, Prudential, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018.
-
-In any case, I still have no clue what I want to do in the future. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
-
-### My friends have describe me as . . . 
+### My friends describe me as . . . 
 * Cheerful
 * Playful
 * Bubbly
@@ -37,6 +27,16 @@ In any case, I still have no clue what I want to do in the future. But I'm open-
 I used to joke that I have basically no social life, but I don't think that's entirely true anymore. My close friends and family mean the world to me. If we've ever videochatted, or hung out at a board game night, or in person, you know I'm referring to you. 
 
 In general, I'm pretty binary when it comes to relationships; I know most people from a distance, with the exception of a select few whom I invest all my energy in. So I guess I'm pretty picky when it comes to close relationships and take a good deal of time to warm up to people. But if I do warm up, I can promise an incredibly intense and fulfilling relationship.
+
+### What I'm Doing With My Life
+
+I studied at Johns Hopkins as a double major, double minor, majoring in Economics & Psychology and minoring in Computer Science and Entrepreneurship & Management. 
+
+Like most people, I had generally no clue as to what I'd want to do in the future, beyond wanting to gain technical skill. I researched a ton and even documented my research as a career guide (INSERT LINK) before hitting the college fall recruiting season in full force. 
+
+I was lucky enough to receive 8 job offers in the fall with companies probably far too good for me --  Deloitte, Booz Allen Hamilton, Prudential, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018.
+
+In any case, I still have no clue what I want to do in the future. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
 
 ### I spend a lot of time thinking about . . .
 
