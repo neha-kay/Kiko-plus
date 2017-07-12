@@ -15,6 +15,8 @@ Welcome, have fun, and if you see something you like, reach out - either on the 
 
 ## About Me
 
+I studied at Johns Hopkins as a double major, double minor, majoring in Economics & Psychology and minoring in Computer Science and Entrepreneurship & Management. 
+
 My friends have described me as:
 * Cheerful
 * Playful
@@ -22,11 +24,7 @@ My friends have described me as:
 * Analytical
 * High-energy
 * Giving
-* Spreadsheet oriented 
-
-(All of the descriptions above have ~actually originated from people~, including, to no one's surprise, the spreadsheet one (thanks Alex.. :P))
-
-I studied at Johns Hopkins as a double major, double minor, majoring in Economics & Psychology and minoring in Computer Science and Entrepreneurship & Management. 
+* Spreadsheet oriented (thanks Alex.. :P)
 
 The summer before senior year, I researched quite a bit on career prospects
 
@@ -42,15 +40,15 @@ In any case, after college recruiting season and in the last semester of college
 
 I'm in an odd place where my identity as a nerd is entirely compromised; nerds don't have vibrant social lives, do they? 
 
-### In my free time I ... 
+### In my free time I . . . 
 
 * Rant about Apple products 
 * Rant about Chipotle
 * Travel
 
-As of July 2017, I've traveled to 26 countries and fufilling the last few countries I want to see before settling down and starting work at Microsoft.
+As of July 2017, I've [traveled to 26 countries](http://www.nehakay.com/2017-06-02/footsteps/){:target="_blank"} and fufilling the last few countries I want to see before settling down and starting work at Microsoft.
 
-### I spend a lot of time thinking about ...
+### I spend a lot of time thinking about . . .
 
 __Personal Development__
 
