@@ -73,4 +73,4 @@ As of July 2017, I've [traveled to 26 countries](http://www.nehakay.com/2017-06-
 - Playfulness :P
 - Highly logical / analytical people with a soft side
 - My Macbook
-- Chipotle or any source of cheap, healthy, vegetarian meals (Dipti Aunty, you know I'm talking about you too . . .)
+- Chipotle or any source of cheap, healthy, vegetarian meals (Dipti Aunty, you know I'm talking about you too 😛 . . .)

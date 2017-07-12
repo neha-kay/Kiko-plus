@@ -12,7 +12,6 @@ published: true
 # 30 Days of Daily Musings
 
 
-https://www.youtube.com/watch?v=7OrLroFa0AI 
 <h3 style="color:#6495ed;"> Blog Dreams | July 12, 2017 </h3>
 
 As some of my older friends know, I have wanted a blog for many, many, many years. Not just a simple, static site with basic contact info --- an actual site that can function as a public-facing root directory of my ideas and useful insights. 
