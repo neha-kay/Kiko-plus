@@ -13,7 +13,7 @@ published: true
 
 
 https://www.youtube.com/watch?v=7OrLroFa0AI 
-<h3 style="color:#6495ed;"> West Windsor Plainsboro Represent! | July 11, 2017 </h3>
+<h3 style="color:#6495ed;"> Blog Dreams | July 12, 2017 </h3>
 
 As some of my older friends know, I have wanted a blog for many, many, many years. Not just a simple, static site with basic contact info --- an actual site that can function as a public-facing root directory of my ideas and useful insights. 
 
@@ -94,7 +94,8 @@ But even with that in mind, I think the power of having such major cities at you
 
 <h3 style="color:#6495ed;"> Why Have a Daily Musings Page? | July 1, 2017 </h3>
 
-In any case, that's part of the theoretical backbone of the 'daily musings' page. The goal, here, is to write in free blog form more frequently. The theoretical backbone of daily musings is: 
+Daily Musings is meant to be an outlet for short thought snippets -- no more, no less. 
+Why have one? Well, the goal, here is to write in free blog form more frequently. The theoretical backbone of daily musings is the following: 
 
 ##### I. To produce more with perceived less
 Human nature underestimates what can be done in small increments over a long period of time and overestimates what can be done as a large chunk in a short period of time. A person authoring a book, for example, would likely get way more done writing an hour a day for a year than cramming in a weekend -- assuming, of course, that she sticks to that schedule. 
