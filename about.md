@@ -15,38 +15,30 @@ Welcome, have fun, and if you see something you like, reach out - either on the 
 
 ## About Me
 
+### What I'm Doing With My Life
+
 I studied at Johns Hopkins as a double major, double minor, majoring in Economics & Psychology and minoring in Computer Science and Entrepreneurship & Management. 
 
-My friends have described me as:
+Like most people, I had generally no clue as to what I'd want to do in the future, beyond wanting to gain technical skill. I researched a ton and even documented my research as a career guide (INSERT LINK) before hitting the college fall recruiting season full force. 
+
+I was lucky enough to receive 8 job offers in the fall with companies far too good for me --  Deloitte, Booz Allen Hamilton, Prudential, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018.
+
+In any case, I still have no clue what I want to do in the future. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable, so stay tuned for that. 
+
+### My friends have described me as . . . 
 * Cheerful
 * Playful
 * Bubbly
 * Analytical
 * High-energy
 * Giving
-* Spreadsheet oriented (thanks Alex.. :P)
-
-The summer before senior year, I researched quite a bit on career prospects
-
-### Questionable nerd status? 
+* Spreadsheet-oriented (thanks Alex.. :P)
 
 I used to joke that I have basically no social life, but I don't think that's entirely true anymore. 
 
 In general, I'm pretty binary when it comes to relationships; I know most people from a distance, with the exception of a select few whom I invest all my energy in. So I guess I'm pretty picky when it comes to close relationships and take a good deal of time to warm up to people. But if I do warm up, I can promise an incredibly intense and fulfilling relationship.
 
-(Is it just me or is this starting to sound like Shaadi.com)
-
-In any case, after college recruiting season and in the last semester of college, I took to really investing in the close friends I had -- through videochats, phone calls, and epic board game nights.
-
-I'm in an odd place where my identity as a nerd is entirely compromised; nerds don't have vibrant social lives, do they? 
-
-### In my free time I . . . 
-
-* Rant about Apple products 
-* Rant about Chipotle
-* Travel
-
-As of July 2017, I've [traveled to 26 countries](http://www.nehakay.com/2017-06-02/footsteps/){:target="_blank"} and fufilling the last few countries I want to see before settling down and starting work at Microsoft.
+(Is it just me or is this starting to sound like Shaadi.com?)
 
 ### I spend a lot of time thinking about . . .
 
@@ -63,3 +55,24 @@ __Optimizing / Engineering Life__
 __Future plans / future trajectory__
 
 or in other words, how to maximize the impact and value I provide in my chosen career path.
+
+### In my free time I . . . 
+
+* Rant about Apple products 
+* Rant about Chipotle
+* Travel
+
+As of July 2017, I've [traveled to 26 countries](http://www.nehakay.com/2017-06-02/footsteps/){:target="_blank"} and fufilling the last few countries I want to see before settling down and starting work at Microsoft.
+
+### 10 things I could never do without . . . 
+
+- eBooks, audiobooks, podcasts
+- My Google Calendar <3
+- Long, hot showers
+- Non-fiction books
+- Family and close friends
+- Accountability frameworks
+- Playfulness :P
+- Highly logical / analytical people with a soft side
+- My Macbook
+- Chipotle or any source of cheap, healthy, vegetarian meals (Dipti Aunty, you know I'm talking about you too . . .)

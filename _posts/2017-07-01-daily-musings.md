@@ -13,6 +13,11 @@ published: true
 
 <h3 style="color:#6495ed;"> West Windsor Plainsboro Represent! | July 11, 2017 </h3>
 
+As some of my older friends know, I have wanted a blog for many, many, many years. Not just a simple, static site with basic contact info --- an actual site that can function as a public-facing root directory of my ideas, and useful insights. 
+
+In any case, I can feel it finally happening 😊. 3 blogs later, I think this is the one ❤️.
+<h3 style="color:#6495ed;"> West Windsor Plainsboro Represent! | July 11, 2017 </h3>
+
 Throwback to when my high school [got in the New York Times](https://www.nytimes.com/2015/12/26/nyregion/reforms-to-ease-students-stress-divide-a-new-jersey-school-district.html?mcubz=2){:target="_blank"} for being too competitive.
 
 <h3 style="color:#6495ed;"> Overcoming Relationship Inertia | July 10, 2017 </h3>
