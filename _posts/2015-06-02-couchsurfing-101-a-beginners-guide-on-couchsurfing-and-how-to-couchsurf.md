@@ -2,7 +2,7 @@
 layout: post
 title: Couchsurfing 101: A Beginner's Guide on Couchsurfing and How to Couchsurf
 description: 7 min read
-date: 2017-07-01
+date: 2015-06-02
 tags: [guides, travel - couchsurfing]
 comments: true
 share: true
@@ -94,12 +94,13 @@ To ensure a safe experience, you really have to put in the time to request only 
 
 #### It requires spending time with your host
 
+The most poignant difference between Couchsurfing and other forms of accommodation (hotels, hostels, AirB&B, etc.,) is the central unit of currency. In the latter it’s money; in the former, it’s time. While you don’t pay for staying at people’s houses, you do pay with time – spending time with them and investing in them as a person. This might mean not coming back at home at 1 AM (if your host isn’t a fan of that). Or it might mean eating dinner with your host instead of spending the entire night out. With Couchsurfing you invest time, rather than money.
+
 If you Couchsurf, expect to spend time with your host -- perhaps touring the city together, grabbing dinner, or having interesting conversations. 
 
 #### It requires being flexible
 
 Yes, sometimes a host will cancel on you last minute. It's only happened once or twice for me of 21 surfing experiences, but indeed, it's a possibility. If you aren't able to be flexible in these circumstances, you're better off booking a hostel or hotel. 
-
 
 ### In Conclusion
 
