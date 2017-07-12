@@ -11,6 +11,8 @@ published: true
 
 # 30 Days of Daily Musings
 
+Throwback to when my high school [got in the New York Times](https://www.nytimes.com/2015/12/26/nyregion/reforms-to-ease-students-stress-divide-a-new-jersey-school-district.html?mcubz=2){:target="_blank"} for being too competitive
+
 <h3 style="color:#6495ed;"> Overcoming Relationship Inertia | July 10, 2017 </h3>
 
 I have a friendship which maybe isn't going the best way at the moment and part of me just wants to get super real and try and talk stuff out -- to hit some sort of 'reset' button back to the good 'ol times. But then, I have to realize that we don't live in a frictionless world, that indeed that friction is a very real force which makes a reset button virtually non-existent. 
@@ -23,18 +25,26 @@ I think people notice and respond to the *integration of behavior* -- in other w
 
 It's a slower solution but a more tractable one, I think.
 
-<h3 style="color:#6495ed;"> TO-DO | July 9, 2017 </h3>
+<h3 style="color:#6495ed;"> Overcoming Relationship Inertia | July 11, 2017 </h3>
 
+Today, a close friend of mine asked me for relationship advice and I felt *super* honored. Like, super, super honored =). 
+
+<h3 style="color:#6495ed;"> A useful heuristic for making decisions | July 9, 2017 </h3>
+
+Asking:
+1) What’s the worst that can happen?
+2) What’s the best that can happen?
 
 <h3 style="color:#6495ed;"> Disqus + Google Analytics | July 8, 2017 </h3>
 
 Disqus & Google Analytics are officially working! It’s amazing how small achievements seem after you’ve done them and how big tasks seem before you’ve achieved them. 
 
-<h3 style="color:#6495ed;"> TO-DO | July 7, 2017 </h3>
+<h3 style="color:#6495ed;"> Dental Hygiene on Point | July 7, 2017 </h3>
 
+My dental hygiene has been SO on point recently. I haven't *not* flossed since 
 <h3 style="color:#6495ed;"> Interview with first female billionaire + Spanx fouder, Sara Blakely | July 6, 2017 </h3>
 
-Today I listened to a podcast which undoubtedly is on my all time favorite podcast episodes list -- [an interview with the Spanx founder, Sara Blakely](http://one.npr.org/?sharedMediaId=493169696:493311384). It's definitely an experiential listen than a pure knowledge-based one so I'd highly recommend just downloading and getting into it. But below are a couple of the things that really resonated with me. 
+Today I listened to a podcast which undoubtedly is on my all time favorite podcast episodes list -- [an interview with the Spanx founder, Sara Blakely](http://one.npr.org/?sharedMediaId=493169696:493311384){:target="_blank"}. It's definitely an experiential listen than a pure knowledge-based one so I'd highly recommend just downloading and getting into it. But below are a couple of the things that really resonated with me. 
 
 ##### The notion that ideas are most vulnerable in their infancy
 
@@ -85,3 +95,5 @@ It's cool to think that in 30 days, I'll have 30 awesome thought nuggets up here
 By defining the *Daily Musings* page as short 'thought nuggets' I set the bar low in terms of size. This prevents me from procrastinating writing, becuase writing a tidbit seems far more manageable than an entire post. 
 
 It's way easier for me to meet an expectation of a <500 word thought nugget versus a full on 1000+ word post. That comes with less cognitive resistance to posting (i.e. less procrastinating). 
+
+Eventually, I'll take the date tags off and it'll just be 'Daily Musings'. But for now, I totally need the extra accountability to continually re-visit and re-post.
