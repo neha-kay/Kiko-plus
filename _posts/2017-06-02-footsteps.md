@@ -150,10 +150,6 @@ Coming soon ;)
 __Antartica |__
 Coming soon ;)
 
-<p align="center">
-  <img src="/images/places.png">
-</p>
-
 ### Favorite Locations (in no particular order)
 
 * India
