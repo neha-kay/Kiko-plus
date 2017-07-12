@@ -11,17 +11,9 @@ In September 2015, I published [The Official Couchsurfing Guide](http://www.neha
 
 Now, back to a modest 10-20 daily visitors, I focus on updating the blog with my thoughts on career exploration, organization, entrepreneurship, and positive psychology. The website is mostly a place for me to share my thoughts, in the event others like me will find them useful.
 
-Welcome, have fun, and if you see something you like, reach out - either on the page itself, or to me directly.
+Welcome, have fun, and if you see something you like, reach out - either on the page itself, or to me directly at neha@nehakay.com.
 
-## Fun Facts
 
-* Really, really, really love Indian chai
-* Hiked up a giant volcano and almost died (Interesting story for later :P) 
-* Visited Dublin, Ireland during St. Patrick's Day 
-* Am a [super avid traveler](https://neha-kay.github.io/2017-06-02/footsteps/) -- 25+ countries and goin' strong...
-
-Last, and most important. . . 
-* Have a family and an epic set of friends who mean the world to me
 
 <p align="center">
   <img src="/images/places.png">

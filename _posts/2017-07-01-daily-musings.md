@@ -11,7 +11,9 @@ published: true
 
 # 30 Days of Daily Musings
 
-Throwback to when my high school [got in the New York Times](https://www.nytimes.com/2015/12/26/nyregion/reforms-to-ease-students-stress-divide-a-new-jersey-school-district.html?mcubz=2){:target="_blank"} for being too competitive
+<h3 style="color:#6495ed;"> West Windsor Plainsboro Represent! | July 11, 2017 </h3>
+
+Throwback to when my high school [got in the New York Times](https://www.nytimes.com/2015/12/26/nyregion/reforms-to-ease-students-stress-divide-a-new-jersey-school-district.html?mcubz=2){:target="_blank"} for being too competitive.
 
 <h3 style="color:#6495ed;"> Overcoming Relationship Inertia | July 10, 2017 </h3>
 
