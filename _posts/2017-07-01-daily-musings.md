@@ -11,11 +11,14 @@ published: true
 
 # 30 Days of Daily Musings
 
+
+https://www.youtube.com/watch?v=7OrLroFa0AI 
 <h3 style="color:#6495ed;"> West Windsor Plainsboro Represent! | July 11, 2017 </h3>
 
-As some of my older friends know, I have wanted a blog for many, many, many years. Not just a simple, static site with basic contact info --- an actual site that can function as a public-facing root directory of my ideas, and useful insights. 
+As some of my older friends know, I have wanted a blog for many, many, many years. Not just a simple, static site with basic contact info --- an actual site that can function as a public-facing root directory of my ideas and useful insights. 
 
-In any case, I can feel it finally happening 😊. 3 blogs later, I think this is the one ❤️.
+In any case, I've wanted an uber cool blog for about 6 years now and I've started 3 that have totally failed. 3 blogs later, I think this is the one ❤️.
+
 <h3 style="color:#6495ed;"> West Windsor Plainsboro Represent! | July 11, 2017 </h3>
 
 Throwback to when my high school [got in the New York Times](https://www.nytimes.com/2015/12/26/nyregion/reforms-to-ease-students-stress-divide-a-new-jersey-school-district.html?mcubz=2){:target="_blank"} for being too competitive.

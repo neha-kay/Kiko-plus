@@ -2,7 +2,7 @@
 layout: post
 title: "Couchsurfing: Isn’t Couchsurfing Dangerous For Women?"
 description: 
-date: 2017-06-26
+date: 2015-06-02
 tags: [travel - couchsurfing]
 comments: true
 share: true
