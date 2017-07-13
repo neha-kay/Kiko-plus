@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Couchsurfing Guide
+title: Couchsurfing 101: A Guide on Couchsurfing and How to Couchsurf
 description: 
 date: 2017-07-01
 tags: [guides, travel - couchsurfing]
@@ -8,8 +8,6 @@ comments: true
 share: true
 published: true
 ---
-
-# Couchsurfing 101: A Guide on Couchsurfing and How to Couchsurf
 
 ### What is Couchsurfing? 
 
@@ -23,32 +21,6 @@ Couchsurfing is perfect for people who are:
 
 If you surf (e.g. if you stay at other people's houses) there's no obligation to have to host in the future, though many (including me!) often do host to pay it forward, after many phenomenal experiences with their hosts. 
 
-### What's your experience been like? 
-
-As a female solo backpacker, I've Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. 
-
-A huge benefit of Couchsurfing is the ability to connect with locals. When I couchsurfed at  Cambridge University, for example, I lived like a student with my host, Jacky a Cambridge student. We dined at Hogwarts-style common rooms other travelers couldn’t access and my host even treated me to a giant home-cooked feast with his classmates the day I arrived.
-
-The next day, he took me to see Stephen Hawking’s office - an experience only a local would know of and access. 
-
-<p align="center">
-  <img src="/images/hawking.jpg">
-</p>
-
-Meanwhile, in Dublin, Ireland on St. Patrick’s Day Festival, I stayed with a Couchsurfer who happened to have my dream job and learned so, so much about career, personal growth, and personal development.
-
-<p align="center">
-  <img src="/images/cs-ireland.jpg">
-</p>
-
-Finally, a couple years ago, a German surfer, Val, stayed at my place in Oxford University.
-Unlike other travelers, he he had a chance to experience what it's like living as an Oxford University student – again, an opportunity he had solely because he was Couchsurfing. I also took him canoe polo-ing -- aka playiing polo in *canoes*.
-
-<p align="center">
-  <img src="/images/cs-canoe.jpg">
-</p>
-
-This is the magic of Couchsurfing 😊
 
 ### Is Couchsurfing free?
 
@@ -56,15 +28,21 @@ Indeed Couchsurfing is free - free to stay with others for a few nights and free
 
 ### Is Couchsurfing safe? Aren't you effectively staying in random people's houses? 
 
-Indeed you are staying in the house of people you haven't met but references help make the experience safer. Each member of the Couchsurfing community has a profile which looks something like this. 
-
-Each member also has a set of references that attest to the person's character and personality. If you stay with people with a large number of references and [take the proper precautions](http://www.nehakay.com/2015-06-02/couchsurfing-isnt-couchsurfing-dangerous-for-women/){:target="_black"}, indeed it's pretty safe, even for women. 
-
-Naturally, if you're a woman traveling abroad, you're concerned about safety (I'm a female solo traveler and I think about it constantly) -- check out [this post](http://www.nehakay.com/2015-06-02/couchsurfing-isnt-couchsurfing-dangerous-for-women/){:target="_black"}, which outlines what you can do to make it an entirely safe experience.
+Indeed you are staying in the house of people you haven't met but references help make the experience safer. Each member of the Couchsurfing community has a profile which looks something like this:
 
 <p align="center">
-  <img src="/images/cs-references.jpg">
+  <img src="/images/couchsurfing-profile.png">
 </p>
+
+Each member also has a set of references that attest to the person's character and personality (see below).
+
+<p align="center">
+  <img src="/images/cs-references.png">
+</p>
+
+If you stay with people with a large number of references and [take the proper precautions](http://www.nehakay.com/2015-06-02/couchsurfing-isnt-couchsurfing-dangerous-for-women/){:target="_black"}, indeed it's pretty safe, even for women. 
+
+Naturally, if you're a woman traveling abroad, you're concerned about safety (I'm a female solo traveler and I think about it constantly) -- check out [this post](http://www.nehakay.com/2015-06-02/couchsurfing-isnt-couchsurfing-dangerous-for-women/){:target="_black"}, which outlines what you can do to make it an entirely safe experience.
 
 ### What is the incentive for people to host others?
 
@@ -102,7 +80,34 @@ If you Couchsurf, expect to spend time with your host -- perhaps touring the cit
 
 Yes, sometimes a host will cancel on you last minute. It's only happened once or twice for me of 21 surfing experiences, but indeed, it's a possibility. If you aren't able to be flexible in these circumstances, you're better off booking a hostel or hotel. 
 
+### What's your experience been like? 
+
+As a female solo backpacker, I've Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. 
+
+A huge benefit of Couchsurfing is the ability to connect with locals. When I couchsurfed at  Cambridge University, for example, I lived like a student with my host, Jacky a Cambridge student. We dined at Hogwarts-style common rooms other travelers couldn’t access and my host even treated me to a giant home-cooked feast with his classmates the day I arrived.
+
+The next day, he took me to see Stephen Hawking’s office - an experience only a local would know of and access. 
+
+<p align="center">
+  <img src="/images/hawking.jpg">
+</p>
+
+Meanwhile, in Dublin, Ireland on St. Patrick’s Day Festival, I stayed with a Couchsurfer who happened to have my dream job and learned so, so much about career, personal growth, and personal development.
+
+<p align="center">
+  <img src="/images/cs-ireland.jpg">
+</p>
+
+Finally, a couple years ago, a German surfer, Val, stayed at my place in Oxford University.
+Unlike other travelers, he he had a chance to experience what it's like living as an Oxford University student – again, an opportunity he had solely because he was Couchsurfing. I also took him canoe polo-ing -- aka playiing polo in *canoes*.
+
+<p align="center">
+  <img src="/images/cs-canoe.jpg">
+</p>
+
 ### In Conclusion
 
 Imagine going to different cities, coming home to home-cooked meals, experiencing the city with friends your age, and having wild, unexpected and unequivocally valuable experiences.  This is the magic of Couchsurfing.
+
+
 
