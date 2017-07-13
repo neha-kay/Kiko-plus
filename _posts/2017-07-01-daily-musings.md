@@ -11,6 +11,10 @@ published: true
 
 # 30 Days of Daily Musings
 
+<h3 style="color:#6495ed;"> On Communication | July 14, 2017 </h3>
+
+> > "Most firms hire for technical IQ-type skills. Eventually, the same firms shift towards promoting people for EQ skills." -- Victor Cheng
+
 <h3 style="color:#6495ed;"> On Communication | July 13, 2017 </h3>
 
 > > "Every act of communication is an act of tremendous courage in which we give ourselves over to two parallel possibilities: the possibility of planting into another mind a seed sprouted in ours and watching it blossom into a breathtaking flower of mutual understanding; and the possibility of being wholly misunderstood, reduced to a withering weed." 
