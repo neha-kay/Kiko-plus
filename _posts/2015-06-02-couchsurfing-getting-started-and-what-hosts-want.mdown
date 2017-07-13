@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Couchsurfing: Getting Started and What Hosts Want
+title: Couchsurfing - Getting Started and What Hosts Want
 description: 7 min read
 date: 2015-06-02
 tags: [travel - couchsurfing]
