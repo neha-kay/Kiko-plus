@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Couchsurfing 101: A Guide on Couchsurfing and How to Couchsurf
+title: Couchsurfing 101 - A Guide on Couchsurfing and How to Couchsurf
 description: 
 date: 2017-07-01
 tags: [guides, travel - couchsurfing]
