@@ -36,7 +36,7 @@ Like most people, I had generally no clue as to what I'd want to do in the futur
 
 I was lucky enough to receive 8 job offers in the fall with companies probably far too good for me --  Deloitte, Booz Allen Hamilton, Prudential, Teach for America, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018. 
 
-If I can be of any help to you in terms of job recruiting / getting a job / the job search feel free to email me at neha@nehakay.com; I'm happy to help out. Even if you're a random person who's happened upon my blog, I'm happy to help out. If there's some way I can help you, let me know 😊 
+If I can be of any help to you in terms of job recruiting / getting a job / the job search feel free to email me at <neha@nehakay.com>; I'm happy to help out and pay it forward 😊 
 
 In any case, from a long-term perspective, I still have no clue what I want to do in the future. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
 
@@ -81,3 +81,64 @@ As of July 2017, I've [traveled to 26 countries](http://www.nehakay.com/2017-06-
   <img src="/images/footsteps.jpg">
 </p>
 <sub>[Salinas Grandes, Argentina](https://www.google.com/maps/place/Salinas+Grandes/@-23.621901,-65.8941867,-366m/data=!3m1!1e3!4m5!3m4!1s0x940355b07e40a169:0xe42ee3f2b7e54a39!8m2!3d-23.621901!4d-65.891998){:target="_blank"}, one of the biggest salt flats in the world.</sub>
+
+### Footsteps as of June 2017
+
+__Africa |__
+Ghana
+
+__Asia |__
+Hong Kong
+India
+Japan
+Malaysia
+Myanmar (Burma)
+South Korea
+Thailand
+
+__Europe |__
+Belgium
+Czech Republic
+France
+Germany
+Italy 
+Netherlands
+Spain
+Switzerland
+United Kingdom
+
+__North America |__
+Canada
+Jamaica
+United States
+
+__South America |__
+Argentina
+Brazil
+Chile
+Colombia
+Ecuador
+Peru
+
+__Oceania |__
+Coming soon ;) 
+
+__Antartica |__
+Coming soon ;)
+
+__Upcoming Trips |__
+Australia
+China
+Greece
+New Zealand
+
+(An overview of [locations](){:target="_blank"} I'd recommend and not recommend)
+
+<p align="center">
+  <img src="/images/places.png">
+</p>
+
+## And that's pretty much it! 
+
+If you see something you like or want to reach out, please do. I'm super approachable and love meeting and helping people. Otherwise, welcome to the site, and have fun 😊
+
