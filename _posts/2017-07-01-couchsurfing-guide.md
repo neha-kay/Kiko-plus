@@ -11,7 +11,7 @@ published: true
 
 ### What is Couchsurfing? 
 
-Couchsurfing is a [website](couchsurfing.com){:target="_blank"} which allows you to connect with people in different cities and particiapte in cultural exchange for free by staying with them in their house, usually between 2-4 nights. 
+Couchsurfing is a [website](www.couchsurfing.com){:target="_blank"} which allows you to connect with people in different cities and particiapte in cultural exchange for free by staying with them in their house, usually between 2-4 nights. 
 
 Couchsurfing is perfect for people who are:
 * Open-minded
