@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Couchsurfing - Getting Started and What Hosts Want
-description: 7 min read
-date: 2015-06-02
+description: 
+date: 2017-07-01
 tags: [travel - couchsurfing]
 comments: true
 share: true
