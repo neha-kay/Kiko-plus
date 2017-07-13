@@ -9,8 +9,6 @@ share: true
 published: true
 ---
 
-# Couchsurfing 101: A Guide on Couchsurfing and How to Couchsurf
-
 This is a multi-part guide to getting started on Couchsurfing.
 
 The hardest part about Couchsurfing is getting started. You want to get hosted. But you have no reviews. How do you get hosts if hosts only accept people with reviews? Seems like quite the closed circle.
