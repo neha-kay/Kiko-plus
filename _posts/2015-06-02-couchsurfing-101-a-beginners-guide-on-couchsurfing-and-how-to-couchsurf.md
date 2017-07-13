@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Couchsurfing 101: A Beginner's Guide on Couchsurfing and How to Couchsurf
+title: Couchsurfing 101 - A Beginner's Guide on Couchsurfing and How to Couchsurf
 description: 7 min read
 date: 2015-06-02
 tags: [guides, travel - couchsurfing]
@@ -10,6 +10,20 @@ published: true
 ---
 
 # Couchsurfing 101: A Guide on Couchsurfing and How to Couchsurf
+
+This is a multi-part guide to getting started on Couchsurfing.
+
+The hardest part about Couchsurfing is getting started. You want to get hosted. But you have no reviews. How do you get hosts if hosts only accept people with reviews? Seems like quite the closed circle.
+
+This guide covers: 
+1. An Overview of Couchsurfing 
+2. Getting Started and What Hosts Want
+3: The Profile
+4: To Do: Before Your First Trip
+5: Tips on Writing the Request
+6: Example Profiles 
+7: An example request I personally use that has worked consistently
+8: Examples: What *Not* To Do
 
 ### What is Couchsurfing? 
 
