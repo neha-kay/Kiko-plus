@@ -11,9 +11,36 @@ published: true
 
 # 30 Days of Daily Musings
 
-<h3 style="color:#6495ed;"> On Communication | July 14, 2017 </h3>
+<h3 style="color:#6495ed;"> West Windsor Plainsboro Represent! | July 18, 2017 </h3>
+
+Throwback to when my high school [got in the New York Times](https://www.nytimes.com/2015/12/26/nyregion/reforms-to-ease-students-stress-divide-a-new-jersey-school-district.html?mcubz=2){:target="_blank"} for being too competitive.
+
+<h3 style="color:#6495ed;"> When EQ > IQ | July 17, 2017 </h3>
 
 > > "Most firms hire for technical IQ-type skills. Eventually, the same firms shift towards promoting people for EQ skills." -- Victor Cheng
+
+<h3 style="color:#6495ed;"> A Guilty Ex-Vegetarian | July 16, 2017 </h3>
+
+
+It remains the case that the healthiest option I find the most tasty is indeed some sort of grilled Chipotle bowl or 
+
+. I stopped last month and ha
+
+<h3 style="color:#6495ed;"> On Happiness | July 15, 2017 </h3>
+
+> > "Happiness is not having what you want, but wanting what you have." -- Friedrich Nietzsche
+
+<h3 style="color:#6495ed;"> On Aging | July 14, 2017 </h3>
+
+"Inside every old person is a young person wondering what happened." 
+
+Read more answers to *What Part of Aging Do You Wish Someone Had Warned You About?* here TO-DO INSERT LINK.
+
+<h3 style="color:#6495ed;"> On Aging | July 14, 2017 </h3>
+
+"Inside every old person is a young person wondering what happened." 
+
+Read more answers to *What Part of Aging Do You Wish Someone Had Warned You About?* here TO-DO INSERT LINK.
 
 <h3 style="color:#6495ed;"> On Communication | July 13, 2017 </h3>
 
@@ -25,9 +52,11 @@ As some of my older friends know, I have wanted a blog for many, many, many year
 
 In any case, I've wanted an uber cool blog for about 6 years now and I've started 3 that have totally failed. 3 blogs later, I think this is the one ❤️.
 
-<h3 style="color:#6495ed;"> West Windsor Plainsboro Represent! | July 11, 2017 </h3>
+<h3 style="color:#6495ed;"> Hawaii is Objectively Great | July 11, 2017 </h3>
 
-Throwback to when my high school [got in the New York Times](https://www.nytimes.com/2015/12/26/nyregion/reforms-to-ease-students-stress-divide-a-new-jersey-school-district.html?mcubz=2){:target="_blank"} for being too competitive.
+In Hawaii now! Hawaii is __dope__ not because it's hawaii in a boasting sort of way but fundamentally because the place itself is objectively _great_ It's *incredibly* safe to walk around in which is a huge factor for me, and for a tropical island, is not ~that~ expensive if you keep an eye out for cheaper eateries. Plus, since it's a part of the United States, you get the familiar perks of the U.S. (eg IHOP (lol), USPS, familiar chains, etc.,) 
+
+On top of that, there's tons of hiking, astronomy, nature, etc.,. I've been to a number of beachy-tropical areas (Jamaica, Los Angeles, etc.,) and this one surely tops the list. Definitely coming back =) 
 
 <h3 style="color:#6495ed;"> Overcoming Relationship Inertia | July 10, 2017 </h3>
 
