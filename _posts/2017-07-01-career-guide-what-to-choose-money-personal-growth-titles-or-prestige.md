@@ -7,6 +7,7 @@ tags: [career]
 comments: true
 share: true
 published: true
+future: true
 ---
 
 Consider yourself a graduating senior; after having gone through a bunch of interviews, you have offers from a startup, a finance firm, a prominent technology company, and an opportunity to pursue a masters. Naturally these offers come with different benefits; one may help you build your human capital while another might throw tons of money your way. 

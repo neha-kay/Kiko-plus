@@ -7,6 +7,7 @@ tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
+future: true
 ---
 
 Fundamentally, your request needs to do one thing: show the reader you’ve read their profile. On the bright side, it gets easier once you have around 7+ references – usually at this point you can fall back on a basic request to get a host 🙂
