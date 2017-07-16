@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Career Guide: Introduction to the Guide
+title: Career Guide - Introduction to the Guide
 description: 
 date: 2017-07-01
 tags: [career]
