@@ -17,7 +17,7 @@ Simply put, life is suffering. While it may sound depressing, it really isn't me
 
 This leads to the second belief, that . . .
 
-### Life owes me nothing at all. Nothing whatsoever.
+### Life owes one nothing at all. Nothing whatsoever.
 By being born, I'm not entitled to neither a good life nor a happy family nor a great career. If anything, by sheer probability, I'm entitled a disadvantaged life:. At least 80% of humanity lives on less than $10 a day. By some miracle, I was born into the 0.10% of the world that has access to internet, a top education, and the comfort of having time and freedom to write this blog.
 
 <p align="center">
