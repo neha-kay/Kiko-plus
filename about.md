@@ -28,18 +28,6 @@ I used to joke that I have basically no social life, but I don't think that's en
 
 In general, I'm pretty binary when it comes to relationships; I know most people from a distance, with the exception of a select few whom I invest all my energy in. So I guess I'm pretty picky when it comes to close relationships and take a good deal of time to warm up to people. But if I do warm up, I can promise an incredibly intense and fulfilling relationship.
 
-### What I'm Doing With My Life
-
-I studied at Johns Hopkins as a double major, double minor, majoring in Economics & Psychology and minoring in Computer Science and Entrepreneurship & Management. 
-
-Like most people, I had generally no clue as to what I'd want to do in the future, beyond wanting to gain technical skill. I researched a ton and even documented my research as a career guide (INSERT LINK) before hitting the college fall recruiting season in full force. 
-
-I was lucky enough to receive 8 job offers in the fall with companies probably far too good for me --  Deloitte, Booz Allen Hamilton, Prudential, Teach for America, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018. 
-
-If I can be of any help to you in terms of job recruiting / getting a job / the job search feel free to email me at <neha@nehakay.com>; I'm happy to help out and pay it forward 😊 
-
-In any case, from a long-term perspective, I still have no clue what I want to do in the future. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
-
 ### I spend a lot of time thinking about . . .
 
 __Personal Development__
@@ -55,6 +43,18 @@ __Optimizing / Engineering Life__
 __Future plans / future trajectory__
 
 or in other words, how to maximize the impact and value I provide in my chosen career path.
+
+### What I'm Doing With My Life
+
+I studied at Johns Hopkins as a double major, double minor, majoring in Economics & Psychology and minoring in Computer Science and Entrepreneurship & Management. 
+
+Like most people, I had generally no clue as to what I'd want to do in the future, beyond wanting to gain technical skill. I researched a ton and even documented my research as a career guide (INSERT LINK) before hitting the college fall recruiting season in full force. 
+
+I was lucky enough to receive 8 job offers in the fall with companies probably far too good for me --  Deloitte, Booz Allen Hamilton, Prudential, Teach for America, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018. 
+
+If I can be of any help to you in terms of job recruiting / getting a job / the job search feel free to email me at <neha@nehakay.com>; I'm happy to help out and pay it forward 😊 
+
+In any case, from a long-term perspective, I still have no clue what I want to do in the future. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
 
 ### 10 things I could never do without . . . 
 
