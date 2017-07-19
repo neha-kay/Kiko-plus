@@ -8,12 +8,13 @@ comments: true
 share: true
 published: true
 ---
+<link rel="stylesheet" type="text/css" href="style.css" />
 
 <div class="container">
 		<div class="three-columns">
 			<div>
 				<p class="column-icon"><i class="icon-cogs"></i></p>
-				<p class="column-title">EXTREMELY CUSTOMIZABLE</p>
+				<p class="column-title">Favorite Podcasts</p>
 				<p>Etiam eu molestie orci. Ut nec felis viverra, scelerisque eros rhoncus, varius tellus. Integer convallis nulla eget purus pretium egestas. Vestibulum varius, enim ac malesuada luctus, odio arcu suscipit lorem, quis porttitor ligula magna eget sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fameS.</p>
 				<a href="#" class="read-more">Read More <i class="icon-double-angle-right"></i></a>
 			</div>
@@ -38,13 +39,4 @@ published: true
 	</div>
 
 
-.three-columns{
-	margin-top:25px;
-}
 
-.three-columns div{
-	float:left;
-	width:300px;
-	margin:0px 10px;
-	text-align:center;
-}

@@ -1,0 +1,11 @@
+.three-columns{
+	margin-top:25px;
+}
+
+.three-columns div{
+	float:left;
+	width:300px;
+	margin:0px 10px;
+	text-align:center;
+	clear:both;
+}
