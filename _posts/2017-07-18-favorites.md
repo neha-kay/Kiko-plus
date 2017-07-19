@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 ---
-<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/style.css" />
 
 <div id="container">
     <div id="header">
