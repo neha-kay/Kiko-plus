@@ -13,7 +13,7 @@ published: true
 
 <h3 style="color:#6495ed;"> West Windsor Plainsboro Represent! | July 18, 2017 </h3>
 
-Throwback to when my high school [got in the New York Times](https://www.nytimes.com/2015/12/26/nyregion/reforms-to-ease-students-stress-divide-a-new-jersey-school-district.html?mcubz=2){:target="_blank"} for being too competitive.
+Throwback to when my high school [got in the New York Times](https://www.nytimes.com/2015/12/26/nyregion/reforms-to-ease-students-stress-divide-a-new-jersey-school-district.html?mcubz=2){:target="_blank"} for being too competitive =(.
 
 <h3 style="color:#6495ed;"> When EQ > IQ | July 17, 2017 </h3>
 
@@ -30,11 +30,15 @@ It remains the case that the healthiest option I find the most tasty is indeed s
 
 > > "Happiness is not having what you want, but wanting what you have." -- Friedrich Nietzsche
 
-<h3 style="color:#6495ed;"> On Aging | July 14, 2017 </h3>
+<h3 style="color:#6495ed;"> One Coin Loophole | July 15, 2017 </h3>
 
-"Inside every old person is a young person wondering what happened." 
+In her podcast, Gretchen tells a story about coins: 
+	 
+> > Say you have 10 coins. Are you rich? Well, no. What if you add 1 coin? Okay, still no. What if you add another coin? You keep adding 1 coin by 1 coin. Finally, you have to say that you can't be rich unless you keep adding 1 coin. One coin by one coin, a person becomes rich and only by the addition of that one coin does she get the growing heap.
+	 
+This is the *One Coin Loophole*. 
 
-Read more answers to *What Part of Aging Do You Wish Someone Had Warned You About?* here TO-DO INSERT LINK.
+The 1 coin loophole is saying on a given day, ‘well, what does it matter if I skip 1 coin? Doesn’t matter, I’ll skip it. Which is *true*, but the irony is that, it’s only 1 coin by 1 coin, small incremental, seemingly non-important action, that gets the desired growing heap. Aka, it's only one trip to the gym by one trip to the gym that you get the benefits and riches that come from going to the gym.
 
 <h3 style="color:#6495ed;"> On Aging | July 14, 2017 </h3>
 
