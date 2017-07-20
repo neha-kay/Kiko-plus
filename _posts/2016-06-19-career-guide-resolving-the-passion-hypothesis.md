@@ -10,7 +10,6 @@ published: true
 future: true
 ---
 
-
 In this post, I'll highlight various models of navigating one's career.
 
 ### Reid Hoffman (Founder of LinkedIn) | Consider 3 Aspects
