@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archive
-link: http://www.nehakay.com/archive
+
 ---
 
 <section id="archive">
