@@ -3,7 +3,7 @@ layout: post
 title: The Finite Fucks Theory
 description: 
 date: 2017-07-18
-tags: [random insights]
+tags: [random insights, life perspective]
 comments: true
 share: true
 published: true

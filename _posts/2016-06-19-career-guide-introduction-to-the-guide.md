@@ -3,7 +3,7 @@ layout: post
 title: Career Guide - Introduction to the Guide
 description: 
 date: 2016-06-19
-tags: [career]
+tags: [career, guides]
 comments: true
 share: true
 published: true
@@ -38,10 +38,8 @@ This guide won’t tell you which career to pursue or answer any million dollar 
 -	Sure I know people… but how can I use that to get a job?
 -	Everyone talks about building networks but no one talks about maintaining the network I do have. How do I go about this?
 -	I keep sending applications out, but never hear back. Why isn’t this working and what can I do to fix it?
--	How do I build a better brand for myself?
 -	Everyone says 'do what you love' but it sounds a bit flaky. Should I be listening to that advice?
 -	Successful people work hard but they also seem to have good luck. How do make luck?
--	How do I build a better brand for myself?
 
 Feel free to reach out at <neha@nehakay.com> if I can help you in any way. If you have any questions or comments by leaving a comment on one of the pages - I promise I’ll get back to you  With that, onwards, friends!
 
