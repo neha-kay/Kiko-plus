@@ -3,7 +3,7 @@ layout: post
 title: What Part of Aging Do You Wish Someone Had Warned You About?
 description: 
 date: 2017-07-14
-tags: [random insights]
+tags: [life perspective]
 comments: true
 share: true
 published: true

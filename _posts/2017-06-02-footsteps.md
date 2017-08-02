@@ -8,29 +8,6 @@ comments: true
 share: true
 ---
 
-<p align="center">
-  <img src="/images/places.png">
-</p>
-
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=11400863; 
-var sc_invisible=0; 
-var sc_security="02472c1e"; 
-var sc_text=2; 
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="web analytics"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="//c.statcounter.com/11400863/0/02472c1e/0/" alt="web
-analytics"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
-
 ### Footsteps as of June 2017
 
 __Africa |__
