@@ -3,7 +3,7 @@ layout: post
 title: "Life Perspective"
 description: "5 min read"
 date: 2017-06-02
-tags: [life perspective, about neha, random insights]
+tags: [life perspective, about neha]
 comments: true
 share: true
 ---
@@ -92,3 +92,9 @@ or
 *"I know I'm super insecure about X/have low self-esteem about it. And there is a way to get over it. I'll probably have to read a hundred books to find the 1 page that explains it, but in any case, the solution is out there -- I just have to dedicate the time to find it."*
 
 I strongly believe in the latter - that solutions do exist for really hard problems -- it's just a matter of time -sometimes years -- of finding them.
+
+### The only thing you can do in life is not make the same mistakes over and over again. 
+
+When I first heard this phrase I wasn't sure I *entirely* agreed with it; after all, you technically *can* consult books, mentors, friends to avoid making mistakes in the first place. 
+
+That being said, the phrase is incredibly calming, in light of a personal mistake, precisely because there's truth to it. At the end of the day, all you can do is try to avoid making the same mistake over and over again. 
