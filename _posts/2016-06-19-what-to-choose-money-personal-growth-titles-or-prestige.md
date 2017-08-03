@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to Choose? Money, Personal Growth, Titles, or Prestige?
+title: What to Choose: Money, Personal Growth, Titles, or Prestige? As Told By Various Experts
 description: 
 date: 2016-06-19
 tags: [career]
