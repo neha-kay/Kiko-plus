@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Career Guide - What to Choose? Money, Personal Growth, Titles, or Prestige?
+title: What to Choose? Money, Personal Growth, Titles, or Prestige?
 description: 
 date: 2016-06-19
 tags: [career]
@@ -9,6 +9,8 @@ share: true
 published: true
 future: true
 ---
+
+***THIS IS PART OF THE CAREER GUIDE***
 
 Consider yourself a graduating senior; after having gone through a bunch of interviews, you have offers from a startup, a finance firm, a prominent technology company, and an opportunity to pursue a masters. Naturally these offers come with different benefits; one may help you build your human capital while another might throw tons of money your way. 
 

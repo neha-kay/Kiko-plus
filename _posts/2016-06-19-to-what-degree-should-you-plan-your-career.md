@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Career Guide - To What Degree Should You Plan Your Career?
+title: To What Degree Should You Plan Your Career?
 description: 
 date: 2016-06-19
 tags: [career]
@@ -10,6 +10,7 @@ published: true
 future: true
 ---
 
+***THIS IS PART OF THE CAREER GUIDE***
 Hardcore planners like myself find it very unnerving not planning 2 years, 5 years, 10 years down the road. And yet, what is the use of planning so far ahead when our perception on what we want to do changes every year? 
 
 Hoffman points out: 

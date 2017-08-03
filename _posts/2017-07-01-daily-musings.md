@@ -9,7 +9,78 @@ share: true
 published: true
 ---
 
-# 30 Days of Daily Musings
+# 31 Travel Thoughts
+
+<h3 style="color:#6495ed;"> Invisible Racial Divisions in Italy 😳| August 1, 2017 </h3>
+
+Interestingly, people of color seem to occupy lower waged occupations here in Italy. Rather interestingly, I've seen a fair number of South Indians busking the streets and in other lower waged occupations. This is very much unlike the U.S., in which South Asians and Asians at large occupy the 'model minority' role. 
+
+<h3 style="color:#6495ed;"> A City That's Actually Polite to Its Pedestrians | August 2, 2017 </h3>
+
+Traffic wise, Milan is the politest city I've been to. People *actually* stop for pedestrians. 
+
+<h3 style="color:#6495ed;"> Attentiveness | August 1, 2017 </h3>
+
+Today is my first day in Milan, Italy. 
+
+My host took me on a tour of Milan, working our way from the outside in. He had a way of pointing out details I'd never normally notice -- art on columns, the architecture of the city, even pointing out the handle of a store and the way it was designed. I'm so unattuned to art.
+
+I think the overall change in how I explored with him versus how I explore by myself is a matter of *attentiveness* - going slow and embracing all the details not just the most ostentatious ones.
+
+# 31 Days of Daily Musings
+
+<h3 style="color:#6495ed;"> Forgive and Forget | July 31, 2017 </h3>
+
+It is *so* important to have someone who doesn't hold grudges / can turn a new leaf, can forgive and forget easily in close relationships. Because over the course of 10+ years, each will mess up, a lot, and the last thing one wants is to feel crappy each time one messes up. There's something really humbling and great about forgiving people who don't hold something over your head, even when they're entitled to. 
+
+<h3 style="color:#6495ed;"> Automating Good Decisions | July 30, 2017 </h3>
+
+> > "Build a life that requires fewer decisions by surrounding themselves with people who embody the traits they prefer. Over time, they'll naturally pick up those desirable attitudes and behaviors. At the same time, they can avoid the mentally taxing low-level decisions that sap the energy needed for higher-stakes decisions." [Source](http://www.businessinsider.com/neuroscientist-most-important-choice-in-life-2017-7?IR=T){:target="_blank"}
+
+<h3 style="color:#6495ed;"> Long Term vs. Short Term Relationship View | July 29, 2017 </h3>
+
+> > "You can treat your boss and co-workers as merely temporary colleagues, or you can deliberately treat them in a way that leads them to become lifelong fans of your career success.
+> > 
+> > I have old bosses and former co-workers from 15 years ago that would give me a job or recommend me for a job if I ever needed one.
+> > 
+> > There are people in my professional network that I’ve been helping and who’ve been helping me for over a decade.
+> > 
+> > This kind of thinking applies to more people than realize it." [Source](http://www.caseinterview.com/learning-from-mentors){:target="_blank"}
+
+<h3 style="color:#6495ed;"> | July 28, 2017 </h3>
+<h3 style="color:#6495ed;"> | July 27, 2017 </h3>
+<h3 style="color:#6495ed;"> | July 26, 2017 </h3>
+
+<h3 style="color:#6495ed;">  Thoughts on Time Wasters | July 25, 2017 </h3>
+
+Some interesting tidbits from [an article I read](https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a){:target="_blank"} by Sara Mauskopf: 
+
+" <h3> Prepare your tasks </h3>
+I spent time every week figuring out what I needed to accomplish and breaking that work into smaller, bite sized chunks. I had tiny projects that could be completed in a free 15 minutes, larger projects that would require a few hours, and all kinds of stuff in between. This was all waiting for me in priority order.
+
+This way, if I had a few minutes to kill while my husband was waiting for an appointment or a couple hours while my daughter was napping, I didn’t need to waste any of that precious time figuring out what to work on. I got right to work on one of the tasks I had already prepared. This requires upfront planning but doesn’t take very long and it means you only do the planning work once and you have tasks for the whole week. Use Asana or Google Doc for this!"
+
+<h3> Ask for actionable help </h3>
+
+People are really bad at being helpful. Even when people ask to help you, they usually don’t follow through with it or do it in a way that is actually helpful. A lot of people would ask me how they could help me with Winnie and I’d say things like “I’d love your feedback on the app!” and I’d hear back… nothing.
+
+It turns out “give me feedback” isn’t actionable enough for most people. Now when someone asks me how they can help I will give them something very specific to do: “Download Winnie at winnie.com/ios and write a review of your favorite playground”.
+
+When someone completes this task then they naturally also have feedback for me on what worked well or what could be better about the product.
+
+<h3> Force yourself to do things imperfectly </h3>
+
+To give a very practical example, I have given myself an hour to write this post before I’m on childcare duty. I can publish the post after that hour or I can spend more time later polishing it and making it perfect. I’m forcing myself to publish the piece before the hour is up even though it probably has some typos and maybe could be written more concisely.
+
+The extra couple hours I could spend polishing it won’t make a massive difference in the number of people who read and benefit from this post. Perfectionism is a tough habit to break so you have to set time limits and force yourself to just put things out there even if they aren’t 100% perfect."
+
+<h3 style="color:#6495ed;"> | July 24, 2017 </h3>
+<h3 style="color:#6495ed;"> | July 23, 2017 </h3>
+<h3 style="color:#6495ed;"> | July 22, 2017 </h3>
+<h3 style="color:#6495ed;"> | July 21, 2017 </h3>
+<h3 style="color:#6495ed;"> | July 20, 2017 </h3>
+<h3 style="color:#6495ed;"> | July 19, 2017 </h3>
+
 
 <h3 style="color:#6495ed;"> West Windsor Plainsboro Represent! | July 18, 2017 </h3>
 

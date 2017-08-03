@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Career Guide - How to Chart One's Career, As Told By Various Experts
+title: How to Chart One's Career, As Told By Various Experts
 description: 
 date: 2016-06-19
 tags: [career]
@@ -9,6 +9,8 @@ share: true
 published: true
 future: true
 ---
+
+***THIS IS PART OF THE CAREER GUIDE***
 
 In this post, I'll highlight various models of navigating one's career.
 

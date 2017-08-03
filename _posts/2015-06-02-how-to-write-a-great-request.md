@@ -10,6 +10,8 @@ published: true
 future: true
 ---
 
+*** THIS IS PART OF THE COUCHSURFING GUIDE*** 
+
 Fundamentally, your request needs to do one thing: show the reader you’ve read their profile. On the bright side, it gets easier once you have around 7+ references – usually at this point you can fall back on a basic request to get a host 🙂
 
 ### Never message, always use the 'Request to Host' function

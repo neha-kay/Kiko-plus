@@ -1,21 +1,23 @@
 ---
 layout: post
-title: Couchsurfing - How to Make Sure Your Couchsurfing Experience is 100% Safe
+title: "Couchsurfing: Isn’t Couchsurfing Dangerous For Women?"
 description: 
 date: 2015-06-02
 tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
-future: true
 ---
 
+*** THIS IS PART OF THE COUCHSURFING GUIDE*** 
 
-As a solo female backpacker, I spend a lot of time thinking about how to Couchsurf safely. 
+TLDR: Yes and no. 
 
-Thus far, as of July 2017, I've safely Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. 
+As a bit of background, I'm a solo female backpacker who, as of July 2017, has traveled to 26 countries and Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. So suffice to say, I have a good deal of experience.
 
-You can never guarantee 100% safety but you can get pretty darn close with the tips below.  
+In regards to safety, I'd point out there's *always* a risk one takes on when traveling - a risk of getting raped, a risk of getting robbed, etc.,. Always.
+
+That being said, this risk *can* be mitigated for safe traveling with the following steps:
 
 ### 1. Only stay with female hosts (with good reviews).
 

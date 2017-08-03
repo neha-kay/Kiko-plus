@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Couchsurfing - What Not to Do in Requests
+title:  What Not to Do in Requests
 description: 7 min read
 date: 2015-06-02
 tags: [travel - couchsurfing]
@@ -8,6 +8,8 @@ comments: true
 share: true
 published: true
 ---
+
+*** THIS IS PART OF THE COUCHSURFING GUIDE*** 
 
 ## Examples: The Worst Requests
 

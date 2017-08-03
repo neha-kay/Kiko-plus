@@ -9,6 +9,8 @@ share: true
 published: true
 ---
 
+*** THIS IS PART OF THE COUCHSURFING GUIDE*** 
+
 This is a part of **Couchsurfing 101: A Guide on Couchsurfing and How to Couchsurf**. If you haven’t already, I’d highly recommend starting at the beginning, [here](2017-07-01-couchsurfing-guide){:target="_blank"}.
 
 ## What do hosts want when deciding to host you?

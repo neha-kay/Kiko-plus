@@ -9,6 +9,8 @@ share: true
 published: true
 ---
 
+*** THIS IS PART OF THE COUCHSURFING GUIDE*** 
+
 ### Fill out the profile completely
 
 It just takes 20 minutes!

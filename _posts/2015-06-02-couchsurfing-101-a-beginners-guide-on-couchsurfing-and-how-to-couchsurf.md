@@ -9,6 +9,8 @@ share: true
 published: true
 ---
 
+*** THIS IS PART OF THE COUCHSURFING GUIDE*** 
+
 This is a multi-part guide to getting started on Couchsurfing.
 
 The hardest part about Couchsurfing is getting started. You want to get hosted. But you have no reviews. How do you get hosts if hosts only accept people with reviews? Seems like quite the closed circle.
