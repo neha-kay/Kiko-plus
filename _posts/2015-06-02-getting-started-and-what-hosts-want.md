@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Couchsurfing - Getting Started and What Hosts Want
+title: Getting Started and What Hosts Want
 description: 
 date: 2015-06-02
 tags: [travel - couchsurfing]

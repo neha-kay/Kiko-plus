@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Couchsurfing - How to Write a Great Request
+title: How to Write a Great Request
 description: 
 date: 2015-06-02
 tags: [travel - couchsurfing]

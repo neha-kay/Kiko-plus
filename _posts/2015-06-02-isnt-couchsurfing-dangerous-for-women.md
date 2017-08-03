@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Couchsurfing: Isn’t Couchsurfing Dangerous For Women?"
+title: "Isn’t Couchsurfing Dangerous For Women?"
 description: 
 date: 2015-06-02
 tags: [travel - couchsurfing]

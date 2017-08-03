@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Couchsurfing - How to Write a Great Couchsurfing Profile
+title: How to Write a Great Couchsurfing Profile
 description: 
 date: 2015-06-02
 tags: [travel - couchsurfing]

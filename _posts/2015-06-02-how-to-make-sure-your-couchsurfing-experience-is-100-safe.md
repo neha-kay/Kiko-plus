@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Couchsurfing - How to Make Sure Your Couchsurfing Experience is 100% Safe
+title: How to Make Sure Your Couchsurfing Experience is 100% Safe
 description: 
 date: 2015-06-02
 tags: [travel - couchsurfing]
