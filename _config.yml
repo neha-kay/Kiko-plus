@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "zNeha Kay's Blog"
+name:               "Neha Kay's Blog"
 
 author:
   facebook:         your-id
@@ -35,7 +35,7 @@ disqus:
   id:               "neha-kay"
 
 # URL
-url:                "https://www.nehakay.com" # the base hostname & protocol for your site
+url:                "neha-kay.github.io" # the base hostname & protocol for your site
 #url:                "http://localhost:4000" # use this url when you develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
