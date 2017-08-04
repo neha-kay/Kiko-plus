@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
+
+<nav class="main-nav">
+  <ul>
+    <li><a href="/about" {% if page.url == "/about" %}class="active"{% endif %}>About</a></li>
+    <li><a href="/archive" {% if page.url == "/archive" %}class="active"{% endif %}>Archive</a></li>
+   
+  </ul>
+</nav>
+
 <body>
 
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
