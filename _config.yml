@@ -60,7 +60,7 @@ nav:
   - name:           "Archive"
     url:            "/archive"
   - name:           "Daily Musings"
-    url:            "https://neha-kay.github.io/2017-07-01/daily-musings/"
+    url:            "https://neha-kay.github.io/daily-musings/"
   - name:           "Guides"
     url:            "https://neha-kay.github.io/2017-07-05/guides/"
   - name:           "Photos"
