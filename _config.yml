@@ -92,4 +92,6 @@ gems:
   - jekyll-paginate
   - jekyll-admin
   - jekyll-language-plugin
+  - jekyll-reading_time
+  
 exclude:            [vendor]
