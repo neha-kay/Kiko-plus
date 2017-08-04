@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}{% endif %}</title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" type="text/css">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+  <!-- Font -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href='//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
+
+  <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="{{ site.baseurl }}/feed.xml" />
+  {% seo %}
+
+
+  {% include google-analytics.html %}
+
+<meta property="og:site_name" content="Neha Kay's Blog" />
+<meta property="og:title" content="Neha Kay's Blog" />
+<meta property="og:url" content="http://www.nehakay.com/" />
+<meta property="og:image" content="http://www.nehakay.com/images/favicon.png" />
+
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/190027b3042ef1ffeac8ac1f8/4c6bbe6fbdc8315d55c8fb4f5.js");</script>
+
+</head>
+
+<body>
+
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <div class="content-container">
+  Subscribe!
+
+    {% include footer.html %}
+  </div>
+
+
+</body>
+</html>
+
+<header>
+  <div class="header-small">
+    <a href="{{site.url}}{{site.baseurl}}">{{ site.name }}</a>
+  </div>
+   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</header>
+<div class="page">
+  <div class="page-title">{{ page.title }}</div>
+  {{ content }}
+</div>
