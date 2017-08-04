@@ -23,7 +23,7 @@ author:
   email:            neha@nehakay.com
 
 copyright:
-  year:             2017
+  year:             2018
   name:             Neha Kay
 
 # Google-analytics
@@ -92,6 +92,5 @@ gems:
   - jekyll-paginate
   - jekyll-admin
   - jekyll-language-plugin
-  - jekyll-reading_time
 
 exclude:            [vendor]
