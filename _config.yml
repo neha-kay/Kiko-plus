@@ -91,5 +91,5 @@ gems:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-admin
-
+  - jekyll-language-plugin
 exclude:            [vendor]
