@@ -9,28 +9,27 @@ share: true
 published: true
 ---
 
-Bollywood music is, *hands down* amazing. In 20 minutes, you'll think so too :P 
-
 ## How this works
-Below are playlists I've customized for 4 different preferences in music:
+Below are playlists I've customized for different music preferences:
 
-* [Slow & Beautiful Ballets](#slow-&-beautiful-ballets)
-* [Slow & Beautiful Duets](#slow-&-beautiful-duets)
+* [Slow & Beautiful Ballets](#slow-beautiful-ballets)
+* [Slow & Beautiful Duets](#slow-beautiful-duets)
 * [Pop](#pop)
 * [Electric Dance](#electric-dance)
 * [Fun Bollywood Party Songs](#fun-bollywood-party-songs)
 * [Hip Hop](#hip-hop)
 * [Indian Classics](#indian-classics)
-* [Cute, Light Mood & Happy](#cute-,-light-mood-&-happy)
-
-(A note to my Indian friends)
-I know there are a million ways to pick these playlists and the way below happens to be my preferred way :P If you think there are other top songs that should be added, let me know! Or, if you're super serious about it, you could send a set of starter songs which I could guest-post here --- whatever you want =) 
+* [Cute, Light Mood & Happy](#cute-light-mood-&-happy)
 
 1. Pick your poison! Side effects: addiction 😉
 2. Leave this page open in the background while you work! 
 3. If you're really serious about getting into it, I'd recommend re-listening to the playlist(s) 2-3 times 
 4. Message or email me for further recommendations if you want them! 
 
+## A note to my Indian friends
+I know there are a million ways to pick these playlists and the way below happens to be my preferred way :P If you think there are other top songs that should be added, let me know! Or, if you're super serious about it, you could send a set of starter songs which I could guest-post here on my blog --- whatever you want =) 
+
+## Playlist Link
 (I've included the playlist links below, in case you wanted to listen to them on your phone)
 
 ## Slow & Beautiful Ballets
