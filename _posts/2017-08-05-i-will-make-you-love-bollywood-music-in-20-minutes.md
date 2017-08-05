@@ -14,14 +14,14 @@ Bollywood music is, *hands down* amazing. In 20 minutes, you'll think so too :P
 ## How this works
 Below are playlists I've customized for 4 different preferences in music:
 
-* Slow & Beautiful Ballets
-* Slow & Beautiful Duets
-* Pop
-* Electric Party / Dance
-* Fun Bollywood Party Songs
-* Hip Hop / Rap
-* Indian Classics
-* Cute, Light Mood & Happy
+* [Slow & Beautiful Ballets](#slow-&-beautiful-ballets)
+* [Slow & Beautiful Duets](#slow-&-beautiful-duets)
+* [Pop](#pop)
+* [Electric Dance](#electric-dance)
+* [Fun Bollywood Party Songs](#fun-bollywood-party-songs)
+* [Hip Hop](#hip-hop)
+* [Indian Classics](#indian-classics)
+* [Cute, Light Mood & Happy](#cute-,-light-mood-&-happy)
 
 (A note to my Indian friends)
 I know there are a million ways to pick these playlists and the way below happens to be my preferred way :P If you think there are other top songs that should be added, let me know! Or, if you're super serious about it, you could send a set of starter songs which I could guest-post here --- whatever you want =) 
@@ -45,7 +45,7 @@ I know there are a million ways to pick these playlists and the way below happen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp61IMHo6Q-45lg6njH65_XxP" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp61IMHo6Q-45lg6njH65_XxP){:target="_blank"}
 
-## Electric Party / Dance
+## Electric Dance
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp630102X-EbZEmNq_op8GEIE" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp630102X-EbZEmNq_op8GEIE){:target="_blank"}
 
@@ -53,7 +53,7 @@ I know there are a million ways to pick these playlists and the way below happen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp61zFM8wAIPeexfG9d-hlpOK" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp61zFM8wAIPeexfG9d-hlpOK){:target="_blank"}
 
-## Hip Hop / Rap
+## Hip Hop
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp62gR530Uw1ckDM_9u5ygJkh" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp62gR530Uw1ckDM_9u5ygJkh){:target="_blank"}
 
