@@ -46,6 +46,8 @@ My mechanism of keeping in touch with friends and maintaining relationships has 
 
 1. [A newsletter]()
 2. [Regular videochats / phonechats]()
+3. [Birthday Phone Calls, Emails, & Facebook Messages]()
+4.
 
 ### A Newsletter
 
@@ -59,7 +61,7 @@ Category II: Friends and acquaintances – people who like you and are intereste
 
 These 2 lists of people form the basis of your newsletter; send a 
 
-### Regular videochats / phonechats 
+### I. Regular videochats / phonechats 
 
 ### Establish a video chat schedule by scheduling the next video chat at the end of the current one
 
@@ -67,15 +69,18 @@ First, make a list of the people who you want to keep in touch with beyond the s
 
 The thing about relationships is that life gets in the way of them – all the time. Especially friendships which can often go dormant 
 
-### Happy Birthday Phone Calls, Emails, & Facebook Messages 
+### II. Birthday Phone Calls, Emails, & Facebook Messages 
 
+I make a point of remembering my friends' birthdays, 
 ### Actively Seeking Reasons to Connect
 	
-### Visiting While in Town
+### III. Visiting While in Town
 
-As soon as you know you’re heading to a city, message the friends you know who live there. I personally maintain a spreadsheet of my friends, which includes a column for ‘city 2017’, allowing me to quickly look up the friends I have in a given city.  
+As soon as you know you’re heading to a city, message the friends you know who live there. Nothing beats an in person meeting, especially if you're willing to treat them to a coffee. 
 
-#### How to Implement This
+#### IV. How to Implement This
+
+I personally maintain a spreadsheet of my friends, which includes a column for ‘city 2017’, allowing me to quickly look up the friends I have in a given city.  
 
 ##### If you want to meet people you don’t know too well, make group chats 
 
@@ -87,17 +92,17 @@ This serves 4 functions:
 
 A friend (shoutout to you, Nora!) did this when visiting New York from Oxford. I knew her as an acquaintance at Oxford and it would have been a bit of a stretch for her to directly message me to hangout, as we weren’t that close at Oxford.  Instead, she made a group chat with a close friend of mine and I, and on account of the close friend, I was totally down to come. That allowed Nora and I to solidify our friendship further, to the point where, if I was back in Oxford now, I’d be entirely comfortable meeting up with her individually. 
 
-## Miscellaneous Elements
+## V. Miscellaneous Elements
 
 ### Don’t be afraid to ask people for advice 
 
-When I have a problem or a quick favor, I’ll usually go ahead and message that to 5-6 friends and get their input on the matter. The benefit of this is 3 fold: 
+When I have a problem or a quick favor, I’ll usually go ahead and message 5-6 friends and get their input on the matter. The benefit of this is 5 fold: 
 
-A)	It sends a message that you value their advice and trust their opinion
-B)	People love giving advice; it’s almost like an honor to do so. In some sense, you’re giving people a reason to feel great by providing their opinion  
-C)	It sends a message that they’re important enough to you that you’d reach out to them for advice
-D)	You get their advice on the matter
-E)	You create an environment in which they can come to you for advice and you can return the favor to them.
+1)	It sends a message that you value their advice and trust their opinion
+2)	People love giving advice; it’s almost like an honor to do so. In some sense, you’re giving people a reason to feel great by providing their opinion  
+3)	It sends a message that they’re important enough to you that you’d reach out to them for advice
+4)	You get their advice on the matter
+5)	You create an environment in which they can come to you for advice and you can return the favor to them.
 
 That’s a pretty powerful ROI for one action item. 
 
