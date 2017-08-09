@@ -7,6 +7,7 @@ tags: [life perspective]
 comments: true
 share: true
 published: true
+permalink: /daily-musings/
 ---
 
 # 31 Travel Thoughts
