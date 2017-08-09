@@ -21,7 +21,7 @@ This guide is split into three sections:
 2.	[The key elements of my system]()
 		* How to implement each element
 
-## Background
+# Background
 
 At first glance, this system is going to seem a bit crazy – the definition of going overboard. 
 
@@ -40,7 +40,7 @@ Two years ago, I read Keith Ferrazzi’s book, Never Eat Alone and fell in love 
 
 A couple years later, after a spell of loneliness, I realized – hey - friendships are actually freaking incredibly important and the fundamental shift in values led to creating this entire framework. 
 
-## Elements of the System
+# Elements of the System
 
 My mechanism of keeping in touch with friends and maintaining relationships has 5 key components:  
 
@@ -49,9 +49,8 @@ My mechanism of keeping in touch with friends and maintaining relationships has 
 3. [Birthday Phone Calls, Emails, & Facebook Messages]()
 4.
 
-### A Newsletter
+## A Newsletter
 
-## How to implement this
 ### 1. Find your friends
 
 Make a list of everyone you’d ideally like to keep in touch with. You can segment this list into 2 categories: 
@@ -61,7 +60,7 @@ Category II: Friends and acquaintances – people who like you and are intereste
 
 These 2 lists of people form the basis of your newsletter; send a 
 
-### I. Regular videochats / phonechats 
+## I. Regular videochats / phonechats 
 
 ### Establish a video chat schedule by scheduling the next video chat at the end of the current one
 
@@ -69,16 +68,16 @@ First, make a list of the people who you want to keep in touch with beyond the s
 
 The thing about relationships is that life gets in the way of them – all the time. Especially friendships which can often go dormant 
 
-### II. Birthday Phone Calls, Emails, & Facebook Messages 
+## II. Birthday Phone Calls, Emails, & Facebook Messages 
 
 I make a point of remembering my friends' birthdays, 
 ### Actively Seeking Reasons to Connect
 	
-### III. Visiting While in Town
+## III. Visiting While in Town
 
 As soon as you know you’re heading to a city, message the friends you know who live there. Nothing beats an in person meeting, especially if you're willing to treat them to a coffee. 
 
-#### IV. How to Implement This
+#### How to Implement This
 
 I personally maintain a spreadsheet of my friends, which includes a column for ‘city 2017’, allowing me to quickly look up the friends I have in a given city.  
 
@@ -92,7 +91,7 @@ This serves 4 functions:
 
 A friend (shoutout to you, Nora!) did this when visiting New York from Oxford. I knew her as an acquaintance at Oxford and it would have been a bit of a stretch for her to directly message me to hangout, as we weren’t that close at Oxford.  Instead, she made a group chat with a close friend of mine and I, and on account of the close friend, I was totally down to come. That allowed Nora and I to solidify our friendship further, to the point where, if I was back in Oxford now, I’d be entirely comfortable meeting up with her individually. 
 
-## V. Miscellaneous Elements
+## IV. Miscellaneous Elements
 
 ### Don’t be afraid to ask people for advice 
 
