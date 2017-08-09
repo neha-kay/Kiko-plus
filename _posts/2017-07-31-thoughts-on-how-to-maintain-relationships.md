@@ -47,8 +47,8 @@ My mechanism of keeping in touch with friends and maintaining relationships has 
 1. [A newsletter](#i-a-newsletter)
 2. [Regular videochats / phonechats](#ii-regular-video-and-phone-chats)
 3. [Birthday Phone Calls, Emails, & Facebook Messages](#iii-birthday-phone-calls-emails-and-facebook-messages)
-4. [Visiting in Person](#visiting-while-in-town)
-5. [Miscellaneous Elements](#miscellaneous-elements)
+4. [Visiting in Person](#iv-visiting-while-in-town)
+5. [Miscellaneous Elements](#v-miscellaneous-elements)
 
 ## I. A Newsletter
 
