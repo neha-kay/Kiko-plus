@@ -42,28 +42,40 @@ I know there are a million ways to pick these playlists and the way below happen
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp618gf2x7m3CucrcI_zM14Qr" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp618gf2x7m3CucrcI_zM14Qr){:target="_blank"}
 
-[Top](#how-this-works)
+[Back to top of the page]()
 
 ## Pop
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp61IMHo6Q-45lg6njH65_XxP" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp61IMHo6Q-45lg6njH65_XxP){:target="_blank"}
 
-## Electric Dance
+[Back to top of the page]()
+
+# Electric Dance
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp630102X-EbZEmNq_op8GEIE" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp630102X-EbZEmNq_op8GEIE){:target="_blank"}
+
+[Back to top of the page]()
 
 ## Fun Bollywood Party Songs
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp61zFM8wAIPeexfG9d-hlpOK" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp61zFM8wAIPeexfG9d-hlpOK){:target="_blank"}
 
+[Back to top of the page]()
+
 ## Hip Hop
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp62gR530Uw1ckDM_9u5ygJkh" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp62gR530Uw1ckDM_9u5ygJkh){:target="_blank"}
+
+[Back to top of the page]()
 
 ## Indian Classics
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp63WUotuswy4EkD3FkNTojkT" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp63WUotuswy4EkD3FkNTojkT){:target="_blank"}
 
+[Back to top of the page]()
+
 ## Cute, Light Mood and Happy
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp60aJn631UDwpTQb-qewDziV" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp60aJn631UDwpTQb-qewDziV){:target="_blank"}
+
+[Back to top of the page]()
