@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My views on unproductivity and how to avoid it (via accountability sprints)"
+title: "Productivity Guide"
 description: 
 date: 2017-08-09
 tags: [guides, organization/productivity]
