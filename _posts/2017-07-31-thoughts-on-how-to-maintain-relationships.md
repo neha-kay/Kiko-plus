@@ -18,8 +18,9 @@ Below is a description of how I personally keep in touch with my friends. If you
 This guide is split into three sections: 
 
 1.[A bit of background](#background)
-2.[The key elements of my system]()
-     * How to implement each element
+
+2.[The elements of my system](#elements-of-the-system)
+* How to implement each element
 
 # Background
 
