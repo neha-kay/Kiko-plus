@@ -23,7 +23,7 @@ Below are playlists I've customized for different music preferences:
 
 1. Pick your poison! Side effects: addiction 😉
 2. Leave this page open in the background while you work! 
-3. If you're really serious about getting into it, I'd recommend re-listening to the playlist(s) 2-3 times 
+3. If you're really serious about getting into it, I'd recommend re-listening to the playlist(s) 2-3 times. 
 4. Message/email me for further recommendations if you want them! 
 
 ## A note to my Indian friends
