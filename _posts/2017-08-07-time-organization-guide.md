@@ -6,6 +6,7 @@ date: 2017-08-07
 tags: [guides, organization/productivity]
 comments: true
 share: true
+permalink: /time-organization-guide/
 ---
 
 1.	Introduction

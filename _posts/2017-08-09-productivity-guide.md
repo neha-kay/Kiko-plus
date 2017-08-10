@@ -6,6 +6,7 @@ date: 2017-08-09
 tags: [guides, organization/productivity]
 comments: true
 share: true
+permalink: /productivity-guide/
 ---
 
 # Introduction
