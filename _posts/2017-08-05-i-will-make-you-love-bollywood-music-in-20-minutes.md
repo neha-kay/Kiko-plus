@@ -35,11 +35,14 @@ I know there are a million ways to pick these playlists and the way below happen
 ## Slow and Beautiful Ballets
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp60nG0TeXcPOv2o3PhceNYhn" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp60nG0TeXcPOv2o3PhceNYhn){:target="_blank"}
+
 [Top]()
 
 ## Slow and Beautiful Duets
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp618gf2x7m3CucrcI_zM14Qr" frameborder="0" allowfullscreen></iframe>
 [Playlist Link](https://www.youtube.com/playlist?list=PLu7Y7aQ3dp618gf2x7m3CucrcI_zM14Qr){:target="_blank"}
+
+[Top](#how-this-works)
 
 ## Pop
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp61IMHo6Q-45lg6njH65_XxP" frameborder="0" allowfullscreen></iframe>
