@@ -79,26 +79,26 @@ Between OneNote and Evernote, I felt OneNote’s level of organization was more 
 Each major life topic corresponds to a separate notebook: 
 
 <p align="center">
-  <img src="/images/one-note-notebooks.png">
+  <img src="/images/note-org-guide-one-note-notebooks.png">
 </p>
 <p align="center">
-  <img src="/images/one-note-notebook.png">
+  <img src="/images/note-org-guide-one-note-notebook.png">
 </p>
 
 Within each notebook are corresponding sections (highlighted by the green box) and pages (highlighted by the blue box). As an example, this is the Advice notebook, with advice blurbs on various topics (sections). If a topic has multiple advice tidbits, they’re displayed on different pages. 
 
 <p align="center">
-  <img src="/images/one-note-pages.png">
+  <img src="/images/note-org-guide-one-note-pages.png">
 </p>
 
 This allows for incredibly easy navigating and search. If I’m looking for a specific chai recipe, I’ll navigate to Food  Cooking  Dipti’s Chai Recipe. Alternatively, if I’m looking for information about my trip to China, I’ll navigate to the Travel notebook, then the China Section, and check out the individual pages. 
 
 <p align="center">
-  <img src="/images/one-note-chai-recipe.png">
+  <img src="/images/note-org-guide-one-note-chai-recipe.png">
 </p>
 
 <p align="center">
-  <img src="/images/china-visa.png">
+  <img src="/images/note-org-guide-china-visa.png">
 </p>
 
 Amazing! You can get more intense with tags and such, but at my current note-taking level, this is perfect.
@@ -110,7 +110,7 @@ Day One by and far is *the* singular best journal app – I challenge you to fin
 I use this for strictly personal entries – entries about my current emotions, wins and setbacks. The calendar function allows me to scroll through various months and read entries while the ‘On this Day’ function allows me to see past entries I’ve written on the same day in previous years.
 
 <p align="center">
-  <img src="/images/day-one.png">
+  <img src="/images/note-org-guide-day-one.png">
 </p>
 
 ### How the elements interact
