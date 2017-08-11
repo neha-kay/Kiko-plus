@@ -12,7 +12,11 @@ permalink: /daily-musings/
 
 # 31 Travel Thoughts
 
-<h3 style="color:#6495ed;"> Invisible Racial Divisions in Italy 😳| August 1, 2017 </h3>
+<h3 style="color:#6495ed;"> Pulse Points | August 4, 2017 </h3>
+
+Tip from my Milan host: [put ice on your wrists and pulse points to cool yourself down](https://lifehacker.com/5571072/know-your-bodys-cooling-spots){:target="_blank"}
+
+<h3 style="color:#6495ed;"> Invisible Racial Divisions in Italy 😳| August 3, 2017 </h3>
 
 Interestingly, people of color seem to occupy lower waged occupations here in Italy. Rather interestingly, I've seen a fair number of South Indians busking the streets and in other lower waged occupations. This is very much unlike the U.S., in which South Asians and Asians at large occupy the 'model minority' role. 
 

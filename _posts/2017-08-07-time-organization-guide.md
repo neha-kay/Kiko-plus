@@ -53,7 +53,7 @@ Setting up this system has a high startup cost and low maintenance cost. Persona
 ### Multi-month & month views 
 Multi-month and month views are important because time passes quickly on a day-to-day level and often makes us lose sight of how time progresses from a more bird’s eye view. In that sense, seeing time progress on a month level is __incredibly__ helpful. 
 
-Enter major events like tests, major project due dates, major problem sets, extracurricular events, etc., in this Excel calendar.
+Enter major events like tests, major milestones, due dates, major problem sets, extracurricular events, etc., in this Excel calendar.
 
 ### Setting up multi-month and month views
 I highly recommend setting up multi-month and month views in **Excel** because I strongly prefer having all my planning tools exclusively on Excel and Google Calendar rather than on multiple platforms for different planning purposes – e.g. having Omnifocus for goal planning, Google Calendar for weekly scheduling, a PDF for month planning, etc., Excel is versatile enough to handle it all. Plus, it’s incredibly versatile, looks nice, and you can dedicate separate sheets to separate purposes, including a _To-Do_ sheet as a separate sheet. That means you have your calendars and to-do lists all in two places – Excel and Google Calendar. 

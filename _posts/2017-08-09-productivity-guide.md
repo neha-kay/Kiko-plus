@@ -114,3 +114,4 @@ Let’s see this in action with the following examples below.
   <img src="/images/accountability-fitbit.png">
 </p>
 
+A caveat: as you noticed, accountability sprints guarantee a deliverable getting done, but not necessarily getting done well. Sometimes you can quantify what it means for a deliverable to be done well -- for example, specifying "4 bar charts", but often it's hard to perfectly quantify quality. This is definitely a weakness of accountability sprints largely because it's largely dependent on internal motivation. I generally go back and edit my deliverables after, to make them more presentable.

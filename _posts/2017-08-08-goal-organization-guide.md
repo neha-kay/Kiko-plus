@@ -90,8 +90,9 @@ From the Project Pipeline view above, I’ll usually pick out all the action ite
 I don’t have a set platform for weekly planning – sometimes I’ll use pen and paper, other times I’ll use my Mac Stickies app, other times I’ll plan each task out per day on my Google Calendar. 
 
 ## Other Cool Views & Planning Tools
-### Brain dumps
-I like to have a _Done_ category on my Excel page, solely for the indulgence of looking back and seeing how far I’ve come. 
+### A Done Category
+I think it's also quite helpful to have a "Done" Column to copy tasks into once you've finished them. Even though it's easier deleting them, it's nice looking back after a couple months and seeing the progress of work. Suffice to say, it's a friendly reminder that achievement is simply the summation of small, seemingly unimportant tasks.
+
 
 ### Brain dumps
 Brain dumps involve racking your brain for every existing project and action item, and getting it all on paper. They’re particularly great to do during a macro level planning session or in transitory periods (e.g. start or end of a work/school period).
