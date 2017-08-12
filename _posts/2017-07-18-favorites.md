@@ -66,3 +66,10 @@ Wait But Why
 ### Friendships
 
 * [How Friendships Change in Adulthood](https://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits){:target="_blank"}
+
+
+## Favorite Podcast Episodes
+
+[How I Built This - Sara Blakely](https://itunes.apple.com/us/podcast/how-i-built-this/id1150510297?mt=2&i=375191888){:target="_blank"}
+
+[Happier: What's the Best Advice You've Ever Gotten?](http://gretchenrubin.com/happiness_project/2016/06/podcast-70-best-advice/){:target="_blank"}

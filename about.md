@@ -44,18 +44,6 @@ __Future plans / future trajectory__
 
 or in other words, how to maximize the impact and value I provide in my chosen career path.
 
-### What I'm Doing With My Life
-
-I studied at Johns Hopkins as a double major, double minor, majoring in Economics & Psychology and minoring in Computer Science and Entrepreneurship & Management. 
-
-Like most people, I had generally no clue as to what I'd want to do in the future, beyond wanting to gain technical skill. I researched a ton and even documented my research as a career guide (INSERT LINK) before hitting the college fall recruiting season in full force. 
-
-I was lucky enough to receive 8 job offers in the fall with companies probably far too good for me --  Deloitte, Booz Allen Hamilton, Prudential, Teach for America, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018. 
-
-If I can be of any help to you in terms of job recruiting / getting a job / the job search feel free to email me at <neha@nehakay.com>; I'm happy to help out and pay it forward 😊 
-
-In any case, from a long-term perspective, I still have no clue what I want to do in the future. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
-
 ### 10 things I could never do without . . . 
 
 - eBooks, audiobooks, podcasts
@@ -69,10 +57,24 @@ In any case, from a long-term perspective, I still have no clue what I want to d
 - My Macbook
 - Chipotle or any source of cheap, healthy, vegetarian meals (Dipti Aunty, you know I'm talking about you too 😛 . . .)
 
+### What I'm Doing With My Life
+
+I studied at Johns Hopkins as a double major, double minor, majoring in Economics & Psychology and minoring in Computer Science and Entrepreneurship & Management. 
+
+Like most people, I had generally no clue as to what I'd want to do in the future, beyond wanting to gain technical skill. I researched a ton and even documented my research as a career guide (INSERT LINK) before hitting the college fall recruiting season in full force. 
+
+I was lucky enough to receive 8 job offers in the fall with companies probably far too good for me --  Deloitte, Booz Allen Hamilton, Prudential, Teach for America, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018. 
+
+If I can be of any help to you in terms of job recruiting / getting a job / the job search feel free to email me at <neha@nehakay.com>; I'm happy to help out and pay it forward 😊 
+
+In any case, from a long-term perspective, I still have no clue what I want to do in the future. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
+
 ### In my free time I . . . 
 
 * Rant about Apple products 
 * Rant about Chipotle
+* Videochat with friends
+* Spend embarrassing amounts of time on my computer (shout out to Reem for pointing this out)
 * Travel
 
 As of July 2017, I've [traveled to 26 countries](http://www.nehakay.com/2017-06-02/footsteps/){:target="_blank"} and will be traveling to the last few countries I want to see before settling down and starting work at Microsoft.
@@ -140,5 +142,40 @@ New Zealand
 
 ## And that's pretty much it! 
 
-If you see something you like or want to reach out, please do. I'm super approachable and love meeting and helping people. Otherwise, welcome to the site, and have fun 😊
+If you see something you like or want to reach out, please do. I'm super approachable and love meeting and helping people. 
+
+Below is a list of which cities I'll be in and when:
+
+__2017__
+May: (USA) Baltimore
+
+June: (USA) Greater Philadelphia Area
+
+July: (USA) Hawaii | Seattle | Los Angeles | Boston
+
+August: (Italy / Greece) Milan | Venice | Florence | Naples | Rome | Athens | Olympia 
+
+September: (China / Hong Kong) Beijing | Shanghai | Macao | Yangshuo | Chengdu | Xi'an | 
+Shaolin | Moganshan | Fujian | Hong Kong
+
+October: (USA / Australia) Baltimore | Orlando | Sydney | Melbourne | Cairns
+
+November: (USA / Australia) Sydney | Greater Philadelphia Area
+
+December: (India) Goa | Mumbai | New Delhi
+
+-------------
+
+Hi Neha!
+
+I'll be in [City X] on [Date Y]!
+
+[Use this space to show me you're not a serial killer / rapist.]
+
+Would be cool to meet up if you have time =)
+
+Cheers,
+[Your name]
+
+Otherwise, welcome to the site, and have fun 😊
 

@@ -12,6 +12,10 @@ permalink: /daily-musings/
 
 # 31 Travel Thoughts
 
+<h3 style="color:#6495ed;"> Anxiety v. Action | August 6, 2017 </h3>
+
+> "Antidote to anxiety is action" 
+
 <h3 style="color:#6495ed;"> On Writing II | August 10, 2017 </h3>
 
 Sometimes I have trouble writing. But usually that only happen when I have an unclear sense of what I want to write. It's a content problem, not a discipline problem. I think that can be generalized; in other words, writing can be an irritating or drawn-out process, but when you know what to say, when distillation follows distillation, it flows naturally, effortlessly. 
@@ -28,9 +32,11 @@ An epic saying, which, as [explained by Robert Osowiecki](https://www.quora.com/
 
 “I won’t interfere or bother myself with trouble in a place I don’t belong to or have no authority — it’s someone else’s job to deal with this”
 
-<h3 style="color:#6495ed;"> Anxiety v. Action | August 6, 2017 </h3>
+<h3 style="color:#6495ed;"> What You Haven't Focused On | August 6, 2017 </h3>
 
-> "Antidote to anxiety is action" 
+The highest marginal return you're going to get is generally in what you have not focused on.
+
+-- Jayati, in a recent video chat
 
 <h3 style="color:#6495ed;"> On Writing | August 5, 2017 </h3>
 
