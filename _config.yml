@@ -24,7 +24,7 @@ author:
 
 copyright:
   year:             2017
-  name:             Neha Kay
+  name:             Neha Kayz
 
 # Google-analytics
 google-analytics:
@@ -60,7 +60,7 @@ nav:
   - name:           "Archive"
     url:            "/archive"
   - name:           "Daily Musings"
-    url:            "https://www.nehakay.com/daily-musings/"
+    url:            "/daily-musings/"
   - name:           "Guides"
     url:            "http://www.nehakay.com/guides/"
   - name:           "Photos"
