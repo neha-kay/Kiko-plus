@@ -12,6 +12,12 @@ permalink: /daily-musings/
 
 # 31 Travel Thoughts
 
+<h3 style="color:#6495ed;"> Pulse Points | August 10, 2017 </h3>
+
+Sometimes I have trouble writing. But usually that only happen when I have an unclear sense of what I want to write. It's a content problem, not a discipline problem. I think that can be generalized; in other words, writing can be an irritating or drawn-out process, but when you know what to say, when distillation follows distillation, it flows naturally, effortlessly. 
+
+I guess the reason I find blog-making fun, why I've been able to get super into it, is because I _love_ distilling things. Blog-writing (e.g. pretending people out there actually want to read what you're writing) allows me to engage hours on end in this distillation process of converting a nebulous mental schema into a concrete written one with the satisfaction of knowing other people will be helped by it.
+
 <h3 style="color:#6495ed;"> Pulse Points | August 4, 2017 </h3>
 
 Tip from my Milan host: [put ice on your wrists and pulse points to cool yourself down](https://lifehacker.com/5571072/know-your-bodys-cooling-spots){:target="_blank"}
