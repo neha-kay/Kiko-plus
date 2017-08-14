@@ -11,13 +11,13 @@ published: true
 category: relationships
 ---
 
-Getting the first date isn't the hardest part; __it's finding a reason to continue meeting up that is__. 
+Getting the first date isn't the hardest part; it's __finding a reason to continue meeting up__ that is. 
 
 One off meetups are easy; translating that into a series of n + 1 meetings is tricky at best, and usually avoided. 
 
 ### A Thought Experiment
 
-Say you’re at a coffee shop and meet someone really cool who could totally be a potential dating partner. But you’ve only talked to this person for a total of 5 minutes, so you don't _really_ know that much about his/her values and whether he/she is truly a great romantic match. 
+Say you’re at a coffee shop and meet someone really cool who could totally be a potential dating partner. But you’ve only talked to this person for a total of 5 minutes, so you don't _really_ know that much about his/her values and whether (s)he's truly a great romantic match. 
 
 ### You have a couple options:
 
@@ -29,7 +29,7 @@ This has the obvious downside of not getting into a relationship with a potentia
 
 #### 2. Be super forward and ask them to go on a date with you.
 
-This is a fairly workable option, though saddled with a bunch of key downsides:
+This is a fairly workable option with a bunch of key downsides:
 
 __1. It requires a crapton of confidence and courage.__
 
@@ -41,7 +41,7 @@ Suddenly, what would have been a casual hangout, becomes a huge affair.
 
 _"What should I wear? Should I tell them weird thing X, Y, or Z about myself?"_
 
-By asking this person on a date, you then involve a set of unwanted expectations associated with dating versus seeing them in a natural setting/as they are in daily life. It adds a crapton of awkwardness to the mix and encourages both people to be less themselves than they’d naturally be.
+By asking this person on a date, you inadvertently involve a set of unwanted expectations associated with dating versus seeing them in a natural setting/as they are in daily life. It adds a crapton of awkwardness to the mix and encourages both people to be less themselves than they’d naturally be.
 
 __3. After a couple dates, it’s significantly harder to cut off the potential relationship without hurting the other person’s feelings.__
 
@@ -55,7 +55,7 @@ Like I said – people take rejection pretty personally. The ability to turn som
 
 ### So both these options kind of suck 😕
 
-The ideal option would be having some sort of <strong></strong>><i> grace period </strong></i> where you can interact with the person as they are naturally, without the expectations of a relationship. This grace period would ideally be 3-5 hangouts.
+The ideal option would be having some sort of __grace period__ where you can interact with the person as they are naturally, without the expectations of a relationship. This grace period would ideally be 3-5 hangouts.
 
 ### The Grace Period
 
