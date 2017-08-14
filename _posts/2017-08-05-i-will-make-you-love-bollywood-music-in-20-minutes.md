@@ -11,7 +11,7 @@ published: true
 category: random
 ---
 
-### Try Some Bollywood Music!
+## Try Some Bollywood Music!
 Below are playlists I've customized for different music preferences:
 
 * [Slow & Beautiful Ballets](#slow-and-beautiful-ballets)
@@ -33,7 +33,7 @@ Below are playlists I've customized for different music preferences:
 ### A note to my Indian friends
 I know there are a million ways to pick these playlists and the way below happens to be my preferred way. If you think there are other top songs that should be added, let me know! Or, if you're super serious about it, you could create a set of starter songs which I could guest-post here on my blog --- whatever you want =) 
 
-### Playlist Link
+## Playlist Link
 (I've included the playlist links below, in case you wanted to listen to them on your phone)
 
 ## Slow and Beautiful Ballets
