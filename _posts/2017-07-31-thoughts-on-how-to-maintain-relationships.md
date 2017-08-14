@@ -7,6 +7,8 @@ tags: [life perspective, relationships, guides]
 comments: true
 share: true
 published: true
+
+category: relationships
 ---
 
 There are a ton of pieces out there on *how to network* and building one’s network. 

@@ -7,6 +7,8 @@ tags: [relationships]
 comments: true
 share: true
 published: true
+
+category: relationships
 ---
 
 Getting the first date isn't the hardest part; it's getting the n + 1 date -- in finding a reason to continue meeting up.

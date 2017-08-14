@@ -6,6 +6,8 @@ date: 2017-07-06
 tags: [travel - bus]
 comments: true
 share: true
+
+category: travel
 ---
 
 This page is Part 3 of the 3-part Bus Booking Optimization Guide. If you haven’t already, start at Part 1 of 3, The Basics of Bus Booking Optimization, here. 

@@ -7,6 +7,8 @@ tags: [life perspective]
 comments: true
 share: true
 published: true
+
+category: life
 ---
 
 <p align="center">

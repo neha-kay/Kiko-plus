@@ -6,6 +6,8 @@ date: 2017-08-06
 tags: [guides, organization/productivity]
 comments: true
 share: true
+
+category: organization/productivity
 permalink: /note-organization-guide/
 ---
 

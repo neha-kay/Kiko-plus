@@ -6,6 +6,8 @@ date: 2017-06-02
 tags: [about neha]
 comments: true
 share: true
+
+category: about_neha
 ---
 
 ### Footsteps as of June 2017

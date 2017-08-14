@@ -6,6 +6,8 @@ date: 2017-07-06
 tags: [guides, travel - bus]
 comments: true
 share: true
+
+category: travel
 ---
 
 A guide on how to optimize the bus booking process.

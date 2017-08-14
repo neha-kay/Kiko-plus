@@ -8,6 +8,8 @@ comments: true
 share: true
 published: true
 permalink: /daily-musings/
+
+category: random
 ---
 
 # 31 Travel Thoughts

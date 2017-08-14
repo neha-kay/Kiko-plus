@@ -7,6 +7,8 @@ tags: [life perspective]
 comments: true
 share: true
 published: true
+
+category: life
 ---
 
 Below are some of the most useful methods I've come across, for learning without devoting too much time to doing so, in order from the least to most time intensive. 

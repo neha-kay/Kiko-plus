@@ -7,6 +7,8 @@ tags: [relationships]
 comments: true
 share: true
 published: true
+
+category: relationships
 ---
 
 This is a re-telling of an old Buddhist allegory:

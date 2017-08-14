@@ -7,6 +7,8 @@ tags: [guides, travel - couchsurfing]
 comments: true
 share: true
 published: true
+
+category: travel
 ---
 
 *** THIS IS PART OF THE COUCHSURFING GUIDE*** 

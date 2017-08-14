@@ -8,6 +8,8 @@ comments: true
 share: true
 published: true
 future: true
+
+category: travel
 ---
 
 *** THIS IS PART OF THE COUCHSURFING GUIDE*** 

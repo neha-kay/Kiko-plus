@@ -6,6 +6,8 @@ date: 2017-06-02
 tags: [life perspective, about neha]
 comments: true
 share: true
+
+category: life
 ---
 
 Below are some life perspectives; I know they don't hold universally and it isn't my intention to convince anyone of any of them. Specifically, these views originate from various sources and schools of thought --  Buddhism to computer science to positive psychology to life experiences. There're just things I strongly believe in, for better or for worse, rationally or irrationally.

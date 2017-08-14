@@ -7,6 +7,8 @@ tags: [random]
 comments: true
 share: true
 published: true
+
+category: random
 ---
 
 ## How this works

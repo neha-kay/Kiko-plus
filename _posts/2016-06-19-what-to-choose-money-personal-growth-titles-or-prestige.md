@@ -8,6 +8,8 @@ comments: true
 share: true
 published: true
 future: true
+
+category: career
 ---
 
 ***THIS IS PART OF THE CAREER GUIDE***

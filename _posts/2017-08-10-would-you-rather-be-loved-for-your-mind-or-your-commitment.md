@@ -7,6 +7,7 @@ tags: [relationships]
 comments: true
 share: true
 published: true
+category: relationships
 ---
 
 Maybe it’s better to have a relationship with someone who wants you because you’re a warm body instead of for your mind and your ‘mental content’. Because at some point, it’s highly probable that content will run out —  after all, there are only so many ways you can distill the way life works, talk about theories, talk about life, and analyze things. 
