@@ -54,12 +54,12 @@ Coming soon ;)
 __Antartica |__
 Coming soon ;)
 
-### Favorite Locations (in no particular order)
+### The Countries I've Most Enjoyed Visiting (in no particular order)
 
 * India
 * Myanmar (Burma)
-* Thailand
 * Italy
+* Thailand
 * Argentina
 * Brazil
 
@@ -69,15 +69,14 @@ Coming soon ;)
 * Ghana - Once again, met some of the greatest people ever
 * United Kingdon - Studied abroad at Oxford, what's not to love?
 
-### To Return To . . . (in no particular order)
+### Countries I Want to Go Back To. . . (in no particular order)
 
 * Argentina and Chile - So much to see + absolutely beautiful, need to visit Patagonia
 * Brazil 
-* Japan
 
 ### Great but Wouldn't Recommend Locations 
 
-* South Korea - Kind of boring if you aren't a major k-pop fan
+* South Korea - I found it a bit boring 😕
 * Jamaica - Expensive and pretty creepy -- as a thrifty female, both of these are dealbreakers :/
 * Ecuador - Besides'Mitad del Mundo' found it a bit boring, comparatively speaking
 * Switzerland - Expensive *AF*
@@ -86,5 +85,4 @@ Coming soon ;)
   <img src="/images/ForevertheForeigner.jpeg">
 </p>
 
-<sub>[Photo Source](https://www.etsy.com/listing/179540130/printable-world-map-oh-the-places-youll)</sub>
 
