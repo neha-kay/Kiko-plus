@@ -53,7 +53,7 @@ Like I said – people take rejection pretty personally. The ability to turn som
 
 ### So both these options kind of suck 😕
 
-The ideal option would be having some sort of <b><i> grace period </b></i> where you can interact with the person as they are naturally, without the expectations of a relationship. This grace period would ideally be 3-5 hangouts.
+The ideal option would be having some sort of <strong></strong>><i> grace period </strong></i> where you can interact with the person as they are naturally, without the expectations of a relationship. This grace period would ideally be 3-5 hangouts.
 
 ### The Grace Period
 
