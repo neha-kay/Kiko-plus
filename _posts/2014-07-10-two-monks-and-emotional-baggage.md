@@ -27,5 +27,5 @@ This is a re-telling of an old Buddhist allegory:
 "How could you carry that woman across the river when the rules of our order tell us otherwise?" said the younger monk. 
 > > 
 > > "Ah" said the older monk gently, "I left that woman back on the other side of the river. I see you are still carrying her.""
-> > 
-> > Directly quoted from this [source](https://books.google.it/books?id=PEPjKxhqEAIC&pg=PA209&lpg=PA209&dq=Monks+crossing+river+---+I+stopped+carrying+two+hours+ago+why+are+you+still+carrying+her?&source=bl&ots=lyFK57POzy&sig=f6pfyqegXC-ux-qY4JGLdPXRA_0&hl=en&sa=X&ved=0ahUKEwiogK27rNHVAhUQKlAKHS2GB_gQ6AEIRzAJ#v=onepage&q=Monks%20crossing%20river%20---%20I%20stopped%20carrying%20two%20hours%20ago%20why%20are%20you%20still%20carrying%20her%3F&f=false){:target="_blank"}.
+
+Directly quoted from this [source](https://books.google.it/books?id=PEPjKxhqEAIC&pg=PA209&lpg=PA209&dq=Monks+crossing+river+---+I+stopped+carrying+two+hours+ago+why+are+you+still+carrying+her?&source=bl&ots=lyFK57POzy&sig=f6pfyqegXC-ux-qY4JGLdPXRA_0&hl=en&sa=X&ved=0ahUKEwiogK27rNHVAhUQKlAKHS2GB_gQ6AEIRzAJ#v=onepage&q=Monks%20crossing%20river%20---%20I%20stopped%20carrying%20two%20hours%20ago%20why%20are%20you%20still%20carrying%20her%3F&f=false){:target="_blank"}.
