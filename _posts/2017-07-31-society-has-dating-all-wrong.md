@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 category: relationships
-permalink: /:categories/:title
+permalink: /hello/
 ---
 
 I read this [Wait But Why Article](https://waitbutwhy.com/2014/02/pick-life-partner.html){:target="_blank"} recently and couldn't help but highlight how *entirely* accurate it is in refererence to 2 concepts about dating. I've directly quoted Tim below.
