@@ -2,7 +2,7 @@
 layout: post
 title: Society Has Dating All Wrong
 description: "Two fundamental misconceptions about dating."
-date: 2014-05-31
+date: 2014-07-31
 tags: [relationships]
 comments: true
 share: true
