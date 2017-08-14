@@ -11,7 +11,9 @@ published: true
 category: relationships
 ---
 
-Getting the first date isn't the hardest part; it's finding a reason to continue meeting up that is. One off meetups are easy; translating that into a series of n + 1 meetings is hard. 
+Getting the first date isn't the hardest part; __it's finding a reason to continue meeting up that is__. 
+
+One off meetups are easy; translating that into a series of n + 1 meetings is tricky at best, and usually avoided. 
 
 ### A Thought Experiment
 
