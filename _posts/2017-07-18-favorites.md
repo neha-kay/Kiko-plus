@@ -11,11 +11,11 @@ published: true
 category: about_neha
 ---
 
-### Favorite Books
+## Favorite Books
 
 A whole article on this coming soon! 
 
-### Favorite Blogs
+## Favorite Blogs
 
 [Wait But Why](https://waitbutwhy.com){:target="_blank"}
 * A long-form blog which analyzes all aspects of life and technology.
@@ -23,7 +23,7 @@ A whole article on this coming soon!
 [James Clear](http://jamesclear.com/articles){:target="_blank"}
 * James writes various pieces on productivity, habits and organization. 
 
-### Favorite Articles
+## Favorite Articles
 
 #### Life Perspective
 
@@ -69,7 +69,7 @@ A whole article on this coming soon!
 
 * [How Friendships Change in Adulthood](https://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits){:target="_blank"}
 
-### Favorite Podcasts
+## Favorite Podcasts
 
 (Descriptions copied below from each podcast's website)
 
@@ -110,7 +110,7 @@ A whole article on this coming soon!
 [Ear Hustle](https://www.earhustlesq.com/){:target="_blank"}
 * Ear Hustle brings you the stories of life inside prison, shared and produced by those living it. 
 
-### Favorite Podcast Episodes
+## Favorite Podcast Episodes
 
 * [How I Built This - Sara Blakely](https://itunes.apple.com/us/podcast/how-i-built-this/id1150510297?mt=2&i=375191888){:target="_blank"}
 
