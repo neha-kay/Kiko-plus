@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Favorites
+title: Favorite Books, Articles, and Podcasts
 description: 
 date: 2017-07-18
 tags: [about neha]
