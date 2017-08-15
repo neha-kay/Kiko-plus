@@ -27,21 +27,21 @@ James writes various pieces on productivity, habits and organization.
 
 ### Favorite Articles
 
-##### Life Perspective
+#### Life Perspective
 
 * [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html){:target="_blank"}
 
-##### Habits / Productivity / Positive Psychology
+#### Habits / Productivity / Positive Psychology
 * [How to Start a Company With No Free Time](https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a){:target="_blank"}
 
 * [If You Are Looking for Reasons to Be Happy, You’ll Probably Find Them](https://www.becomingminimalist.com/look/){:target="_blank"}
 
-##### Feminism
+#### Feminism
 * [Why I Put My Wife’s Career First](https://www.theatlantic.com/magazine/archive/2015/10/why-i-put-my-wifes-career-first/403240/){:target="_blank"}
 
 * [The truth about the gender wage gap](https://www.vox.com/2016/8/1/12108126/gender-wage-gap-explained-real){:target="_blank"}
 
-##### Career
+#### Career
 * [The Career Advice No One Tells You](https://qz.com/640112/the-career-advice-no-one-tells-you/){:target="_blank"}
 
 * [Why Did Most of Dartmouth’s Valedictorians Become Investment Bankers and Consultants? The Need for a Deeper Vocabulary of Career Aspiration](http://calnewport.com/blog/2013/07/03/why-did-most-of-dartmouths-valedictorians-become-investment-bankers-and-consultants-the-need-for-a-deeper-vocabulary-of-career-aspiration/){:target="_blank"}
@@ -50,11 +50,11 @@ James writes various pieces on productivity, habits and organization.
 
 * [How to Become a C.E.O.? The Quickest Path Is a Winding One](https://www.nytimes.com/2016/09/11/upshot/how-to-become-a-ceo-the-quickest-path-is-a-winding-one.html){:target="_blank"}
 
-##### Health
+#### Health
 
 * [After ‘The Biggest Loser, Their Bodies Fought to Regain Weight](https://www.nytimes.com/2016/05/02/health/biggest-loser-weight-loss.html){:target="_blank"}
 
-##### Romantic Relationships 
+#### Romantic Relationships 
 * [How to Pick Your Life Partner](https://waitbutwhy.com/2014/02/pick-life-partner-part-2.html){:target="_blank"}
 
 * [To Fall in Love With Anyone, Do This](https://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html){:target="_blank"}
@@ -67,7 +67,7 @@ James writes various pieces on productivity, habits and organization.
 
 * [To Stay in Love, Sign on the Dotted Line](https://www.nytimes.com/2017/06/23/style/modern-love-to-stay-in-love-sign-on-the-dotted-line-36-questions.html){:target="_blank"}
 
-##### Friendships
+#### Friendships
 
 * [How Friendships Change in Adulthood](https://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits){:target="_blank"}
 
@@ -75,7 +75,7 @@ James writes various pieces on productivity, habits and organization.
 
 (Descriptions copied below from each podcast's website)
 
-##### Life Perspective
+#### Life Perspective
 
 [Happier with Gretchen Rubin](http://gretchenrubin.com/podcast/){:target="_blank"}
 * A podcast hosted by best-selling author Gretchen Rubin and TV writer and producer, Elizabeth Craft which discusses happiness, good habits, and human nature.
@@ -86,26 +86,26 @@ James writes various pieces on productivity, habits and organization.
 [Invisibilia](http://www.npr.org/podcasts/510307/invisibilia){:target="_blank"}
 * Invisibilia is about the invisible forces that control human behavior - ideas, beliefs, assumptions, and emotions. 
 
-##### Didactic 
+#### Didactic 
 [Freakonomics Radio](freakonomics.com/archive/){:target="_blank"}
 * Each week, hear surprising conversations that explore the riddles of everyday life and the weird wrinkles of human nature --- from cheating to crime to parenting and sports. Dubner talks with Nobel laureates and provocateurs, social scientists and entrepreneurs. 
 
 [Revisionist History](revisionisthistory.com/){:target="_blank"}
 * Malcolm Gladwell's journey through the overlooked and the misunderstood. Every episode re-examines something from the past --- an event, a person, an idea, even a song --- and asks whether we got it right the first time. 
 
-##### Career 
+#### Career 
 [How I Built This](www.npr.org/podcasts/510313/how-i-built-this){:target="_blank"}
 * A podcast about innovators, entrepreneurs, and idealists, and the stories behind the movements they built. Each episode is a narrative journey marked by triumphs, failures, serendipity, and insight --- told by the founders of some of the world's best known companies and brands. 
 
 [Success! How I Did It](https://www.acast.com/howididit){:target="_blank"}
 * Shontell interviews successful CEOs, entrepreneurs, and business leaders about how they built successful companies, and the career paths that took them to the top. 
 
-##### On Relationships
+#### On Relationships
 
 [Where Should We Begin?](https://www.estherperel.com/podcast){:target="_blank"}
 * Real couples. Candid conversations. Surprising truths. Listen in as the foremost authority on modern love, Esther Perel, meets with real couples --- and their stories become your stories.
 
-##### Other
+#### Other
 [Side Hustle School](https://sidehustleschool.com/){:target="_blank"}
 * A daily show for everyone who works a regular job and wants to start an income-earning project on the side. In each episode, listeners will hear a different story of someone who's started a side hustle --- along with what went well, how that person overcame challenges, and what happened as a result.
 
