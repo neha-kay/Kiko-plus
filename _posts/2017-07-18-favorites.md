@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Favorite Books, Articles, and Podcasts
-description: 
+title: Favorite Books, Blogs, Articles, and Podcasts
+description: "A list of favorite books, quotes, blogs, articles, podcasts, and podcast episodes"
 date: 2017-07-18
 tags: [about neha]
 comments: true
