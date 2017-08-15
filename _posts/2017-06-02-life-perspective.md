@@ -95,15 +95,19 @@ A major project fell through? Your fault, you should have assigned it to someone
 ### Deep, seemingly intractable problems are often entirely solvable or manageable. 
 There are two possible views on seemingly intractable problems:
 
-*"I've decided my acne is never going away"*
+> "I've decided my acne is never going away"*
+
 or
-*"I've come to terms with the fact that I'm going to be insecure about X / have low self-esteem in that area"*
+
+> "I've come to terms with the fact that I'm going to be insecure about X / have low self-esteem in that area"*
 
 versus
 
-*"I know there's a solution to my acne. I just have to find it. I may have to try 30 products to find The One, but it's surely out there"*
+> "I know there's a solution to my acne. I just have to find it. I may have to try 30 products to find The One, but it's surely out there"*
+
 or
-*"I know I'm super insecure about X/have low self-esteem about it. And there is a way to get over it. I'll probably have to read a hundred books to find the 1 page that explains it, but in any case, the solution is out there -- I just have to dedicate the time to find it."*
+
+> "I know I'm super insecure about X/have low self-esteem about it. And there is a way to get over it. I'll probably have to read a hundred books to find the 1 page that explains it, but in any case, the solution is out there -- I just have to dedicate the time to find it."*
 
 I strongly believe in the latter - that solutions do exist for really hard problems -- it's just a matter of time (sometimes years) to find them.
 
