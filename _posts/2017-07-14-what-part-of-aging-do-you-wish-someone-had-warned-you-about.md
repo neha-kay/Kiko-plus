@@ -13,13 +13,19 @@ category: life
 
 # Being Humbled
 
-Today my friend forwarded [this Reddit page](https://www.reddit.com/r/AskReddit/comments/6n2g3j/what_part_of_aging_do_you_wish_someone_had_warned/){:target="_blank"} which describes what people wish they had known about aging. Below are some of my favorite quotes from it.
+Today my friend forwarded [this Reddit page](https://www.reddit.com/r/AskReddit/comments/6n2g3j/what_part_of_aging_do_you_wish_someone_had_warned/){:target="_blank"} which highlights what people wish they had known about aging. 
+
+Below are some of the perspectives which particularly resonated with me:
 
 ## Time Starts to Move Quickly
 
 > > My great grandma tried to warn me about this.. I didn't understand at the time seeing as I was at my high school graduation party and time seemed endless. She said to me that when you're young time seems endless you can think about your day in minutes that pass by. As you age you watch those minutes turn to what feel like seconds, hours will pass like minutes. In your adulthood you'll see days pass like seconds on your wrist watch. I asked her how fast time passed for her, she told me how she would feel as if she felt like she lost months at a time as she day dreamed of her past.
 
-> > Years are short, days are long.
+----
+
+> > The years are short, days are long.
+
+----
 
 > > 53 here. Your body will decline, yes, and if you don't use it you will DEFINTELY lose it. Do something every day, even if it's just taking a walk. But in return you gain something very valuable: wisdom and chill. Wisdom isn't intelligence--it's not like I turned 50 and could suddenly do differential equations. Wisdom is meeting someone and knowing just what their agenda is. Wisdom is being able to tell when someone's trying to manipulate you and turning it around on them. Wisdom is realizing that when someone shows you their true nature, you should believe them. And you do get chill. The little things that drove you absolutely bugfuck when you were 25 are not worth stressing about. You think to yourself, "Do I want to die on this hill?" The answer is usually no. And you stop giving fucks and that's wonderful. You give zero fucks about what people think of you because you've learned that, for one thing, people are pretty much only thinking about themselves, and two, you've lived your life as you've lived it and other people's opinions haven't affected it or you. They don't have to live your life or live with your choices. You do. So do what you want with your life and what is right for you. I know people my age who did what was expected of them and now they are bitter and miserable and hateful. And they know (but won't admit) that it's their own damn fault and that they are stuck living the rest of their lives with the results of their choices. 
 
