@@ -18,12 +18,11 @@ layout: default
     <a href="{{ nav.url | prepend: site.baseurl }}" >{{ nav.name }}</a>
     &thinsp;
     {% endif %}
-    {% endfor %}
-    {% for nav in site.nav %}
     {% if nav.name contains 'about' or nav.name contains 'new' %}
     <a href="{{ nav.url }}" target="_blank"><font color="#6495ed">{{ nav.name }}</font></a>
     {% endif %}
-    {% endfor %}  
+    {% endfor %}
+
   </nav>
 </header>
 
