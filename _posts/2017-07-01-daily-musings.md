@@ -12,7 +12,26 @@ permalink: /daily-musings/
 category: random
 ---
 
-# 31 Travel Thoughts
+<h3 style="color:#ff9900;"> What is the Daily Musings Page? </h3>
+
+Daily Musings is meant to be an outlet for short thought snippets -- no more, no less. 
+Why have one? Well, the goal, here is to write in free blog form more frequently. The theoretical backbone of daily musings is the following: 
+
+##### I. To produce more with perceived less
+Human nature underestimates what can be done in small increments over a long period of time and overestimates what can be done as a large chunk in a short period of time. A person authoring a book, for example, would likely get way more done writing an hour a day for a year than cramming in a weekend -- assuming, of course, that she sticks to that schedule. 
+
+It's cool to think that in 30 days, I'll have 30 awesome thought nuggets up here, especially given that a 5-minute post doesn't seem all that bad to do everyday =)
+
+##### II. To set the bar low in terms of size
+By defining the *Daily Musings* page as short 'thought nuggets' I set the bar low in terms of size. This prevents me from procrastinating writing, becuase writing a tidbit seems far more manageable than an entire post. 
+
+It's way easier for me to meet an expectation of a <500 word thought nugget versus a full on 1000+ word post. That comes with less cognitive resistance to posting (i.e. less procrastinating). 
+
+Eventually, I'll take the date tags off and it'll just be 'Daily Musings'. But for now, I totally need the extra accountability to continually re-visit and re-post.
+
+##### III. To make a space for pieces in production
+
+A lot of the thoughts you'll see here may end up as full blown posts. I've put them here in the meantime as a holding ground for the ideas, allowing me to share them until I have the time to scale them into full posts. 
 
 <h3 style="color:#6495ed;"> Anxiety v. Action | August 6, 2017 </h3>
 
@@ -238,20 +257,3 @@ But then I think about the weather; cold weather __does__ suck, after all. But y
 . . . but then again, that lasts about a week before it gets old. 
 
 But even with that in mind, I think the power of having such major cities at your disposal is pretty much irreplaceable -- at least for me. 
-
-<h3 style="color:#6495ed;"> Why Have a Daily Musings Page? | July 1, 2017 </h3>
-
-Daily Musings is meant to be an outlet for short thought snippets -- no more, no less. 
-Why have one? Well, the goal, here is to write in free blog form more frequently. The theoretical backbone of daily musings is the following: 
-
-##### I. To produce more with perceived less
-Human nature underestimates what can be done in small increments over a long period of time and overestimates what can be done as a large chunk in a short period of time. A person authoring a book, for example, would likely get way more done writing an hour a day for a year than cramming in a weekend -- assuming, of course, that she sticks to that schedule. 
-
-It's cool to think that in 30 days, I'll have 30 awesome thought nuggets up here, especially given that a 5-minute post doesn't seem all that bad to do everyday =)
-
-##### II. To set the bar low in terms of size
-By defining the *Daily Musings* page as short 'thought nuggets' I set the bar low in terms of size. This prevents me from procrastinating writing, becuase writing a tidbit seems far more manageable than an entire post. 
-
-It's way easier for me to meet an expectation of a <500 word thought nugget versus a full on 1000+ word post. That comes with less cognitive resistance to posting (i.e. less procrastinating). 
-
-Eventually, I'll take the date tags off and it'll just be 'Daily Musings'. But for now, I totally need the extra accountability to continually re-visit and re-post.
