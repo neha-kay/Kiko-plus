@@ -11,7 +11,7 @@ published: true
 category: about_neha
 ---
 
-## Navigate the Favorites
+## Navigate
 
 * Books --- A whole article coming soon 😊
 * [Quotes]({% post_url 2015-03-04-quotes %}){:target="_blank"}
