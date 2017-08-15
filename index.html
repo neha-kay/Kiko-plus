@@ -12,9 +12,11 @@ layout: default
   <nav class="header-nav">
     {% for nav in site.nav %}
     {% if nav.url contains 'http://' or nav.url contains 'https://' %}
-    <a href="{{ nav.url }}">{{ nav.name }}</a>
+    <a href="{{ nav.url }}" target="_blank"><font color="#6495ed">{{ nav.name }}</font></a>
+    &thinsp;
     {% else %}
-    <a href="{{ nav.url | prepend: site.baseurl }}">{{ nav.name }}</a>
+    <a href="{{ nav.url | prepend: site.baseurl }}" ><font color="#6495ed">{{ nav.name }}</font></a>
+    &thinsp;
     {% endif %}
     {% endfor %}
   </nav>

@@ -90,7 +90,7 @@ __Over time, you can change the way people act towards you by changing how you a
 
 I think, even with the seemingly 'meanest' person, if one has the patience to continuously show them a softer side, that person will slowly soften as well, mirroring how you treat them. Sure it may take time, and most of us don't have this kind of patience, but I think for the majority of people, this is most definitely the case. 
 
-As Gretchen Rubin puts it, _"I can’t make [someone else] change, but when I change, a relationship changes."_
+As Gretchen Rubin puts it, "_I can’t make [someone else] change, but when I change, a relationship changes._"
 
 ### As a leader, everything is your fault.
 For me, being a leader comes down to 100% ownership. 
