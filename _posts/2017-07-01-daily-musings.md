@@ -12,38 +12,27 @@ permalink: /daily-musings/
 category: random
 ---
 
-<h3 style="color:#ff9900;"> What is the Daily Musings Page? </h3>
-
-This page is meant to be an outlet for short thought snippets -- no more, no less. 
-Why have one? Well, the goal, here is to write in free blog form more frequently. The theoretical backbone of daily musings is the following: 
-
-##### I. To produce more with perceived less
-Human nature underestimates what can be done in small increments over a long period of time and overestimates what can be done as a large chunk in a short period of time. A person authoring a book, for example, would likely get way more done writing an hour a day for a year than cramming in a weekend -- assuming, of course, that she sticks to that schedule. 
-
-It's cool to think that in 30 days, I'll have 30 awesome thought nuggets up here, especially given that a 5-minute post doesn't seem all that bad to do everyday =)
-
-##### II. To set the bar low in terms of size
-By defining the *Daily Musings* page as short 'thought nuggets' I set the bar low in terms of size. This prevents me from procrastinating writing, becuase writing a tidbit seems far more manageable than an entire post. 
-
-It's way easier for me to meet an expectation of a <500 word thought nugget versus a full on 1000+ word post. That comes with less cognitive resistance to posting (i.e. less procrastinating). 
-
-Eventually, I'll take the date tags off and it'll just be 'Daily Musings'. But for now, I totally need the extra accountability to continually re-visit and re-post.
-
-##### III. To make a space for pieces in production
-
-A lot of the thoughts you'll see here may end up as full blown posts. I've put them here in the meantime as a holding ground for the ideas, allowing me to share them until I have the time to scale them into full posts. 
+# 31 Travel Thoughts
 
 <h3 style="color:#6495ed;"> Anxiety v. Action | August 6, 2017 </h3>
 
-> "The antidote to anxiety is action." 
-> 
-> --- Old Proverb
+> "Antidote to anxiety is action" 
 
-<h3 style="color:#6495ed;"> On Writing Part II | August 10, 2017 </h3>
+<h3 style="color:#6495ed;"> On Writing II | August 10, 2017 </h3>
 
 Sometimes I have trouble writing. But usually that only happen when I have an unclear sense of what I want to write. It's a content problem, not a discipline problem. I think that can be generalized; in other words, writing can be an irritating or drawn-out process, but when you know what to say, when distillation follows distillation, it flows naturally, effortlessly. 
 
 I guess the reason I find blog-making fun, why I've been able to get super into it, is because I _love_ distilling things. Blog-writing (e.g. pretending people out there actually want to read what you're writing) allows me to engage hours on end in this distillation process of converting a nebulous mental schema into a concrete written one with the satisfaction of knowing other people will be helped by it.
+
+<h3 style="color:#6495ed;"> Not My Circus . . . | August 7, 2017 </h3>
+
+> > "Not my circus, not my monkeys"
+
+-- An old Polish proverb
+
+An epic saying, which, as [explained by Robert Osowiecki](https://www.quora.com/What-does-the-Polish-proverb-not-my-circus-not-my-monkeys-mean){:target="_blank"} means:
+
+“I won’t interfere or bother myself with trouble in a place I don’t belong to or have no authority — it’s someone else’s job to deal with this”
 
 <h3 style="color:#6495ed;"> What You Haven't Focused On | August 6, 2017 </h3>
 
@@ -250,12 +239,19 @@ But then I think about the weather; cold weather __does__ suck, after all. But y
 
 But even with that in mind, I think the power of having such major cities at your disposal is pretty much irreplaceable -- at least for me. 
 
-<h3 style="color:#6495ed;"> Not My Circus, not my monkeys. . . | July 1, 2017 </h3>
+<h3 style="color:#6495ed;"> Why Have a Daily Musings Page? | July 1, 2017 </h3>
 
-> "Not my circus, not my monkeys."
-> 
-> -- An old Polish proverb
+Daily Musings is meant to be an outlet for short thought snippets -- no more, no less. 
+Why have one? Well, the goal, here is to write in free blog form more frequently. The theoretical backbone of daily musings is the following: 
 
-An epic saying, which, as [explained by Robert Osowiecki](https://www.quora.com/What-does-the-Polish-proverb-not-my-circus-not-my-monkeys-mean){:target="_blank"} means:
+##### I. To produce more with perceived less
+Human nature underestimates what can be done in small increments over a long period of time and overestimates what can be done as a large chunk in a short period of time. A person authoring a book, for example, would likely get way more done writing an hour a day for a year than cramming in a weekend -- assuming, of course, that she sticks to that schedule. 
 
-_“I won’t interfere or bother myself with trouble in a place I don’t belong to or have no authority — it’s someone else’s job to deal with this”_
+It's cool to think that in 30 days, I'll have 30 awesome thought nuggets up here, especially given that a 5-minute post doesn't seem all that bad to do everyday =)
+
+##### II. To set the bar low in terms of size
+By defining the *Daily Musings* page as short 'thought nuggets' I set the bar low in terms of size. This prevents me from procrastinating writing, becuase writing a tidbit seems far more manageable than an entire post. 
+
+It's way easier for me to meet an expectation of a <500 word thought nugget versus a full on 1000+ word post. That comes with less cognitive resistance to posting (i.e. less procrastinating). 
+
+Eventually, I'll take the date tags off and it'll just be 'Daily Musings'. But for now, I totally need the extra accountability to continually re-visit and re-post.
