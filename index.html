@@ -15,7 +15,7 @@ layout: default
     <a href="{{ nav.url }}" >{{ nav.name }}</a>
     &thinsp;
     {% else %}
-    <a href="{{ nav.url | prepend: site.baseurl }}" >{{color:#ff9900|nav.name }}</a>
+    <a href="{{ nav.url | prepend: site.baseurl }}" ><font color="green">{{ nav.name }}</font></a>
     &thinsp;
     {% endif %}
     {% endfor %}
