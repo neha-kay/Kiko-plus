@@ -11,19 +11,17 @@ published: true
 category: about_neha
 ---
 
-Below are links to some of my favorite learning sources. I've copied and pasted each resources' self-description to help you get a better sense about what each is about. 
-
 ### Favorite Books
 
 A whole article on this coming soon! 
 
 ### Favorite Blogs
 
-* [Wait But Why](https://waitbutwhy.com){:target="_blank"}
-A long-form blog which analyzes all aspects of life and technology.
+[Wait But Why](https://waitbutwhy.com){:target="_blank"}
+* A long-form blog which analyzes all aspects of life and technology.
 
-* [James Clear](http://jamesclear.com/articles){:target="_blank"}
-James writes various pieces on productivity, habits and organization. 
+[James Clear](http://jamesclear.com/articles){:target="_blank"}
+* James writes various pieces on productivity, habits and organization. 
 
 ### Favorite Articles
 
