@@ -14,12 +14,11 @@ layout: default
     {% if nav.url contains 'http://' or nav.url contains 'https://' %}
     <a href="{{ nav.url }}" target="_blank">{{ nav.name }}</a>
     &thinsp;
+    {% else if nav.name contains 'about' or nav.name contains 'new' %}
+    <a href="{{ nav.url }}" target="_blank"><font color="#6495ed">{{ nav.name }}</font></a>
     {% else %}
     <a href="{{ nav.url | prepend: site.baseurl }}" >{{ nav.name }}</a>
     &thinsp;
-    {% endif %}
-    {% if nav.name contains 'about' or nav.name contains 'new' %}
-    <a href="{{ nav.url }}" target="_blank"><font color="#6495ed">{{ nav.name }}</font></a>
     {% endif %}
     {% endfor %}
 
