@@ -82,8 +82,15 @@ We all love being loved. This reminds me to freely and unabashedly affirm those 
 ### The way you present an argument is just as important as the argument itself.
 As they say, a spoonful of honey catches more flies than a gallon of vinegar. This reminds me to forgo the temptation of winning a debate or becoming argumentative in favor of a more effective method of convincing someone.
 
-### People are not immutably 'mean' or 'kind'; over time, you can change the way people act towards you by changing how you act towards them.
-Or as Gretchen Rubin puts it, I can’t make [someone else] change, but when I change, a relationship changes.
+### People are not immutably bad.
+
+We all have that one friend who we didn't quite like at first, but over time, got to know better, which then allowed for a deeper friendship to grow. 
+
+__Over time, you can change the way people act towards you by changing how you act towards them.__ 
+
+I think, even with the seemingly 'meanest' person, if one has the patience to continuously show them a softer side, that person will slowly soften as well, mirroring how you treat them. Sure it may take time, and most of us don't have this kind of patience, but I think for the majority of people, this is most definitely the case. 
+
+As Gretchen Rubin puts it, _"I can’t make [someone else] change, but when I change, a relationship changes."_
 
 ### As a leader, everything is your fault.
 For me, being a leader comes down to 100% ownership. 
@@ -93,23 +100,34 @@ People aren't getting along? Your fault - you should have done more team-bonding
 A major project fell through? Your fault, you should have assigned it to someone with more commitment to making it happen. 
 
 ### Deep, seemingly intractable problems are often entirely solvable or manageable. 
-There are two possible views on seemingly intractable problems:
+There are two possible views on seemingly intractable problems --- a fixed mindset versus a growth mindset:
 
-> "I've decided my acne is never going away"*
-
-or
-
-> "I've come to terms with the fact that I'm going to be insecure about X / have low self-esteem in that area"*
-
-versus
-
-> "I know there's a solution to my acne. I just have to find it. I may have to try 30 products to find The One, but it's surely out there"*
+##### A Fixed Mindset
+> "I've decided my acne is never going away."
 
 or
 
-> "I know I'm super insecure about X/have low self-esteem about it. And there is a way to get over it. I'll probably have to read a hundred books to find the 1 page that explains it, but in any case, the solution is out there -- I just have to dedicate the time to find it."*
+> "I've come to terms with the fact that I'm going to be insecure about X / have low self-esteem in that area."
 
-I strongly believe in the latter - that solutions do exist for really hard problems -- it's just a matter of time (sometimes years) to find them.
+or 
+
+> "I'm just bad at math."
+
+##### A Growth Mindset
+
+> "I know there's a solution to my acne. I just have to find it. I may have to try 30 products to find The One, but it's surely out there"
+
+or
+
+> "I know I'm super insecure about X/have low self-esteem about it. And there is a way to get over it. I'll probably have to read a hundred books to find the 1 page that explains it, but in any case, the solution is out there -- I just have to dedicate the time to find it."
+
+or 
+
+> "With enough practice, I can get better at math."
+
+I strongly believe in the latter - that solutions __do__ exist for really hard problems -- it's just a matter of time (sometimes years) to find them. 
+
+__I strongly believe that achievement is more a function of how you play the cards you have than a function of how the cards were dealt.__
 
 ### The only thing you can do in life is not make the same mistakes over and over again. 
 
