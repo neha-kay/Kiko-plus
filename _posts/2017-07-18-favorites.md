@@ -42,8 +42,7 @@ James writes various pieces on productivity, habits and organization.
 * [The truth about the gender wage gap](https://www.vox.com/2016/8/1/12108126/gender-wage-gap-explained-real){:target="_blank"}
 
 ##### Career
-* [https://qz.com/640112/the-career-advice-no-one-tells-you/](https://qz.com/640112/the-career-advice-no-one-tells-you/
-){:target="_blank"}
+* [The Career Advice No One Tells You](https://qz.com/640112/the-career-advice-no-one-tells-you/){:target="_blank"}
 
 * [Why Did Most of Dartmouth’s Valedictorians Become Investment Bankers and Consultants? The Need for a Deeper Vocabulary of Career Aspiration](http://calnewport.com/blog/2013/07/03/why-did-most-of-dartmouths-valedictorians-become-investment-bankers-and-consultants-the-need-for-a-deeper-vocabulary-of-career-aspiration/){:target="_blank"}
 
@@ -74,8 +73,47 @@ James writes various pieces on productivity, habits and organization.
 
 ### Favorite Podcasts
 
+(Descriptions copied below from each podcast's website)
+
+##### Life Perspective
+
+[Happier with Gretchen Rubin](http://gretchenrubin.com/podcast/){:target="_blank"}
+* A podcast hosted by best-selling author Gretchen Rubin and TV writer and producer, Elizabeth Craft which discusses happiness, good habits, and human nature.
+
+[Happier in Hollywood](http://happierinhollywood.com/){:target="_blank"}
+* How to be happier, saner, more creative, more successsful, and more productive in a back-biting, superficial, chaotic, unpredictable, and fundamentally insane world.
+
+[Invisibilia](http://www.npr.org/podcasts/510307/invisibilia){:target="_blank"}
+* Invisibilia is about the invisible forces that control human behavior - ideas, beliefs, assumptions, and emotions. 
+
+##### Didactic 
+[Freakonomics Radio](freakonomics.com/archive/){:target="_blank"}
+* Each week, hear surprising conversations that explore the riddles of everyday life and the weird wrinkles of human nature --- from cheating to crime to parenting and sports. Dubner talks with Nobel laureates and provocateurs, social scientists and entrepreneurs. 
+
+[Revisionist History](revisionisthistory.com/){:target="_blank"}
+* Malcolm Gladwell's journey through the overlooked and the misunderstood. Every episode re-examines something from the past --- an event, a person, an idea, even a song --- and asks whether we got it right the first time. 
+
+##### Career 
+[How I Built This](www.npr.org/podcasts/510313/how-i-built-this){:target="_blank"}
+* A podcast about innovators, entrepreneurs, and idealists, and the stories behind the movements they built. Each episode is a narrative journey marked by triumphs, failures, serendipity, and insight --- told by the founders of some of the world's best known companies and brands. 
+
+[Success! How I Did It](https://www.acast.com/howididit){:target="_blank"}
+* Shontell interviews successful CEOs, entrepreneurs, and business leaders about how they built successful companies, and the career paths that took them to the top. 
+
+##### On Relationships
+
+[Where Should We Begin?](https://www.estherperel.com/podcast){:target="_blank"}
+* Real couples. Candid conversations. Surprising truths. Listen in as the foremost authority on modern love, Esther Perel, meets with real couples --- and their stories become your stories.
+
+##### Other
+[Side Hustle School](https://sidehustleschool.com/){:target="_blank"}
+* A daily show for everyone who works a regular job and wants to start an income-earning project on the side. In each episode, listeners will hear a different story of someone who's started a side hustle --- along with what went well, how that person overcame challenges, and what happened as a result.
+
+[Ear Hustle](https://www.earhustlesq.com/){:target="_blank"}
+* Ear Hustle brings you the stories of life inside prison, shared and produced by those living it. 
+
 ### Favorite Podcast Episodes
 
-[How I Built This - Sara Blakely](https://itunes.apple.com/us/podcast/how-i-built-this/id1150510297?mt=2&i=375191888){:target="_blank"}
+* [How I Built This - Sara Blakely](https://itunes.apple.com/us/podcast/how-i-built-this/id1150510297?mt=2&i=375191888){:target="_blank"}
 
-[Happier: What's the Best Advice You've Ever Gotten?](http://gretchenrubin.com/happiness_project/2016/06/podcast-70-best-advice/){:target="_blank"}
+* [Happier: What's the Best Advice You've Ever Gotten?](http://gretchenrubin.com/happiness_project/2016/06/podcast-70-best-advice/){:target="_blank"}
