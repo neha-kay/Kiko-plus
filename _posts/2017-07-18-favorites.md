@@ -11,9 +11,22 @@ published: true
 category: about_neha
 ---
 
+## Navigate the Favorites
+
+* Books --- A whole article coming soon 😊
+* [Quotes]({% post_url 2015-03-04-quotes %}){:target="_blank"}
+* [Blogs](#favorite-blogs)
+* [Articles](#favorite-articles)
+* [Podcasts](#favorite-podcasts)
+* [Podcast Episodes](#favorite-podcast-episodes)
+
 ## Favorite Books
 
 A whole article on this coming soon! 
+
+## Favorite Quotes
+
+A whole article of these [here]({% post_url 2015-03-04-quotes %}){:target="_blank"}
 
 ## Favorite Blogs
 
