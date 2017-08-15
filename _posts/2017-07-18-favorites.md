@@ -11,34 +11,37 @@ published: true
 category: about_neha
 ---
 
-## Favorite Books
+Below are links to some of my favorite learning sources. I've copied and pasted each resources' self-description to help you get a better sense about what each is about. 
 
-A whole article on this dedicated here. 
+### Favorite Books
 
-## Blogs
+A whole article on this coming soon! 
 
-Wait But Why
+### Favorite Blogs
 
-[James Clear](http://jamesclear.com/articles){:target="_blank"}
+* [Wait But Why](https://waitbutwhy.com){:target="_blank"}
+A long-form blog which analyzes all aspects of life and technology.
 
+* [James Clear](http://jamesclear.com/articles){:target="_blank"}
+James writes various pieces on productivity, habits and organization. 
 
-## Favorite Articles
+### Favorite Articles
 
-### Life Perspective
+##### Life Perspective
 
 * [The Tail End](https://waitbutwhy.com/2015/12/the-tail-end.html){:target="_blank"}
 
-### Habits / Productivity / Positive Psychology
+##### Habits / Productivity / Positive Psychology
 * [How to Start a Company With No Free Time](https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a){:target="_blank"}
 
 * [If You Are Looking for Reasons to Be Happy, You’ll Probably Find Them](https://www.becomingminimalist.com/look/){:target="_blank"}
 
-### Feminism
+##### Feminism
 * [Why I Put My Wife’s Career First](https://www.theatlantic.com/magazine/archive/2015/10/why-i-put-my-wifes-career-first/403240/){:target="_blank"}
 
 * [The truth about the gender wage gap](https://www.vox.com/2016/8/1/12108126/gender-wage-gap-explained-real){:target="_blank"}
 
-### Career
+##### Career
 * [https://qz.com/640112/the-career-advice-no-one-tells-you/](https://qz.com/640112/the-career-advice-no-one-tells-you/
 ){:target="_blank"}
 
@@ -48,11 +51,11 @@ Wait But Why
 
 * [How to Become a C.E.O.? The Quickest Path Is a Winding One](https://www.nytimes.com/2016/09/11/upshot/how-to-become-a-ceo-the-quickest-path-is-a-winding-one.html){:target="_blank"}
 
-### Health
+##### Health
 
 * [After ‘The Biggest Loser, Their Bodies Fought to Regain Weight](https://www.nytimes.com/2016/05/02/health/biggest-loser-weight-loss.html){:target="_blank"}
 
-### Romantic Relationships 
+##### Romantic Relationships 
 * [How to Pick Your Life Partner](https://waitbutwhy.com/2014/02/pick-life-partner-part-2.html){:target="_blank"}
 
 * [To Fall in Love With Anyone, Do This](https://www.nytimes.com/2015/01/11/fashion/modern-love-to-fall-in-love-with-anyone-do-this.html){:target="_blank"}
@@ -65,12 +68,13 @@ Wait But Why
 
 * [To Stay in Love, Sign on the Dotted Line](https://www.nytimes.com/2017/06/23/style/modern-love-to-stay-in-love-sign-on-the-dotted-line-36-questions.html){:target="_blank"}
 
-### Friendships
+##### Friendships
 
 * [How Friendships Change in Adulthood](https://www.theatlantic.com/health/archive/2015/10/how-friendships-change-over-time-in-adulthood/411466/?utm_source=pocket&utm_medium=email&utm_campaign=pockethits){:target="_blank"}
 
+### Favorite Podcasts
 
-## Favorite Podcast Episodes
+### Favorite Podcast Episodes
 
 [How I Built This - Sara Blakely](https://itunes.apple.com/us/podcast/how-i-built-this/id1150510297?mt=2&i=375191888){:target="_blank"}
 
