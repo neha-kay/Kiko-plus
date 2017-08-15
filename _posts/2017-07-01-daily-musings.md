@@ -35,23 +35,15 @@ A lot of the thoughts you'll see here may end up as full blown posts. I've put t
 
 <h3 style="color:#6495ed;"> Anxiety v. Action | August 6, 2017 </h3>
 
-> "Antidote to anxiety is action" 
+> "The antidote to anxiety is action." 
+> 
+> --- Old Proverb
 
-<h3 style="color:#6495ed;"> On Writing II | August 10, 2017 </h3>
+<h3 style="color:#6495ed;"> On Writing Part II | August 10, 2017 </h3>
 
 Sometimes I have trouble writing. But usually that only happen when I have an unclear sense of what I want to write. It's a content problem, not a discipline problem. I think that can be generalized; in other words, writing can be an irritating or drawn-out process, but when you know what to say, when distillation follows distillation, it flows naturally, effortlessly. 
 
 I guess the reason I find blog-making fun, why I've been able to get super into it, is because I _love_ distilling things. Blog-writing (e.g. pretending people out there actually want to read what you're writing) allows me to engage hours on end in this distillation process of converting a nebulous mental schema into a concrete written one with the satisfaction of knowing other people will be helped by it.
-
-<h3 style="color:#6495ed;"> Not My Circus . . . | August 7, 2017 </h3>
-
-> > "Not my circus, not my monkeys"
-
--- An old Polish proverb
-
-An epic saying, which, as [explained by Robert Osowiecki](https://www.quora.com/What-does-the-Polish-proverb-not-my-circus-not-my-monkeys-mean){:target="_blank"} means:
-
-“I won’t interfere or bother myself with trouble in a place I don’t belong to or have no authority — it’s someone else’s job to deal with this”
 
 <h3 style="color:#6495ed;"> What You Haven't Focused On | August 6, 2017 </h3>
 
@@ -257,3 +249,13 @@ But then I think about the weather; cold weather __does__ suck, after all. But y
 . . . but then again, that lasts about a week before it gets old. 
 
 But even with that in mind, I think the power of having such major cities at your disposal is pretty much irreplaceable -- at least for me. 
+
+<h3 style="color:#6495ed;"> Not My Circus, not my monkeys. . . | July 1, 2017 </h3>
+
+> "Not my circus, not my monkeys."
+> 
+> -- An old Polish proverb
+
+An epic saying, which, as [explained by Robert Osowiecki](https://www.quora.com/What-does-the-Polish-proverb-not-my-circus-not-my-monkeys-mean){:target="_blank"} means:
+
+_“I won’t interfere or bother myself with trouble in a place I don’t belong to or have no authority — it’s someone else’s job to deal with this”_
