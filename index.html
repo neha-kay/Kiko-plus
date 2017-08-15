@@ -11,8 +11,6 @@ layout: default
   </div>
   <nav class="header-nav">
     {% for nav in site.nav %}
-    {% if nav.name contains 'about' or nav.name contains 'new' %}
-    <a href="{{ nav.url }}" target="_blank"><font color="#6495ed">{{ nav.name }}</font></a>
     {% if nav.url contains 'http://' or nav.url contains 'https://' %}
     <a href="{{ nav.url }}" target="_blank">{{ nav.name }}</a>
     &thinsp;
@@ -21,6 +19,11 @@ layout: default
     &thinsp;
     {% endif %}
     {% endfor %}
+    {% for nav in site.nav %}
+    {% if nav.name contains 'about' or nav.name contains 'new' %}
+    <a href="{{ nav.url }}" target="_blank"><font color="#6495ed">{{ nav.name }}</font></a>
+    {% endif %}
+    {% endfor %}  
   </nav>
 </header>
 
