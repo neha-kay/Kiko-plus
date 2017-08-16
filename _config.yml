@@ -59,7 +59,7 @@ nav:
     url:            "/about"
   - name:           "Archive"
     url:            "/archive"
-  - name:           "Daily Musings"
+  - name:           "Musings"
     url:            "/daily-musings/"
   - name:           "Guides"
     url:            "/guides/"
