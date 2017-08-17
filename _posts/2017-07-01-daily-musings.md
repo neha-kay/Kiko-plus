@@ -117,24 +117,24 @@ I am an exercise explosion waiting to happen.
 
 Some interesting tidbits from [an article I read](https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a){:target="_blank"} by Sara Mauskopf: 
 
-" <h3> Prepare your tasks </h3>
-I spent time every week figuring out what I needed to accomplish and breaking that work into smaller, bite sized chunks. I had tiny projects that could be completed in a free 15 minutes, larger projects that would require a few hours, and all kinds of stuff in between. This was all waiting for me in priority order.
-
-This way, if I had a few minutes to kill while my husband was waiting for an appointment or a couple hours while my daughter was napping, I didn’t need to waste any of that precious time figuring out what to work on. I got right to work on one of the tasks I had already prepared. This requires upfront planning but doesn’t take very long and it means you only do the planning work once and you have tasks for the whole week. Use Asana or Google Doc for this!"
+<h3> Prepare your tasks </h3>
+> I spent time every week figuring out what I needed to accomplish and breaking that work into smaller, bite sized chunks. I had tiny projects that could be completed in a free 15 minutes, larger projects that would require a few hours, and all kinds of stuff in between. This was all waiting for me in priority order.
+>
+> This way, if I had a few minutes to kill while my husband was waiting for an appointment or a couple hours while my daughter was napping, I didn’t need to waste any of that precious time figuring out what to work on. I got right to work on one of the tasks I had already prepared. This requires upfront planning but doesn’t take very long and it means you only do the planning work once and you have tasks for the whole week. Use Asana or Google Doc for this!"
 
 <h3> Ask for actionable help </h3>
 
-People are really bad at being helpful. Even when people ask to help you, they usually don’t follow through with it or do it in a way that is actually helpful. A lot of people would ask me how they could help me with Winnie and I’d say things like “I’d love your feedback on the app!” and I’d hear back… nothing.
-
-It turns out “give me feedback” isn’t actionable enough for most people. Now when someone asks me how they can help I will give them something very specific to do: “Download Winnie at winnie.com/ios and write a review of your favorite playground”.
-
-When someone completes this task then they naturally also have feedback for me on what worked well or what could be better about the product.
+> People are really bad at being helpful. Even when people ask to help you, they usually don’t follow through with it or do it in a way that is actually helpful. A lot of people would ask me how they could help me with Winnie and I’d say things like “I’d love your feedback on the app!” and I’d hear back… nothing.
+> 
+> It turns out “give me feedback” isn’t actionable enough for most people. Now when someone asks me how they can help I will give them something very specific to do: “Download Winnie at winnie.com/ios and write a review of your favorite playground”.
+> 
+> When someone completes this task then they naturally also have feedback for me on what worked well or what could be better about the product.
 
 <h3> Force yourself to do things imperfectly </h3>
 
-To give a very practical example, I have given myself an hour to write this post before I’m on childcare duty. I can publish the post after that hour or I can spend more time later polishing it and making it perfect. I’m forcing myself to publish the piece before the hour is up even though it probably has some typos and maybe could be written more concisely.
-
-The extra couple hours I could spend polishing it won’t make a massive difference in the number of people who read and benefit from this post. Perfectionism is a tough habit to break so you have to set time limits and force yourself to just put things out there even if they aren’t 100% perfect."
+> To give a very practical example, I have given myself an hour to write this post before I’m on childcare duty. I can publish the post after that hour or I can spend more time later polishing it and making it perfect. I’m forcing myself to publish the piece before the hour is up even though it probably has some typos and maybe could be written more concisely.
+> 
+> The extra couple hours I could spend polishing it won’t make a massive difference in the number of people who read and benefit from this post. Perfectionism is a tough habit to break so you have to set time limits and force yourself to just put things out there even if they aren’t 100% perfect."
 
 <h3 style="color:#6495ed;"> | July 24, 2017 </h3>
 <h3 style="color:#6495ed;"> | July 23, 2017 </h3>

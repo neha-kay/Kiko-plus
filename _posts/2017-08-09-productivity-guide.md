@@ -322,4 +322,13 @@ The best way to try and maximize both quantity and quality is to:
 * Perform an accountability sprint to get as much as I can done.
 * Once the work is done, go back to add to the quality. 
 
-By Neha Kulkarni
+## Conclusion
+
+And that's pretty much it! If you have any questions *at all* about implementing this, improving it, walking through accountability declarations --- literally anything --- email me at[neha@nehakay.com](mailto:neha@nehakay.com). I **love** talking about this stuff and helping you work through it would literally be a hobby for me. 
+
+This Productivity Guide has 4 sections in total:
+
+I. The Accountability Guide (this section of the guide)
+II. [The Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}
+III. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"}
+IV. Crowdsourced Tips on Being More Productive
