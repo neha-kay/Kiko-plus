@@ -135,7 +135,7 @@ The crux of this system is having a friend hold us accountable to 'turning in' a
 
 To do this, we need the following elements: 
 
-#### I. A friend who’s willing to hold you accountable.
+#### I. An *Accountability Buddy* who’s willing to hold you accountable.
 
 This friend needs to be willing to enforce a deadline and a set of consequences.
 
@@ -180,10 +180,106 @@ This one's pretty easy --- something along the lines of *11:59 pm EST +/- 5 minu
 
 It's generally a good idea to include a 5 minute grace period. The last thing you want is to lose $20 because you finished something 1 minute late. 
 
-## A couple downsides of the Accountability Framework.
+## Implementing an Accountability Sprint.
 
-#### You can control quantity, not quality. 
+Cool. Now that we have the ingredients of our accountability framework, we're ready for an:
 
+* **Accountability Sprint** --- a period of time when your friend is holding you to a deadline, and you're in the productive zone of 'sprinting' to meet the deadline and deliverable standards and avoid the negative consequences.
+* **Accountability Declaration** --- this is the formal write-up of the deliverables, due date, and consequences that you'll message or email your Accountability buddy. 
+
+To give you a better sense of how to implement this **well**, I'll run through an example of converting a bad Accountability Declaration into a good one. I'd recommend you take a moment now to figure out what you're trying to work towards and have a draft that you can modify as you read through this. 
+
+### Setting up an Accountability Declaration
+
+#### A Bad Declaration
+I’ll email you statistics on distribution of wage/salary income of people with college degrees in metropolitan centers. 
+
+##### Why it's Bad | Vague
+So what exactly does checking for *distribution of wage/salary income" mean? How do you quantifiy *statistics* into something checkable? How many metropolitan centers? There's a lot of ambiguity that creates unnecessary wiggle room.
+
+##### Why it’s Bad | No Time
+There’s no due date associated with the task. By when? What time? You want the accountability declaration to be as specific as possible so that there’s absolutely no wiggle room (unless pre-outlined) on your end. 
+
+##### Why it’s Bad | No Deliverable
+What tangible element is the friend going to check for? It's unclear.
+
+##### Why it’s Bad | Too Esoteric
+It’s not in layman/easy-to-check terms. 
+
+Unless your friend is a labor economics and statistics expert, she’s going to have a _really_ hard time figuring out if you *really* did all of the items above. And if (s)he's not sure, most people will likely let you off the hook, which is really bad because it compromises the integrity of the system. 
+
+Plus, you irritate your friend by asking them to parse through rather dense material, rather than giving them an easy set of things to check for.
+
+#### How to Improve It:
+A better accountability declaration would be the following: 
+
+Overall Topic: Distribution of wage/salary income
+
+**Deliverable I: 4 bar graphs of the distribution of wage/salary income of Americans.**
+* Delivery method: A PDF report, sent via email. 
+* Rubric: Check all 4 bar graphs are there, emailed on time, complete with detailed legend and a short paragraph explaining the data.
+* Consequence/Due Date: $10 penalty paid by Venmo if not emailed by 11:59 pm EST.
+
+** Deliverable II. A set of 4 mean, median, and quartile information blocks for each of the graphs** 
+* Delivery method: Sent in body of email.
+* Rubric: Check all 4 sets of data are there (12 in total), emailed on time.
+* Consequence/Due Date: $5 penalty for each of the 12 data blocks, paid by Venmo if not emailed by 11:59 pm EST.
+
+Do you see what a **huge** change in specificity that is from the original declaration? Specifically, we parsed ambiguous terms like "statistics" into very checkable elements (mean, median, mode information blocks) along with fixing all the problems listed above.
+
+## A template for Accountability Declarations
+
+Use the following template when writing out declarations and mirror the example above when writing Accountability Declarations: 
+
+Overall Topic:
+
+Deliverable I:
+* Delivery method:  
+* Rubric: 
+* Consequence/Due Date: 
+
+
+
+
+## Other Important Implementation Tips
+
+##### Aim for week long accountability sprints, not longer  (at least in the beginning).
+
+My accountability sprints are never more than 1-2 weeks long. If you're just starting out, it's *especially* important to have shorter accountability sprints for 2 reasons: 
+
+* If you fail or mess up, you have less money on the line to lose.
+
+I once had a friend who made a month long accountability declaration, got sick which threw him entirely off schedule, and ended up owing upwards of $100 for his missed deadlines. 
+
+With shorter, week-long deadlines you have far less to lose.
+
+* Shorter accountability sprints allow for more fine-tuning. 
+
+The shorter the cycle, the more quickly you can change up what is and isn't working (see the next tip).
+
+* Shorter feedback cycles can be more rewarding.
+
+You meet the deadline quicker and therefore feel the euphoria of getting something done more often. It's pretty energizing. 
+
+##### Fine-tune your system as you set up further accountability sprints.
+
+Did you over-estimate how much you had to finish the first sprint? Then fix that for the next one. Were you not specific enough in describing deliverables? Fix that in the next one. 
+
+Since your sprints are only 1 week long, you can easily fix something that's off. 
+
+## Troubleshooting
+
+##### My friend let me off the hook. Is this really that bad?
+
+Yes. yes. yes. 
+
+When people let you off the hook for missing a deadline or a deliverable standard, it compromises the integrity of the system. 
+
+In the short run, it's good, because you save how much ever money you put on the line. But in the long run, if you know you’ll be off the hook this time, you’ll figure you’ll be off the hook in the future, leaving room for you to slack off in future accountability declarations. This fundamentally compromises the very thing that makes the system work -- an expectation of performance. 
+
+So if you tried it, and it failed, no problem. I'd recommend trying again, making sure you're following all the tips above. 
+
+##### This helps me get work done, but how do I make sure what I'm doing is high quality work? 
 We've all experienced that feeling of cramming before a deadline --- heck that may just be a deadline meeting routine for us. The fact of the matter is, **accountability frameworks can guarantee that you'll get something done well, but not necessarily done well.**
 
 Sometimes you can quantify what it means for a deliverable to be done well – for example, specifying “4 bar charts” and further details about the charts, but often, it’s hard to perfectly quantify what our best work is. 
