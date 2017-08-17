@@ -16,7 +16,7 @@ If you're the type of person who gets an idea and actually has the willpower/int
 
 But if you're someone like me, who has a ton of projects and ideas but little motivation to follow through and actually do, then this guide is for you. 
 
-### What this guide is for
+### Who I am
 Maybe you're thinking, _who are you to write a productivity guide_? And honestly, I'm nobody; I am neither the most productive person nor a timeless sage on the topic. 
 
 That being said, I *do* have a knack for getting beyond my natural laziness/lack of self-discipline to actually get things done.
@@ -25,6 +25,7 @@ I generally have a ton of projects I love the _idea_ of doing, but on a day-to-d
 
 This includes doing the hardest introduction to coding, Harvard's CS 50 course as a side project while doing a full courseload at Oxford University, waking up at an average of 8:30 am in college despite being a senior with a good number of job offers and a natural tendency to sleep in to 10:30 or 11 am, and following through on side projects like this blog, making progress on a $7,500 scholarship, and a number of other things that needed to get done. 
 
+### What this guide is for. 
 Fundamentally, this guide seeks to answer the following 3 questions: 
 
 1. __How can I get beyond my natural laziness/lack of self-discipline to actually get valuable projects done?__
@@ -33,7 +34,7 @@ Fundamentally, this guide seeks to answer the following 3 questions:
 
 3. How do I organize my time?
 
-### What this guide isn't
+### What this guide isn't for.
 
 ##### This guide isn't a quick skim or a list of 10 tips. 
 
@@ -47,11 +48,20 @@ Everyone responds to expectations and work differently --- that's why there are 
 
 Gretchen Rubin describes 4 different categories in which people fall into based on how they respond to expectations: 
 
-1. __Upholders__ meet both inner and outer expectations. In other words, if an upholder gets a personal trainer (outer expectation, they'll go to the gym). If they make a commitment to themselves to go to the gym, they'll still go to the gym (inner expectation). Example: Hermione Granger.
+1. __Upholders__ meet both *inner and outer expectations*. 
 
-2. __Obligers__ meet outer expectations but not inner expectations. They'll 100% go to the gym if they're meeting a personal trainer but won't go to the gym regularly if they make the commitment only to themselves. They only follow through when there's some sort of *external accountability* present.
+In other words, if an upholder is assigned a work project (an outer expectation, held by his boss), they'll surely get it done and get it done on time. If they make a commitment to *themselves* (an inner expectation) to make progress on a personal project, they'll follow through on that too. Example: Hermione Granger.
+
+2. __Obligers__ meet *outer expectations but not inner expectations*. 
+
+Most people are obligers. If an obliger is asked to turn in an assignment by X date and time, they'll surely turn it in by then. But if they give *themselves* an assignment by X date and time, they simply won't do it. They only follow through when there's some sort of *external accountability* present.
 	
-3. __Questioners__ follow through on all expectations which make sense to them. They're constantly asking 'why' and digging 5 levels deeper into things to fully understand them before accepting or following through. In other words, if they want to do something, they will, assuming they understand the full rationale for doing it. 
+3. __Questioners__ follow through on all expectations which *make sense to them*. 
 
-4. __Rebels__ resist both inner and outer expectations. They hate being told what to do and often times giving them a directive will make them disobey. When they do choose to follow through on something, it's because they genuinely want to do something or because they feel it's an important component of their identity. 
-	Ex: Luna Lovegood
+They're constantly asking 'why' and digging 5 levels deeper into things to fully understand them before accepting or following through. In other words, if they want to do something, they will, only if they fully understand why they're doing the task at hand.  
+
+4. __Rebels__ *resist both inner and outer expectations*. 
+
+They hate being told what to do and often times giving them a directive will make them disobey. When they do choose to follow through on something, it's because they genuinely want to do something or because they feel it's an important component of their identity. Example: Steve Jobs. 
+
+This guide is written very much for obligers. If you're an upholder or rebel, this guide is likely *not* for you. 
