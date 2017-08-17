@@ -25,7 +25,6 @@ Is it possible to build self-discipline or motivation? I have no idea. What I **
 2. Instead, __influence my environment__ through hacks like self-imposed accountability to make it more conducive to get what I want done given my level of lower motivation or self-discipline. 
 
 # Deconstructing Unproductivity
-
 I think we can all admit our most productive intervals happen in the context of either work or school. Analyzing why this is the case can provide further insight into creating this kind of environment for personal projects. 
 
 ## Why do we tend to get an enormous amount of work done at work and school despite having little internal motivation to do so? 
@@ -59,7 +58,7 @@ In this piece I’ll address the third point and present a solution, accountabil
 
 # Accountability as a solution against unproductivity
 
-Accountability is the __invisible magical force that gets us to be productive in school and work despite lackluster motivation__. Sure, we end up working right up till the deadline and the night before, but <i><strong>we get it done</i></strong>. As mentioned above, accountability involves: 
+Accountability is the __invisible magical force that gets us to be productive in school and work despite lackluster motivation__. Sure, we end up working right up till the deadline and the night before, but __we get it done__. As mentioned above, accountability involves: 
 
 #### * A strict deadline 
 #### * A set of consequences if a deliverable isn’t completed on time

@@ -100,6 +100,75 @@ In the context of school, these consequences of non-action present themselves as
 __Thus, unproductivity can be distilled into the following 3 elements:__
 
 #### I. A lack of clarity of what needs to be done.
+The Goal Organization Guide focuses on this.
+
 #### II. A lack of clarity of the time one has to set aside for a task.
+The Time Organization Guide focuses on this. 
+
 #### III. A lack of accountability: a deadline and a set of consequences if a deliverable isn’t done on time.
 
+This guide focuses on this, through the introduction of accountability sprints, as a vehicle for counteracting unproductivity. 
+
+### Accountability as a solution for unproductivity.
+
+Accountability is the __invisible magical force that gets us to be productive in school and work despite lackluster motivation__. 
+
+Sure, we end up working right up till the deadline and the night before, but __we get it done__. 
+
+##### Accountability involves 3 aspects:
+
+* A strict deadline.
+* A set of consequences if a deliverable isn’t completed on time.
+* A figure of authority enforcing the deadline and consequences.
+
+By nature, our home environments and personal projects lack all 3 of these elements. 
+
+As a result, these projects get ignored when in competition with work or school deadlines. 
+
+Why? Because the latter has strict consequences for incompletion and a deadline, both of which we know will be enforced, unlike our personal projects which are er. . . more *flexible*. 
+
+### Using accountability to get things done. 
+
+So the solution is fairly simple: we need to introduce these elements into the achievement of our personal projects. 
+
+The crux of this system is having a friend hold us accountable to 'turning in' a set of deliverables to them by a specified date. If we don't, we have to pay up the pre-determined consequences.
+
+To do this, we need the following elements: 
+
+##### I. A friend who’s willing to hold you accountable.
+
+This friend needs to be willing to enforce a deadline and a set of consequences.
+
+###### Make sure your friend isn't *too* close to you that they'll let you off the hook easily. 
+
+Sometimes, our friends are so close to us that they transform into inner expectations. 
+
+**If your friend/loved one is likely to let you off the hook if you don't perform well, find someone else to hold you accountable**. If you're serious about getting things done, you have to be serious about the consequences if you *don't* get something done. 
+
+##### II. Explicitly written tangible deliverables with fail-proof ways of measuring success.
+
+More explicit deliverables make it easier to check if you've *actually* followed through on what you intended to do. 
+
+Your friend won't *truly* be able to measure your success if your deliverable is, "study for Calculus test" or "read up on starting a startup". 
+
+Making the deliverable more specific, like "Read chapters 7-10" is better, but still sub-par. How will your friend *truly* check if you've read? 
+
+Instead, setting a deliverable of "Done problems 1-30 on pages 400, 450, and 438 each (90 problems)" or "Read and took notes on chapters 7-10" are better deliverables. 
+
+##### III. Explicitly written form of submission. 
+
+What format is the deliverable? Some good examples: 
+
+* _An email containing 4 graphs . . ._
+* _A URL to X, Y, Z finished articles . . ._
+* _A screenshot of 
+
+##### IV. Explicitly written deadlines.
+
+This one's pretty easy --- something along the lines of '11:59 pm EST'.
+
+#### IV. Strict, pre-agreed upon consequences if deliverables are not done by a given time or by a certain standard.
+
+
+
+By Neha Kulkarni
