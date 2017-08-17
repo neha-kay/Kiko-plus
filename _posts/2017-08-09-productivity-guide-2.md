@@ -12,23 +12,20 @@ permalink: /getting-things-done-guide/
 
 ### Welcome! 
 
-This is yet another productivity guide. And maybe you're thinking, _who are you to write a productivity guide_? And honestly, I'm nobody; unllike most guides, I will point out that I am neither the most productive person nor a timeless sage on the topic. 
+This is yet another productivity guide. 
 
-That being said, I have a knack for getting beyond my natural laziness/lack of self-discipline to actually get things done.
+And maybe you're thinking, _who are you to write a productivity guide_? And honestly, I'm nobody; I am neither the most productive person nor a timeless sage on the topic. 
 
-I generally have a ton of projects I love the idea of doing, but on a day-to-day implementation level, have little motivation to follow through and actually do. For these projects, I am explicitly _not_ internally motivated to get them done and thus have developed an expertise in figuring out how to change my environment to *not rely* on internal motivation to get stuff done.
+_That being said, I have a knack for getting beyond my natural laziness/lack of self-discipline to actually get things done._
 
-I have a knack for figuring out how to actually do these things. 
+If you're the type of person who gets an idea and actually has the willpower/internal motivation/discipline to get it done ---- then great! You can X right out of this guide because you really don't need it. 
 
-That's the central question this guide seeks to answer: 
-How can I get beyond my natural laziness/lack of self-discipline to actually get valuable projects done? 
+But if you're someone like me, who has a ton of projects and ideas but little motivation to follow through and actually do, then this guide is for you. 
 
-The system I'll describe has worked pretty well for me thus far; a couple years ago, as an Economics major, I decided I should probably learn how to code. And if I did, I wanted to learn from the best, most rigorous, and most thorough source -- Harvard's CS50 course. 
+I generally have a ton of projects I love the _idea_ of doing, but on a day-to-day implementation level, have little motivation to follow through. This system, however, has allowed me to get around that, and actually _do_ these projects. 
 
-The problem was that learning to code with a full courseload at Oxford University wasn't an easy task; learning to code is frustrating, it is confusing, it is 10 seconds of happiness in exchange for 10 hours of work, especially on top of a full university courseload.
+This includes doing the hardest introduction to coding, Harvard's CS 50 course as a side project while doing a full courseload at Oxford University, waking up at an average of 8:30 am in college despite being a senior with a good number of job offers and a natural tendency to sleep in to 10:30 or 11 am, and following through on side projects like this blog, a 7,500 scholarship, and a number of other things. 
 
-Of course I loved the _idea_ of learning how to code, but on a day-to-day implementation level had 0 motivation to follow through. That being said, the system I'll describe below was the *sole* reason I managed to learn on the side during my time at Oxford, which later turned into a future Computer Science minor. 
-
-The accountability system is also the reason I regularly woke up at an averge of 8:30 am in college, despite a natural tendency to sleep in to 10:30 or 11 am and has gotten me through a ton of side projects, including this blog itself. 
-
+Fundamentally, this guide seeks to answer: 
+__How can I get beyond my natural laziness/lack of self-discipline to actually get valuable projects done?__
 
