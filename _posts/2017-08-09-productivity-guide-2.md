@@ -229,7 +229,7 @@ Do you see what a **huge** change in specificity that is from the original decla
 
 ## A template for Accountability Declarations
 
-Use the following template when writing out declarations and mirror the example above when writing Accountability Declarations: 
+Use the following template when writing out declarations and mirror the specificity of the example above when writing Accountability Declarations: 
 
 Overall Topic:
 
@@ -237,9 +237,6 @@ Deliverable I:
 * Delivery method:  
 * Rubric: 
 * Consequence/Due Date: 
-
-
-
 
 ## Other Important Implementation Tips
 
@@ -259,13 +256,47 @@ The shorter the cycle, the more quickly you can change up what is and isn't work
 
 * Shorter feedback cycles can be more rewarding.
 
-You meet the deadline quicker and therefore feel the euphoria of getting something done more often. It's pretty energizing. 
+You meet the deadline quicker and therefore feel the euphoria of accomplishment more often. It's pretty energizing. 
 
 ##### Fine-tune your system as you set up further accountability sprints.
 
 Did you over-estimate how much you had to finish the first sprint? Then fix that for the next one. Were you not specific enough in describing deliverables? Fix that in the next one. 
 
 Since your sprints are only 1 week long, you can easily fix something that's off. 
+
+##### Eliminate as much ambiguity and wiggle room in your description of the deliverable as possible. 
+
+The point of accountability declarations is to remove all possible wiggle room.
+
+Why? When we have trouble meeting a deadline, we look for wiggle room. We look for cracks in the veneer, for ambiguity, for the minimum possible we can do to still get credit. That’s just human nature and it’s *totally okay* -- it simply means we have to put in more effort to limiting the wiggle room as much as possible. 
+
+> When I was in college, I desperately wanted to wake up earlier. So I told my friend that I'd send her a photo of a "Hopkins workspace by 8:30 am +/- 5 minutes." The problem with this declaration was that I was able to take a photo of my living room table, masked as a workspace --- this was invisible wiggle room that resulted in me getting to my *real* workspace at 8:45 or 9 am. Instead, the next time around, I became way more specific, pointing out that I'd send her a photo of "Brody reading room" --- aka the actual workspace I meant to be in, thereby getting rid of the ambiguity and wiggle room.
+
+In the last few minutes when you're rushing to meet a deadline, you'll look for all the possible ways you can undercut the deliverable while still getting credit. Acknowledge this habit in the beginning and address it by making water-tight accountability declarations. 
+
+## Cool Accountability Examples
+
+### Using accountability to wake up early.
+
+<p align="center">
+  <img src="/images/accountability-wake-up.png" width="100">
+</p>
+
+### Using accountability to meet specific personal project & social goals.
+
+<p align="center">
+  <img src="/images/accountability-wilson.png" width="100">
+</p>
+
+## Using accountability to exercise daily.
+
+<p align="center">
+  <img src="/images/accountability-workout.png" width="100">
+</p>
+
+<p align="center">
+  <img src="/images/accountability-fitbit.png" width="100">
+</p>
 
 ## Troubleshooting
 
@@ -286,7 +317,7 @@ Sometimes you can quantify what it means for a deliverable to be done well – f
 
 This is a weakness of the accountability framework largely because quality is largely dependent on internal motivation. 
 
-The best way to try and maximize both quantity and quality is to 
+The best way to try and maximize both quantity and quality is to: 
 
 * Perform an accountability sprint to get as much as I can done.
 * Once the work is done, go back to add to the quality. 
