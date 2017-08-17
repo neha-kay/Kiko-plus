@@ -279,23 +279,23 @@ In the last few minutes when you're rushing to meet a deadline, you'll look for 
 ### Using accountability to wake up early.
 
 <p align="center">
-  <img src="/images/accountability-wake-up.png" width="100">
+  <img src="/images/accountability-wake-up.png" width="400">
 </p>
 
 ### Using accountability to meet specific personal project & social goals.
 
 <p align="center">
-  <img src="/images/accountability-wilson.png" width="100">
+  <img src="/images/accountability-wilson.png" width="400">
 </p>
 
 ## Using accountability to exercise daily.
 
 <p align="center">
-  <img src="/images/accountability-workout.png" width="100">
+  <img src="/images/accountability-workout.png" width="400">
 </p>
 
 <p align="center">
-  <img src="/images/accountability-fitbit.png" width="100">
+  <img src="/images/accountability-fitbit.png" width="400">
 </p>
 
 ## Troubleshooting
