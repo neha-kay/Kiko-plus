@@ -39,7 +39,18 @@ A lot of the thoughts you'll see here may end up as full blown posts. I've put t
 > 
 > --- Old Proverb
 
-<h3 style="color:#6495ed;"> On Writing Part II | August 10, 2017 </h3>
+<h3 style="color:#6495ed;"> Job v. Career | August 8, 2017 </h3>
+
+An interesting insight from the podcast I listen to, _Happier in Hollywood_.
+
+> It's not hard to stand out because most people _don't_.
+> 
+> What you do from 9-5 is your job. 
+> It's what you do from 5-midnight that's the career, what makes you stand out.
+> 
+> Are you reading, are you learning, are you socializing? 
+
+<h3 style="color:#6495ed;"> On Writing Part II | August 7, 2017 </h3>
 
 Sometimes I have trouble writing. But usually that only happen when I have an unclear sense of what I want to write. It's a content problem, not a discipline problem. I think that can be generalized; in other words, writing can be an irritating or drawn-out process, but when you know what to say, when distillation follows distillation, it flows naturally, effortlessly. 
 
@@ -96,6 +107,9 @@ It is *so* important to have someone who doesn't hold grudges / can turn a new l
 > > This kind of thinking applies to more people than realize it." [Source](http://www.caseinterview.com/learning-from-mentors){:target="_blank"}
 
 <h3 style="color:#6495ed;"> | July 28, 2017 </h3>
+
+I am an exercise explosion waiting to happen.
+
 <h3 style="color:#6495ed;"> | July 27, 2017 </h3>
 <h3 style="color:#6495ed;"> | July 26, 2017 </h3>
 

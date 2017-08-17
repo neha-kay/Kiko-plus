@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Productivity Guide"
-description: 
+description: ""
 date: 2017-08-09
 tags: [guides, organization/productivity]
 comments: true

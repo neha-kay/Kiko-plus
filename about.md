@@ -7,10 +7,6 @@ permalink: /about/
 
 Hi! My name is Neha. This is my brain space - my tabula rasa for random thoughts.
 
-In September 2015, I published [The Official Couchsurfing Guide](http://www.neha-kulkarni.com/couchsurfing-101-the-ultimate-couchsurfing-guide/) which became super popular within the Couchsurfing community.
-
-Now, back to a modest 10-20 daily visitors, I focus on updating the blog with my thoughts on career exploration, organization, entrepreneurship, and positive psychology. The website is mostly a place for me to share my thoughts, in the event others like me will find them useful.
-
 Welcome, have fun, and if you see something you like, reach out - either on the page itself, or to me directly at <neha@nehakay.com>.
 
 ## About Me
@@ -18,7 +14,6 @@ Welcome, have fun, and if you see something you like, reach out - either on the 
 ### My friends describe me as . . . 
 * Cheerful
 * Playful
-* Bubbly
 * Analytical
 * High-energy
 * Giving
@@ -38,7 +33,7 @@ Sometimes a feature gets added and the whole thing blows up (cue Stack Overflow)
 
 __Optimizing / Engineering Life__
 
-…as opposed to simply letting it happen.
+. . .as opposed to simply letting it happen.
 
 __Future plans / future trajectory__
 
