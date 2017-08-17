@@ -115,11 +115,9 @@ Australia, China, New Zealand
 
 If you see something you like or want to reach out, please do. 
 
-Below is a list of which cities I'll be in and when --- if you're in town, let's meet up. I'm super approachable and love meeting new people. 
+Below is a list of which cities I'll be in and when --- if you're in town, let's meet up. I'm super approachable and love meeting new people. Otherwise, welcome to the site, and have fun 😊
 
-Otherwise, welcome to the site, and have fun 😊
-
-__2017__
+<h5> 2017: Where's <strike>Waldo</strike> Neha </h5>
 
 May: (USA) Baltimore
 
