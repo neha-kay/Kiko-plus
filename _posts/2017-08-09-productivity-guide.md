@@ -285,13 +285,13 @@ In the last few minutes when you're rushing to meet a deadline, you'll look for 
 ### Using accountability to meet specific personal project & social goals.
 
 <p align="center">
-  <img src="/images/accountability-wilson.png" width="400">
+  <img src="/images/accountability-wilson.png" width="800">
 </p>
 
 ## Using accountability to exercise daily.
 
 <p align="center">
-  <img src="/images/accountability-workout.png" width="400">
+  <img src="/images/accountability-workout.png" width="600">
 </p>
 
 <p align="center">
