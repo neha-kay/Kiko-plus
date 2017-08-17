@@ -135,40 +135,64 @@ The crux of this system is having a friend hold us accountable to 'turning in' a
 
 To do this, we need the following elements: 
 
-##### I. A friend who’s willing to hold you accountable.
+#### I. A friend who’s willing to hold you accountable.
 
 This friend needs to be willing to enforce a deadline and a set of consequences.
 
-###### Make sure your friend isn't *too* close to you that they'll let you off the hook easily. 
+**Make sure your friend isn't *too* close to you that they'll let you off the hook easily.**
 
-Sometimes, our friends are so close to us that they transform into inner expectations. 
+Sometimes, our friends are so close to us that they transform into inner expectations. **If your friend/loved one is likely to let you off the hook if you don't perform well, find someone else to hold you accountable**. If you're serious about getting things done, you have to be serious about the consequences if you *don't* get something done. 
 
-**If your friend/loved one is likely to let you off the hook if you don't perform well, find someone else to hold you accountable**. If you're serious about getting things done, you have to be serious about the consequences if you *don't* get something done. 
+#### II. Strict, pre-agreed upon consequences if deliverables are not done by a given time or by a certain standard.
 
-##### II. Explicitly written tangible deliverables with fail-proof ways of measuring success.
+What motivates you to get something done? Use that as a consequence. 
+
+** Financial incentives (e.g. paying a friend $10) work *really* well here. Why?**
+
+Simple. Because it makes you more likely to do it. 
+
+Sometimes the shame of not meeting a promise is sufficient -- it really depends on what motivates you personally and what impact your friend’s view of you has on you and your motivation. Try it without money if you’re curious, ideally with someone who’s opinion of you matters to you. If that doesn’t work though, money almost always will ;)
+
+If you think you might be unwilling to *actually* pay if you fail to meet the deadline or deliverable standard, you can *pay your friend* in the beginning (when setting up the accountability sprint) and have them return you the money only when you've met the standards. This is a lot less awkward than forcing your friend to make you pay them money.
+
+#### III. Explicitly written tangible deliverables with fail-proof ways of measuring success.
 
 More explicit deliverables make it easier to check if you've *actually* followed through on what you intended to do. 
 
 Your friend won't *truly* be able to measure your success if your deliverable is, "study for Calculus test" or "read up on starting a startup". 
 
-Making the deliverable more specific, like "Read chapters 7-10" is better, but still sub-par. How will your friend *truly* check if you've read? 
+Making the deliverable more specific, like "Read chapters 7-10" is better, but still sub-par; how will your friend *truly* check if you've read? 
 
-Instead, setting a deliverable of "Done problems 1-30 on pages 400, 450, and 438 each (90 problems)" or "Read and took notes on chapters 7-10" are better deliverables. 
+Instead, setting a deliverable of "Done problems 1-30 on pages 400, 450, and 438 each (90 problems)" or "Read and took notes on chapters 7-10" are far better. 
 
-##### III. Explicitly written form of submission. 
+#### IV. Explicitly written form of submission. 
 
 What format is the deliverable? Some good examples: 
 
 * _An email containing 4 graphs . . ._
 * _A URL to X, Y, Z finished articles . . ._
-* _A screenshot of 
+* _A Fitbit heart-rate tracking graph as proof I exercised for 20 minutes_
+* _A screenshot of 20 sent networking emails_
 
-##### IV. Explicitly written deadlines.
+#### V. Explicitly written deadlines.
 
-This one's pretty easy --- something along the lines of '11:59 pm EST'.
+This one's pretty easy --- something along the lines of *11:59 pm EST +/- 5 minutes*.
 
-#### IV. Strict, pre-agreed upon consequences if deliverables are not done by a given time or by a certain standard.
+It's generally a good idea to include a 5 minute grace period. The last thing you want is to lose $20 because you finished something 1 minute late. 
 
+## A couple downsides of the Accountability Framework.
 
+#### You can control quantity, not quality. 
+
+We've all experienced that feeling of cramming before a deadline --- heck that may just be a deadline meeting routine for us. The fact of the matter is, **accountability frameworks can guarantee that you'll get something done well, but not necessarily done well.**
+
+Sometimes you can quantify what it means for a deliverable to be done well – for example, specifying “4 bar charts” and further details about the charts, but often, it’s hard to perfectly quantify what our best work is. 
+
+This is a weakness of the accountability framework largely because quality is largely dependent on internal motivation. 
+
+The best way to try and maximize both quantity and quality is to 
+
+* Perform an accountability sprint to get as much as I can done.
+* Once the work is done, go back to add to the quality. 
 
 By Neha Kulkarni
