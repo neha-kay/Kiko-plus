@@ -119,22 +119,38 @@ Below is a list of which cities I'll be in and when --- if you're in town, let's
 
 <h3> 2017: Where's <strike>Waldo</strike> Neha 😛 </h3>
 
-May: (USA) Baltimore
+__May:__
 
-June: (USA) Greater Philadelphia Area
+(USA) Baltimore
 
-July: (USA) Hawaii, Seattle, Los Angeles, Boston
+__June:__
 
-August: (Italy / Greece) Milan, Venice, Florence, Naples, Rome, Athens, Olympia 
+(USA) Greater Philadelphia Area
 
-September: (China / Hong Kong) Beijing, Shanghai, Macao, Yangshuo, Chengdu, Xi'an, 
+__July:__
+
+(USA) Hawaii, Seattle, Los Angeles, Boston
+
+__August:__
+
+(Italy / Greece) Milan, Venice, Florence, Naples, Rome, Athens, Olympia 
+
+__September:__
+
+(China / Hong Kong) Beijing, Shanghai, Macao, Yangshuo, Chengdu, Xi'an, 
 Shaolin, Moganshan, Fujian, Hong Kong
 
-October: (USA / Australia) Baltimore, Orlando, Sydney, Melbourne, Cairns
+__October:__
 
-November: (USA / Australia) Sydney, Greater Philadelphia Area
+(USA / Australia) Baltimore, Orlando, Sydney, Melbourne, Cairns
 
-December: (India) Goa, Mumbai, New Delhi
+__November:__
+
+(USA / Australia) Sydney, Greater Philadelphia Area
+
+__December:__
+
+(India) Goa, Mumbai, New Delhi
 
 
 
