@@ -156,33 +156,39 @@ Alternatively, if I’m looking for information about my trip to China, I’ll n
   <img src="/images/note-organization-guide/note-org-one-note-travel.png">
 </p>
 
-Amazing! You can get more intense with tags and such, but at my current note-taking level, this is perfect.
+You can get more intense with tags and such but I find the above functionality sufficient for my system.
+
+### II. Google Keep & Stickies | Quick & Dirty Note-taking
+
+Every proper note-taking system should have a mechanism for raw note-taking. That’s the purpose of Google Keep and iOS Stickies in this system. Pretty much all my note-taking happens in Google Keep or Stickies and are then transferred to OneNote. 
 
 
-### Quick and dirty note-taking | Google Keep & Stickies
-
-Every proper note-taking system should have a mechanism for raw note-taking. That’s the purpose of Google Keep and iOS Stickies in this system. They take care of the day-to-day note-taking needs of:
+They take care of the day-to-day note-taking needs of:
 * Jotting down advice / notes through out the day
 * Temporary notes like shopping lists, reminders, and to-dos
 
-Google Keep is *amazing* in this regard – the mobile app and the Web platform sync smoothly allowing for easy transferring of notes taken on a cell phone to one’s computer and vice versa. The syncing is so good that I’ll often use Google Keep solely for transferring data like addresses, WiFi passwords, etc., from my computer to my phone. Plus, it has great offline, collaboration, and archive options. 
+Both Google Keep & Stickies have simple, no nonsense note-taking interfaces conducive to on-the-go note-taking. 
+
+On top of that, Google Keep's mobile app syncs *beautifully* with the Web platform allowing for easy transferring of cell phone notes to one’s computer and vice versa. The syncing is so good that I’ll often use Google Keep solely for transferring data like addresses, WiFi passwords, etc., from my computer to my phone. Plus, it has great offline, collaboration, and archive options. 
 
 iOS Stickies are great for quick and dirty jotting down of ideas while offline or when unable to connect to the web on your Mac.  
 
-### Personal Journal | Day One
+### III. Day One | Personal Journal
 
-Day One by and far is *the* singular best journal app – I challenge you to find one that’s better. It has an incredible ability to sync beautifully across mobile and desktop platforms, incorporate photos, locations, tags, and sorting into entries, along with different journal views, including a calendar view. It’s simply amazing. 
+Day One by far is *the* singular best journal app. I __challenge you__ to find one that’s better. It has an incredible ability to sync beautifully across mobile and desktop platforms, incorporate photos, locations, tags, and sorting into entries, while providing different journal views and calendar views. 
 
-I use this for strictly personal entries – entries about my current emotions, wins and setbacks. The calendar function allows me to scroll through various months and read entries while the ‘On this Day’ function allows me to see past entries I’ve written on the same day in previous years.
+It’s simply amazing. 
+
+I use Day One for strictly personal diary entries – thoughts about my current wins, setbacks, emotions, and daily life. The calendar function allows me to scroll through various months and read entries while the _‘On this Day’_ function allows me to see past entries I’ve written on the same day in previous years.
 
 <p align="center">
   <img src="/images/note-org-guide-day-one.png">
 </p>
 
-### How the elements interact
-
-When I have a bit of downtime I’ll usually transfer more permanent Google Keep and Stickies notes into my OneNote (and delete the temporary ones). OneNote holds all my notes, while Day One hold all my personal diary entries. 
- 
 ## Conclusion
 
-And that’s ultimately it! The system, particularly with a centralized OneNote hub, works beautifully. Given how scalable it is, I don’t think it’s changing anytime soon  That’s it – if you have your own (better?) note organization system, mention it below in the comments! Till then, I hope this was of help. 
+And that’s ultimately it! The system, particularly with a centralized OneNote hub, works beautifully. 
+
+Given how scalable it is, I don’t think it’s changing anytime soon.
+
+And that’s it! If you have your own (better?) note organization system, mention it below in the comments! Till then, I hope this was of help. 
