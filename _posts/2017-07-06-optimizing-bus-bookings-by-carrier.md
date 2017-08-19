@@ -39,5 +39,5 @@ The Dollar Bus Club is a free email alert which emails you when a $1 bus fare wa
 
 -------
 _Other Posts in This Series:_
-* _[Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}_
+* _[Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %}){:target="_blank"}_
 * _[Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_

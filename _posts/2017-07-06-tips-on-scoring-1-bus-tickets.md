@@ -23,11 +23,7 @@ Companies like Boltbus and Megabus are notorious for selling coveted $1 bus tick
 
 If you’re aiming for scoring one of these tickets, consider the following tips: 
 
-### I. Have a strategic travel window.
-
-Friday and Sunday travel tend to be more expensive, as well as holidays and weekend times so weekday trips are generally best. Check all dates in that travel window across all bus sites on [Wanderu](www.wanderu.com){:target="_blank"}.  
-
-### II. Book 31-90 days in advance. 
+### I. Book 31-90 days in advance. 
 
 [Busbud analyzed the probability of finding a $1 ticket](https://www.busbud.com/blog/busbud-launches-the-dollar-bus-club/){:target="_blank"} by analyzing 1 million+ departures and found the following:
 
@@ -47,6 +43,10 @@ Unlike other carriers, Greyhound specifically offers $1 busses _only_ 31 days in
 
 __If the tickets are in fact in the $1-$5 price range, it's well worth booking multiple dates if you aren't sure when you're traveling, instead of booking a $20-$30 ticket at the last minute.__
 
+### II. Have a strategic travel window.
+
+Friday and Sunday travel tend to be more expensive, as well as holidays and weekend times so weekday trips are generally best. Check all dates in that travel window across all bus sites on [Wanderu](www.wanderu.com){:target="_blank"}.  
+
 ### III. Aim to travel on a Tuesday or Wednesday (but still search all times in your travel window).
 According to Busbud, you’re more likely to snag a $1 bus ticket set to travel on a Tuesday or Wednesday than a Friday or weekend, simply because demand for weekend dates are higher.
 
@@ -58,4 +58,4 @@ _Next up in the Bus Booking Optimization Guide:_
 * _[Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}_
 
 _Other Posts in This Series:_
-* _[Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_
+* _[Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %}){:target="_blank"}_
