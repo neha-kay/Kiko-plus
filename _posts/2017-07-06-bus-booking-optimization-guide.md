@@ -36,7 +36,7 @@ Once you've found a bus, you can either:
 
 While I personally find Wanderu the most versatile, another great option is [BusBud](busbud.com){:target="_blank"}
 
-#### II. Booking multiple dates 1-3 months in advance may be cheaper than booking a single date the week of travel
+#### II. Booking multiple dates 1-3 months in advance may be cheaper than booking a single date the week of travel.
 
 Say you’re traveling from Philadelphia to New York on a weekend 3 months in the future, though you’re not sure which weekend.
 
@@ -48,7 +48,7 @@ Say you’re traveling from Philadelphia to New York on a weekend 3 months in th
 
 Depending on the route, this can actually be _way_ cheaper than booking last minute. If you do this through Megabus, you can later credit the un-used tickets to a future trip. 
 
-#### III. Snag overnight trips if you can
+#### III. Snag overnight trips if you can.
 
 Since you’ll be asleep a majority of the time, you won’t even realize how much time you’ve been on the bus. Plus, you avoid paying for a hotel that night. 😉
 
@@ -62,7 +62,7 @@ The best strategy here is to first use [Wanderu](https://www.wanderu.com/en/){:t
 
 Say you're a college student, and between the months of August and May, return home on a $20 bus ride for Thanksgiving, Christmas, Spring Break, and Fall Break (8 roundtrips -- a total of 32 roundtrips and 64 individual trips over 4 years). __With a Boltbus or Greyhound rewards program, you end up saving $160 with 8 free trips__. Not too shabby!
 
-##### Boltbus Rewards 
+##### Boltbus Rewards
 Take 8 trips, get 1 free =)
 
 ##### Greyhound Rewards
