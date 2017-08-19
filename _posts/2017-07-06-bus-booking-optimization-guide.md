@@ -9,13 +9,14 @@ share: true
 
 category: travel
 ---
-<sub>This is _Part 1_ of the 3-part _Bus Booking Optimization Guide_: 
+<sub>This is _Part 1_ of the 3-part _Bus Booking Optimization Guide_: </sub>
 
-* Part 1: Basics of Bus Booking Optimization
-* Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}
-* Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}
-
+<sub>
+<li>Part 1: Basics of Bus Booking Optimization
+<li>Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}
+<li>Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}
 </sub>
+
 
 Let’s get started! 
 
