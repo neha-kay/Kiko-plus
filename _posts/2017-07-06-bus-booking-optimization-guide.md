@@ -23,7 +23,7 @@ _This is Part 1 of the 3-part _Bus Booking Optimization Guide_:
 You're probably wondering --- I didn't even think booking busses _could_ be optimized. In fact they can! 😀
 
 #### I. Use Wanderu!
-[Wanderu](https://www.wanderu.com/en/){:target="_blank"} is the Google of bus tickets --- it pulls and sorts options from all major bus providers so you can identify the best ride across ~100+ options instead of ~10 options from searching only on the Greyhound/Megabus/Boltbus site.
+[Wanderu](https://www.wanderu.com/en/){:target="_blank"} is the Google of bus tickets --- it pulls and sorts options from all major bus providers so you can identify the best ride across a 100 options instead of the 10 proprietary options the Greyhound/Megabus/Boltbus site provides.
 
 On top of that, you can:
 * Sort the options for the cheapest/fastest/shortest route
