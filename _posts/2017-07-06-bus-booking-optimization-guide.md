@@ -18,7 +18,7 @@ _This is Part 1 of the 3-part Bus Booking Optimization Guide:_
 
 -------
 
-### The Basics
+## The Basics
 
 You're probably thinking --- I didn't even think booking busses _could_ be optimized. In fact they can! 😀
 
