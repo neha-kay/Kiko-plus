@@ -27,7 +27,6 @@ Discount busses are _all_ likely to be late. That’s simply the nature of the s
 Personally, when I’m tight on time, I never book Megabus and exclusively opt for Boltbus and maybe Greyhound/Peter Pan if the price difference is that great. In my experience, Megabus has had a delay (defined as any departure 30 minutes or later than the stated time) about 40% of the time, but does tend to have cheaper prices. With Boltbus, I've never had a departure that was more than 30 minutes late. Greyhound has been somewhere in the middle for me. 
 
 #### If you have way oversized baggage or too many bags. . .
-
 __Avoid Greyhound,Peter Pan, and Megabus, and opt for Boltbus.__
 
 Greyhound is incredibly strict on their baggage policies and is _far_ more likely to charge you for excess luggage items/size/weight. 
