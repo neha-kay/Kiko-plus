@@ -10,29 +10,50 @@ share: true
 category: travel
 ---
 
-This page is Part 2 of the 3-part Bus Booking Optimization Guide. If you haven’t already, start at Part 1 of 3, The Basics of Bus Booking Optimization, here. 
+_This is Part 2 of the 3-part Bus Booking Optimization Guide:_
 
-Part 1: The Basics of Bus Booking Optimization
-Part 2: How to Score $1 Bus Tickets
-Part 3: How to Optimize Bus Bookings by Carrier
+* _Part 1: [Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %}){:target="_blank"}
+* _Part 2: Tips on Scoring $1 Bus Tickets
+* _Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}_
 
-Companies like Boltbus and Megabus are notorious for selling coveted $1 tickets. I’ve gotten a few myself along with some $5 and $9 rides. If you’re aiming for scoring one of these tickets consider the following: 
+-------
 
-1. Have a travel window, preferably with weekdays, and check all dates in that travel window across all bus sites on Wanderu. Generally Friday and Sunday travel tend to be more expensive, as well as holidays and weekend times. If you’re able to, searching for a weekday time may yield more golden $1 bus tickets. 
+## The Basics
+Companies like Boltbus and Megabus are notorious for selling coveted $1 tickets. I’ve gotten a few myself on otherwise pretty expensive routes, like San Francisco to Los Angeles. If you’re aiming for scoring one of these tickets consider the following tips: 
 
-2. Book 31-90 days in advance. According to Megabus’ terms and conditions, the company only gives $1 fares to “the first or initial customers that purchase a ticket for that trip,” while every scheduled Boltbus trip offers at least one $1 fare every day. Busbud analyzed the probability of finding one by analyzing 1 million+ departures. They found the following:
+### I. Have a strategic travel window.
 
-[GRAPH BUSBUD] 
+For the sake of scoring as cheap tickets as possible, a travel window with largely weekdays is best; generally Friday and Sunday travel tend to be more expensive, as well as holidays and weekend times. Check all dates in that travel window across all bus sites on [Wanderu](www.wanderu.com){:target="_blank"}.  
 
-[QUOTES]
-The probability of finding a $1 bus ticket increases when you search a month in advance, hovering near the 4% mark when you search 31 days in advance, and reaches its peak with around the 90 day mark. The data becomes less reliable between 90 and 120 days as fewer people search that far in advance.
+### II. Book 31-90 days in advance. 
+
+Busbud analyzed the probability of finding a $ticket by analyzing 1 million+ departures and found the following:
+
+<p align="center">
+  <img src="/images/bus-optimization-guide/probability-1-ticket.png">
+</p>
+
+> "The probability of finding a $1 bus ticket increases when you search a month in advance, hovering near the 4% mark when you search 31 days in advance, and reaches its peak with around the 90 day mark. The data becomes less reliable between 90 and 120 days as fewer people search that far in advance."
 
 Unlike other carriers, Greyhound specifically offers $1 busses only 31 days in advance and not any earlier. 
 
-3. Aim to travel on a Tuesday or Wednesday (but still search all times in your travel window)
+<p align="center">
+  <img src="/images/bus-optimization-guide/greyhound.png">
+</p>
+
+Megabus states $1 fares are given to _“the first or initial customers that purchase a ticket for that trip,”_ while every scheduled Boltbus trip offers at least one $1 fare every day. 
+
+So it's pretty clear booking 31-90 days in advance is the most optimal period to buy a ticket. __If the tickets are in fact in the $1-$5 price range, it's well worth it to book multiple dates if you aren't sure when you're traveling, instead of booking a $20-$30 ticket at the last minute.__
+
+### III. Aim to travel on a Tuesday or Wednesday (but still search all times in your travel window)
 According to Busbud, you’re more likely to snag a $1 bus ticket set to travel on a Tuesday ir Wednesday than a Friday or weekend, simply because demand for weekend dates are higher.
 
-4. Join the Dollar Bus Club
+### IV. Join the Dollar Bus Club
 The Dollar Bus Club is a free email alert which emails you when a $1 bus fare was found in your city. Pretty neat!
 
-__This is Part 2 of the 3-part Bus Booking Optimization Guide. Continue to Part 3, How to Optimize Bus Choices by Bus Carrier, here.__
+-------
+_Next up in the Bus Booking Optimization Guide:_
+* _[Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}_
+
+_Other Posts in This Series:_
+* _[Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_
