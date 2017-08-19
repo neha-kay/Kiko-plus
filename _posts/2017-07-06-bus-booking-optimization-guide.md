@@ -10,13 +10,13 @@ share: true
 category: travel
 ---
 
-A guide on how to optimize the bus booking process.
+<sub>This is _Part 1_ of the 3-part _Bus Booking Optimization Guide_: 
 
-The Bus Booking Optimization Guide starts here with the following 3 parts: 
+* Part 1: Basics of Bus Booking Optimization
+* Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets.md %}){:target="_blank"}
+* Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier.md %}){:target="_blank"}
 
-* Part 1: The Basics of Bus Booking Optimization
-* Part 2: [How to Score $1 Bus Tickets](https://neha-kay.github.io/2017-07-06/how-to-score-1-bus-tickets/)
-* Part 3: [How to Optimize Bus Bookings by Carrier](https://neha-kay.github.io/2017-07-06/how-to-optimize-bus-bookings-by-carrier/)
+</sub>
 
 Let’s get started! 
 
