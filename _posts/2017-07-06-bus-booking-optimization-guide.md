@@ -10,7 +10,7 @@ share: true
 category: travel
 ---
 
-<p font size="-4">
+<p font size="4">
 
 This is _Part 1_ of the 3-part _Bus Booking Optimization Guide_:
 
