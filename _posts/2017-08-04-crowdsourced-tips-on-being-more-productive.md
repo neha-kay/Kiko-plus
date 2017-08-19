@@ -1,9 +1,9 @@
 ---
 layout: post
-title: What's the best productivity tip you've ever gotten?
+title: Crowdsourced Tips on Being More Productive
 description: "A curated list of the best productive tips I've gotten."
 date: 2017-08-04
-tags: [guides, organization/productivity]
+tags: [organization/productivity]
 comments: true
 share: true
 
