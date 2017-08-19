@@ -9,13 +9,16 @@ share: true
 
 category: travel
 ---
-<sub>This is _Part 1_ of the 3-part _Bus Booking Optimization Guide_: </sub>
 
-<sub>
-<li>Part 1: Basics of Bus Booking Optimization</li>
-<li>Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}</li>
-<li>Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}</li>
-</sub>
+<p font size="-4">
+
+	This is _Part 1_ of the 3-part _Bus Booking Optimization Guide_:
+
+	<li>Part 1: Basics of Bus Booking Optimization</li>
+	<li>Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}</li>
+	<li>Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}</li>
+
+</p>
 
 #### I. Use Wanderu!
 [Wanderu](https://www.wanderu.com/en/){:target="_blank"} is the Google of bus tickets --- it pulls and sorts options from all major bus providers so you can identify the best ride across ~100+ options instead of ~10 options from searching only on the Greyhound/Megabus/Boltbus site.
@@ -31,7 +34,7 @@ Once you've found a bus, you can either:
 * Pay through the site (100% free as of July 2017) 
 * Navigate to the company site and book there
 
-While I personally find Wanderu the most versatile, another great option is [BusBud](busbud.com). 
+While I personally find Wanderu the most versatile, another great option is [BusBud](busbud.com){:target="_blank"}
 
 #### II. Booking multiple dates 1-3 months in advance may be cheaper than booking a single date the week of travel
 
@@ -45,14 +48,27 @@ Say you’re traveling from Philadelphia to New York on a weekend 3 months in th
 
 Depending on the route, this can actually be _way_ cheaper than booking last minute. If you do this through Megabus, you can later credit the un-used tickets to a future trip. 
 
-### 2. If you travel often, join the rewards programs.
+#### III. Snag overnight trips if you can
 
-Yes, they're irritating to sign up for but if you travel often (for example if you're a college student), being intentional about your trips can pay off. 
+Since you’ll be asleep a majority of the time, you won’t even realize how much time you’ve been on the bus. Plus, you avoid paying for a hotel that night. 😉
 
-1. Figure out which 
-If you make regular trips, signing up for the free accounts pays off. Companies like Greyhound and Boltbus offer free rides and rewards with every ride you buy. 
+#### IV. If you travel often, play the rewards game.
 
-###### Greyhound Rewards
+Yes, they're irritating to sign up for but if you travel often (for example if you're a college student), being strategic about your trips and using rewards programs can pay off. 
+
+Companies like Greyhound and Boltbus offer free rides and rewards with every ride you buy. 
+
+The best strategy here is to first use [Wanderu](https://www.wanderu.com/en/){:target="_blank"} to figure out which bus carrier offers the cheapest price consistently for your route. Once you find a carrier, use that carrier exclusively and join their rewards program; most of these reward programs require a good number of rides to reap the benefits.
+
+If, for example, you join BoltBus' 
+Say you're a college student, and between the months of August and May, return home on a $20 bus ride for Thanksgiving, Christmas, Spring Break, and Fall Break (8 roundtrips -- a total of 32 roundtrips and 64 individual trips over 4 years). 
+
+__With a Boltbus or Greyhound rewards program, you end up saving money on 8 of those trips --- ~$160__. Not too shabby!
+
+##### Boltbus Rewards 
+Take 8 trips, get 1 free =)
+
+##### Greyhound Rewards
 
 |:--------:|:-------:|:--------:|
 | Book    | Reward    |
@@ -61,12 +77,5 @@ If you make regular trips, signing up for the free accounts pays off. Companies 
 | 5 roundtrip tickets   | 20% off next ticket   | Buy 1 get 1 free for a friend   |
 | 8 roundtrip tickets   | Free trip anywhere   |    |
 
-
-###### Boltbus Rewards 
-Take 8 trips, get 1 free =)
-
-### 4. Snag overnight trips if you can
-
-Since you’ll be asleep a majority of the time you won’t even realize how much time you’ve been on the bus. Plus, you avoid paying for a hotel for that night ;) 
 
 __Continue to Part 2, *How to Score $1 Bus Tickets*, of the 3-part Bus Booking Optimization Guide [here](https://neha-kay.github.io/2017-07-06/how-to-score-1-bus-tickets/).__
