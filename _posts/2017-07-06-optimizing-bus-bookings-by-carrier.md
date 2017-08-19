@@ -10,7 +10,7 @@ share: true
 category: travel
 ---
 
-_This is Part 3 of the 3-part Bus Booking Optimization Guide:_
+_This is Part 3 of the 3-part_ Bus Booking Optimization Guide:
 
 * _Part 1: Basics of Bus Booking Optimization_
 * _Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_
