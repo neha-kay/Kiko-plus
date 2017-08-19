@@ -12,11 +12,11 @@ category: travel
 
 <p font size="-4">
 
-	This is _Part 1_ of the 3-part _Bus Booking Optimization Guide_:
+This is _Part 1_ of the 3-part _Bus Booking Optimization Guide_:
 
-	* Part 1: Basics of Bus Booking Optimization
-	* Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}
-	* Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}
+* Part 1: Basics of Bus Booking Optimization
+* Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}
+* Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}
 
 </p>
 
@@ -34,7 +34,7 @@ Once you've found a bus, you can either:
 * Pay through the site (100% free as of July 2017) 
 * Navigate to the company site and book there
 
-While I personally find Wanderu the most versatile, another great option is [BusBud](busbud.com){:target="_blank"}
+While I personally find Wanderu the most versatile, another great option is [BusBud](busbud.com){:target="_blank"}.
 
 #### II. Booking multiple dates 1-3 months in advance may be cheaper than booking a single date the week of travel.
 
