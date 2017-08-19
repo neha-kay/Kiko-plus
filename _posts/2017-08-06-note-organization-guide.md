@@ -38,49 +38,100 @@ This is also precisely the reason why it's so important to always be able to __e
 
 Before fully committing to any application, I always look into the ability to convert the format of the given application to other forms -- in the case of note-taking, to be able to convert individual notes to text, Word, or Evernote format.
 
-##### 4. General app popularity
-The more popular an application is, the more likely its developers will continue to produce updates, bug fixes, and improvements. An app that isn't quite as popular runs the risk of being discontinued, so I generally prefer more popular apps over smaller ones. 
+##### 4. General app popularity.
+Popular apps come with a number of features which include: 
 
-##### 5. The ability to have multiple levels of organization
-This refers to the ability to categorize notes in notebooks, tags, sections, etc., At a scale of 100 notes, multiple levels of organization are overkill. At a scale of 1,000+ notes, multiple levels of organization are essential. 
+* A strong team of developers who continue to produce updates, bug fixes, and new features.
+* A far lower risk of the app being discontinued.
+* A number of add-ons, plugins, or compatible apps/features, as developers make handy side-applications to support the main application. 
+* A number of help forums that come with insight on more advanced features. 
 
-##### 6. Support & syncing across multiple devices and offline
+##### 5. The ability to have multiple levels of organization.
+This refers to the ability to categorize notes in notebooks, tags, sections, etc., At a scale of 100 notes, multiple levels of organization are overkill. At a scale of 1,000+ notes, multiple levels of organization are _essential_. 
+
+##### 6. Support across multiple devices, cloud synchronization, and offline use.
 Particularly ease of access and syncing capabilities across devices and the ability to use the apps offline and have changed synced back up later. 
 
-##### 7. Support all forms of notetaking
-This includes quick-and-dirty notetaking, on-the-go notetaking, mobile note-taking, long-form note-taking, and the ability to handle formats like images, PDFs, and voice recordings. 
+##### 7. Seamless syncing and support across all forms of notetaking.
+This includes quick-and-dirty notetaking, on-the-go notetaking, mobile note-taking, long-form note-taking.
 
-## General Setup 
-My system involves 3 elements: 
+##### 8. A decent user interface. 
+Clean and intuitive. 
 
-Central Hub
-* Microsoft One Note -- my central hub for notes (iOS, Android, Mac, Windows)
+##### 9. Other Cool Features 
+For example, version control/page history, the ability to handle formats like images, PDFs, voice recordings, etc., 
 
-Personal Diary
-* Day One (iOS, Mac)
+### An Overview of My Solution. 
+My system involves 3 core elements: 
 
-Quick and Dirty Notes
-* Google Keep (iOS, Android, Mac, Windows, Web)
-* iOS Stickies (iOS, Mac)
+#### I. Microsoft OneNote 
+As my central hub for notes.
+(iOS, Android, Mac, Windows, Web)
 
-### Quick and dirty note-taking | Google Keep & Stickies
+#### II. Google Keep & iOS Stickies 
+For quick & dirty note-taking.
+(iOS, Android, Mac, Windows, Web)
 
-Every proper note-taking system should have a mechanism for raw note-taking. That’s the purpose of Google Keep and iOS Stickies in this system. They take care of the day-to-day note-taking needs of:
-* Jotting down advice / notes through out the day
-* Temporary notes like shopping lists, reminders, and to-dos
+#### III. Day One 
+As my personal diary.
+(iOS, Mac)
 
-Google Keep is *amazing* in this regard – the mobile app and the Web platform sync smoothly allowing for easy transferring of notes taken on a cell phone to one’s computer and vice versa. The syncing is so good that I’ll often use Google Keep solely for transferring data like addresses, WiFi passwords, etc., from my computer to my phone. Plus, it has great offline, collaboration, and archive options. 
+### I. Microsoft OneNote | The Central Hub
 
-iOS Stickies are great for quick and dirty jotting down of ideas while offline or when unable to connect to the web on your Mac.  
+This is where the *real beauty* of the system kicks in. 
 
-### The central hub | Microsoft OneNote
 
-This is where the *real beauty* of the system kicks in. A couple of elements led me to choose Microsoft OneNote over competitors like Evernote:
+#### Why OneNote? 
+
+I. OneNote has __most all__ the features described above. 
+
+The most important features which distinguish it from other note-taking apps are the following: 
+
+##### Scalability
+ONENOTE SCALABILITY IS SO FREAKING GOOD OMG. It easily handles scalability with __4 levels of organization__ --- notebooks, sections, pages, and optional subpages. This means even a scale of 2,000 notes can be searched incredibly effectively and easily, assuming a constant distribution across organization sub-levels. Search functions at this scale are still great. 
+
+##### Great Export Options
+Say you want to ditch OneNote. It has export options which allow you to export individual pages, sections, or notebooks to pretty much any format you'd want --- [Word, PDF, XPS,](https://www.howtogeek.com/howto/22679/beginner-save-your-onenote-2010-docs-to-different-file-formats/){:target="_blank"} [text](http://www.onenotegem.com/document/export-onenote-pages-to-txt-files){:target="_blank"}, etc.,
+
+##### A Decent User Interface & Cloud synchronization, and Offline Use
+Their user interface is good --- easy to figure out and with pretty extensive coverage across different interfaces. Their syncing system & offline use could be better, but I mostly rely on Google Keep for those functions so they make little difference to my note-taking system. 
 
 Why OneNote?
-OneNote satisfies all of the requirements specified above – it easily handles scale of notes, and has 4 levels of organization (notebooks, sections, pages, and optional subpages) which means a scale of 1,000+ notes can be organized very efficiently. Its search function is great and because of its immense popularity, a number of scripts and applications can convert OneNote notes to various formats. OneNote can handle pretty much any file type, including images, PDFs and even hand-written notes within the app, while having superb multi-device and offline functioning. 
 
-Between OneNote and Evernote, I felt OneNote’s level of organization was more extensive than that of Evernote (for example, on OneNote, you can organize by notebook, section, and pages) while Evernote had (what I perceived to be) a more complicated system of organization. Finally, the fact that they recently decided to downgrade free users to only 2 devices solidified my jump over to OneNote. 
+Its search function is great and because of its immense popularity, a number of scripts and applications can convert OneNote notes to various formats. OneNote can handle pretty much any file type, including images, PDFs and even hand-written notes within the app, while having superb multi-device and offline functioning. 
+
+In other words, it has the ability to both catalog *and* note-take. 
+
+##### 
+
+III. Other amazing features like: 
+* Intensive formatting (versus a simpler formatting experience on Evernote)
+* Support of more free-form note-taking (versus solely a linear top-to-bottom one)
+* Page Version History (showing a history of edits made to a given page)
+* Page templates 
+* In built drawing, recording audio and video functions
+* In built scanning & embedded spreadsheet functions
+* Email notes to OneNote
+* Full integration & easy export to Microsoft Word 
+
+#### Why OneNote over Evernote? 
+
+A couple of elements led me to choose Microsoft OneNote over competitors like Evernote:
+
+##### I. OneNote's free software far exceeds the capability of Evernote's free plan.
+Most all of the features described above come free on OneNote whereas the Evernote free plan is far less robust. I'd also argue the paid Evernote plans are simply not as robust as that of OneNote. For example WHY do I need [a paid Evernote subscription for offline access](https://www.cloudwards.net/evernote-vs-onenote/){:target="_blank"}??
+
+##### II. Signs of trouble with the company itself.
+
+[As Lifehacker puts it](https://lifehacker.com/note-taking-showdown-evernote-vs-onenote-2016-editio-1765707423){:target="_blank"}:
+
+> "There have been troubling signs with the company too. Evernote co-founder Phil Libin stepped down as CEO last July, the company laid off 13% of its staff two months later, and they also closed three of its global offices. Perhaps Evernote is just transitioning to a leaner, more focused company, but with them shutting down Evernote Food and ending support for Skitch and Clearly, it’s reasonable to be concerned about the future of one of our favorite note-taking apps."
+
+I also fundamentally dislike some of their more recent moves, like [limiting users to 2 devices](https://9to5mac.com/2016/06/28/evernote-price-increase-basic-two-device-limit/){:target="_blank"} and [restricting offline access](http://classroom.synonym.com/can-work-evernote-offline-mode-8818.html){:target="_blank"} on the free plan.
+
+That being said, Evernote is a __good__ platform, particularly if you're heavily invested in it and use many of its advanced features. It has a solid organization system and if you have 1,000+ notes, it's likely better to simply continue using Evernote and work on cleaning the organization system itself rather than starting from scratch on OneNote. 
+
+I ended up switching from Evernote to OneNote, despite having an 800 note system already on Evernote and suffice to say, it was definitely worth the switch. It took about 20-30 hours to copy over all of my notes which is a high startup cost, but is a low cost thereafter. 
 
 ### How my OneNote is set up 
 
@@ -110,6 +161,17 @@ This allows for incredibly easy navigating and search. If I’m looking for a sp
 </p>
 
 Amazing! You can get more intense with tags and such, but at my current note-taking level, this is perfect.
+
+
+### Quick and dirty note-taking | Google Keep & Stickies
+
+Every proper note-taking system should have a mechanism for raw note-taking. That’s the purpose of Google Keep and iOS Stickies in this system. They take care of the day-to-day note-taking needs of:
+* Jotting down advice / notes through out the day
+* Temporary notes like shopping lists, reminders, and to-dos
+
+Google Keep is *amazing* in this regard – the mobile app and the Web platform sync smoothly allowing for easy transferring of notes taken on a cell phone to one’s computer and vice versa. The syncing is so good that I’ll often use Google Keep solely for transferring data like addresses, WiFi passwords, etc., from my computer to my phone. Plus, it has great offline, collaboration, and archive options. 
+
+iOS Stickies are great for quick and dirty jotting down of ideas while offline or when unable to connect to the web on your Mac.  
 
 ### Personal Journal | Day One
 
