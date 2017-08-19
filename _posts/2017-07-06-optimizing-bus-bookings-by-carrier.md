@@ -36,6 +36,12 @@ Boltbus has you load the luggage in yourself so they don’t even notice your lu
 
 Megabus has an operator load the luggage and does complain if it’s overweight, but isn’t as formal as Greyhound in terms of weighing the luggage.  
 
+#### If you don’t have access to a printer/need online ticket check-ins. . .
+
+__Avoid Greyhound/Peter Pan and opt for Boltbus or Megabus.__
+
+Boltbus and Megabus allow you to pull up the ticket on your phone while Greyhound requires a printed ticket.
+
 #### If you are likely to miss your bus or might need to re-schedule the date/time. . . 
 
 __Avoid Greyhound and opt for Megabus or Boltbus.__
@@ -47,12 +53,6 @@ Greyhound requires a flat $20 re-booking fee for changing the date or time of a 
 __Avoid Greyhound/Peter Pan and Boltbus which tend to leave on the dot, and opt for Megabus which is often delayed.__
 
 LOL.
-
-#### If you don’t have access to a printer/need online ticket check-ins. . .
-
-__Avoid Greyhound/Peter Pan and opt for Boltbus or Megabus.__
-
-Boltbus and Megabus allow you to pull up the ticket on your phone while Greyhound requires a printed ticket.
 
 #### If you want free wifi. . .
 
