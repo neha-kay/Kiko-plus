@@ -74,5 +74,10 @@ The best strategy here is to first use [Wanderu](https://www.wanderu.com/en/){:t
 
 Say you're a college student, and between the months of August and May, you return home on a $20 bus ride for Thanksgiving, Christmas, Spring Break, and Fall Break (8 roundtrips -- a total of 32 roundtrips and 64 individual trips over 4 years). __With a Boltbus or Greyhound rewards program, you end up saving $160 with 8 free trips__. Not too shabby!
 
+-------
 
-__Continue to Part 2, *How to Score $1 Bus Tickets*, of the 3-part Bus Booking Optimization Guide [here](https://neha-kay.github.io/2017-07-06/how-to-score-1-bus-tickets/).__
+_Next up in the Bus Booking Optimization Guide:_
+* _[Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_
+
+_Other Posts in This Series:_
+* _Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}_
