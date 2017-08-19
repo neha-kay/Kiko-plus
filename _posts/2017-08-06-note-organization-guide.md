@@ -23,27 +23,31 @@ This is by no means the *best* way to organize one's notes but it's the way that
 
 ### What defines a good note organization system?
 
-#### 1. Scalability.
-The ability to seamlessly handle upwards of 5,000 notes without losing the essential features listed below.
+##### 1. Scalability
+The ability to seamlessly handle upwards of 5,000 notes without losing the essential features listed below. This is the point at which cataloging becomes as important a feature as the note-taking itself. It's also where most note-taking apps fall short --- because they maximize the note-taking experience without building the infrastructure for hardcore note cataloging. 
 
 ##### 2. Great search function & ease of note retrieval.
 With upwards of 5,000 notes, a good note organization system should quickly find the information one needs. 
 
-3. Ability to convert to other platforms
-I hate being exclusively reliant on one platform. What happens if they suddenly close down or change policy? One thing which moved me away from Evernote was its change in policy which prevented free users from using Evernote on more than two devices. Not cool. 
+##### 3. Ability to convert to other platforms.
+I hate being exclusively reliant on one platform. What happens if they [get bought and no longer remain supported](https://techcrunch.com/2015/02/04/microsoft-sunrise/){:target="_blank"}? Or if they have a [major change in policy](https://9to5mac.com/2016/06/28/evernote-price-increase-basic-two-device-limit/){:target="_blank"}?
 
-Before fully committing to any application, I always look into the ability to convert the format of the application to other forms -- in the case of note-taking, to be able to convert individual notes to text, Word, or Evernote formats.
+A perfect example is Evernote's recent policy change preventing free users from [using Evernote on more than two devices](https://9to5mac.com/2016/06/28/evernote-price-increase-basic-two-device-limit/){:target="_blank"}. This, along with other recent decisions marked Evernote's trend of pushing users to purchase a Premium or Plus plan --- which I was not on board for. 
 
-4. General app popularity
+This is also precisely the reason why it's so important to always be able to __easily and efficiently export your data to another platform if needed.__  
+
+Before fully committing to any application, I always look into the ability to convert the format of the given application to other forms -- in the case of note-taking, to be able to convert individual notes to text, Word, or Evernote format.
+
+##### 4. General app popularity
 The more popular an application is, the more likely its developers will continue to produce updates, bug fixes, and improvements. An app that isn't quite as popular runs the risk of being discontinued, so I generally prefer more popular apps over smaller ones. 
 
-5. The ability to have multiple levels of organization
+##### 5. The ability to have multiple levels of organization
 This refers to the ability to categorize notes in notebooks, tags, sections, etc., At a scale of 100 notes, multiple levels of organization are overkill. At a scale of 1,000+ notes, multiple levels of organization are essential. 
 
-6. Support & syncing across multiple devices and offline
+##### 6. Support & syncing across multiple devices and offline
 Particularly ease of access and syncing capabilities across devices and the ability to use the apps offline and have changed synced back up later. 
 
-7. Support all forms of notetaking
+##### 7. Support all forms of notetaking
 This includes quick-and-dirty notetaking, on-the-go notetaking, mobile note-taking, long-form note-taking, and the ability to handle formats like images, PDFs, and voice recordings. 
 
 ## General Setup 
