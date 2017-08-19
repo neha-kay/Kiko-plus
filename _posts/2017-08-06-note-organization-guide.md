@@ -78,33 +78,24 @@ As my personal diary.
 
 ### I. Microsoft OneNote | The Central Hub
 
-This is where the *real beauty* of the system kicks in. 
+This is where the *real beauty* of the system kicks in. Why OneNote, you may ask?
 
-
-#### Why OneNote? 
-
-I. OneNote has __most all__ the features described above. 
+#### I. OneNote has __most all__ the features described above. 
 
 The most important features which distinguish it from other note-taking apps are the following: 
 
 ##### Scalability
-ONENOTE SCALABILITY IS SO FREAKING GOOD OMG. It easily handles scalability with __4 levels of organization__ --- notebooks, sections, pages, and optional subpages. This means even a scale of 2,000 notes can be searched incredibly effectively and easily, assuming a constant distribution across organization sub-levels. Search functions at this scale are still great. 
+ONENOTE SCALABILITY IS SO FREAKING GOOD OMG. 
+
+It easily handles scalability with __4 levels of organization__ --- notebooks, sections, pages, and optional subpages. This means even a scale of 2,000 notes can be searched incredibly effectively and easily, assuming a constant distribution of notes across organization sub-levels. Search functions at this scale are still great. Unlike 95% of existing note-taking apps, it has the ability to both catalog *and* note-take. 
 
 ##### Great Export Options
 Say you want to ditch OneNote. It has export options which allow you to export individual pages, sections, or notebooks to pretty much any format you'd want --- [Word, PDF, XPS,](https://www.howtogeek.com/howto/22679/beginner-save-your-onenote-2010-docs-to-different-file-formats/){:target="_blank"} [text](http://www.onenotegem.com/document/export-onenote-pages-to-txt-files){:target="_blank"}, etc.,
 
-##### A Decent User Interface & Cloud synchronization, and Offline Use
+##### Decent User Interface / Cloud Synchronization / Offline Use
 Their user interface is good --- easy to figure out and with pretty extensive coverage across different interfaces. Their syncing system & offline use could be better, but I mostly rely on Google Keep for those functions so they make little difference to my note-taking system. 
 
-Why OneNote?
-
-Its search function is great and because of its immense popularity, a number of scripts and applications can convert OneNote notes to various formats. OneNote can handle pretty much any file type, including images, PDFs and even hand-written notes within the app, while having superb multi-device and offline functioning. 
-
-In other words, it has the ability to both catalog *and* note-take. 
-
-##### 
-
-III. Other amazing features like: 
+##### II. Other amazing features 
 * Intensive formatting (versus a simpler formatting experience on Evernote)
 * Support of more free-form note-taking (versus solely a linear top-to-bottom one)
 * Page Version History (showing a history of edits made to a given page)
@@ -122,7 +113,6 @@ A couple of elements led me to choose Microsoft OneNote over competitors like Ev
 Most all of the features described above come free on OneNote whereas the Evernote free plan is far less robust. I'd also argue the paid Evernote plans are simply not as robust as that of OneNote. For example WHY do I need [a paid Evernote subscription for offline access](https://www.cloudwards.net/evernote-vs-onenote/){:target="_blank"}??
 
 ##### II. Signs of trouble with the company itself.
-
 [As Lifehacker puts it](https://lifehacker.com/note-taking-showdown-evernote-vs-onenote-2016-editio-1765707423){:target="_blank"}:
 
 > "There have been troubling signs with the company too. Evernote co-founder Phil Libin stepped down as CEO last July, the company laid off 13% of its staff two months later, and they also closed three of its global offices. Perhaps Evernote is just transitioning to a leaner, more focused company, but with them shutting down Evernote Food and ending support for Skitch and Clearly, it’s reasonable to be concerned about the future of one of our favorite note-taking apps."
@@ -133,31 +123,37 @@ That being said, Evernote is a __good__ platform, particularly if you're heavily
 
 I ended up switching from Evernote to OneNote, despite having an 800 note system already on Evernote and suffice to say, it was definitely worth the switch. It took about 20-30 hours to copy over all of my notes which is a high startup cost, but is a low cost thereafter. 
 
-### How my OneNote is set up 
+### How my Microsoft OneNote Central Hub is Set Up
+
+Given that this is the central hub of notes, __all permanent notes will eventually be migrated and sorted into OneNote.
 
 Each major life topic corresponds to a separate notebook: 
 
 <p align="center">
-  <img src="/images/note-org-guide-one-note-notebooks.png">
+  <img src="/images/note-organization-guide/note-org-guide-one-note-notebooks.png">
 </p>
 <p align="center">
-  <img src="/images/note-org-guide-one-note-notebook.png">
+  <img src="/images/note-organization-guide/note-org-guide-one-note-notebook.png">
 </p>
 
-Within each notebook are corresponding sections (highlighted by the green box) and pages (highlighted by the blue box). As an example, this is the Advice notebook, with advice blurbs on various topics (sections). If a topic has multiple advice tidbits, they’re displayed on different pages. 
+Each notebook has a corresponding set of **sections**, **pages**, and optional **subpages**, allowing you to really drill-down and organize each element of a topic. 
+
+As an example, this is my personal Advice notebook, drilled down into topics (sections) and insights on those topics (pages). If a topic has multiple advice tidbits, they’re displayed on different pages. 
 
 <p align="center">
-  <img src="/images/note-org-guide-one-note-pages.png">
+  <img src="/images/note-organization-guide/note-org-one-note-setup.png">
 </p>
 
-This allows for incredibly easy navigating and search. If I’m looking for a specific chai recipe, I’ll navigate to Food  Cooking  Dipti’s Chai Recipe. Alternatively, if I’m looking for information about my trip to China, I’ll navigate to the Travel notebook, then the China Section, and check out the individual pages. 
+This allows for incredibly easy navigating and search. If I’m looking for a specific chai recipe, for example, I’ll navigate to Food --> Cooking ---> Dipti’s Chai Recipe. 
 
 <p align="center">
-  <img src="/images/note-org-guide-one-note-chai-recipe.png">
+  <img src="/images/note-organization-guide/note-org-cooking.png">
 </p>
 
+Alternatively, if I’m looking for information about my trip to China, I’ll navigate to the Travel notebook, then the China Section, and check out the individual pages. 
+
 <p align="center">
-  <img src="/images/note-org-guide-china-visa.png">
+  <img src="/images/note-organization-guide/note-org-one-note-travel.png">
 </p>
 
 Amazing! You can get more intense with tags and such, but at my current note-taking level, this is perfect.
