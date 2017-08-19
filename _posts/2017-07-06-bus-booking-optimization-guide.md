@@ -10,15 +10,12 @@ share: true
 category: travel
 ---
 
-<p font size="4">
-
 This is _Part 1_ of the 3-part _Bus Booking Optimization Guide_:
 
 * Part 1: Basics of Bus Booking Optimization
 * Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}
 * Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}
 
-</p>
 
 #### I. Use Wanderu!
 [Wanderu](https://www.wanderu.com/en/){:target="_blank"} is the Google of bus tickets --- it pulls and sorts options from all major bus providers so you can identify the best ride across ~100+ options instead of ~10 options from searching only on the Greyhound/Megabus/Boltbus site.
