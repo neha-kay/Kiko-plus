@@ -15,9 +15,7 @@ In May of 2017 I realized I had ~800 discrete notes without an overall structure
 
 _Gasp!_
 
-Afterall, what's the point of taking the time to write out notes if there's no organized way of retrieving or re-viewing them? If my current note-taking habits continue at this rate, quite soon I'll have 1,000+ notes, all of which would serve their purpose far better with a system that allowed for easy searching and access.
-
-That got me thinking about various platforms I could formalize a structure with. Throughout June, I cultivated the system described below. 
+That got me thinking about various platforms I could formalize a structure with. Throughout June, I cultivated the system described below; in other words, re-hauling and re-organizing those 800 notes into a beautiful under-10-second retrieval system. 
 
 This is by no means the *best* way to organize one's notes but it's the way that works quite well for me. 
 
