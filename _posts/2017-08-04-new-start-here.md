@@ -31,6 +31,9 @@ permalink: /start-here/
 * [Why our mental dating schemas need major overhauls]({% post_url 2014-05-31-society-has-dating-all-wrong %}).
 * [Getting the First Date Isn't the Hardest Part]({% post_url 2014-03-03-getting-the-first-date-isnt-the-hardest-part %}){:target="_blank"}
 
+### Photos to Stalk
+
+* [Here]({% post_url 2017-06-02-footsteps %}){:target="_blank"} and [here](https://www.flickr.com/photos/150567501@N07/){:target="_blank"} 😛.
 ### On Traveling
 
 * What's the best place you've traveled to? 
