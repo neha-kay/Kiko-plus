@@ -14,9 +14,9 @@ category: travel
 
 	This is _Part 1_ of the 3-part _Bus Booking Optimization Guide_:
 
-	<li>Part 1: Basics of Bus Booking Optimization</li>
-	<li>Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}</li>
-	<li>Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}</li>
+	* Part 1: Basics of Bus Booking Optimization
+	* Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}
+	* Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}
 
 </p>
 
@@ -60,10 +60,7 @@ Companies like Greyhound and Boltbus offer free rides and rewards with every rid
 
 The best strategy here is to first use [Wanderu](https://www.wanderu.com/en/){:target="_blank"} to figure out which bus carrier offers the cheapest price consistently for your route. Once you find a carrier, use that carrier exclusively and join their rewards program; most of these reward programs require a good number of rides to reap the benefits.
 
-If, for example, you join BoltBus' 
-Say you're a college student, and between the months of August and May, return home on a $20 bus ride for Thanksgiving, Christmas, Spring Break, and Fall Break (8 roundtrips -- a total of 32 roundtrips and 64 individual trips over 4 years). 
-
-__With a Boltbus or Greyhound rewards program, you end up saving money on 8 of those trips --- ~$160__. Not too shabby!
+Say you're a college student, and between the months of August and May, return home on a $20 bus ride for Thanksgiving, Christmas, Spring Break, and Fall Break (8 roundtrips -- a total of 32 roundtrips and 64 individual trips over 4 years). __With a Boltbus or Greyhound rewards program, you end up saving $160 with 8 free trips__. Not too shabby!
 
 ##### Boltbus Rewards 
 Take 8 trips, get 1 free =)
