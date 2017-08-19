@@ -11,20 +11,22 @@ category: organization/productivity
 permalink: /note-organization-guide/
 ---
 
-## Background
+In May of 2017 I realized I had ~800 discrete notes without an overall structure or basis for organization. 
 
-In May of 2017 I realized I had ~800 discrete notes in my Evernote notebooks without an overall structure or basis for organization. That got me thinking about various platforms I could formalize a structure with – especially since, here on out, my notes would only continue to accumulate. 
+_Gasp!_
 
-So throughout June I cultivated the system described below. This is by no means the *best* way to organize one's notes but it's the way that works quite well for me. 
+Afterall, what's the point of taking the time to write out notes if there's no organized way of retrieving or re-viewing them? If my current note-taking habits continue at this rate, quite soon I'll have 1,000+ notes, all of which would serve their purpose far better with a system that allowed for easy searching and access.
 
-Everything below is in my humble opinion and I hope from it, you can find a couple useful tidbits .
+That got me thinking about various platforms I could formalize a structure with. Throughout June, I cultivated the system described below. 
 
-## What defines a good note organization system?
+This is by no means the *best* way to organize one's notes but it's the way that works quite well for me. 
 
-1. Scalability
-The ability to seamlessly handle upwards of 5,000 notes, without losing other essential features below
+### What defines a good note organization system?
 
-2. Great search function & ease of note retrieval 
+#### 1. Scalability.
+The ability to seamlessly handle upwards of 5,000 notes without losing the essential features listed below.
+
+##### 2. Great search function & ease of note retrieval.
 With upwards of 5,000 notes, a good note organization system should quickly find the information one needs. 
 
 3. Ability to convert to other platforms

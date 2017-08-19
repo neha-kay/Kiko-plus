@@ -12,9 +12,6 @@ category: about_neha
 
 ### Footsteps as of August 2017
 
-__Africa |__
-Ghana
-
 __Asia |__
 Hong Kong, India. Japan, Malaysia, Myanmar (Burma), South Korea, Thailand
 

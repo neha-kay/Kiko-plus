@@ -72,7 +72,7 @@ In any case, from a long-term perspective, I still have no clue what I want to d
 * Spend embarrassing amounts of time on my computer (shout out to Reem for pointing this out).
 * Travel.
 
-As of August 2017, I've [traveled to 27 countries]({% post_url 2017-06-02-footsteps %}){:target="_blank"} and will be traveling to the last few countries I want to see before settling down and starting work at Microsoft.
+As of August 2017, I've [traveled to 28 countries]({% post_url 2017-06-02-footsteps %}){:target="_blank"} and will be traveling to the last few countries I want to see before settling down and starting work at Microsoft.
 
 <p align="center">
   <img src="/images/footsteps.jpg">
@@ -88,7 +88,7 @@ __Asia |__
 Hong Kong, India. Japan, Malaysia, Myanmar (Burma), South Korea, Thailand
 
 __Europe |__
-Belgium, Czech Republic, France, Germany, Greece, Italy, Netherlands, Spain, Switzerland, United Kingdom
+Belgium, Czech Republic, France, Germany, Greece, Italy, Netherlands, Spain, Switzerland, United Kingdom, Vatican City
 
 __North America |__
 Canada, Jamaica, United States
