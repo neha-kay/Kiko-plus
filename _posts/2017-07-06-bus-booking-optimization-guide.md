@@ -20,7 +20,7 @@ _This is Part 1 of the 3-part _Bus Booking Optimization Guide_:
 
 ### The Basics
 
-You're probably wondering --- I didn't even think booking busses _could_ be optimized. In fact they can! 😀
+You're probably thinking --- I didn't even think booking busses _could_ be optimized. In fact they can! 😀
 
 #### I. Use Wanderu!
 [Wanderu](https://www.wanderu.com/en/){:target="_blank"} is the Google of bus tickets --- it pulls and sorts options from all major bus providers so you can identify the best ride across a 100 options instead of the 10 proprietary options the Greyhound/Megabus/Boltbus site provides.
@@ -33,8 +33,8 @@ On top of that, you can:
 
 Once you've found a bus, you can either:
 
-* Pay through the site (100% free as of July 2017) 
-* Navigate to the company site and book there
+* Pay through the site (100% free as of July 2017).
+* Navigate to the company site and book there.
 
 While I personally find Wanderu the most versatile, another great option is [BusBud](busbud.com){:target="_blank"}.
 
@@ -46,7 +46,7 @@ Say you’re traveling from Philadelphia to New York on a weekend 3 months in th
 
 2. Check the prices for 1-3 months out.
 
-3. If the prices of a ticket 1-3 months out is significantly cheaper (say $1-5 instead of $10-$20) buy multiple tickets for a couple weekends.
+3. If the prices of a ticket 1-3 months out is significantly cheaper (say $1-5 instead of $20-$30) buy multiple tickets for a couple weekends.
 
 Depending on the route, this can actually be _way_ cheaper than booking last minute. If you do this through Megabus, you can later credit the un-used tickets to a future trip. 
 
@@ -56,13 +56,7 @@ Since you’ll be asleep a majority of the time, you won’t even realize how mu
 
 #### IV. If you travel often, play the rewards game.
 
-Yes, they're irritating to sign up for but if you travel often (for example if you're a college student), being strategic about your trips and using rewards programs can pay off. 
-
-Companies like Greyhound and Boltbus offer free rides and rewards with every ride you buy. 
-
-The best strategy here is to first use [Wanderu](https://www.wanderu.com/en/){:target="_blank"} to figure out which bus carrier offers the cheapest price consistently for your route. Once you find a carrier, use that carrier exclusively and join their rewards program; most of these reward programs require a good number of rides to reap the benefits.
-
-Say you're a college student, and between the months of August and May, return home on a $20 bus ride for Thanksgiving, Christmas, Spring Break, and Fall Break (8 roundtrips -- a total of 32 roundtrips and 64 individual trips over 4 years). __With a Boltbus or Greyhound rewards program, you end up saving $160 with 8 free trips__. Not too shabby!
+Yes, they're irritating to sign up for, but if you travel often (for example if you're a college student), being strategic about your trips and using rewards programs can pay off. 
 
 ##### Boltbus Rewards
 Take 8 trips, get 1 free =)
@@ -75,6 +69,10 @@ Take 8 trips, get 1 free =)
 | 3 roundtrip tickets   | 15% off next ticket   | Buy 1 get 1 free for a friend   |
 | 5 roundtrip tickets   | 20% off next ticket   | Buy 1 get 1 free for a friend   |
 | 8 roundtrip tickets   | Free trip anywhere   |    |
+
+The best strategy here is to first use [Wanderu](https://www.wanderu.com/en/){:target="_blank"} to figure out which bus carrier offers the cheapest price consistently for your route. Once you find a carrier, use that carrier exclusively and join their rewards program; most of these reward programs require a good number of rides to reap the benefits. Companies like Greyhound and Boltbus offer free rides and rewards with every 8 rides you buy. 
+
+Say you're a college student, and between the months of August and May, you return home on a $20 bus ride for Thanksgiving, Christmas, Spring Break, and Fall Break (8 roundtrips -- a total of 32 roundtrips and 64 individual trips over 4 years). __With a Boltbus or Greyhound rewards program, you end up saving $160 with 8 free trips__. Not too shabby!
 
 
 __Continue to Part 2, *How to Score $1 Bus Tickets*, of the 3-part Bus Booking Optimization Guide [here](https://neha-kay.github.io/2017-07-06/how-to-score-1-bus-tickets/).__
