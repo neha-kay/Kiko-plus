@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Optimizing Bus Bookings by Carrier"
-description: "A quick explanation on the perks of one carrier over another"
+title: "Tips on Scoring $1 Bus Tickets"
+description: "Tips on finding coveted $1 bus tickets"
 date: 2017-07-06
 tags: [travel - bus]
 comments: true
@@ -10,15 +10,21 @@ share: true
 category: travel
 ---
 
-_This is Part 3 of the 3-part Bus Booking Optimization Guide:_
+_This is Part 1 of the 3-part Bus Booking Optimization Guide:_
 
-* _Part 1: Basics of Bus Booking Optimization_
-* _Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_
+* _Part 1: [Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %}){:target="_blank"}
+* _Part 2: Tips on Scoring $1 Bus Tickets
 * _Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}_
 
 -------
 
-Companies like Boltbus and Megabus are notorious for selling coveted $1 tickets. I’ve gotten a few $1 tickets myself along with some $5 and $9 rides. If you’re aiming for scoring one of these tickets consider the following: 
+This page is Part 2 of the 3-part Bus Booking Optimization Guide. If you haven’t already, start at Part 1 of 3, The Basics of Bus Booking Optimization, here. 
+
+Part 1: The Basics of Bus Booking Optimization
+Part 2: How to Score $1 Bus Tickets
+Part 3: How to Optimize Bus Bookings by Carrier
+
+Companies like Boltbus and Megabus are notorious for selling coveted $1 tickets. I’ve gotten a few myself along with some $5 and $9 rides. If you’re aiming for scoring one of these tickets consider the following: 
 
 1. Have a travel window, preferably with weekdays, and check all dates in that travel window across all bus sites on Wanderu. Generally Friday and Sunday travel tend to be more expensive, as well as holidays and weekend times. If you’re able to, searching for a weekday time may yield more golden $1 bus tickets. 
 
@@ -38,6 +44,8 @@ According to Busbud, you’re more likely to snag a $1 bus ticket set to travel 
 The Dollar Bus Club is a free email alert which emails you when a $1 bus fare was found in your city. Pretty neat!
 
 -------
-_Other Posts in This Series:_
+_Next up in the Bus Booking Optimization Guide:_
 * _[Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}_
+
+_Other Posts in This Series:_
 * _[Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_

@@ -80,4 +80,4 @@ _Next up in the Bus Booking Optimization Guide:_
 * _[Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_
 
 _Other Posts in This Series:_
-* _[Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"} (Part 3)_
+* _[Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}_
