@@ -11,19 +11,44 @@ category: organization/productivity
 permalink: /time-organization-guide/
 ---
 
-## Introduction
+### Welcome! 
+Welcome to the Time Organization Guide! 
 
-Before starting I want to first point out that I am just another human – by no means the most organized person. These are simply my ideas on time organization and what has worked for me. I hope you glean some useful tidbits from it. If you have useful (or better?) tips, leave them in the comments below. 
+This guide is specifically for:
 
-One last thing: this post features a number of excel templates. If you’d like to get the original Excel template, email me at [neha@nehakay.com](mailto:neha@nehakay.com). 
+* Getting rid of that overwhelmed/powerless feeling --- the feeling that you don’t have control over your time 
+* Have a better grasp of the time you have to get work done
+* Not having to remember what you’re doing by when and outsourcing that information so you can focus on the things you actually need to do
 
-With that, onwards, new friend! 
+This guide is Part 2 of the 3-part Productivity Guide. If your current time management system is already up to snuff, I’d recommend checking out the other two pieces: 
 
-## How my time organization system is set up 
+
+ 
+### The Basics
+Time organization is one of those things that’s _highly_ idiosyncratic; some people have phenomenal systems using paper calendars while others love bullet journaling, while still are fine without even having a time organization system at all. So do what works for you, and it may not be the system I describe here. That being said, if you’re like me, and like having things 1000% organized and laid out so you can focus on what matters, what you’ll read below is likely to be incredibly useful. 
+
+In this guide, I’ll layout:
+* Multiple time layouts I find the most useful
+* How to set up a central time hub around Google Calendar
+* How to maintain your central time hub
 
 ### Different views of time
+Conventionally, most people maintain solely a weekly and daily view on time. And while you can map things out like this, I find it _incredibly_ useful to have both macro level (multi-month/month) views and micro level (weekly/daily) views. This is for a couple reasons: 
 
-In the same way that Google Calendar has a day, week, and month view, I have 3 different ‘views’ of time:
+##### I. Time simply looks different from a monthly perspective
+
+It’s far easier to get a sense of how each week translates to progress on major milestones (test, big deadlines, etc.,) than on a sole week view.
+
+##### II. It helps you translate larger goals to smaller ones
+
+Consider the goal of studying for a test --- it’s way easier to outline achieving this seeing a monthly calendar than solely the week leading up to the test. 
+
+##### III. It’s a wake-up call of how fast time moves
+
+As they say, “the days are long but the years are short”. The same goes for months and semesters; before you know it, it’s the end of the month or that massive deadline is approaching. In this sense, having a monthly view will keep you _aware_ of how time passes on a macro level, rather than having it hit you in that final week. 
+
+
+### Macro Level Views
 
 1.	A multi-month view
 
