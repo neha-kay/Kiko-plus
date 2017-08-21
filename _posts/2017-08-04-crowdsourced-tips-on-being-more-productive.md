@@ -83,3 +83,9 @@ Read more [here](https://www.heflo.com/blog/business-management/examples-of-smar
 Take a couple of blank pieces of paper and write down every task you have to do in every arena of your life. [Use this trigger list](http://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf){:target="_blank"} to make sure you've gotten everything down. Then sort by project, priority, and time required. 
 
 Read more on my [Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"}
+
+### Clarify things you have to do.
+
+If it takes less than 2 minutes to do, __just do it.__
+
+It's simply easier and less work to just get it done rather than carrying around the mental effort of _remembering_ to do the 2 minute task throughout the day. 
