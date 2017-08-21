@@ -118,7 +118,7 @@ If you’re already set up on Apple calendar or a written calendar journal and y
 
 Head to Google Calendar [here](http://www.calendar.google.com){:target="_blank"} and login or signup. 
 
-#### Step 2 | Set up individual calendars
+##### Step 2 | Set up individual calendars
 
 Individual calendars segment which events go into which 'bucket of your life'.
 
