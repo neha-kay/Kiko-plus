@@ -56,20 +56,20 @@ A huge benefit of Couchsurfing is the ability to connect with locals. When I cou
 The next day, he took me to see Stephen Hawking’s office - an experience only a local would know of and access. 
 
 <p align="center">
-  <img src="/images/couchsurfing-guide/hawking.jpg">
+  <img src="/images/couchsurfing-guide/hawking.jpg" width="600">
 </p>
 
 Meanwhile, in Dublin, Ireland on St. Patrick’s Day Festival, I stayed with a Couchsurfer who happened to have my dream job and learned so, so much about career, personal growth, and personal development.
 
 <p align="center">
-  <img src="/images/couchsurfing-guide/cs-ireland.jpg">
+  <img src="/images/couchsurfing-guide/cs-ireland.jpg" width="600">
 </p>
 
 Finally, a couple years ago, a German surfer, Val, stayed at my place in Oxford University.
 Unlike other travelers, he he had a chance to experience what it's like living as an Oxford University student – again, an opportunity he had solely because he was Couchsurfing. I also took him canoe polo-ing -- aka playing polo in *canoes*.
 
 <p align="center">
-  <img src="/images/couchsurfing-guide/cs-canoe.jpg">
+  <img src="/images/couchsurfing-guide/cs-canoe.jpg" width="600">
 </p>
 
 This is the magic of Couchsurfing 😊
