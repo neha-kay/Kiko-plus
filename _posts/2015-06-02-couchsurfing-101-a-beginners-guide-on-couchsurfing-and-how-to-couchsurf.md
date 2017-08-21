@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Beginner's Guide to Couchsurfing - How to Couchsurf & Not Get Killed
+title: The Ultimate Beginner's Guide to Couchsurfing - How to Couchsurf & Not Get Killed
 description: A multi-part guide on how to Couchsurf.
 date: 2015-06-02
 tags: [guides, travel - couchsurfing]
@@ -11,11 +11,13 @@ published: true
 category: travel
 ---
 
-*** THIS IS PART OF THE COUCHSURFING GUIDE*** 
+_This is Part 1 of the 3-part_ Beginner's Guide to Couchsurfing:
 
-This is a multi-part guide to getting started on Couchsurfing.
-
-The hardest part about Couchsurfing is getting started. You want to get hosted. But you have no reviews. How do you get hosts if hosts only accept people with reviews? Seems like quite the closed circle.
+* _Part 1: _
+* _Part 1: _
+* _Part 1: _
+* _Part 1: _
+* _Part 1: _
 
 This guide covers: 
 1. An Overview of Couchsurfing 
@@ -27,41 +29,47 @@ This guide covers:
 7: An example request I personally use that has worked consistently
 8: Examples: What *Not* To Do
 
+-------
+
+Welcome to the ultimate couchsurfing guide! You won't find a guide that's better or more comprehensive. Having traveled to 28 countries and having both Couchsurfed and hosted Couchsurfers about 40 times, I've learned the ins and outs of the system, especially how to get a host in particularly popular cities like New York, Rome, London, etc.,
+
+The hardest part about Couchsurfing is getting started. You want to get hosted. But you have no reviews. How do you get hosts if hosts only accept people with reviews? Seems like quite the closed circle. It can be, and a number of people struggle to get hosts on Couchsurfing. That being said, if you take the time to read through the guide, by the end, you'll have no trouble whatsoever.
+
 ### What is Couchsurfing? 
 
 Couchsurfing is a [website](couchsurfing.com){:target="_blank"} which allows you to connect with people in different cities and particiapte in cultural exchange for free by staying with them in their house, usually between 2-4 nights. 
 
 Couchsurfing is perfect for people who are:
 * Open-minded
-* Interested in learning about the culture & the people when traveling -- not just the touristy sites
+* Interested in learning about the culture when traveling --- not just the touristy sites
 * Flexible 
 * Willing to hang out and connect with your host (grab dinner, go to an event, have an intellectual discussion etc.,)
 
-If you surf (e.g. if you stay at other people's houses) there's no obligation to have to host in the future, though many (including me!) often do host to pay it forward, after many phenomenal experiences with their hosts. 
+If you surf (e.g. if you stay at other people's houses) there's no obligation to host in the future, though many (including me!) often do host to pay it forward after many phenomenal experiences with their hosts. 
 
 ### What's your experience been like? 
 
 As a female solo backpacker, I've Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. 
 
-A huge benefit of Couchsurfing is the ability to connect with locals. When I couchsurfed at  Cambridge University, for example, I lived like a student with my host, Jacky a Cambridge student. We dined at Hogwarts-style common rooms other travelers couldn’t access and my host even treated me to a giant home-cooked feast with his classmates the day I arrived.
+A huge benefit of Couchsurfing is the ability to connect with locals. When I couchsurfed at  Cambridge University, for example, I lived like a student with my host, Jacky, a Cambridge student. We dined at a Hogwarts-style common rooms other travelers couldn’t access and my host even treated me to a _giant_ home-cooked feast with his classmates the day I arrived.
 
 The next day, he took me to see Stephen Hawking’s office - an experience only a local would know of and access. 
 
 <p align="center">
-  <img src="/images/hawking.jpg">
+  <img src="/images/couchsurfing-guide/hawking.jpg">
 </p>
 
 Meanwhile, in Dublin, Ireland on St. Patrick’s Day Festival, I stayed with a Couchsurfer who happened to have my dream job and learned so, so much about career, personal growth, and personal development.
 
 <p align="center">
-  <img src="/images/cs-ireland.jpg">
+  <img src="/images/couchsurfing-guide/cs-ireland.jpg">
 </p>
 
 Finally, a couple years ago, a German surfer, Val, stayed at my place in Oxford University.
-Unlike other travelers, he he had a chance to experience what it's like living as an Oxford University student – again, an opportunity he had solely because he was Couchsurfing. I also took him canoe polo-ing -- aka playiing polo in *canoes*.
+Unlike other travelers, he he had a chance to experience what it's like living as an Oxford University student – again, an opportunity he had solely because he was Couchsurfing. I also took him canoe polo-ing -- aka playing polo in *canoes*.
 
 <p align="center">
-  <img src="/images/cs-canoe.jpg">
+  <img src="/images/couchsurfing-guide/cs-canoe.jpg">
 </p>
 
 This is the magic of Couchsurfing 😊
@@ -72,15 +80,24 @@ Indeed Couchsurfing is free - free to stay with others for a few nights and free
 
 ### Is Couchsurfing safe? Aren't you effectively staying in random people's houses? 
 
-Indeed you are staying in the house of people you haven't met but references help make the experience safer. Each member of the Couchsurfing community has a profile which looks something like this. 
-
-Each member also has a set of references that attest to the person's character and personality. If you stay with people with a large number of references and [take the proper precautions](http://www.nehakay.com/2015-06-02/couchsurfing-isnt-couchsurfing-dangerous-for-women/){:target="_black"}, indeed it's pretty safe, even for women. 
-
-Naturally, if you're a woman traveling abroad, you're concerned about safety (I'm a female solo traveler and I think about it constantly) -- check out [this post](http://www.nehakay.com/2015-06-02/couchsurfing-isnt-couchsurfing-dangerous-for-women/){:target="_black"}, which outlines what you can do to make it an entirely safe experience.
+Indeed you are staying in the house of people you haven't met but references help make the experience safer. Each member of the Couchsurfing community has a profile which looks something like this:
 
 <p align="center">
-  <img src="/images/cs-references.jpg">
+  <img src="/images/couchsurfing-guide/cs-profile.png">
 </p>
+
+Each member also has a set of references that look something like this:
+
+<p align="center">
+  <img src="/images/couchsurfing-guide/cs-references.png">
+</p>
+
+In general, if you stay with people with a large number of references and [take the proper precautions]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}, indeed it's pretty safe, even for women. 
+
+Naturally, if you're a woman traveling abroad, you're concerned about safety. I'm a female solo traveler and I think about it constantly.
+
+I've written an entire piece [here]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"} about staying safe as a female couchsurfer. 
+
 
 ### What is the incentive for people to host others?
 
