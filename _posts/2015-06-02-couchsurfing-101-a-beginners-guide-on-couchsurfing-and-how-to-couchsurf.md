@@ -98,18 +98,16 @@ Naturally, if you're a woman traveling abroad, you're concerned about safety. I'
 
 I've written an entire piece [here]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"} about staying safe as a female couchsurfer. 
 
-
 ### What is the incentive for people to host others?
 
-The incentive is:
-* Cultural exchange -- meeting Germans, Ethiopians, Italians, Indians and learning about their culture, ideas, thoughts, and ways of life
-* Getting to know people you otherwise would never have known
-* The value of helping other people out
-* Meeting like-minded people 
-* Having people to do fun things with / hangout
-* Paying it forward if you previously surfed 
+* Cultural exchange -- meeting people all across the world and learning about their culture, ideas, thoughts, and ways of life.
+* Getting to know people you otherwise would never have known.
+* The value of helping other people out.
+* Meeting like-minded people.
+* Having people to do fun things with / hangout.
+* Paying it forward if you previously surfed.
 
-While it may be hard to imagine, there's an incredible tangible value of hosting someone at your house. 
+While it may be hard to imagine, there's an incredible value of hosting someone at your house. 
 
 I’ve hosted 10 travelers and have had wonderful experiences with most all of them. Granted, one of them did smell bad (I had to keep my window open throughout his whole stay – LOL). But in all seriousness,through socialism vs. capitalism debates, chill conversations, and intellectual discussions, in every respect I’ve learned so much from each of them. 
 
@@ -117,7 +115,7 @@ Not to mention it’s always great to be on the receiving end of gratitude. Most
 
 ### What's the biggest downside to Couchsurfing?
 
-#### It requires time to find hosts 
+#### It requires time to find hosts.
 
 Getting hosts often requires sending 10 request for every 1 offer to host. If you don't have the time to write personalized requests, you're better off booking a hostel or hotel. 
 
@@ -125,13 +123,13 @@ Getting hosts often requires sending 10 request for every 1 offer to host. If yo
 
 To ensure a safe experience, you really have to put in the time to request only people with a large number of reviews, reading the reviews, etc., If you prefer a quick booking experience, you're better off booking a hostel or hotel. 
 
-#### It requires spending time with your host
+#### It requires spending time with your host.
 
 The most poignant difference between Couchsurfing and other forms of accommodation (hotels, hostels, AirB&B, etc.,) is the central unit of currency. In the latter it’s money; in the former, it’s time. While you don’t pay for staying at people’s houses, you do pay with time – spending time with them and investing in them as a person. This might mean not coming back at home at 1 AM (if your host isn’t a fan of that). Or it might mean eating dinner with your host instead of spending the entire night out. With Couchsurfing you invest time, rather than money.
 
 If you Couchsurf, expect to spend time with your host -- perhaps touring the city together, grabbing dinner, or having interesting conversations. 
 
-#### It requires being flexible
+#### It requires being flexible.
 
 Yes, sometimes a host will cancel on you last minute. It's only happened once or twice for me of 21 surfing experiences, but indeed, it's a possibility. If you aren't able to be flexible in these circumstances, you're better off booking a hostel or hotel. 
 
