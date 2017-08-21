@@ -11,9 +11,11 @@ published: true
 category: travel
 ---
 
-Welcome to the Ultimate Beginner's Couchsurfing Guide! You won't find a guide that's better or more comprehensive. Having traveled to 28 countries and having both Couchsurfed and hosted Couchsurfers about 40 times, I've learned the ins and outs of the system and have interviewed more experienced Couchsurfers (e.g. 200+ reviewed Couchsurfers) for their tips and insights, included in this guide as well.
+Welcome to the Ultimate Beginner's Couchsurfing Guide! You won't find a guide that's better or more comprehensive. 
 
-The hardest part about Couchsurfing is getting started. You want to get hosted. But you have no reviews. How do you get hosts if hosts only accept people with reviews? Seems like quite the closed circle. It can be, and a number of people struggle to get hosts on Couchsurfing. That being said, if you take the time to read through the guide, by the end, you'll have no trouble whatsoever.
+Having backpacked and couchsurfed in 28 countries, I've learned the ins and outs of the system. To add to my knowledge, I've also interviewed more experienced Couchsurfers (e.g. 200+ reviewed Couchsurfers) for their tips and insights, which are included in this guide as well.
+
+The hardest part about Couchsurfing is undoubtedly getting started. You want to get hosted. But you have no reviews. How do you get hosts if hosts only accept people with reviews? Seems like quite the closed circle. It can be, and a number of people struggle to get hosts on Couchsurfing. That being said, if you take the time to read through the guide, by the end, you'll have no trouble whatsoever.
 
 _Take a look at the guide topics below and choose where you want to begin:
 
