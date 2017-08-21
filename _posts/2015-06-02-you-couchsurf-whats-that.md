@@ -60,11 +60,13 @@ The next day, he took me to see Stephen Hawking’s office - an experience only 
   <img src="/images/couchsurfing-guide/hawking.jpg" width="400">
 </p>
 
-Meanwhile, in the Czech Republic, my host had the most __awesome__ house and we spent a decent amount of time playing video games on his massive projector. He even later cooked me a vegetarian meal --- which apparently is pretty unheard of in the Czech Republic (lol).
+Meanwhile, in the Czech Republic, my host had the most __awesome__ house and we spent a decent amount of time playing video games on his massive projector in addition to hanging out in person in the city. 
 
 <p align="center">
   <img src="/images/couchsurfing-guide/czech.jpg" width="600">
 </p>
+
+He even later cooked me a vegetarian meal --- which apparently is pretty unheard of in the Czech Republic (lol).
 
 <p align="center">
   <img src="/images/couchsurfing-guide/czech2.jpg" width="600">
@@ -99,9 +101,7 @@ Each member also has a set of references that look something like this:
 
 In general, if you stay with people with a large number of references and [take the proper precautions]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}, indeed it's pretty safe, even for women. 
 
-Naturally, if you're a woman traveling abroad, you're concerned about safety. I'm a female solo traveler and I think about it constantly.
-
-I've written an entire piece [here]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"} about staying safe as a female couchsurfer. 
+Naturally, if you're a woman traveling abroad, you're concerned about safety. I'm a female solo traveler and I think about it constantly. I've written an entire piece [here]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"} about staying safe as a female couchsurfer. 
 
 ### What is the incentive for people to host others?
 
