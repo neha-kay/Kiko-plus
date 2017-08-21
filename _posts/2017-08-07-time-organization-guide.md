@@ -134,7 +134,7 @@ Me Time --- This is a calendar I use for any 'self-decided' activities --- for e
 (Career/Exercise/Social) --- In addition to the calendars above, it's likely useful to have some calendars corresponding to things you value highlu. During the job recruiting season, for example, I maintained a career calendar to distinguish all the recruiting events from the regular ones. If you're super into exercise, on the other hand, it might be worthy to have a calendar dedicated solely to workout schedules. This is for you to customize and play aroud with. Other useful calendars may include: side project, learning music, office hours, etc., 
 
 <p align="center">
-  <img src="/images/time-organization-guide/week-view.png">
+  <img src="/images/time-organization-guide/day-view.png">
 </p>
 
 Go ahead and make which ever individual calendars you think will be the most useful. If you need guidance on how to create the calendar, check out this  (if you need guidance on how to do this refer to [help link](https://support.google.com/calendar/answer/37095?hl=en){:target="_blank"}).

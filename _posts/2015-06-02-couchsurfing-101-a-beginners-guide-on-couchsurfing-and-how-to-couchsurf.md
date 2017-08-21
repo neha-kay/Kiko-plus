@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Couchsurfing 101 - A Beginner's Guide on Couchsurfing and How to Couchsurf
-description: 7 min read
+title: The Beginner's Guide to Couchsurfing - How to Couchsurf & Not Get Killed
+description: A multi-part guide on how to Couchsurf.
 date: 2015-06-02
 tags: [guides, travel - couchsurfing]
 comments: true
