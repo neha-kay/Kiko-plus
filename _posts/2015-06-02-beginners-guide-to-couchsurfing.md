@@ -20,7 +20,7 @@ The hardest part about Couchsurfing is undoubtedly getting started. You want to 
 Take a look at the guide topics below and choose where you want to begin:
 
 * If you already have a good sense of what Couchsurfing is, skip the overview and head to [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}. 
-* If you want the quick overview, then feel free to check it out [here]({% post_url 2015-06-02-you-couchsurf-whats-that %}){:target="_blank"}. 
+* If you're entirely new to Couchsurfing, read more about [what it is and how it works]({% post_url 2015-06-02-you-couchsurf-whats-that %}){:target="_blank"}. 
 
 Otherwise, feel free to skip to some of the other content listed below:
 

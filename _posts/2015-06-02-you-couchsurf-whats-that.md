@@ -14,15 +14,21 @@ permalink: /travel/what_is_couchsurfing/
 
 _This is Part 1 of the 3-part_ Beginner's Guide to Couchsurfing:
 
-0. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}
-1. What Couchsurfing Is & How it Works
-2. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}
-3. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}){:target="_blank"}
-4. To Do: Before Your First Trip
-5. [How to Write a Great Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}
-6. [Examples: What *Not* To Do]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}
-7. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}
-8. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}
+_0. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}_
+
+_1. What Couchsurfing Is & How it Works_
+
+_2. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}_
+
+_3. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}){:target="_blank"}_
+
+_4. [How to Write a Great Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}_
+
+_5. [Examples: What *Not* To Do]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}_
+
+_6. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
+
+_7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}_
 
 -------
 
@@ -37,6 +43,10 @@ Couchsurfing is perfect for people who are:
 * Willing to hang out and connect with your host (grab dinner, go to an event, have an intellectual discussion etc.,)
 
 If you surf (e.g. if you stay at other people's houses) there's no obligation to host in the future, though many (including me!) often do host to pay it forward after many phenomenal experiences with their hosts. 
+
+That being said, there _is_ an unwritten obligation to spend time with your host and get to know them. This could be through having a meal, chatting at their house, watching a movie, etc., 
+
+Some hosts are pretty hands off and let you explore or are busy with work; others want to take you out and show you the city. It really depends on what kind of host you have, but be prepared to spend time with them if they're offering you a place to stay for a couple days. 
 
 ### What's your experience been like? 
 
@@ -71,7 +81,7 @@ Indeed Couchsurfing is free - free to stay with others for a few nights and free
 
 ### Is Couchsurfing safe? Aren't you effectively staying in random people's houses? 
 
-Indeed you are staying in the house of people you haven't met but references help make the experience safer. Each member of the Couchsurfing community has a profile which looks something like this:
+It's true that you're staying in the house of people you haven't met but references help make the experience safer. Each member of the Couchsurfing community has a profile which looks something like this:
 
 <p align="center">
   <img src="/images/couchsurfing-guide/cs-profile.png">
