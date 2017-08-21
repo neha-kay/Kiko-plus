@@ -12,58 +12,62 @@ category: travel
 permalink: /travel/what_is_couchsurfing/
 ---
 
-_This is Part 1 of the 3-part_ Beginner's Guide to Couchsurfing:
+This is Part 2 of the 8-part _Beginner's Guide to Couchsurfing:_
 
-_0. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}_
+_1. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}_
 
-_1. What Couchsurfing Is & How it Works_
+_2. What Couchsurfing Is & How it Works_
 
-_2. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}_
+_3. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}_
 
-_3. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}){:target="_blank"}_
+_4. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}){:target="_blank"}_
 
-_4. [How to Write a Great Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}_
+_5. [How to Write a Great Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}_
 
-_5. [Examples: What *Not* To Do]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}_
+_6. [Examples: What *Not* To Do]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}_
 
-_6. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
+_7. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
 
-_7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}_
+_8. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}_
 
 -------
 
 ### What is Couchsurfing? 
 
-Couchsurfing is a [website](couchsurfing.com){:target="_blank"} which allows you to connect with people in different cities and particiapte in cultural exchange for free by staying with them in their house, usually between 2-4 nights. 
+Couchsurfing is a [website](couchsurfing.com){:target="_blank"} which allows you to connect with people in different cities and participate in cultural exchange for free by staying with them in their house, usually for 2-4 nights. 
 
 Couchsurfing is perfect for people who are:
-* Open-minded
-* Interested in learning about the culture when traveling --- not just the touristy sites
-* Flexible 
-* Willing to hang out and connect with your host (grab dinner, go to an event, have an intellectual discussion etc.,)
+* Open-minded (to new people and ways of living)
+* Interested in learning about the culture when traveling
+* Flexible (if dates change)
+* Willing to spend less time at the touristy sites and connect with your host (grab dinner, go to an event, have an intellectual discussion etc.,) --- 
 
-If you surf (e.g. if you stay at other people's houses) there's no obligation to host in the future, though many (including me!) often do host to pay it forward after many phenomenal experiences with their hosts. 
+If you surf (e.g. stay at other people's houses) there's no obligation to host in the future, though many (including me!) often do host to pay it forward after many phenomenal surfing experiences. 
 
-That being said, there _is_ an unwritten obligation to spend time with your host and get to know them. This could be through having a meal, chatting at their house, watching a movie, etc., 
+That being said, there _is_ an unwritten obligation to spend time with your host and get to know them. This could be through having a meal, chatting at their house, watching a movie, etc.
 
-Some hosts are pretty hands off and let you explore or are busy with work; others want to take you out and show you the city. It really depends on what kind of host you have, but be prepared to spend time with them if they're offering you a place to stay for a couple days. 
+Some hosts are pretty hands off or are busy with work; others want to take you out and show you the city. It really depends on what kind of host you have, but in either case, be flexible, and be prepared to spend time with them if they're taking the time out of their day to host you. 
 
-### What's your experience been like? 
+### What has your experience been like? 
 
 As a female solo backpacker, I've Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. 
 
-A huge benefit of Couchsurfing is the ability to connect with locals. When I couchsurfed at  Cambridge University, for example, I lived like a student with my host, Jacky, a Cambridge student. We dined at a Hogwarts-style common rooms other travelers couldn’t access and my host even treated me to a _giant_ home-cooked feast with his classmates the day I arrived.
+A huge benefit of Couchsurfing is the ability to connect with locals. When I couchsurfed at  Cambridge University, for example, I lived like a student with my host, Jacky, a Cambridge student. We dined at a Hogwarts-style common room other travelers couldn’t access and my host even treated me to a _giant_ home-cooked feast with his classmates the day I arrived.
 
 The next day, he took me to see Stephen Hawking’s office - an experience only a local would know of and access. 
 
 <p align="center">
-  <img src="/images/couchsurfing-guide/hawking.jpg" width="600">
+  <img src="/images/couchsurfing-guide/hawking.jpg" width="400">
 </p>
 
-Meanwhile, in Dublin, Ireland on St. Patrick’s Day Festival, I stayed with a Couchsurfer who happened to have my dream job and learned so, so much about career, personal growth, and personal development.
+Meanwhile, in the Czech Republic, my host had the most __awesome__ house and we spent a decent amount of time playing video games on his massive projector. He even later cooked me a vegetarian meal --- which apparently is pretty unheard of in the Czech Republic (lol).
 
 <p align="center">
-  <img src="/images/couchsurfing-guide/cs-ireland.jpg" width="600">
+  <img src="/images/couchsurfing-guide/czech.jpg" width="600">
+</p>
+
+<p align="center">
+  <img src="/images/couchsurfing-guide/czech2.jpg" width="600">
 </p>
 
 Finally, a couple years ago, a German surfer, Val, stayed at my place in Oxford University.
