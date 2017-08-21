@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Ultimate Beginner's Guide to Couchsurfing - How to Couchsurf & Not Get Killed
+title: The Beginner's Guide to Couchsurfing - How to Couchsurf & Not Get Killed
 description: A multi-part guide on how to Couchsurf.
 date: 2015-06-02
 tags: [guides, travel - couchsurfing]
@@ -11,7 +11,7 @@ published: true
 category: travel
 ---
 
-Welcome to the Ultimate Beginner's Couchsurfing Guide! 
+Welcome to the Beginner's Couchsurfing Guide! 
 
 You won't find a guide that's better or more comprehensive. Having backpacked and couchsurfed in 28 countries, I've learned the ins and outs of the system. But I'm just one human. So, to add to my knowledge, I've also interviewed a number of more experienced Couchsurfers (e.g. 200+ reviewed Couchsurfers) for their tips and insights, which are included in this guide as well. Like I said; you won’t find a guide that’s better or more comprehensive.
 

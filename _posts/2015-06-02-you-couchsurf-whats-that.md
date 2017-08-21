@@ -14,7 +14,7 @@ permalink: /travel/what_is_couchsurfing/
 
 _This is Part 1 of the 3-part_ Beginner's Guide to Couchsurfing:
 
-0. [Introduction to the Guide]({% post_url 2015-06-02-couchsurfing-101-a-beginners-guide-on-couchsurfing-and-how-to-couchsurf %}){:target="_blank"}
+0. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}
 1. What Couchsurfing Is & How it Works
 2. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}
 3. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}){:target="_blank"}

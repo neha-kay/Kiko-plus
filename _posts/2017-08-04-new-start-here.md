@@ -36,7 +36,7 @@ permalink: /start-here/
 
 ### On Traveling
 
-* Wow! You Couchsurf? [What's that?]({% post_url 2015-06-02-couchsurfing-101-a-beginners-guide-on-couchsurfing-and-how-to-couchsurf %}){:target="_blank"}
+* Wow! You Couchsurf? [What's that?]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}
 * [Isn't Couchsurfing dangerous for women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}
 * [How do you start Couchsurfing?]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}
 * How do you meet and hang out with locals in cities you travel to? 
