@@ -42,7 +42,6 @@ This guide covers:
 7. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}
 8. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}
 
-
 ### What is Couchsurfing? 
 
 Couchsurfing is a [website](couchsurfing.com){:target="_blank"} which allows you to connect with people in different cities and particiapte in cultural exchange for free by staying with them in their house, usually between 2-4 nights. 
