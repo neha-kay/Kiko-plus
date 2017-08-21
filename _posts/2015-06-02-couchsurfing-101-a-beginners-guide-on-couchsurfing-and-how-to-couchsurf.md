@@ -11,16 +11,6 @@ published: true
 category: travel
 ---
 
-_This is Part 1 of the 3-part_ Beginner's Guide to Couchsurfing:
-
-* _Part 1: _
-* _Part 1: _
-* _Part 1: _
-* _Part 1: _
-* _Part 1: _
-
--------
-
 Welcome to the Ultimate Beginner's Couchsurfing Guide! You won't find a guide that's better or more comprehensive. Having traveled to 28 countries and having both Couchsurfed and hosted Couchsurfers about 40 times, I've learned the ins and outs of the system and have interviewed more experienced Couchsurfers (e.g. 200+ reviewed Couchsurfers) for their tips and insights, included in this guide as well.
 
 The hardest part about Couchsurfing is getting started. You want to get hosted. But you have no reviews. How do you get hosts if hosts only accept people with reviews? Seems like quite the closed circle. It can be, and a number of people struggle to get hosts on Couchsurfing. That being said, if you take the time to read through the guide, by the end, you'll have no trouble whatsoever.
@@ -44,7 +34,7 @@ This guide covers:
 
 ### What is Couchsurfing? 
 
-Couchsurfing is a [website](couchsurfing.com){:target="_blank"} which allows you to connect with people in different cities and particiapte in cultural exchange for free by staying with them in their house, usually between 2-4 nights. 
+Couchsurfing is a [website](couchsurfing.com){:target="_blank"} which allows you to connect with people in different cities and participate in cultural exchange for free by staying with them in their house, usually between 2-4 nights. 
 
 Couchsurfing is perfect for people who are:
 * Open-minded
