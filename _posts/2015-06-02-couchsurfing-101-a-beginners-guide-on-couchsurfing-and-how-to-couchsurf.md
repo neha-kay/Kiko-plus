@@ -17,7 +17,7 @@ Having backpacked and couchsurfed in 28 countries, I've learned the ins and outs
 
 The hardest part about Couchsurfing is undoubtedly getting started. You want to get hosted. But you have no reviews. How do you get hosts if hosts only accept people with reviews? Seems like quite the closed circle. It can be, and a number of people struggle to get hosts on Couchsurfing. That being said, if you take the time to read through the guide, by the end, you'll have no trouble whatsoever.
 
-_Take a look at the guide topics below and choose where you want to begin:
+Take a look at the guide topics below and choose where you want to begin:
 
 * If you already have a good sense of what Couchsurfing is, skip the overview and head to [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}. 
 * If you want the quick overview, then feel free to check it out [here]({% post_url 2015-06-02-you-couchsurf-whats-that %}){:target="_blank"}. 
