@@ -1,39 +1,20 @@
 ---
 layout: post
-title: The Ultimate Beginner's Guide to Couchsurfing - How to Couchsurf & Not Get Killed
-description: A multi-part guide on how to Couchsurf.
+title: You Couchsurf? What's that? How does it work?
+description: An overview of what Couchsurfing is.
 date: 2015-06-02
-tags: [guides, travel - couchsurfing]
+tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
 
 category: travel
+permalink: /travel/what_is_couchsurfing/
 ---
 
 _This is Part 1 of the 3-part_ Beginner's Guide to Couchsurfing:
 
-* _Part 1: _
-* _Part 1: _
-* _Part 1: _
-* _Part 1: _
-* _Part 1: _
-
--------
-
-Welcome to the Ultimate Beginner's Couchsurfing Guide! You won't find a guide that's better or more comprehensive. Having traveled to 28 countries and having both Couchsurfed and hosted Couchsurfers about 40 times, I've learned the ins and outs of the system and have interviewed more experienced Couchsurfers (e.g. 200+ reviewed Couchsurfers) for their tips and insights, included in this guide as well.
-
-The hardest part about Couchsurfing is getting started. You want to get hosted. But you have no reviews. How do you get hosts if hosts only accept people with reviews? Seems like quite the closed circle. It can be, and a number of people struggle to get hosts on Couchsurfing. That being said, if you take the time to read through the guide, by the end, you'll have no trouble whatsoever.
-
-_Take a look at the guide topics below and choose where you want to begin:
-
-* If you already have a good sense of what Couchsurfing is, skip the overview and head to [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}. 
-* If you want the quick overview, then feel free to check it out [here]({% post_url 2015-06-02-you-couchsurf-whats-that %}){:target="_blank"}. 
-
-Otherwise, feel free to skip to some of the other content listed below:
-
-This guide covers: 
-1. [What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %}){:target="_blank"}
+1. [What Couchsurfing Is & How it Works]({% post_url  %}){:target="_blank"}
 2. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}
 3. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}){:target="_blank"}
 4. To Do: Before Your First Trip
@@ -42,6 +23,7 @@ This guide covers:
 7. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}
 8. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}
 
+-------
 
 ### What is Couchsurfing? 
 
