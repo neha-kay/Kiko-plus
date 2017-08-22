@@ -17,23 +17,22 @@ TLDR: Yes and no.
 
 As a bit of background, I'm a solo female backpacker who, as of July 2017, has traveled to 26 countries and Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. So suffice to say, I have a good deal of experience.
 
-In regards to safety, I'd point out there's *always* a risk one takes on when traveling - a risk of getting raped, a risk of getting robbed, etc.,. Always.
-
-That being said, this risk *can* be mitigated for safe traveling with the following steps:
+__The first thing I'll point out is that there is no such thing as a 100% safe Couchsurfing experience.__  I'd argue there's no such thing as a 100% safe _travel_ experience, either. These things can always carry a small inherent danger that prevents someone from guaranteeing 100% safety. But you can get pretty darn close with the tips below. 
 
 ### 1. Only stay with female hosts (with good reviews).
 
-I personally surf with both men and women but this is a great option for beginner female Couchsurfers who are very uneasy about the idea of staying with a male host. Naturally you'll have way less options, but it's a good way to dip one's toe into the community to see what it's like. 
+I personally surf with both men and women but this is a great option for beginner female Couchsurfers who are very uneasy about the idea of staying with a male host. Naturally you'll have way less options, but it's a good way to dip one's toe into the community to see what it's like. However, note that it's *significantly* more difficult to find a female host since most Couchsurfers do tend to be male, so you may have to put in more effort in the messaging process to find a female host. 
+
+If you're open-minded to staying with a male host, I'd recommend doing so --- if you follow the tips below, it's just as possible to find a super safe male host.
 
 ### 2. Only stay with people with a large number of reviews. Additionally, don't interact, stay with, or host people who have 0 references or seem off in some way. 
-
 Every person on the platform has a reference section which details what staying with them is like. It's just like a Yelp or Airbnb review. As a solo surfer, stay away from people who don't have reviews -- while they're likely great people, they could also be more sinister, and since you cannot differentiate which of the two they are, don't stay with them or meet up in person.
 
 How many is 'large'? This depends on how trusting you are of the community, really. I'd say the following is a good outline: 
 
-Very Relaxed: 10-15 reviews
-Average: 15-30 reviews
-Very Strict: 30+ reviews
+* __Very Relaxed Safety Standards:__ 10-15 reviews
+* __Average Safety Standards:__ : 15-30 reviews
+* __Strict Safety Standards:__ : 30+ reviews
 
 When I surf, I generally will stay with people with 12+ reviews -- if they're in the 12-22 range of reviews, I'll be sure to analyze the references and make sure they're above-and-beyond. 
 
@@ -56,6 +55,7 @@ To do this:
 * Send them a message asking about their experience with the host and if they felt safe. Make sure to do this with 5-7 hosts if possible (or as many as you can in case some don't respond).
 
 This has been *incredibly* helpful for me in the past, with screenshots of what I've sent as an example below. If any one of them report anything 'off', don't take the risk and find another host.
+
 <p align="center">
   <img src="/images/contact-previous-surfers.png">
 </p>

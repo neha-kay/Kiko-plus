@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  What Not to Do in Requests
+title:  What *Not* to Do in Requests
 description: 7 min read
 date: 2015-06-02
 tags: [travel - couchsurfing]
@@ -11,15 +11,21 @@ published: true
 category: travel
 ---
 
-*** THIS IS PART OF THE COUCHSURFING GUIDE*** 
+----
 
-## Examples: The Worst Requests
+Before diving into good requests, let's look at some really bad requests and some mediocre requests. 
 
+### Examples: The Worst Requests
+
+#### Example I
 > > Hello Neha,
 > > I am a Phd student at Oxford, unfortunately I dont have a place to stay for the following days (because my life is a disaster right now) and the office is not comfortable enough :p
 > > 
 > > Best
 > > Alfonso
+
+---------
+#### Example II
 
 > > Hi Neha!
 > > 
@@ -27,9 +33,11 @@ category: travel
 > > 
 > > Could you help us ? =P
 
-Requests of this type usually have the same things in common: they’re “copy and paste” not personalized, and sadly, approach Couchsurfing as a hotel-type service. Couchsurfing embraces meeting new people, sharing cultures, learning from each other. So it’s never, ever effective to message a surfer simply asking for a place to sleep. At it’s heart, Couchsurfing is about engaging with people, not about sleeping for free. These requests are usually tossed aside or never replied to. To avoid this, invest time in personalizing your requests, and talking about your interest in meeting and learning from each other.
+__Requests of this type usually have the same things in common: they’re “copy and paste” not personalized, and sadly, approach Couchsurfing as a hotel-type service.__
 
-## Examples: Mediocre Requests
+Couchsurfing embraces meeting new people, sharing cultures, learning from each other. So it’s never, ever effective to message a surfer simply asking for a place to sleep. At it’s heart, Couchsurfing is about engaging with people, not about sleeping for free. These requests are usually tossed aside or never replied to. To avoid this, invest time in personalizing your requests, and talk about your interest in meeting and learning from each other.
+
+### Examples: Mediocre Requests
 
 #### Example I
 
@@ -79,10 +87,17 @@ Requests of this type usually have the same things in common: they’re “copy 
 > > Cheers,
 > > Alex
 
-The good: All of them seem to give some indication that they’ve read my profile
+##### The Good Elements
 
-The bad: Overall, all of these requests are “copy and paste” requests, which most hosts hate receiving. They simply aren’t personalized enough. Additionally, she would do well in focusing less on herself, and rather, the person she’s appealing to. A fantastic fix would be to point out what she can offer the host, what she finds fascinating about the host, or what she can teach the host, before talking about what the host can do for her.
+All of the requests seem to give some indication that they’ve read my profile. That's a good sign!
 
-These types of requests are basically, ‘okay’ – and nothing more than that. If I was fully free that day, I would likely accept them. But there’s nothing compelling about these requests that would make me choose it over other requests and surely nothing compelling that would make me try and accept these guests if I had a conflict. With these types of requests, you have a 50/50% chance of getting hosted – perhaps more if you’re visiting a less touristy location and surely less if you’re visiting a touristy location.
+##### The Bad Elements
 
-Continue here to see how to write the perfect request. 
+Overall, all of these requests are _'copy and paste'_ requests, which most hosts hate receiving. They simply aren’t personalized enough. Additionally, she would do well in focusing less on herself, and rather, the person she’s appealing to. A fantastic fix would be to point out what she can offer the host, what she finds fascinating about the host, or what she can teach the host, before talking about what the host can do for her.
+
+These types of requests are basically _okay_ – and nothing more than that. If I was fully free that day, I would likely accept them. But there’s nothing compelling about these requests that would make me choose it over other requests and surely nothing compelling that would make me try and accept these guests if I had a conflict. 
+
+With these types of requests, you have a 50/50% chance of getting hosted – perhaps more if you’re visiting a less touristy location and surely less if you’re visiting a touristy location.
+
+### How to Write a Good Request
+With the examples of bad requests behind us, let's talk about how to do it properly on the next page of the guide, [How to Write a Great Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}.
