@@ -31,6 +31,8 @@ _8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchs
 
 -----
 
+## What Not to Do in Couchsurfing Requests
+
 Before diving into good requests, let's look at some really bad requests and some mediocre requests. 
 
 ### Examples: The Worst Requests

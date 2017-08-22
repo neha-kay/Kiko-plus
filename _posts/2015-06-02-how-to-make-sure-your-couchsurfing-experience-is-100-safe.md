@@ -3,7 +3,7 @@ layout: post
 title: How to Make Sure Your Couchsurfing Experience is 100% Safe
 description: "Tips on making your Couchsurfing experience as safe as possible."
 date: 2015-06-02
-tags: []
+tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
@@ -32,6 +32,7 @@ _8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchs
 
 -----
 
+## How to Make Sure Your Couchsurfing Experience is 100% Safe
 As a solo female backpacker, I spend a lot of time thinking about how to Couchsurf safely. 
 
 Thus far, as of July 2017, I've safely Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. 

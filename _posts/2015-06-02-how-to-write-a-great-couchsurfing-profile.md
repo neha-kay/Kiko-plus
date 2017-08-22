@@ -30,7 +30,7 @@ _7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 201
 _8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
 
 -----
-
+## How to Write a Great Couchsurfing Profile
 Let's dig into the essentials of how to write a killer profile. 
 
 ### I. Fill out the profile completely.

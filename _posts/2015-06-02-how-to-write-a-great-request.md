@@ -31,6 +31,7 @@ _7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 201
 _8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
 
 -----
+## How to Write a Great Couchsurfing Request
 
 Fundamentally, your request needs to do one thing: __show the reader you’ve read their profile and are genuinely interested in getting to know them__. Let's get into how to go about writing this phenomenal request and get replies from hosts _complimenting_ your request, like below:
 
