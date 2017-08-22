@@ -135,7 +135,7 @@ For me, this section looks something like this:
 And that’s it! If you follow these guidelines you'll be good to go, but if you still need help I’m here for you --- just email me at [neha@nehakay.com](mailto:neha@nehakay.com) if you need me to look over your request or need help in any way. 
 
 ### Staying Safe
-Continue to the next page of this guide to learn more about [making sure your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}. If you're a woman reading this, you can check out my other post with similar information, [Isn't Couchsurfing Dangerous For Women?]({% post_url  %}){:target="_blank"}
+Continue to the next page of this guide to learn more about [making sure your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}. If you're a woman reading this, you can check out my other post with similar information, [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}.
 
 ------
 
