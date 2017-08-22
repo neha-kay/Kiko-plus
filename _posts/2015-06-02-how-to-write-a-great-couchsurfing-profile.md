@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (4) How to Write a Great Couchsurfing Profile
+title: How to Write a Great Couchsurfing Profile
 description: "Tips on Writing a Great Couchsurfing Profile."
 date: 2015-06-02
 tags: []

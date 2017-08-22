@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  (5) What *Not* to Do in Couchsurfing Requests
-description: "A post on bad Couchsurfing requests and what to avoid."
+title: What Not to Do in Couchsurfing Requests
+description: "A post on bad Couchsurfing requests and what to avoid when writing them."
 date: 2015-06-02
 tags: []
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (1) The Beginner's Guide to Couchsurfing - How to Couchsurf & Not Get Killed
+title: The Beginner's Guide to Couchsurfing - How to Couchsurf & Not Get Killed
 description: A multi-part guide on how to Couchsurf.
 date: 2015-06-02
 tags: [guides]

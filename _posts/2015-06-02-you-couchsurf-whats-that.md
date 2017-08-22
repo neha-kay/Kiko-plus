@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (2) You Couchsurf? What's that?
+title: You Couchsurf? What's that?
 description: An overview of what Couchsurfing is.
 date: 2015-06-02
 tags: []
