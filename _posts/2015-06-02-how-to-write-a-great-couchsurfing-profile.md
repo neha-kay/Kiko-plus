@@ -1,9 +1,9 @@
 ---
 layout: post
-title: How to Write a Great Couchsurfing Profile
+title: (4) How to Write a Great Couchsurfing Profile
 description: 
 date: 2015-06-02
-tags: [travel - couchsurfing]
+tags: []
 comments: true
 share: true
 published: true
@@ -11,7 +11,25 @@ published: true
 category: travel
 ---
 
-----
+__This is Part 4 of the 8-part Beginner's Guide to Couchsurfing:__
+
+_1. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}_
+
+_2. [What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %}){:target="_blank"}_
+
+_3. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}_
+
+_4. How to Write a Great Couchsurfing Profile_
+
+_5. [Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}_
+
+_6. [How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}_
+
+_7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}_
+
+_8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
+
+-----
 
 Let's dig into the essentials of how to write a killer profile. 
 
@@ -68,3 +86,26 @@ Note that you have to be logged into Couchsurfing.com to view these.
 
 The only thing left to do now is to write a phenomenal request. In the next section I'll cover examples of what _not_ to do in requests --  mistakes I see in requests all the time before explaining how to write a great request. Continue to the next page in the guide, [Examples: What *Not* To Do]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}.
 
+------
+
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily. Till then . . . happy traveling and Couchsurfing!
+
+------
+
+_Other Posts in This Series:_
+
+* _[Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}_
+
+*  _[What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %}){:target="_blank"}
+
+* _[Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}_
+
+* _[Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}_
+
+* _[How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}_
+
+* _[How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}_
+
+* _[Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_

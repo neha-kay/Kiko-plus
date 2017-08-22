@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You Couchsurf? What's that?
+title: (2) You Couchsurf? What's that?
 description: An overview of what Couchsurfing is.
 date: 2015-06-02
-tags: [travel - couchsurfing]
+tags: []
 comments: true
 share: true
 published: true
@@ -12,7 +12,7 @@ category: travel
 permalink: /travel/what_is_couchsurfing/
 ---
 
-This is Part 2 of the 8-part _Beginner's Guide to Couchsurfing:_
+__This is Part 2 of the 8-part Beginner's Guide to Couchsurfing:__
 
 _1. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}_
 
@@ -22,15 +22,17 @@ _3. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started
 
 _4. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}){:target="_blank"}_
 
-_5. [How to Write a Great Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}_
+_5. [Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}_
 
-_6. [Examples: What *Not* To Do]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}_
+_6. [How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}_
 
-_7. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
+_7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}_
 
-_8. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}_
+_8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
 
 -------
+
+## An Overview of Couchsurfing
 
 ### What is Couchsurfing? 
 
@@ -124,7 +126,7 @@ Not to mention it’s always great to be on the receiving end of gratitude. Most
 
 Getting hosts often requires sending 10 request for every 1 offer to host. If you don't have the time to write personalized requests, you're better off booking a hostel or hotel. 
 
-#### It requires research and being careful who you surf with and host
+#### It requires research and being careful who you surf with and host.
 
 To ensure a safe experience, you really have to put in the time to request only people with a large number of reviews, reading the reviews, etc., If you prefer a quick booking experience, you're better off booking a hostel or hotel. 
 
@@ -142,3 +144,26 @@ Yes, sometimes a host will cancel on you last minute. It's only happened once or
 
 Imagine going to different cities, coming home to home-cooked meals, experiencing the city with friends your age, and having wild, unexpected and unequivocally valuable experiences.  This is the magic of Couchsurfing.
 
+------
+
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily. Till then . . . happy traveling and Couchsurfing!
+
+------
+
+_Other Posts in This Series:_
+
+* _[Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}_
+
+* _[Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}_
+
+* _[How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}){:target="_blank"}_
+
+* _[Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}_
+
+* _[How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}_
+
+* _[How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}_
+
+* _[Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_

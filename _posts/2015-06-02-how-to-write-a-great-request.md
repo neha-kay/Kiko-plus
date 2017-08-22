@@ -1,9 +1,9 @@
 ---
 layout: post
-title: How to Write a Great Request
+title: (6) How to Write a Great Couchsurfing Request
 description: "How to write a great couchsurfing request."
 date: 2015-06-02
-tags: [travel - couchsurfing]
+tags: []
 comments: true
 share: true
 published: true
@@ -12,7 +12,25 @@ future: true
 category: travel
 ---
 
----
+__This is Part 6 of the 8-part Beginner's Guide to Couchsurfing:__
+
+_1. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}_
+
+_2. [What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %}){:target="_blank"}_
+
+_3. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}_
+
+_4. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}){:target="_blank"}_
+
+_5. [Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}_
+
+_6. How to Write a Great Couchsurfing Request_
+
+_7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}_
+
+_8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
+
+-----
 
 Fundamentally, your request needs to do one thing: __show the reader you’ve read their profile and are genuinely interested in getting to know them__. Let's get into how to go about writing this phenomenal request and get replies from hosts _complimenting_ your request, like below:
 
@@ -114,12 +132,31 @@ For me, this section looks something like this:
   <img src="/images/couchsurfing-guide/good-requests.jpg">
 </p>
 
-## Examples of what __not__ to do
-
-
 And that’s it! If you follow these guidelines you'll be good to go, but if you still need help I’m here for you --- just email me at [neha@nehakay.com](mailto:neha@nehakay.com) if you need me to look over your request or need help in any way. 
 
 ### Staying Safe
-Continue to the next page of this guide to learn more about [making sure your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}.
+Continue to the next page of this guide to learn more about [making sure your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}. If you're a woman reading this, you can check out my other post with similar information, [Isn't Couchsurfing Dangerous For Women?]({% post_url  %}){:target="_blank"}
 
-__If this guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com). If you have any questions, comments or concerns, you can also comment below -- I check them daily. Till then . . . happy traveling and Couchsurfing!
+------
+
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily. Till then . . . happy traveling and Couchsurfing!
+
+------
+
+_Other Posts in This Series:_
+
+* _[Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}_
+
+*  _[What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %}){:target="_blank"}
+
+* _[Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}_
+
+* _[How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}){:target="_blank"}_
+
+* _[Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}_
+
+* _[How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}_
+
+* _[Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
