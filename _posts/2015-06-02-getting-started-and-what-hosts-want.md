@@ -76,7 +76,7 @@ Make sure your friends are able to write a really strong review of you and arenâ
 These were my first references from friends when I first started:
 
 <p align="center">
-  <img src="/images/cs-personal-references.png">
+  <img src="/images/couchsurfing-guide/cs-personal-references.png">
 </p>
 
 #### Step 2: Upload at least 5 photos, including a photo of your face.

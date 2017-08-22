@@ -12,7 +12,7 @@ permalink: /daily-musings/
 category: random
 ---
 
-<h3 style="color:#ff9900;"> What is the Daily Musings Page? </h3>
+<h3 style="color:#6495ed;"> What is the Daily Musings Page? </h3>
 
 This page is meant to be an outlet for short thought snippets -- no more, no less. 
 Why have one? Well, the goal, here is to write in free blog form more frequently. The theoretical backbone of daily musings is the following: 
