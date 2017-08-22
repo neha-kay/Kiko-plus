@@ -9,7 +9,7 @@ share: true
 published: true
 
 category: travel
-permalink: /travel/what_is_couchsurfing/
+permalink: /travel/what-is-couchsurfing/
 ---
 
 __This is Part 2 of the 8-part Beginner's Guide to Couchsurfing:__
