@@ -19,7 +19,7 @@ Welcome, have fun, and if you see something you like, reach out at <neha@nehakay
 * Giving
 * Spreadsheet-oriented (thanks Alex :P)
 
-I used to joke that I have basically no social life, but I don't think that's entirely true anymore. My close friends and family mean the world to me. If we've ever videochatted, hung out at a board game night, or hung out in person, you know I'm referring to you. 
+I used to joke that I have basically no social life, but I don't think that's entirely true anymore. My close friends and family mean the world to me. If we've ever videochatted, hung out at a board game night, or spent time together in person, you know I'm referring to you. 
 
 At the same time, I'm pretty binary when it comes to relationships; I know most people from a distance, with the exception of a select few whom I invest all my energy in. So I guess I'm pretty picky when it comes to close relationships and take a good deal of time to warm up to people. But if I do warm up, I can promise an incredibly intense and fulfilling relationship.
 
