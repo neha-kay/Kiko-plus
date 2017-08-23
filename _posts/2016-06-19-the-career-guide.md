@@ -43,11 +43,24 @@ This guide won’t tell you which career to pursue or answer any million dollar 
 -	Everyone says 'do what you love' but it sounds a bit flaky. Should I be listening to that advice?
 -	Successful people work hard but they also seem to have good luck. How do I _make_ luck?
 
-If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [neha@nehakay.com](mailto:neha@nehakay.com). If you have any questions or comments by leaving a comment on one of the pages - I promise I’ll get back to you! With that, onwards, friends!
+Continue to the next page in this series, [What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %}){:target="_blank"}.
 
 Neha 
-
+&nbsp;	
 May 25, 2016
-
+&nbsp;
 Bogota, Colombia
 
+----
+
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
+
+If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [neha@nehakay.com](mailto:neha@nehakay.com). If you have any questions or comments by leaving a comment on one of the pages -- I check them daily and I promise I’ll get back to you. With that, onwards, friends!
+
+-----
+_Other Posts in This Series:_
+* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %}){:target="_blank"}_
+* _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %}){:target="_blank"}_
+* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-ways-follow-your-passion-advice-falls-short %}){:target="_blank"}_
+* _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %}){:target="_blank"}_
+* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %}){:target="_blank"}_
