@@ -40,7 +40,7 @@ __Future Plans / Future Trajectory__
 . . . or in other words, how to maximize the impact and value I provide in my chosen career path.
 
 <p align="center">
-  <img src="/images/about-page/colosseum.jpg" width="600">
+  <img src="/images/about-page/colosseum-min.jpg" width="600">
 </p>
 
 ### 10 things I could never do without . . . 
