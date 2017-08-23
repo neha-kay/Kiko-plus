@@ -148,7 +148,7 @@ Imagine going to different cities, coming home to home-cooked meals, experiencin
 
 __If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
 
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily. Till then . . . happy traveling and Couchsurfing!
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily and I promise I’ll get back to you. Till then . . . happy traveling and Couchsurfing!
 
 ------
 
