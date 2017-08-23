@@ -7,10 +7,6 @@ permalink: /about/
 
 Hi! My name is Neha. This is my brain space - my tabula rasa for random thoughts.
 
-<p align="center">
-  <img src="/images/about-page/colosseum.jpg">
-</p>
-
 Welcome, have fun, and if you see something you like, reach out at <neha@nehakay.com>.
 
 ## About Me
@@ -42,6 +38,10 @@ __Optimizing / Engineering Life__
 __Future Plans / Future Trajectory__
 
 . . . or in other words, how to maximize the impact and value I provide in my chosen career path.
+
+<p align="center">
+  <img src="/images/about-page/colosseum.jpg" width="600">
+</p>
 
 ### 10 things I could never do without . . . 
 
