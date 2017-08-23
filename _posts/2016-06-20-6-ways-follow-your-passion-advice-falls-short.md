@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 Ways 'Follow Your Passion' Advice Falls Short
+title: The Many Ways 'Follow Your Passion' Advice Falls Short
 description: 
 date: 2016-06-20
 tags: [career]
