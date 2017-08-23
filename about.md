@@ -7,7 +7,11 @@ permalink: /about/
 
 Hi! My name is Neha. This is my brain space - my tabula rasa for random thoughts.
 
-Welcome, have fun, and if you see something you like, reach out - at <neha@nehakay.com>.
+<p align="center">
+  <img src="/images/about-page/colosseum.jpg">
+</p>
+
+Welcome, have fun, and if you see something you like, reach out at <neha@nehakay.com>.
 
 ## About Me
 
@@ -75,9 +79,8 @@ In any case, from a long-term perspective, I still have no clue what I want to d
 As of August 2017, I've [traveled to 28 countries]({% post_url 2017-06-02-footsteps %}){:target="_blank"} and will be traveling to the last few countries I want to see before settling down and starting work at Microsoft.
 
 <p align="center">
-  <img src="/images/footsteps.jpg">
+  <img src="/images/about-page/peru.jpg">
 </p>
-<sub>[Salinas Grandes, Argentina](https://www.google.com/maps/place/Salinas+Grandes/@-23.621901,-65.8941867,-366m/data=!3m1!1e3!4m5!3m4!1s0x940355b07e40a169:0xe42ee3f2b7e54a39!8m2!3d-23.621901!4d-65.891998){:target="_blank"}, one of the biggest salt flats in the world.</sub>
 
 ### Footsteps as of June 2017
 
@@ -108,9 +111,9 @@ Australia, China, New Zealand
 (An overview of [locations]({% post_url 2017-06-02-footsteps %}){:target="_blank"} I'd recommend and not recommend).
 
 <p align="center">
-  <img src="/images/places.png">
+  <img src="/images/about-page/footsteps.jpg">
 </p>
-
+<sub>[Salinas Grandes, Argentina](https://www.google.com/maps/place/Salinas+Grandes/@-23.621901,-65.8941867,-366m/data=!3m1!1e3!4m5!3m4!1s0x940355b07e40a169:0xe42ee3f2b7e54a39!8m2!3d-23.621901!4d-65.891998){:target="_blank"}, one of the biggest salt flats in the world.</sub>
 ## And that's pretty much it! 
 
 If you see something you like or want to reach out, please do. 
