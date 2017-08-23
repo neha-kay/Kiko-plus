@@ -30,7 +30,6 @@ _7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 201
 _8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
 
 -----
-
 ## How to Write a Great Couchsurfing Profile
 Let's dig into the essentials of how to write a killer profile. 
 
@@ -91,7 +90,7 @@ The only thing left to do now is to write a phenomenal request. In the next sect
 
 __If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
 
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily and I promise I’ll get back to you. Till then . . . happy traveling and Couchsurfing!
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily. Till then . . . happy traveling and Couchsurfing!
 
 ------
 
