@@ -39,10 +39,6 @@ __Future Plans / Future Trajectory__
 
 . . . or in other words, how to maximize the impact and value I provide in my chosen career path.
 
-<p align="center">
-  <img src="/images/about-page/colosseum-min.jpg" width="600">
-</p>
-
 ### 10 things I could never do without . . . 
 
 - [eBooks, audiobooks, podcasts]({% post_url 2017-07-18-favorites %}){:target="_blank"}
@@ -55,6 +51,10 @@ __Future Plans / Future Trajectory__
 - My Macbook
 - Chipotle or any source of cheap, healthy, vegetarian meals (Dipti Aunty, you know I'm talking about you too 😛 . . .)
 - The Internet and its endless production of knowledge
+
+<p align="center">
+  <img src="/images/about-page/colosseum-min.jpg" width="600">
+</p>
 
 ### What I'm Doing With My Life
 
