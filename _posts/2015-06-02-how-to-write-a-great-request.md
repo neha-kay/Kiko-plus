@@ -3,7 +3,7 @@ layout: post
 title: How to Write a Great Couchsurfing Request
 description: "How to write a great couchsurfing request."
 date: 2015-06-02
-tags: []
+tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
