@@ -59,6 +59,6 @@ If you need individual help / an extra perspective, or simply want to pick my br
 _Other Posts in This Series:_
 * _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %}){:target="_blank"}_
 * _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %}){:target="_blank"}_
-* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-ways-follow-your-passion-advice-falls-short %}){:target="_blank"}_
+* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %}){:target="_blank"}_
 * _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %}){:target="_blank"}_
 * _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %}){:target="_blank"}_
