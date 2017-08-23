@@ -3,7 +3,7 @@ layout: post
 title: Thoughts on How to Maintain Relationships and a Network
 description: 
 date: 2017-07-31
-tags: [life perspective, relationships, guides]
+tags: [life perspective, relationships, guides, career]
 comments: true
 share: true
 published: true
@@ -29,7 +29,7 @@ As usual, I hope this helps and if you have any great (or better?) tips, let me 
 
 My mechanism of keeping in touch with friends and maintaining relationships has 5 key components:  
 
-1. [A Mailchimp Email Newsletter](#i-a-newsletter)
+1. [A Mailchimp Email Newsletter](#i-a-mailchimp-email-newsletter)
 2. [Regular Videochats](#ii-regular-video-and-phone-chats)
 3. [Birthday Phone Calls, Emails, & Facebook Messages](#iii-birthday-phone-calls-emails-and-facebook-messages)
 4. [Visiting in Person](#iv-visiting-while-in-town)
@@ -47,24 +47,23 @@ On your end, it's simply easier to send the same update to many people, and stil
 
 Personally I have two email newsletters segments: 
 
-##### Segment I: The Inner Circle
+	##### Segment I: The Inner Circle
 
-These are the people I consider super close to me – the people who would truly enjoy hearing about my everyday life updates, including the more boring ones. Since these are people who I consider pretty close to me, I'll usually send out updates more frequently than the other segment --- about every 3-7 weeks. 
+	These are the people I consider super close to me – the people who would truly enjoy hearing about my everyday life updates, including the more boring ones. Since these are people who I consider pretty close to me, I'll usually send out updates more frequently than the other segment --- about every 3-7 weeks. 
 
-##### Segment II: Friends & Acquaintances
+	##### Segment II: Friends & Acquaintances
 
-These are people who like you and are interested in you but probably don’t want to hear from you tooooo often. I generally send this segment life updates every 2-4 months. 
+	These are people who like you and are interested in you but probably don’t want to hear from you tooooo often. I generally send this segment life updates every 2-4 months. 
 
-##### A Note about Newsletter Segments
+	##### A Note about Newsletter Segments
 
-Note that these segments can be dynamic --- if you grow closer to a friend, naturally you can easily add them to your 'Inner Circle newsletter segment'. On top of that, as you meet more and more people throughout life, you can continue to add them and stay in touch with them. 
+	Note that these segments can be dynamic --- if you grow closer to a friend, naturally you can easily add them to your 'Inner Circle newsletter segment'. On top of that, as you meet more and more people throughout life, you can continue to add them and stay in touch with them. 
 
-#### How to Implement This
+	#### How to Implement This
 
-1. Make two lists on Excel -- one of the people in your Inner Circle and one of the friends & acquaintances you'd like to keep in touch with. 
-2. Create a [Mailchimp account](https://mailchimp.com/){:target="_blank"} and set up one list in Mailchimp (titled 'Email Newsletter'). From there, you can [create 2 Mailchimp segments](http://kb.mailchimp.com/lists/segments/create-and-send-to-a-segment){:target="_blank"} for your Inner Circle and friend segments.
-3. Send update emails as frequently as you like! 
-	
+	1. Make two lists on Excel -- one of the people in your Inner Circle and one of the friends & acquaintances you'd like to keep in touch with. 
+	2. Create a [Mailchimp account](https://mailchimp.com/){:target="_blank"} and set up one list in Mailchimp (titled 'Email Newsletter'). From there, you can [create 2 Mailchimp segments](http://kb.mailchimp.com/lists/segments/create-and-send-to-a-segment){:target="_blank"} for your Inner Circle and friend segments.
+	3. Send update emails as frequently as you like! 
 
 
 ### II. Regular video and phone chats
