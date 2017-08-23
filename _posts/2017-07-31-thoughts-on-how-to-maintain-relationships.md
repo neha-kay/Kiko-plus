@@ -43,20 +43,29 @@ I fundamentally think we all want to get updates from friends in ways that are n
 
 In other words, while Facebook is far too impersonal and texting/messaging is far _too_ personal, an email newsletter sits perfectly in between. The feeling of being on one and in the 'inner circle' of the email newsletter is great, but it's also not too extravagant of a motion because it's quite obvious it's going out to multiple people. In other words, it allows you to honor your 2nd and 3rd degree friends and provide them with a way of staying in touch with you.
 
-For you, it's simply easier to send the same update to many people, and still keep in touch via messaging.  
+On your end, it's simply easier to send the same update to many people, and still keep in touch with your inner circle via messaging. It's literally the perfect solution. 
 
+Personally I have two email newsletters segments: 
 
-Naturally, I care about the friends in both versions of the newsletter --- the idea is to  
-#### How to implement this
+##### Segment I: The Inner Circle
 
-#### 1. Find your friends
+These are the people I consider super close to me – the people who would truly enjoy hearing about my everyday life updates, including the more boring ones. Since these are people who I consider pretty close to me, I'll usually send out updates more frequently than the other segment --- about every 3-7 weeks. 
 
-Make a list of everyone you’d ideally like to keep in touch with. You can segment this list into 2 categories: 
+##### Segment II: Friends & Acquaintances
+
+These are people who like you and are interested in you but probably don’t want to hear from you tooooo often. I generally send this segment life updates every 2-4 months. 
+
+##### A Note about Newsletter Segments
+
+Note that these segments can be dynamic --- if you grow closer to a friend, naturally you can easily add them to your 'Inner Circle newsletter segment'. On top of that, as you meet more and more people throughout life, you can continue to add them and stay in touch with them. 
+
+#### How to Implement This
+
+1. Make two lists on Excel -- one of the people in your Inner Circle and one of the friends & acquaintances you'd like to keep in touch with. 
+2. Create a [Mailchimp account](https://mailchimp.com/){:target="_blank"} and set up one list in Mailchimp (titled 'Email Newsletter'). From there, you can [create 2 Mailchimp segments](http://kb.mailchimp.com/lists/segments/create-and-send-to-a-segment){:target="_blank"} for your Inner Circle and friend segments.
+3. Send update emails as frequently as you like! 
 	
-Category I: The people you consider super close to you – the people who would truly enjoy hearing about your everyday life and how you’re doing
-Category II: Friends and acquaintances – people who like you and are interested in you but probably don’t want to hear from you tooooo often. 
 
-These 2 lists of people form the basis of your newsletter; send a 
 
 ### II. Regular video and phone chats
 
