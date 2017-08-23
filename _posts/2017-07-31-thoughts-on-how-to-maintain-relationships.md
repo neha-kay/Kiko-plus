@@ -47,23 +47,23 @@ On your end, it's simply easier to send the same update to many people, and stil
 
 Personally I have two email newsletters segments: 
 
-	##### Segment I: The Inner Circle
+##### Segment I: The Inner Circle
 
-	These are the people I consider super close to me – the people who would truly enjoy hearing about my everyday life updates, including the more boring ones. Since these are people who I consider pretty close to me, I'll usually send out updates more frequently than the other segment --- about every 3-7 weeks. 
+These are the people I consider super close to me – the people who would truly enjoy hearing about my everyday life updates, including the more boring ones. Since these are people who I consider pretty close to me, I'll usually send out updates more frequently than the other segment --- about every 3-7 weeks. 
 
-	##### Segment II: Friends & Acquaintances
+##### Segment II: Friends & Acquaintances
 
-	These are people who like you and are interested in you but probably don’t want to hear from you tooooo often. I generally send this segment life updates every 2-4 months. 
+These are people who like you and are interested in you but probably don’t want to hear from you tooooo often. I generally send this segment life updates every 2-4 months. 
 
-	##### A Note about Newsletter Segments
+##### A Note about Newsletter Segments
 
-	Note that these segments can be dynamic --- if you grow closer to a friend, naturally you can easily add them to your 'Inner Circle newsletter segment'. On top of that, as you meet more and more people throughout life, you can continue to add them and stay in touch with them. 
+Note that these segments can be dynamic --- if you grow closer to a friend, naturally you can easily add them to your 'Inner Circle newsletter segment'. On top of that, as you meet more and more people throughout life, you can continue to add them and stay in touch with them. 
 
-	#### How to Implement This
+#### How to Implement This
 
-	1. Make two lists on Excel -- one of the people in your Inner Circle and one of the friends & acquaintances you'd like to keep in touch with. 
-	2. Create a [Mailchimp account](https://mailchimp.com/){:target="_blank"} and set up one list in Mailchimp (titled 'Email Newsletter'). From there, you can [create 2 Mailchimp segments](http://kb.mailchimp.com/lists/segments/create-and-send-to-a-segment){:target="_blank"} for your Inner Circle and friend segments.
-	3. Send update emails as frequently as you like! 
+1. Make two lists on Excel -- one of the people in your Inner Circle and one of the friends & acquaintances you'd like to keep in touch with. 
+2. Create a [Mailchimp account](https://mailchimp.com/){:target="_blank"} and set up one list in Mailchimp (titled 'Email Newsletter'). From there, you can [create 2 Mailchimp segments](http://kb.mailchimp.com/lists/segments/create-and-send-to-a-segment){:target="_blank"} for your Inner Circle and friend segments.
+3. Send update emails as frequently as you like! 
 
 
 ### II. Regular Videochats
@@ -140,11 +140,13 @@ When I have a problem, I’ll usually go ahead and message 5-6 friends and get t
 
 That’s a pretty powerful ROI for one action item. 
 
-My friend recently called me for career advice on whether to accept a full-time return offer at Goldman Sachs, the company she was working at. Over the course of an hour and a half, we worked through the problem and by the end, (I think) I was of help to her and on my end, I surely felt _way more_ connected to her than before. 
+My friend recently called me for career advice on whether to move across the country and accept a full-time return offer at Goldman Sachs, the company she was working at. Over the course of an hour and a half, we worked through the problem and by the end, (I think) I was of help to her and on my end, I surely felt _way more_ connected to her than before. 
 
 In a sense, it was a double win for her; by the end of the day, she was able to 
 a. get further insight on the issue bothering her at the time.
 b. strengthen the relationship with each person she connected with.  
+
+If you're interested in reading more into this, this notion that asking others for a favor leads them to like you more is actually something that has been well researched and validated, coined the [Ben Franklin effect](http://www.businessinsider.com/ben-franklin-effect-2016-12){:target="_blank"}.
 
 ##### Actively seek reasons to connect
 
