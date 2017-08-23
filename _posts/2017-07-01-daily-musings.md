@@ -15,29 +15,24 @@ category: random
 <h3 style="color:#6495ed;"> What is the Daily Musings Page? </h3>
 
 This page is meant to be an outlet for short thought snippets -- no more, no less. 
+
 Why have one? Well, the goal, here is to write in free blog form more frequently. The theoretical backbone of daily musings is the following: 
 
 ##### I. To produce more with perceived less
-Human nature underestimates what can be done in small increments over a long period of time and overestimates what can be done as a large chunk in a short period of time. A person authoring a book, for example, would likely get way more done writing an hour a day for a year than cramming in a weekend -- assuming, of course, that she sticks to that schedule. 
+Human nature underestimates what can be done in small increments over a long period of time and overestimates what can be done as a large chunk in a short period of time. A person authoring a book, for example, would likely get way more done writing an hour a day for a year than cramming it in 3 weeks -- assuming, of course, that she sticks to that schedule. 
 
-It's cool to think that in 30 days, I'll have 30 awesome thought nuggets up here, especially given that a 5-minute post doesn't seem all that bad to do everyday =)
+It's cool to think that in 30 days, I'll have 30 awesome thought nuggets up here, especially given that a 5-minute post doesn't seem all that bad to do everyday 😊
 
 ##### II. To set the bar low in terms of size
-By defining the *Daily Musings* page as short 'thought nuggets' I set the bar low in terms of size. This prevents me from procrastinating writing, becuase writing a tidbit seems far more manageable than an entire post. 
+By defining the *Daily Musings* page as short 'thought nuggets', I set the bar low in terms of size. This prevents me from procrastinating writing, because writing a tidbit seems far more manageable than writing an entire post. 
 
-It's way easier for me to meet an expectation of a <500 word thought nugget versus a full on 1000+ word post. That comes with less cognitive resistance to posting (i.e. less procrastinating). 
+In other words, it's way easier for me to meet an expectation of a <500 word thought nugget versus that of a full on 1000+ word post. That comes with less cognitive resistance to posting (i.e. less procrastinating). 
 
-Eventually, I'll take the date tags off and it'll just be 'Daily Musings'. But for now, I totally need the extra accountability to continually re-visit and re-post.
+Eventually, I'll take the date tags off and it'll just be 'Musings'. But for now, I totally need the extra accountability to continually re-visit and re-post.
 
 ##### III. To make a space for pieces in production
 
-A lot of the thoughts you'll see here may end up as full blown posts. I've put them here in the meantime as a holding ground for the ideas, allowing me to share them until I have the time to scale them into full posts. 
-
-<h3 style="color:#6495ed;"> Anxiety v. Action | August 6, 2017 </h3>
-
-> "The antidote to anxiety is action." 
-> 
-> --- Old Proverb
+A lot of the thoughts you'll see here may end up as full blown posts. I've put them here in the meantime as a holding ground, allowing me to share them in a more raw form until I have the time to scale them into full posts. 
 
 <h3 style="color:#6495ed;"> Job v. Career | August 8, 2017 </h3>
 
@@ -48,37 +43,9 @@ An interesting insight from the podcast I listen to, _Happier in Hollywood_.
 > What you do from 9-5 is your job. 
 > It's what you do from 5-midnight that's the career, what makes you stand out.
 > 
-> Are you reading, are you learning, are you socializing? 
+> Are you reading, are you learning? 
 
-<h3 style="color:#6495ed;"> On Writing Part II | August 7, 2017 </h3>
-
-Sometimes I have trouble writing. But usually that only happen when I have an unclear sense of what I want to write. It's a content problem, not a discipline problem. I think that can be generalized; in other words, writing can be an irritating or drawn-out process, but when you know what to say, when distillation follows distillation, it flows naturally, effortlessly. 
-
-I guess the reason I find blog-making fun, why I've been able to get super into it, is because I _love_ distilling things. Blog-writing (e.g. pretending people out there actually want to read what you're writing) allows me to engage hours on end in this distillation process of converting a nebulous mental schema into a concrete written one with the satisfaction of knowing other people will be helped by it.
-
-<h3 style="color:#6495ed;"> What You Haven't Focused On | August 6, 2017 </h3>
-
-The highest marginal return you're going to get is generally in what you have not focused on.
-
--- Jayati, in a recent video chat
-
-<h3 style="color:#6495ed;"> On Writing | August 5, 2017 </h3>
-
-When writing happens naturally, forget everything else, and write. 
-
-<h3 style="color:#6495ed;"> Pulse Points | August 4, 2017 </h3>
-
-Tip from my Milan host: [put ice on your wrists and pulse points to cool yourself down](https://lifehacker.com/5571072/know-your-bodys-cooling-spots){:target="_blank"}
-
-<h3 style="color:#6495ed;"> Invisible Racial Divisions in Italy 😳| August 3, 2017 </h3>
-
-Interestingly, people of color seem to occupy lower waged occupations here in Italy. Rather interestingly, I've seen a fair number of South Indians busking the streets and in other lower waged occupations. This is very much unlike the U.S., in which South Asians and Asians at large occupy the 'model minority' role. 
-
-<h3 style="color:#6495ed;"> A City That's Actually Polite to Its Pedestrians | August 2, 2017 </h3>
-
-Traffic wise, Milan is the politest city I've been to. People *actually* stop for pedestrians. 
-
-<h3 style="color:#6495ed;"> Attentiveness | August 1, 2017 </h3>
+<h3 style="color:#6495ed;"> Milan | August 1, 2017 </h3>
 
 Today is my first day in Milan, Italy. 
 
@@ -86,11 +53,15 @@ My host took me on a tour of Milan, working our way from the outside in. He had 
 
 I think the overall change in how I explored with him versus how I explore by myself is a matter of *attentiveness* - going slow and embracing all the details not just the most ostentatious ones.
 
-# 31 Days of Daily Musings
+Traffic wise, Milan is the politest city I've been to. People *actually* stop for pedestrians. 
 
-<h3 style="color:#6495ed;"> Forgive and Forget | July 31, 2017 </h3>
+Interestingly, people of color seem to occupy lower waged occupations here in Italy. Rather interestingly, I've seen a fair number of South Indians busking the streets and in other lower waged occupations. This is very much unlike the U.S., in which South Asians and Asians at large occupy the 'model minority' role. 
 
-It is *so* important to have someone who doesn't hold grudges / can turn a new leaf, can forgive and forget easily in close relationships. Because over the course of 10+ years, each will mess up, a lot, and the last thing one wants is to feel crappy each time one messes up. There's something really humbling and great about forgiving people who don't hold something over your head, even when they're entitled to. 
+<h3 style="color:#6495ed;"> On Aging | July 14, 2017 </h3>
+
+"Inside every old person is a young person wondering what happened." 
+
+Read more answers like this in the post [What Part of Aging Do You Wish Someone Had Warned You About?]({% post_url 2017-07-14-what-part-of-aging-do-you-wish-someone-had-warned-you-about %}){:target="_blank"}.
 
 <h3 style="color:#6495ed;"> Automating Good Decisions | July 30, 2017 </h3>
 
@@ -104,14 +75,34 @@ It is *so* important to have someone who doesn't hold grudges / can turn a new l
 > > 
 > > There are people in my professional network that I’ve been helping and who’ve been helping me for over a decade.
 > > 
-> > This kind of thinking applies to more people than realize it." [Source](http://www.caseinterview.com/learning-from-mentors){:target="_blank"}
+> > This kind of thinking applies to more people than realize it." 
+> > [Source](http://www.caseinterview.com/learning-from-mentors){:target="_blank"}
 
-<h3 style="color:#6495ed;"> | July 28, 2017 </h3>
+<h3 style="color:#6495ed;"> Winning the lottery | July 28, 2017 </h3>
+
+> > "Imagine a guy walking into a store to buy a lottery ticket for the 1.7 billion Powerball. He's effectively trying to win the lottery twice; because if you were born into the modern western world in relation to every other human being that's walked the face of the earth, you have effectively __won the lottery__." The money you earn, access to food and clean water, benefits, standard of living --- in relation to every other human being, you have won one hell of a lottery."
+> > 
+> > --- Some podcast I listened to at some point
+
+<h3 style="color:#6495ed;"> | July 27, 2017 </h3>
 
 I am an exercise explosion waiting to happen.
 
-<h3 style="color:#6495ed;"> | July 27, 2017 </h3>
-<h3 style="color:#6495ed;"> | July 26, 2017 </h3>
+<h3 style="color:#6495ed;"> One Coin Loophole | July 26, 2017 </h3>
+
+In her podcast, Gretchen tells a story about coins: 
+	 
+> > Say you have 10 coins. Are you rich? Well, no. What if you add 1 coin? Okay, still no. What if you add another coin? You keep adding 1 coin by 1 coin. Finally, you have to say that you can't be rich unless you keep adding 1 coin. One coin by one coin, a person becomes rich and only by the addition of that one coin does she get the growing heap.
+	 
+This is the *One Coin Loophole*. 
+
+The 1 coin loophole is saying on a given day, ‘well, what does it matter if I skip 1 coin? Doesn’t matter, I’ll skip it. Which is *true*, but the irony is that, it’s only 1 coin by 1 coin, small incremental, seemingly non-important action, that gets the desired growing heap. Aka, it's only one trip to the gym by one trip to the gym that you get the benefits and riches that come from going to the gym.
+
+<h3 style="color:#6495ed;"> On Writing | August 7, 2017 </h3>
+
+Sometimes I have trouble writing. But usually that only happen when I have an unclear sense of what I want to write. It's a content problem, not a discipline problem. I think that can be generalized; in other words, writing can be an irritating or drawn-out process, but when you know what to say, when distillation follows distillation, it flows naturally, effortlessly. And when writing happens naturally, I forget everything else and write. 
+
+I guess the reason I find blog-making fun, why I've been able to get super into it, is because I _love_ distilling things. Blog-writing (e.g. pretending people out there actually want to read what you're writing) allows me to engage hours on end in this distillation process of converting a nebulous mental schema into a concrete written one with the satisfaction of knowing other people will be helped by it.
 
 <h3 style="color:#6495ed;">  Thoughts on Time Wasters | July 25, 2017 </h3>
 
@@ -136,52 +127,65 @@ Some interesting tidbits from [an article I read](https://medium.com/startup-gri
 > 
 > The extra couple hours I could spend polishing it won’t make a massive difference in the number of people who read and benefit from this post. Perfectionism is a tough habit to break so you have to set time limits and force yourself to just put things out there even if they aren’t 100% perfect."
 
-<h3 style="color:#6495ed;"> | July 24, 2017 </h3>
-<h3 style="color:#6495ed;"> | July 23, 2017 </h3>
-<h3 style="color:#6495ed;"> | July 22, 2017 </h3>
+<h3 style="color:#6495ed;"> On Authenticity | July 24, 2017 </h3>
+
+During my 8 months I want to experiment with an initiative involving authenticity, specifically, in being more authentic in the face of prescriptive gender norms.
+ 
+Most people would describe me as a naturally cheery person. I would agree with this characterization. But part of me wonders if this personality was devised to better comply with gender stereotypes about how women behave.
+ 
+What would it be like if I focused more on reacting authentically rather than agreeably, rather than fulfilling invisible gender norms? 
+
+<h3 style="color:#ff9900;"> Needing a Personal Rubric | July 23, 2017 </h3>
+
+Now that I'm graduating and a good number of my friends are transitioning into jobs, I can't help think, what's the point? What's the end goal? What means "we've made it"? Of course, this is the typical student mindset; we want a number or some sort of indicator to quantify our performance. 
+ 
+At 23, Tina Fey was working at the Y.M.C.A, JK Rowling was broke, and Walt Disney had just declared bankruptcy. Similarly, a bunch of other people who we'll never know of because they're still in sub-par / not famous conditions, also had the same plight at the same time. The problem with life is, there isn't really *any* real performance indicators in the present -- only one in retrospect -- and what use is that to someone at time t at a fork in a decision tree? 
+ 
+I think in this social-media driven world, it's incredibly important to have an objective, absolute set of judgments to assess oneself by. 
+ 
+Further, sometimes it's fun to think about what we'd have our kids do when we raise them -- I have this conversation all the time with both male and female friends, and it's *so* interesting hearing the different way kids are raised. 
+ 
+This, naturally makes me wonder: what's the end goal? Why is it important for them to do thing X, Y, or Z? 
+ 
+For this reason, I think it would be insanely useful to draft a rubric of what I perceive to be an accomplished life -- at least at this point in my life.  
+ 
+That being said, I don't know what it means to have a rubric -- is that a strength or a shackle? Any kind of rubric Tina Fey would have written at age 23 would have __hugely__ undermined her potential. 
+ 
+__To be continued as an actual post!__
+
 <h3 style="color:#6495ed;"> | July 21, 2017 </h3>
 <h3 style="color:#6495ed;"> | July 20, 2017 </h3>
 <h3 style="color:#6495ed;"> | July 19, 2017 </h3>
+TO-DO
 
+<h3 style="color:#6495ed;">  On Sensitivity | July 18, 2017 </h3>
 
-<h3 style="color:#6495ed;"> West Windsor Plainsboro Represent! | July 18, 2017 </h3>
-
-Throwback to when my high school [got in the New York Times](https://www.nytimes.com/2015/12/26/nyregion/reforms-to-ease-students-stress-divide-a-new-jersey-school-district.html?mcubz=2){:target="_blank"} for being too competitive =(.
+A note to self, that when addressing sensitive issues, it's *so* important to be careful about not hurting people's feelings, because you never know what could trigger some sort of strong emotion.
 
 <h3 style="color:#6495ed;"> When EQ > IQ | July 17, 2017 </h3>
 
-> > "Most firms hire for technical IQ-type skills. Eventually, the same firms shift towards promoting people for EQ skills." -- Victor Cheng
+> > "Most firms hire for technical IQ-type skills. Eventually, the same firms shift towards promoting people for EQ skills." 
+> > -- Victor Cheng
 
 <h3 style="color:#6495ed;"> A Guilty Ex-Vegetarian | July 16, 2017 </h3>
 
-
-It remains the case that the healthiest option I find the most tasty is indeed some sort of grilled Chipotle bowl or 
-
-. I stopped last month and ha
+After about 3 years of not eating meat, I recently went back to eating meat and it's a meh experience. I thought I'd feel ...free... but instead I more or less feel guilty. More on this later. That being said, despite having the freedom to eat meat, I think my diet will remain ~90% vegetarian. 
 
 <h3 style="color:#6495ed;"> On Happiness | July 15, 2017 </h3>
 
-> > "Happiness is not having what you want, but wanting what you have." -- Friedrich Nietzsche
+> > "Happiness is not having what you want, but wanting what you have." 
+> > -- Friedrich Nietzsche
 
-<h3 style="color:#6495ed;"> One Coin Loophole | July 15, 2017 </h3>
+<h3 style="color:#6495ed;">  | July 15, 2017 </h3>
+TO-DO
 
-In her podcast, Gretchen tells a story about coins: 
-	 
-> > Say you have 10 coins. Are you rich? Well, no. What if you add 1 coin? Okay, still no. What if you add another coin? You keep adding 1 coin by 1 coin. Finally, you have to say that you can't be rich unless you keep adding 1 coin. One coin by one coin, a person becomes rich and only by the addition of that one coin does she get the growing heap.
-	 
-This is the *One Coin Loophole*. 
-
-The 1 coin loophole is saying on a given day, ‘well, what does it matter if I skip 1 coin? Doesn’t matter, I’ll skip it. Which is *true*, but the irony is that, it’s only 1 coin by 1 coin, small incremental, seemingly non-important action, that gets the desired growing heap. Aka, it's only one trip to the gym by one trip to the gym that you get the benefits and riches that come from going to the gym.
-
-<h3 style="color:#6495ed;"> On Aging | July 14, 2017 </h3>
-
-"Inside every old person is a young person wondering what happened." 
-
-Read more answers to *What Part of Aging Do You Wish Someone Had Warned You About?* here TO-DO INSERT LINK.
+<h3 style="color:#6495ed;">  | July 14, 2017 </h3>
+TO-DO
 
 <h3 style="color:#6495ed;"> On Communication | July 13, 2017 </h3>
 
 > > "Every act of communication is an act of tremendous courage in which we give ourselves over to two parallel possibilities: the possibility of planting into another mind a seed sprouted in ours and watching it blossom into a breathtaking flower of mutual understanding; and the possibility of being wholly misunderstood, reduced to a withering weed." 
+> > --- Edmond & Nicole! (But mostly Edmond 😛)
 
 <h3 style="color:#6495ed;"> Blog Dreams | July 12, 2017 </h3>
 
@@ -191,15 +195,15 @@ In any case, I've wanted an uber cool blog for about 6 years now and I've starte
 
 <h3 style="color:#6495ed;"> Hawaii is Objectively Great | July 11, 2017 </h3>
 
-In Hawaii now! Hawaii is __dope__ not because it's hawaii in a boasting sort of way but fundamentally because the place itself is objectively _great_ It's *incredibly* safe to walk around in which is a huge factor for me, and for a tropical island, is not ~that~ expensive if you keep an eye out for cheaper eateries. Plus, since it's a part of the United States, you get the familiar perks of the U.S. (eg IHOP (lol), USPS, familiar chains, etc.,) 
+In Hawaii now! Hawaii is __dope__ not because it's Hawaii in a boasting sort of way but because the place itself is fundamentally _great_. It's *incredibly* safe to walk around in, which is a huge factor for me. And indeed it's pretty expensive, but pretty much on par with the standard of tropical islands generally. Plus, since it's a part of the United States, you get the familiar perks of the U.S. (eg IHOP (lol), USPS, familiar chains, etc.,).
 
-On top of that, there's tons of hiking, astronomy, nature, etc.,. I've been to a number of beachy-tropical areas (Jamaica, Los Angeles, etc.,) and this one surely tops the list. Definitely coming back =) 
+On top of that, there's tons of hiking, astronomy, nature, etc.,. I've been to a number of beachy-tropical areas (Jamaica, Los Angeles, etc.,) and this one surely tops the list. __Definitely__ coming back 😛
 
 <h3 style="color:#6495ed;"> Overcoming Relationship Inertia | July 10, 2017 </h3>
 
-I have a friendship which maybe isn't going the best way at the moment and part of me just wants to get super real and try and talk stuff out -- to hit some sort of 'reset' button back to the good 'ol times. But then, I have to realize that we don't live in a frictionless world, that indeed that friction is a very real force which makes a reset button virtually non-existent. 
+I have a friendship which maybe isn't going the best way at the moment and part of me just wants to get super real and try and talk stuff out -- to hit some sort of 'reset' button back to the good 'ol times. But then, I have to realize that we don't live in a frictionless world, that indeed friction is a very real force which makes a reset button virtually non-existent. 
 
-For example, you can *try* and say to someone, "hey -- let's just reset, do X, and not do Y" and maybe that works on a superficial level, but underneath, there are just too many unresolved feelings, and a bit of awkward tension that comes with that -- the friction which makes it an unfeasible solution.
+For example, you can *try* and say to someone, "hey -- let's just reset, do X, and not do Y" and maybe that works on a superficial level, but underneath, there are just too many unresolved feelings and a bit of awkward tension that comes with that -- the friction which makes it an unfeasible solution.
 
 The better way, I think, is to just continually be a great person, until slowly they respond in kind. 
 
@@ -207,7 +211,25 @@ I think people notice and respond to the *integration of behavior* -- in other w
 
 It's a slower solution but a more tractable one, I think.
 
-<h3 style="color:#6495ed;"> Overcoming Relationship Inertia | July 11, 2017 </h3>
+<h3 style="color:##ff9900;"> FOMO is a very real force | July 22, 2017 </h3>
+
+There are days when I travel, sometimes I'll spend the whole day working on some sort of side project -- in other words, somewhat pathetically hunched over my laptop.
+ 
+And in these moments I tend to feel _guilty_. Why? Because I feel like I'm missing out on what [Insert city or country] has to offer. As I type, I'm currently in Naples, Italy. Now that I'm here, shouldn't i be touring Mount Vesuvius or X or Y, instead of sitting on my butt and writing this?
+ 
+Indeed, the fear of missing out, is a very real force while traveling. 
+ 
+On one hand, I think I'm driven to maximize the use of my time here -- which can be a great thing! It pushes me out of my comfort zone and honestly has the upside of potentially happening upon a place/experience/photo that makes it all worth it.
+ 
+On the other hand, I'm pretty budget conscious so each paid attempt for an amazing experience/photo has a very real, tangible financial cost. Given that I don't have *that* much money, I'm always tempted to think "eh, I'll come back when I (hopefully) have more money". Of course, the danger in that is that as we grows older, we tend to have money, but no time. 
+ 
+I've also sort of come to terms with and accept doing what I *genuinely* love doing over the pre-ordained path of action --- aka the TripAdvisor Top 10 list. Some of my best moments from previous trips like going to Harry Potter World, wasn't going on the Gringott's ride but rather, as silly as it sounds, really meaningfully connecting with a friend over mozzarella sticks.
+ 
+So while traveling, I've learned that -- that the best feelings and the most valued feelings can be simple, not profound, and unplanned -- like spending an hour playing with pigeons or retrieving a fallen shirt from a neighbor's balcony (true story . . .)/
+ 
+Of course, there's always the opportunity cost of whatever X amazing experience you __could__ have had if you had been more thorough, but it helps knowing that I have _no_ idea how great this experience is, so at least emotionally am not missing out 😛
+
+<h3 style="color:#6495ed;"> Woo hoo! Advice Giving ^_^ | July 11, 2017 </h3>
 
 Today, a close friend of mine asked me for relationship advice and I felt *super* honored. Like, super, super honored =). 
 
@@ -221,50 +243,50 @@ Asking:
 
 Disqus & Google Analytics are officially working! It’s amazing how small achievements seem after you’ve done them and how big tasks seem before you’ve achieved them. 
 
-<h3 style="color:#6495ed;"> Dental Hygiene on Point | July 7, 2017 </h3>
+<h3 style="color:#6495ed;"> | July 7, 2017 </h3>
+TO-DO
 
-My dental hygiene has been SO on point recently. I haven't *not* flossed since 
 <h3 style="color:#6495ed;"> Interview with first female billionaire + Spanx fouder, Sara Blakely | July 6, 2017 </h3>
 
 Today I listened to a podcast which undoubtedly is on my all time favorite podcast episodes list -- [an interview with the Spanx founder, Sara Blakely](http://one.npr.org/?sharedMediaId=493169696:493311384){:target="_blank"}. It's definitely an experiential listen than a pure knowledge-based one so I'd highly recommend just downloading and getting into it. But below are a couple of the things that really resonated with me. 
 
-##### The notion that ideas are most vulnerable in their infancy
+##### The notion that ideas are most vulnerable in their infancy.
 
- > > "I kept it [the idea of Spanx] a secret for 1 year. I was very careful right away to keep it to myself because I believe ideas are most vulnerable in their infancy. It's instinct to turn to your right or left and tell a friend and when you do that, ego is invited into the mix and then you spend all your time defending the idea and explaining it and not pursuing it. I needed to be at the place where I knew I wouldn't turn back no matter what I heard. I had invested enough of my time and sweat equity into the idea that I told people and the things I heard were "if it's such a good idea why hasn't someone done it already?" and "if it's a good idea then you're gonna spend your savings on this and in 6 months, the big guys are gonna knock you out of the water." And these things were all coming from a place of love but I feel like if I heard all of that at the beginning, I'd probably still be selling fax machines." 
+ > > "I kept it [the idea of Spanx] a secret for 1 year. I was very careful right away to keep it to myself because I believe ideas are most vulnerable in their infancy. It's instinct to turn to your right or left and tell a friend and when you do that, ego is invited into the mix and then you spend all your time defending the idea and explaining it and not pursuing it. I needed to be at the place where I knew I wouldn't turn back no matter what I heard. I had invested enough of my time and sweat equity into the idea that I told people and the things I heard were "_if it's such a good idea why hasn't someone done it already?_" and "_if it's a good idea then you're gonna spend your savings on this and in 6 months, the big guys are gonna knock you out of the water_". And these things were all coming from a place of love but I feel like if I heard all of that at the beginning, I'd probably still be selling fax machines." 
 
-##### Her sheer resolve and willingness to break the rules to get Spanx out there
-> > [Interviewer] "When you got into Neiman Marcus - were you like, I made it?""
+##### Her sheer resolve and willingness to break the rules to get Spanx out there.
+> > [Interviewer] "When you got into Neiman Marcus - were you like, I made it?"
 > > [Blakely] "Absolutely not - that is the biggest mistake entrepreneurs make -- that's when the work begins! I paid friends to go out and buy the product and create a buzz about it.
-I called all the friends I had - called friends I hadn't spoken to since 4th grade saying, "hey this is Lisa, I  know we haven't spoken since 4th grade but do you mind going to the store and buying Spanx and I'll send you a check?"...I stood in the stores from 9-5 or 6 every day and went to Target and bought stands which I put up at at the checkout area in Neiman Marcus -- they all thought it was approved from higher ups so they all left the stands there." 
-
+> >
+> > I called all the friends I had - called friends I hadn't spoken to since 4th grade saying, "hey this is Sara, I  know we haven't spoken since 4th grade but do you mind going to the store and buying Spanx and I'll send you a check?"...I stood in the stores from 9-5 or 6 every day and went to Target and bought stands which I put up at at the checkout area in Neiman Marcus. They all thought it was approved from higher ups so they all left the stands there." 
 
 <h3 style="color:#6495ed;"> I'll Buy You a Beer | July 5, 2017 </h3>
 
 I really love the concept of buying someone a beer. It's way cheaper than buying them a meal, makes me feel like sexism isn't a thing, and has a friendly undertone, compared to 'buying a drink'. It's freaking great.
 
-<h3 style="color:#6495ed;"> Hawaii is Objectively Great | July 4, 2017 </h3>
+<h3 style="color:#6495ed;"> Anxiety v. Action | July 4, 2017 </h3>
 
-In Hawaii now! Hawaii is __dope__ not because it's hawaii in a boasting sort of way but fundamentally because the place itself is objectively _great_ It's *incredibly* safe to walk around in which is a huge factor for me, and for a tropical island, is not ~that~ expensive if you keep an eye out for cheaper eateries. Plus, since it's a part of the United States, you get the familiar perks of the U.S. (eg IHOP (lol), USPS, familiar chains, etc.,) 
+> "The antidote to anxiety is action." 
+> 
+> --- Old Proverb
 
-On top of that, there's tons of hiking, astronomy, nature, etc.,. I've been to a number of beachy-tropical areas (Jamaica, Los Angeles, etc.,) and this one surely tops the list. Definitely coming back =) 
-
-<h3 style="color:#6495ed;"> Productivity | July 3, 2017 </h3>
+<h3 style="color:#6495ed;"> Exhausting Tasks | July 3, 2017 </h3>
 
 "There is noting more exhausting than the task you've never started."
 
 <h3 style="color:#6495ed;"> The Northeast is Objectively the Best Place to Live | July 2, 2017 </h3>
 
-I can't help but feel the Northeast is a /fantastic/ place to live, largely because of its proximity to action-packed cities -- namely New York, Philadelphia, Boston, Washington D.C., and Baltimore. 
+I can't help but feel the Northeast is a _fantastic_ place to live, largely because of its proximity to action-packed cities -- namely New York, Philadelphia, Boston, Washington D.C., and Baltimore. 
 
-The fact that ~any~ of these locations are accessible by a cheap $20 bus amazes me. It would be such a huge thing I'd miss out on if I were to move away in the long-term. 
+The fact that _any_ of these locations are accessible by a cheap $20 bus amazes me. It would be such a huge thing I'd miss out on if I were to move away in the long-term. 
 
-But then I think about the weather; cold weather __does__ suck, after all. But you can also look at it as a matter of appreciation -- because you can't truly appreciate the great feeling of walking into a warm, cozy house or shop until you've been shivering outside.
+But then I think about the weather; cold weather __does__ suck, after all. But you can also look at it as a matter of appreciation -- because you can't truly appreciate the great feeling of walking into a warm and cozy house until you've been shivering outside.
 
 . . . but then again, that lasts about a week before it gets old. 
 
 But even with that in mind, I think the power of having such major cities at your disposal is pretty much irreplaceable -- at least for me. 
 
-<h3 style="color:#6495ed;"> Not My Circus, not my monkeys. . . | July 1, 2017 </h3>
+<h3 style="color:#6495ed;"> Not My Circus, Not My Monkeys. . . | July 1, 2017 </h3>
 
 > "Not my circus, not my monkeys."
 > 
@@ -272,4 +294,4 @@ But even with that in mind, I think the power of having such major cities at you
 
 An epic saying, which, as [explained by Robert Osowiecki](https://www.quora.com/What-does-the-Polish-proverb-not-my-circus-not-my-monkeys-mean){:target="_blank"} means:
 
-_“I won’t interfere or bother myself with trouble in a place I don’t belong to or have no authority — it’s someone else’s job to deal with this”_
+_“I won’t interfere or bother myself with trouble in a place I don’t belong to or have no authority — it’s someone else’s job to deal with this.”_

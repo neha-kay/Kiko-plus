@@ -46,7 +46,9 @@ This guide won’t tell you which career to pursue or answer any million dollar 
 Continue to the next page in this series, [What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %}){:target="_blank"}.
 
 Neha 
+&nbsp;	
 May 25, 2016
+&nbsp;
 Bogota, Colombia
 
 ----
