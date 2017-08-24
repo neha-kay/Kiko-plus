@@ -23,20 +23,20 @@ In no particular order:
 
 ### Favorite Experiences (in no particular order)
 
-* Myanmar (Burma) - The most epic people, super, super cheap, stunned by [Shwedagon Pagoda](https://www.google.it/search?q=shwedagon+pagoda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwixst_p5d7VAhXD0RQKHStSAqkQ_AUICigB&biw=1226&bih=780){:target="_blank"}
+* Myanmar (Burma) - The most epic people, super, super cheap, stunned by the [Shwedagon Pagoda](https://www.google.it/search?q=shwedagon+pagoda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwixst_p5d7VAhXD0RQKHStSAqkQ_AUICigB&biw=1226&bih=780){:target="_blank"}.
 * Ghana - Worked with and met some of the greatest people ever.
 * United Kingdom - Studied as a visiting student at Oxford, what's not to love?
 
 ### Countries I Want to Go Back To. . . (in no particular order)
 
-* Argentina and Chile - So much to see + absolutely beautiful, need to visit Patagonia
-* Brazil - *incredibly* fun country (especially Rio 😛)
+* Argentina and Chile - So much to see + absolutely beautiful, need to visit Patagonia.
+* Brazil - *incredibly* fun country (especially Rio 😛 ).
 
 ### Great but Wouldn't Recommend Locations 
 
-* South Korea - I found it a bit boring 😕 (but that's just me!!)
+* South Korea - I found it a bit boring 😕 (but that's just me)
 * Jamaica - Expensive and pretty creepy -- as a thrifty female, both of these are dealbreakers 😕
-* Ecuador - Besides _Mitad del Mundo_ found it a bit boring (but that's just me!!) 
+* Ecuador - Besides _Mitad del Mundo_ found it a bit boring (but that's just me) 
 * Switzerland - Expensive *AF*
 
 ### Footsteps Abroad
@@ -53,7 +53,9 @@ This photo above was taken somewhere on the [autobahn](https://en.wikipedia.org/
   <img src="/images/photos-travel/2-scotland-st-patricks.jpg">
 </p>
 
-In 2015, I visited Dublin, Ireland on _St. Patrick's Day_. Yep, and it was as insane as that sounded and more. If you could imagine an entire city erupting in a party for 3 consecutive nights, that's more or less what St. Patrick's Day is like in Ireland's capital city. These were some of the crowds during the festival.
+In 2015, I visited Dublin, Ireland on St. Patrick's Day. Yep, and it was as insane as that sounded, and more. 
+
+If you could imagine an entire city erupting in a party for 3 consecutive nights, that's more or less what St. Patrick's Day is like in Ireland's capital city. These were some of the crowds during the festival.
 
 -------
 
@@ -66,7 +68,7 @@ Visiting [Machu Picchu](){:target="_blank"} of the Incan civilization.
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/border.png">
+  <img src="/images/photos-travel/border.png" width="300">
 </p>
 
 <p align="center">
@@ -81,7 +83,9 @@ The two images above are of me at the North Korean - South Korean border.
   <img src="/images/photos-travel/4-kayak.jpg">
 </p>
 
-Kayaking in caves in Phang Nga Bay, Thailand! This also happens to be where the James Bond movie, _The Man with the Golden Gun_ was filmed. 
+Kayaking in caves in Phang Nga Bay, in Thailand. 
+
+This also happens to be where the James Bond movie, _The Man with the Golden Gun_ was filmed. 
 
 ------
 
@@ -90,6 +94,7 @@ Kayaking in caves in Phang Nga Bay, Thailand! This also happens to be where the 
 </p>
 
 This is the [Shwedagon Pagoda](https://www.google.gr/search?q=shwedagon+pagoda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCuaLYxu_VAhWqD8AKHQ2mBacQ_AUICigB&biw=701&bih=736){:target="_blank"}, in Burma. Even after 28+ countries, the Shwedagon Pagoda is by far, the most impressive religious structure I've _ever_ seen --- far more impressive, I'd say than even [St. Peter's Basilica](https://www.google.gr/search?biw=701&bih=696&tbm=isch&sa=1&q=st.+peter%27s+basilica&oq=st.+peter%27s+bas&gs_l=psy-ab.3.0.0j0i30k1l3.55474.57301.0.58136.15.12.0.0.0.0.241.1305.0j7j1.8.0....0...1.1.64.psy-ab..7.8.1304...0i67k1.NHKf5NUWoLM){:target="_blank"}. It's simply absolutely _stunning_.
+
 ------
 
 
@@ -129,7 +134,7 @@ This was celebrating New Year's across the London Bridge.
   <img src="/images/photos-travel/6-london-new-years-crowd.jpg">
 </p>
 
-And these were the super crazy and super drunk London crowds. 
+And the super crazy and super drunk London crowds. 
 
 -----
 
@@ -176,6 +181,7 @@ This is [Shibuya crossing](https://www.google.gr/search?q=Shibuya+crossing&tbm=i
 </p>
 
 My Tokyo host above was _amazing_. He not only let me stay at his place for almost a week but also cooked me an _amazing_ traditional Japanese dinner. 
+
 -------
 
 <p align="center">
