@@ -175,14 +175,9 @@ That being said, I don't know what it means to have a rubric -- is that a streng
  
 __To be continued as an actual post!__
 
-<h3 style="color:#6495ed;"> | July 21, 2017 </h3>
-<h3 style="color:#6495ed;"> | July 20, 2017 </h3>
-<h3 style="color:#6495ed;"> | July 19, 2017 </h3>
-TO-DO
-
 <h3 style="color:#6495ed;">  On Sensitivity | July 18, 2017 </h3>
 
-A note to self, that when addressing sensitive issues, it's *so* important to be careful about not hurting people's feelings, because you never know what could trigger some sort of strong emotion.
+A note to self that when addressing sensitive issues, it's *so* important to be careful how you choose your words, because you never know what could trigger some sort of strong emotion.
 
 <h3 style="color:#6495ed;"> When EQ > IQ | July 17, 2017 </h3>
 
@@ -191,23 +186,20 @@ A note to self, that when addressing sensitive issues, it's *so* important to be
 
 <h3 style="color:#6495ed;"> A Guilty Ex-Vegetarian | July 16, 2017 </h3>
 
-After about 3 years of not eating meat, I recently went back to eating meat and it's a meh experience. I thought I'd feel ...free... but instead I more or less feel guilty. More on this later. That being said, despite having the freedom to eat meat, I think my diet will remain ~90% vegetarian. 
+After about 3 years of not eating meat, I recently went back to eating meat and it's a meh experience. I thought I'd feel . . .free, but instead I feel a bit guilty. More on this later. 
+
+That being said, despite having the freedom to eat meat, I think my diet has remained ~90% vegetarian. 
 
 <h3 style="color:#6495ed;"> On Happiness | July 15, 2017 </h3>
 
 > > "Happiness is not having what you want, but wanting what you have." 
 > > -- Friedrich Nietzsche
 
-<h3 style="color:#6495ed;">  | July 15, 2017 </h3>
-TO-DO
-
-<h3 style="color:#6495ed;">  | July 14, 2017 </h3>
-TO-DO
-
 <h3 style="color:#6495ed;"> On Communication | July 13, 2017 </h3>
 
 > > "Every act of communication is an act of tremendous courage in which we give ourselves over to two parallel possibilities: the possibility of planting into another mind a seed sprouted in ours and watching it blossom into a breathtaking flower of mutual understanding; and the possibility of being wholly misunderstood, reduced to a withering weed." 
 > > --- Edmond & Nicole! (But mostly Edmond 😛)
+> > Originally from [Maria Popova](https://www.brainpickings.org/2015/10/21/telling-is-listening-ursula-k-le-guin-communication/){:target="_blank"}
 
 <h3 style="color:#6495ed;"> Blog Dreams | July 12, 2017 </h3>
 
@@ -229,31 +221,31 @@ For example, you can *try* and say to someone, "hey -- let's just reset, do X, a
 
 The better way, I think, is to just continually be a great person, until slowly they respond in kind. 
 
-I think people notice and respond to the *integration of behavior* -- in other words, actions and behavior repeated over and over again. 
+I think people notice and respond to the integration of behaviors -- in other words, actions and behavior repeated over and over again. 
 
 It's a slower solution but a more tractable one, I think.
 
-<h3 style="color:##ff9900;"> FOMO is a very real force | July 22, 2017 </h3>
+<h3 style="color:#ff9900;"> FOMO is a very real force | July 22, 2017 </h3>
 
 There are days when I travel, sometimes I'll spend the whole day working on some sort of side project -- in other words, somewhat pathetically hunched over my laptop.
- 
+&nbsp;
 And in these moments I tend to feel _guilty_. Why? Because I feel like I'm missing out on what [Insert city or country] has to offer. As I type, I'm currently in Naples, Italy. Now that I'm here, shouldn't i be touring Mount Vesuvius or X or Y, instead of sitting on my butt and writing this?
- 
+&nbsp; 
 Indeed, the fear of missing out, is a very real force while traveling. 
- 
+&nbsp;
 On one hand, I think I'm driven to maximize the use of my time here -- which can be a great thing! It pushes me out of my comfort zone and honestly has the upside of potentially happening upon a place/experience/photo that makes it all worth it.
- 
+&nbsp;
 On the other hand, I'm pretty budget conscious so each paid attempt for an amazing experience/photo has a very real, tangible financial cost. Given that I don't have *that* much money, I'm always tempted to think "eh, I'll come back when I (hopefully) have more money". Of course, the danger in that is that as we grows older, we tend to have money, but no time. 
- 
+&nbsp;
 I've also sort of come to terms with and accept doing what I *genuinely* love doing over the pre-ordained path of action --- aka the TripAdvisor Top 10 list. Some of my best moments from previous trips like going to Harry Potter World, wasn't going on the Gringott's ride but rather, as silly as it sounds, really meaningfully connecting with a friend over mozzarella sticks.
- 
+&nbsp; 
 So while traveling, I've learned that -- that the best feelings and the most valued feelings can be simple, not profound, and unplanned -- like spending an hour playing with pigeons or retrieving a fallen shirt from a neighbor's balcony (true story . . .)/
- 
+&nbsp;
 Of course, there's always the opportunity cost of whatever X amazing experience you __could__ have had if you had been more thorough, but it helps knowing that I have _no_ idea how great this experience is, so at least emotionally am not missing out 😛
 
 <h3 style="color:#6495ed;"> Woo hoo! Advice Giving ^_^ | July 11, 2017 </h3>
 
-Today, a close friend of mine asked me for relationship advice and I felt *super* honored. Like, super, super honored =). 
+Today, a close friend of mine asked me for relationship advice and I felt *super* honored. Super, super honored =). 
 
 <h3 style="color:#6495ed;"> A useful heuristic for making decisions | July 9, 2017 </h3>
 
