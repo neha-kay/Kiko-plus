@@ -62,6 +62,19 @@ In 2015, I visited Dublin, Ireland on _St. Patrick's Day_. Yep, and it was as in
 </p>
 
 Visiting [Machu Picchu](){:target="_blank"} of the Incan civilization.
+
+-------
+
+<p align="center">
+  <img src="/images/photos-travel/border.png">
+</p>
+
+<p align="center">
+  <img src="/images/photos-travel/dmz.jpg">
+</p>
+
+The two images above are of me at the North Korean - South Korean border. 
+
 -------
 
 <p align="center">
@@ -69,6 +82,38 @@ Visiting [Machu Picchu](){:target="_blank"} of the Incan civilization.
 </p>
 
 Kayaking in caves in Phang Nga Bay, Thailand! This also happens to be where the James Bond movie, _The Man with the Golden Gun_ was filmed. 
+
+------
+
+<p align="center">
+  <img src="/images/photos-travel/shwedagon.jpg">
+</p>
+
+This is the [Shwedagon Pagoda](https://www.google.gr/search?q=shwedagon+pagoda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCuaLYxu_VAhWqD8AKHQ2mBacQ_AUICigB&biw=701&bih=736){:target="_blank"}, in Burma. Even after 28+ countries, the Shwedagon Pagoda is by far, the most impressive religious structure I've _ever_ seen --- far more impressive, I'd say than even [St. Peter's Basilica](https://www.google.gr/search?biw=701&bih=696&tbm=isch&sa=1&q=st.+peter%27s+basilica&oq=st.+peter%27s+bas&gs_l=psy-ab.3.0.0j0i30k1l3.55474.57301.0.58136.15.12.0.0.0.0.241.1305.0j7j1.8.0....0...1.1.64.psy-ab..7.8.1304...0i67k1.NHKf5NUWoLM){:target="_blank"}. It's simply absolutely _stunning_.
+------
+
+
+<p align="center">
+  <img src="/images/photos-travel/gangnam.jpg">
+</p>
+
+Me in the Gangnam district in South Korea! Yes, I did the Gangnam Style dance there, and no, I will not be posting that. 😛
+
+-------
+
+<p align="center">
+  <img src="/images/photos-travel/bagan-sun.jpg">
+</p>
+
+This is one of the many beautiful temples in Bagan, Burma. This image was taken at sunrise. 
+
+------
+
+<p align="center">
+  <img src="/images/photos-travel/bagan.jpg">
+</p>
+
+Overlooking the ancient temples and ruins of Bagan, Burma.
 
 ------
 
@@ -105,6 +150,32 @@ This was New Year's in Burma! As explained [here](http://www.123newyear.com/newy
 This photo above, of the [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe){:target="_blank"}, is by far, one of my favorite photos. I had taken a bus (from Brussels, I think?) to Paris, but of course, it arrived _ridiculously_ early in the morning --- around 6 am or so. And so I sort of shurgged, and figured I'd visit the Eiffel Tower, because, well, why not. On the way, I passed by this beauty, caught right as the sun was rising. 
 
 It's easily one of my favorite travel photos thus far. 
+
+-------
+
+<p align="center">
+  <img src="/images/photos-travel/chang-rai.jpg">
+</p>
+
+This is [Wat Rong Khun](https://en.wikipedia.org/wiki/Wat_Rong_Khun){:target="_blank"} in Chang Rai, Thailand. The entire structure is symbolic of Buddhist philosophy. As explained by Wikipedia:
+
+> > "The bridge of "the cycle of rebirth": the main building at the white temple, the ubosot, is reached by crossing a bridge over a small lake. In front of the bridge are hundreds of outreaching hands that symbolize unrestrained desire. The bridge proclaims that the way to happiness is by foregoing temptation, greed, and desire."
+
+-------
+
+<p align="center">
+  <img src="/images/photos-travel/shibuya.jpg">
+</p>
+
+This is [Shibuya crossing](https://www.google.gr/search?q=Shibuya+crossing&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiQ1rPMy-_VAhVpLcAKHWWrA3gQsAQIOQ&biw=700&bih=736){:target="_blank"}, in Tokyo, famed to be the busiest intersection in the world. Find me! 
+
+-------
+
+<p align="center">
+  <img src="/images/photos-travel/shuya.jpg">
+</p>
+
+My Tokyo host above was _amazing_. He not only let me stay at his place for almost a week but also cooked me an _amazing_ traditional Japanese dinner. 
 -------
 
 <p align="center">
@@ -170,7 +241,6 @@ I believe it was [La Mallorquina](https://www.tripadvisor.co.uk/Restaurant_Revie
 This picture was taken at the [Salinas Grandes](https://en.wikipedia.org/wiki/Salinas_Grandes_(Jujuy_and_Salta)){:target="_blank"} in Jujuy, Argentina. 
 
 -------
-
 
 ## Footsteps Abroad 
 
