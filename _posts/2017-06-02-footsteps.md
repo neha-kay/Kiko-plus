@@ -59,11 +59,12 @@ If you could imagine an entire city erupting in a party for 3 consecutive nights
 
 -------
 
+
 <p align="center">
-  <img src="/images/photos-travel/3-pichu.jpg">
+  <img src="/images/photos-travel/gangnam.jpg">
 </p>
 
-Visiting [Machu Picchu](){:target="_blank"} of the Incan civilization.
+Me in the Gangnam district in South Korea! Yes, I did the Gangnam Style dance there, and no, I will not be posting that. 😛
 
 -------
 
@@ -90,6 +91,14 @@ This also happens to be where the James Bond movie, _The Man with the Golden Gun
 ------
 
 <p align="center">
+  <img src="/images/photos-travel/8-paris.jpg">
+</p>
+
+This photo above of the [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe){:target="_blank"} is by far, one of my favorite photos. I had taken a bus (from Brussels, I think?) to Paris, but of course, it arrived _ridiculously_ early in the morning --- around 6 am or so. And so I sort of shurgged, and figured I'd visit the Eiffel Tower, because, well, why not. On the way, I passed by this beauty, caught right as the sun was rising. 
+
+-------
+
+<p align="center">
   <img src="/images/photos-travel/shwedagon.jpg">
 </p>
 
@@ -97,12 +106,13 @@ This is the [Shwedagon Pagoda](https://www.google.gr/search?q=shwedagon+pagoda&s
 
 ------
 
-
 <p align="center">
-  <img src="/images/photos-travel/gangnam.jpg">
+  <img src="/images/photos-travel/chang-rai.jpg">
 </p>
 
-Me in the Gangnam district in South Korea! Yes, I did the Gangnam Style dance there, and no, I will not be posting that. 😛
+This is [Wat Rong Khun](https://en.wikipedia.org/wiki/Wat_Rong_Khun){:target="_blank"} in Chang Rai, Thailand. The entire structure is symbolic of Buddhist philosophy. As explained by Wikipedia:
+
+> > "The main building at the white temple, the ubosot, is reached by crossing a bridge, "the cycle of rebirth", over a small lake. In front of the bridge are hundreds of outreaching hands that symbolize unrestrained desire. The bridge proclaims that the way to happiness is by foregoing temptation, greed, and desire."
 
 -------
 
@@ -126,7 +136,7 @@ Overlooking the ancient temples and ruins of Bagan, Burma.
   <img src="/images/photos-travel/5-london-new-years.jpg">
 </p>
 
-This was celebrating New Year's across the London Bridge. 
+Celebrating the 2014 New Year in London, across the Thames river. 
 
 -----
 
@@ -142,29 +152,17 @@ And the super crazy and super drunk London crowds.
   <img src="/images/photos-travel/7-burma-new-years.jpg">
 </p>
 
-This was New Year's in Burma! As explained [here](http://www.123newyear.com/newyear-traditions/buddhist.html){:target="_blank"}:
+This was the 2016 New Year in Burma! As explained [here](http://www.123newyear.com/newyear-traditions/buddhist.html){:target="_blank"}:
 
 > "According to Buddhist traditions, no celebrations or festivals are considered to be complete until and unless one lights up candles in the temples and monasteries, as doing so is considered to be a symbol of showing love and respect to the blessed souls and to the supreme power. Also, it is considered to bless petitioner with good luck and happiness for the coming time. The same goes for New Year celebrations as well. On New Year day, people in Buddhist countries make a visit to temples and monasteries, bath Buddha statues, offer prayers and worship to Lord Buddha, and call for getting conferred with happy and peaceful times ahead."
 
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/8-paris.jpg">
+  <img src="/images/photos-travel/3-pichu.jpg">
 </p>
 
-This photo above, of the [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe){:target="_blank"}, is by far, one of my favorite photos. I had taken a bus (from Brussels, I think?) to Paris, but of course, it arrived _ridiculously_ early in the morning --- around 6 am or so. And so I sort of shurgged, and figured I'd visit the Eiffel Tower, because, well, why not. On the way, I passed by this beauty, caught right as the sun was rising. 
-
-It's easily one of my favorite travel photos thus far. 
-
--------
-
-<p align="center">
-  <img src="/images/photos-travel/chang-rai.jpg">
-</p>
-
-This is [Wat Rong Khun](https://en.wikipedia.org/wiki/Wat_Rong_Khun){:target="_blank"} in Chang Rai, Thailand. The entire structure is symbolic of Buddhist philosophy. As explained by Wikipedia:
-
-> > "The bridge of "the cycle of rebirth": the main building at the white temple, the ubosot, is reached by crossing a bridge over a small lake. In front of the bridge are hundreds of outreaching hands that symbolize unrestrained desire. The bridge proclaims that the way to happiness is by foregoing temptation, greed, and desire."
+Visiting [Machu Picchu](){:target="_blank"} of the Incan civilization.
 
 -------
 
@@ -212,7 +210,9 @@ In the Czech Republic, it was so interesting to see kids casually walking the st
   <img src="/images/photos-travel/13-scotland-volcano.jpg">
 </p>
 
-This was a mountain I climbed in Scotland which would have been an awesome hike, had it not started snowing and hailing _super_ hard halfway up. Suffice to say, I still made it up and back down without dying. Below is an image of the mountain from afar.
+This was a mountain I climbed in Scotland which would have been an awesome hike, had it not started snowing and hailing _super_ hard halfway up. Suffice to say, I still made it up and back down without dying. 
+
+Below is an image of the mountain from afar.
 
 -------
 
@@ -223,7 +223,7 @@ This was a mountain I climbed in Scotland which would have been an awesome hike,
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/colosseum.jpg">
+  <img src="/images/about-page/colosseum.jpg">
 </p>
 
 Exploring the Colosseum. 
@@ -246,7 +246,6 @@ I believe it was [La Mallorquina](https://www.tripadvisor.co.uk/Restaurant_Revie
 
 This picture was taken at the [Salinas Grandes](https://en.wikipedia.org/wiki/Salinas_Grandes_(Jujuy_and_Salta)){:target="_blank"} in Jujuy, Argentina. 
 
--------
 
 ## Footsteps Abroad 
 
