@@ -53,7 +53,7 @@ __Future Plans / Future Trajectory__
 - The Internet and its endless production of knowledge
 
 <p align="center">
-  <img src="/images/about-page/colosseum-min.jpg" width="600">
+  <img src="/images/about-page/colosseum.jpg" width="600">
 </p>
 
 ### What I'm Doing With My Life
