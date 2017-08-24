@@ -18,19 +18,19 @@ This page is meant to be an outlet for short thought snippets -- no more, no les
 
 Why have one? Well, the goal, here is to write in free blog form more frequently. The theoretical backbone of daily musings is the following: 
 
-##### I. To produce more with perceived less
+##### I. To produce more with perceived less.
 Human nature underestimates what can be done in small increments over a long period of time and overestimates what can be done as a large chunk in a short period of time. A person authoring a book, for example, would likely get way more done writing an hour a day for a year than cramming it in 3 weeks -- assuming, of course, that she sticks to that schedule. 
 
 It's cool to think that in 30 days, I'll have 30 awesome thought nuggets up here, especially given that a 5-minute post doesn't seem all that bad to do everyday 😊
 
-##### II. To set the bar low in terms of size
+##### II. To set the bar low in terms of size.
 By defining the *Daily Musings* page as short 'thought nuggets', I set the bar low in terms of size. This prevents me from procrastinating writing, because writing a tidbit seems far more manageable than writing an entire post. 
 
 In other words, it's way easier for me to meet an expectation of a <500 word thought nugget versus that of a full on 1000+ word post. That comes with less cognitive resistance to posting (i.e. less procrastinating). 
 
 Eventually, I'll take the date tags off and it'll just be 'Musings'. But for now, I totally need the extra accountability to continually re-visit and re-post.
 
-##### III. To make a space for pieces in production
+##### III. To make a space for pieces in production.
 
 A lot of the thoughts you'll see here may end up as full blown posts. I've put them here in the meantime as a holding ground, allowing me to share them in a more raw form until I have the time to scale them into full posts. 
 
@@ -43,7 +43,6 @@ An interesting insight from the podcast I listen to, _Happier in Hollywood_.
 > What you do from 9-5 is your job. 
 > It's what you do from 5-midnight that's the career, what makes you stand out.
 > 
-> Are you reading, are you learning? 
 
 <h3 style="color:#6495ed;"> Milan | August 1, 2017 </h3>
 
@@ -53,21 +52,23 @@ My host took me on a tour of Milan, working our way from the outside in. He had 
 
 I think the overall change in how I explored with him versus how I explore by myself is a matter of *attentiveness* - going slow and embracing all the details not just the most ostentatious ones.
 
-Traffic wise, Milan is the politest city I've been to. People *actually* stop for pedestrians. 
+Otherwise, Milan is really great. Traffic wise, people *actually* stop for pedestrians. 
 
-Interestingly, people of color seem to occupy lower waged occupations here in Italy. Rather interestingly, I've seen a fair number of South Indians busking the streets and in other lower waged occupations. This is very much unlike the U.S., in which South Asians and Asians at large occupy the 'model minority' role. 
+And most interestingly, people of South Asian descent seem to occupy lower waged occupations here in Italy. I've seen a fair number of South Indians busking the streets and in other lower waged occupations. This is very much unlike the U.S., in which South Asians and Asians at large occupy the 'model minority' role. 
 
 <h3 style="color:#6495ed;"> On Aging | July 14, 2017 </h3>
 
-"Inside every old person is a young person wondering what happened." 
+> > "Inside every old person is a young person wondering what happened." 
 
-Read more answers like this in the post [What Part of Aging Do You Wish Someone Had Warned You About?]({% post_url 2017-07-14-what-part-of-aging-do-you-wish-someone-had-warned-you-about %}){:target="_blank"}.
+Read more insights like this in the post [What Part of Aging Do You Wish Someone Had Warned You About?]({% post_url 2017-07-14-what-part-of-aging-do-you-wish-someone-had-warned-you-about %}){:target="_blank"}.
 
 <h3 style="color:#6495ed;"> Automating Good Decisions | July 30, 2017 </h3>
 
-> > "Build a life that requires fewer decisions by surrounding themselves with people who embody the traits they prefer. Over time, they'll naturally pick up those desirable attitudes and behaviors. At the same time, they can avoid the mentally taxing low-level decisions that sap the energy needed for higher-stakes decisions." [Source](http://www.businessinsider.com/neuroscientist-most-important-choice-in-life-2017-7?IR=T){:target="_blank"}
+> > "[They] build a life that requires fewer decisions by surrounding themselves with people who embody the traits they prefer. Over time, they'll naturally pick up those desirable attitudes and behaviors. At the same time, they can avoid the mentally taxing low-level decisions that sap the energy needed for higher-stakes decisions." 
+> > 
+> > [Source](http://www.businessinsider.com/neuroscientist-most-important-choice-in-life-2017-7?IR=T){:target="_blank"}
 
-<h3 style="color:#6495ed;"> Long Term vs. Short Term Relationship View | July 29, 2017 </h3>
+<h3 style="color:#6495ed;"> Long Term vs. Short Term Relationship Views | July 29, 2017 </h3>
 
 > > "You can treat your boss and co-workers as merely temporary colleagues, or you can deliberately treat them in a way that leads them to become lifelong fans of your career success.
 > > 
@@ -76,79 +77,100 @@ Read more answers like this in the post [What Part of Aging Do You Wish Someone 
 > > There are people in my professional network that I’ve been helping and who’ve been helping me for over a decade.
 > > 
 > > This kind of thinking applies to more people than realize it." 
+> >
 > > [Source](http://www.caseinterview.com/learning-from-mentors){:target="_blank"}
 
 <h3 style="color:#6495ed;"> Winning the lottery | July 28, 2017 </h3>
 
-> > "Imagine a guy walking into a store to buy a lottery ticket for the 1.7 billion Powerball. He's effectively trying to win the lottery twice; because if you were born into the modern western world in relation to every other human being that's walked the face of the earth, you have effectively __won the lottery__." The money you earn, access to food and clean water, benefits, standard of living --- in relation to every other human being, you have won one hell of a lottery."
+> > "Imagine a guy walking into a store to buy a lottery ticket for the $1.7 billion Powerball. He's effectively trying to win the lottery twice; because if you were born into the modern western world, in relation to every other human being that's walked the face of the Earth, you have effectively _won the lottery_." The money you earn, access to food and clean water, benefits, standard of living --- in relation to every other human being, you have won one hell of a lottery."
 > > 
 > > --- Some podcast I listened to at some point
 
 <h3 style="color:#6495ed;"> | July 27, 2017 </h3>
 
-I am an exercise explosion waiting to happen.
+I am an exercise explosion waiting to happen. More on this later.
 
 <h3 style="color:#6495ed;"> One Coin Loophole | July 26, 2017 </h3>
 
-In her podcast, Gretchen tells a story about coins: 
+In her podcast, [Happier]({% post_url 2017-07-18-favorites %}){:target="_blank"} Gretchen tells a story about coins: 
 	 
-> > Say you have 10 coins. Are you rich? Well, no. What if you add 1 coin? Okay, still no. What if you add another coin? You keep adding 1 coin by 1 coin. Finally, you have to say that you can't be rich unless you keep adding 1 coin. One coin by one coin, a person becomes rich and only by the addition of that one coin does she get the growing heap.
+> > Say you have 10 coins. Are you rich? 
+> > 
+> > Well, no. 
+> > 
+> > What if you add 1 coin? Okay, still no. 
+> > 
+> > What if you add another coin? You keep adding 1 coin by 1 coin. Finally, you have to say that you can't be rich unless you keep adding 1 coin. One coin by one coin, a person becomes rich and only by the addition of that one coin does she get the growing heap.
 	 
-This is the *One Coin Loophole*. 
+__This is the *One Coin Loophole.__
 
-The 1 coin loophole is saying on a given day, ‘well, what does it matter if I skip 1 coin? Doesn’t matter, I’ll skip it. Which is *true*, but the irony is that, it’s only 1 coin by 1 coin, small incremental, seemingly non-important action, that gets the desired growing heap. Aka, it's only one trip to the gym by one trip to the gym that you get the benefits and riches that come from going to the gym.
+The _1 Coin Loophole_ is saying on any given day, ‘well, what does it matter if I skip 1 coin? Doesn’t matter, I’ll skip it. Which is *true*, but the irony is that, it’s only 1 coin by 1 coin, small incremental, seemingly non-important action, that gets the desired growing heap. Aka, it's only one trip to the gym by one trip to the gym that you get the benefits and riches that come from going to the gym.
 
 <h3 style="color:#6495ed;"> On Writing | August 7, 2017 </h3>
 
-Sometimes I have trouble writing. But usually that only happen when I have an unclear sense of what I want to write. It's a content problem, not a discipline problem. I think that can be generalized; in other words, writing can be an irritating or drawn-out process, but when you know what to say, when distillation follows distillation, it flows naturally, effortlessly. And when writing happens naturally, I forget everything else and write. 
+Sometimes I have trouble writing. But usually that only happens when I have an unclear sense of what I want to write. It's a content problem, not a discipline problem. I think that can be generalized; in other words, writing can be an irritating or drawn-out process, but when you know what to say, when distillation follows distillation, it flows naturally and effortlessly. And when writing happens naturally, I forget everything else and write. 
 
-I guess the reason I find blog-making fun, why I've been able to get super into it, is because I _love_ distilling things. Blog-writing (e.g. pretending people out there actually want to read what you're writing) allows me to engage hours on end in this distillation process of converting a nebulous mental schema into a concrete written one with the satisfaction of knowing other people will be helped by it.
+I guess the reason I find blog-making fun, why I've been able to get super into it, is because I _love_ distilling things. Blog-writing (e.g. pretending people out there actually want to read what you're writing) allows me to engage hours on end in this distillation process and converting nebulous mental schemas into concrete written ones with the satisfaction of knowing other people will be helped by it.
 
 <h3 style="color:#6495ed;">  Thoughts on Time Wasters | July 25, 2017 </h3>
 
 Some interesting tidbits from [an article I read](https://medium.com/startup-grind/how-to-start-a-company-with-no-free-time-b70fbe7b918a){:target="_blank"} by Sara Mauskopf: 
 
-<h3> Prepare your tasks </h3>
-> I spent time every week figuring out what I needed to accomplish and breaking that work into smaller, bite sized chunks. I had tiny projects that could be completed in a free 15 minutes, larger projects that would require a few hours, and all kinds of stuff in between. This was all waiting for me in priority order.
->
-> This way, if I had a few minutes to kill while my husband was waiting for an appointment or a couple hours while my daughter was napping, I didn’t need to waste any of that precious time figuring out what to work on. I got right to work on one of the tasks I had already prepared. This requires upfront planning but doesn’t take very long and it means you only do the planning work once and you have tasks for the whole week. Use Asana or Google Doc for this!"
+<h4> Prepare your tasks </h4>
+> > I spent time every week figuring out what I needed to accomplish and breaking that work into smaller, bite sized chunks. I had tiny projects that could be completed in a free 15 minutes, larger projects that would require a few hours, and all kinds of stuff in between. This was all waiting for me in priority order.
+> >
+> > This way, if I had a few minutes to kill while my husband was waiting for an appointment or a couple hours while my daughter was napping, I didn’t need to waste any of that precious time figuring out what to work on. I got right to work on one of the tasks I had already prepared. This requires upfront planning but doesn’t take very long and it means you only do the planning work once and you have tasks for the whole week. Use Asana or Google Doc for this!"
 
-<h3> Ask for actionable help </h3>
+<h4> Ask for actionable help </h4>
 
-> People are really bad at being helpful. Even when people ask to help you, they usually don’t follow through with it or do it in a way that is actually helpful. A lot of people would ask me how they could help me with Winnie and I’d say things like “I’d love your feedback on the app!” and I’d hear back… nothing.
-> 
-> It turns out “give me feedback” isn’t actionable enough for most people. Now when someone asks me how they can help I will give them something very specific to do: “Download Winnie at winnie.com/ios and write a review of your favorite playground”.
-> 
-> When someone completes this task then they naturally also have feedback for me on what worked well or what could be better about the product.
+> > People are really bad at being helpful. Even when people ask to help you, they usually don’t follow through with it or do it in a way that is actually helpful. A lot of people would ask me how they could help me with Winnie and I’d say things like “I’d love your feedback on the app!” and I’d hear back… nothing.
+> >
+> > It turns out “give me feedback” isn’t actionable enough for most people. Now when someone asks me how they can help I will give them something very specific to do: “Download Winnie at winnie.com/ios and write a review of your favorite playground”.
+> >
+> > When someone completes this task then they naturally also have feedback for me on what worked well or what could be better about the product.
 
-<h3> Force yourself to do things imperfectly </h3>
+<h4> Force yourself to do things imperfectly </h4>
 
-> To give a very practical example, I have given myself an hour to write this post before I’m on childcare duty. I can publish the post after that hour or I can spend more time later polishing it and making it perfect. I’m forcing myself to publish the piece before the hour is up even though it probably has some typos and maybe could be written more concisely.
-> 
-> The extra couple hours I could spend polishing it won’t make a massive difference in the number of people who read and benefit from this post. Perfectionism is a tough habit to break so you have to set time limits and force yourself to just put things out there even if they aren’t 100% perfect."
+> > To give a very practical example, I have given myself an hour to write this post before I’m on childcare duty. I can publish the post after that hour or I can spend more time later polishing it and making it perfect. I’m forcing myself to publish the piece before the hour is up even though it probably has some typos and maybe could be written more concisely.
+> >
+> > The extra couple hours I could spend polishing it won’t make a massive difference in the number of people who read and benefit from this post. Perfectionism is a tough habit to break so you have to set time limits and force yourself to just put things out there even if they aren’t 100% perfect."
 
-<h3 style="color:#6495ed;"> On Authenticity | July 24, 2017 </h3>
+<h style="color:#6495ed;"> On Authenticity | July 24, 2017 </h3>
 
-During my 8 months I want to experiment with an initiative involving authenticity, specifically, in being more authentic in the face of prescriptive gender norms.
+During my 8 months off, I want to experiment with an initiative involving authenticity, specifically, __in being more authentic in the face of prescriptive gender norms.__
+
  
 Most people would describe me as a naturally cheery person. I would agree with this characterization. But part of me wonders if this personality was devised to better comply with gender stereotypes about how women behave.
  
+
 What would it be like if I focused more on reacting authentically rather than agreeably, rather than fulfilling invisible gender norms? 
 
 <h3 style="color:#ff9900;"> Needing a Personal Rubric | July 23, 2017 </h3>
 
-Now that I'm graduating and a good number of my friends are transitioning into jobs, I can't help think, what's the point? What's the end goal? What means "we've made it"? Of course, this is the typical student mindset; we want a number or some sort of indicator to quantify our performance. 
+Now that I'm graduating and a good number of my friends are transitioning into jobs, I can't help think, what's the point? What's the end goal? What means "we've made it"? 
+
+
+Of course, this is the typical student mindset; we want a number or some sort of indicator to quantify our performance. 
+
  
-At 23, Tina Fey was working at the Y.M.C.A, JK Rowling was broke, and Walt Disney had just declared bankruptcy. Similarly, a bunch of other people who we'll never know of because they're still in sub-par / not famous conditions, also had the same plight at the same time. The problem with life is, there isn't really *any* real performance indicators in the present -- only one in retrospect -- and what use is that to someone at time t at a fork in a decision tree? 
+At 23, Tina Fey was working at the Y.M.C.A, JK Rowling was broke, and Walt Disney had just declared bankruptcy. Similarly, a bunch of other people who we'll never know of because they're still in sub-par conditions, also had the same plight at the same time. 
+
+
+__The problem with life is that there isn't any real performance indicator in the present -- only one in retrospect -- and what use is that to someone at time t at a fork in a decision tree?__
  
+
 I think in this social-media driven world, it's incredibly important to have an objective, absolute set of judgments to assess oneself by. 
  
-Further, sometimes it's fun to think about what we'd have our kids do when we raise them -- I have this conversation all the time with both male and female friends, and it's *so* interesting hearing the different way kids are raised. 
+
+Further, sometimes it's fun to think about what we'd have our kids do when we raise them -- I have this conversation all the time with friends all the time, and it's *so* interesting hearing the different way kids are raised. 
  
+
 This, naturally makes me wonder: what's the end goal? Why is it important for them to do thing X, Y, or Z? 
  
-For this reason, I think it would be insanely useful to draft a rubric of what I perceive to be an accomplished life -- at least at this point in my life.  
+
+For this reason, I think it would be insanely useful to draft a rubric of what I perceive to be an accomplished life -- at least at this point in my life and a rubric for what a 'well raised child' would look like.  
  
+
 That being said, I don't know what it means to have a rubric -- is that a strength or a shackle? Any kind of rubric Tina Fey would have written at age 23 would have __hugely__ undermined her potential. 
  
 __To be continued as an actual post!__
