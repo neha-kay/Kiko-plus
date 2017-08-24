@@ -229,25 +229,18 @@ It's a slower solution but a more tractable one, I think.
 
 There are days when I travel, sometimes I'll spend the whole day working on some sort of side project -- in other words, somewhat pathetically hunched over my laptop.
 
-&nbsp;
 And in these moments I tend to feel _guilty_. Why? Because I feel like I'm missing out on what [Insert city or country] has to offer. As I type, I'm currently in Naples, Italy. Now that I'm here, shouldn't i be touring Mount Vesuvius or X or Y, instead of sitting on my butt and writing this?
 
-&nbsp; 
 Indeed, the fear of missing out, is a very real force while traveling. 
 
-&nbsp;
 On one hand, I think I'm driven to maximize the use of my time here -- which can be a great thing! It pushes me out of my comfort zone and honestly has the upside of potentially happening upon a place/experience/photo that makes it all worth it.
 
-&nbsp;
 On the other hand, I'm pretty budget conscious so each paid attempt for an amazing experience/photo has a very real, tangible financial cost. Given that I don't have *that* much money, I'm always tempted to think "eh, I'll come back when I (hopefully) have more money". Of course, the danger in that is that as we grows older, we tend to have money, but no time. 
 
-&nbsp;
 I've also sort of come to terms with and accept doing what I *genuinely* love doing over the pre-ordained path of action --- aka the TripAdvisor Top 10 list. Some of my best moments from previous trips like going to Harry Potter World, wasn't going on the Gringott's ride but rather, as silly as it sounds, really meaningfully connecting with a friend over mozzarella sticks.
 
-&nbsp; 
 So while traveling, I've learned that -- that the best feelings and the most valued feelings can be simple, not profound, and unplanned -- like spending an hour playing with pigeons or retrieving a fallen shirt from a neighbor's balcony (true story . . .).
 
-&nbsp;
 Of course, there's always the opportunity cost of whatever X amazing experience you __could__ have had if you had been more thorough, but it helps knowing that I have _no_ idea how great this experience is, so at least emotionally am not missing out 😛
 
 <h3 style="color:#6495ed;"> Woo hoo! Advice Giving ^_^ | July 11, 2017 </h3>
