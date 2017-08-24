@@ -246,7 +246,6 @@ I believe it was [La Mallorquina](https://www.tripadvisor.co.uk/Restaurant_Revie
 
 This picture was taken at the [Salinas Grandes](https://en.wikipedia.org/wiki/Salinas_Grandes_(Jujuy_and_Salta)){:target="_blank"} in Jujuy, Argentina. 
 
-
 ## Footsteps Abroad 
 
 __Asia |__

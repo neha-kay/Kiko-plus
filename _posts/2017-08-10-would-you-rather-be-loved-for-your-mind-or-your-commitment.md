@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Would You Rather Be Loved for Your Mind or your Loyalty/Commitment? 
+title: Would You Rather Be Loved for Your Mind or Your Loyalty/Commitment? 
 description: 
 date: 2017-07-31
 tags: [relationships]
@@ -10,10 +10,14 @@ published: true
 category: relationships
 ---
 
-Maybe it’s better to have a relationship with someone who wants you because you’re a warm body instead of for your mind and your ‘mental content’. Because at some point, it’s highly probable that content will run out —  after all, there are only so many ways you can distill the way life works, talk about theories, talk about life, and analyze things. 
+We intellectuals tend to place an incredibly high premium on our minds. 
 
-On top of that, after some amount of time together, you tend to machine learn each other — to predict what they’d say about a given topic and be generally correct with your prediction. Because you know their general perspective, their perspective itself becomes commonplace, not novel. So at some point, the content of your significant other stops being novel. 
+In this piece, I want to make the case for valuing 'common' traits like loyalty and commitment over the quality of one's thoughts or intellectualism. 
 
-Sure, you can argue that you can talk about other topics. But I see this hard to implement on a large scale -- you can’t fundamentally alter what someone enjoys talking about (e.g. a person who doesn’t like reading about financial instruments now, likely won’t like reading about financial instruments 10 years from now) and the second point still holds -- that, after spending X amount of time with someone, be it 2 years or 5 years -- your 
+In general, I've found after spending a decent amount of time together, with enough training examples, each person tends to machine learn each other's responses and way of thinking and is able to pretty accurately predict what the other person will say about a given topic. Because you know their general perspective, their perspective itself becomes commonplace. So at some point, the content of your significant other stops being novel. 
 
-Maybe it's better having someone love you because you're loyal, committed, and always there, instead of for your content or interesting ideas. Because the latter you'll run out of, but the former is always there if you respect and love the other person and generally embody those traits. 
+Which is a pretty scary thing. 
+
+Instead, I'd argue a more sustainable route is to respect someone on the basis of their character traits. In other words, to value the simple things that go a long way --- being loyal, committed, and always there, instead of for your content or interesting ideas. Because the latter you'll run out of, particularly in terms of novelty, but the former is always there if you respect and love the other person and generally embody those traits. 
+
+So I have to say, despite identifying strongly as an intellectual and being incredibly proud of my mind, I hope my mind is minimally appreciated, but beyond that, I'm loved for who I am and my commitment to someone versus the quality of my thought. 
