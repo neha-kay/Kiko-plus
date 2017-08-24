@@ -135,7 +135,7 @@ Some interesting tidbits from [an article I read](https://medium.com/startup-gri
 > >
 > > The extra couple hours I could spend polishing it won’t make a massive difference in the number of people who read and benefit from this post. Perfectionism is a tough habit to break so you have to set time limits and force yourself to just put things out there even if they aren’t 100% perfect."
 
-<h style="color:#6495ed;"> On Authenticity | July 24, 2017 </h3>
+<h3 style="color:#6495ed;"> On Authenticity | July 24, 2017 </h3>
 
 During my 8 months off, I want to experiment with an initiative involving authenticity, specifically, __in being more authentic in the face of prescriptive gender norms.__
 
@@ -250,15 +250,14 @@ Today, a close friend of mine asked me for relationship advice and I felt *super
 <h3 style="color:#6495ed;"> A useful heuristic for making decisions | July 9, 2017 </h3>
 
 Asking:
-1) What’s the worst that can happen?
-2) What’s the best that can happen?
+1. What’s the worst that can happen?
+2. What’s the best that can happen?
 
 <h3 style="color:#6495ed;"> Disqus + Google Analytics | July 8, 2017 </h3>
 
-Disqus & Google Analytics are officially working! It’s amazing how small achievements seem after you’ve done them and how big tasks seem before you’ve achieved them. 
+Disqus & Google Analytics are officially working! 
 
-<h3 style="color:#6495ed;"> | July 7, 2017 </h3>
-TO-DO
+It’s amazing how small achievements seem after you’ve done them and how big tasks seem before you’ve achieved them. 
 
 <h3 style="color:#6495ed;"> Interview with first female billionaire + Spanx fouder, Sara Blakely | July 6, 2017 </h3>
 
@@ -270,6 +269,7 @@ Today I listened to a podcast which undoubtedly is on my all time favorite podca
 
 ##### Her sheer resolve and willingness to break the rules to get Spanx out there.
 > > [Interviewer] "When you got into Neiman Marcus - were you like, I made it?"
+> >
 > > [Blakely] "Absolutely not - that is the biggest mistake entrepreneurs make -- that's when the work begins! I paid friends to go out and buy the product and create a buzz about it.
 > >
 > > I called all the friends I had - called friends I hadn't spoken to since 4th grade saying, "hey this is Sara, I  know we haven't spoken since 4th grade but do you mind going to the store and buying Spanx and I'll send you a check?"...I stood in the stores from 9-5 or 6 every day and went to Target and bought stands which I put up at at the checkout area in Neiman Marcus. They all thought it was approved from higher ups so they all left the stands there." 
@@ -286,7 +286,7 @@ I really love the concept of buying someone a beer. It's way cheaper than buying
 
 <h3 style="color:#6495ed;"> Exhausting Tasks | July 3, 2017 </h3>
 
-"There is noting more exhausting than the task you've never started."
+> > "There is noting more exhausting than the task you've never started."
 
 <h3 style="color:#6495ed;"> The Northeast is Objectively the Best Place to Live | July 2, 2017 </h3>
 
