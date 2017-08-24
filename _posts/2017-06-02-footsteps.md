@@ -93,7 +93,7 @@ This also happens to be where the James Bond movie, _The Man with the Golden Gun
   <img src="/images/photos-travel/shwedagon.jpg">
 </p>
 
-This is the [Shwedagon Pagoda](https://www.google.gr/search?q=shwedagon+pagoda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCuaLYxu_VAhWqD8AKHQ2mBacQ_AUICigB&biw=701&bih=736){:target="_blank"}, in Burma. Even after 28+ countries, the Shwedagon Pagoda is by far, the most impressive religious structure I've _ever_ seen --- far more impressive, I'd say than even [St. Peter's Basilica](https://www.google.gr/search?biw=701&bih=696&tbm=isch&sa=1&q=st.+peter%27s+basilica&oq=st.+peter%27s+bas&gs_l=psy-ab.3.0.0j0i30k1l3.55474.57301.0.58136.15.12.0.0.0.0.241.1305.0j7j1.8.0....0...1.1.64.psy-ab..7.8.1304...0i67k1.NHKf5NUWoLM){:target="_blank"}. It's simply absolutely _stunning_.
+This is the [Shwedagon Pagoda](https://www.google.gr/search?q=shwedagon+pagoda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCuaLYxu_VAhWqD8AKHQ2mBacQ_AUICigB&biw=701&bih=736){:target="_blank"}, in Burma. Even after 28+ countries, the Shwedagon Pagoda is by far, the most impressive religious structure I've _ever_ seen --- far more impressive than even [St. Peter's Basilica](https://www.google.gr/search?biw=701&bih=696&tbm=isch&sa=1&q=st.+peter%27s+basilica&oq=st.+peter%27s+bas&gs_l=psy-ab.3.0.0j0i30k1l3.55474.57301.0.58136.15.12.0.0.0.0.241.1305.0j7j1.8.0....0...1.1.64.psy-ab..7.8.1304...0i67k1.NHKf5NUWoLM){:target="_blank"}. It's simply absolutely _stunning_.
 
 ------
 
