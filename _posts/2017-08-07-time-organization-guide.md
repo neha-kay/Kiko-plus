@@ -11,6 +11,17 @@ category: organization/productivity
 permalink: /time-organization-guide/
 ---
 
+_This guide is part of the 4-Part Productivity Guide._ 
+
+_Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
+
+* _Part 1. [The Accountability Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}_
+* _Part 2. [The Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}_
+* _Part 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"}_
+* _Part 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"}_
+
+-------
+
 ## Welcome! 
 Welcome to the Time Organization Guide! 
 
@@ -163,3 +174,23 @@ __Build the habit of always entering an event into your calendar and checking Go
 ## Conclusion
 
 And that's it! If you follow those guidelines, you're new and upgraded time organization system is ready to go. If you liked the Excel templates above, email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I can send the ones I use over. Otherwise, make your own, get started, and have a ton of fun! Fill in below with any advice you might have that wasn't otherwise said.
+
+---
+
+_This guide is part of the 4-Part Productivity Guide._ 
+
+_Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
+
+* _Part 1. [The Accountability Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}_
+* _Part 2. [The Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}_
+* _Part 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"}_
+* _Part 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"}_
+
+-------
+
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily and I promise I’ll get back to you. Till then . . . happy working. 😊
+
+------
+
