@@ -14,8 +14,8 @@ This is Part 1 of the 4-part Productivity Guide:
 
 * Part 1: An Accountability System --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
 * Part 2: <a href="http://www.nehakay.com/productivity-guide/#time-organization-guide">The Time Organization Guide</a> --- to simply be more organized with one's time and to develop a solid time organization system.
-* Part 3: <a href="http://www.nehakay.com/productivity-guide/#goal-organization-guide">The Goal Organization Guide</a>
-* Part 4: [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a system to organize and maintain clarity on macro-level and day-to-day goals within whatever time constraint you have.
+* Part 3: <a href="http://www.nehakay.com/productivity-guide/#goal-organization-guide">The Goal Organization Guide</a> --- a system to organize and maintain clarity on macro-level and day-to-day goals within whatever time constraint you have.
+* Part 4: [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
 
 --------
 ### Welcome! 
@@ -34,17 +34,14 @@ I generally have a ton of projects I love the _idea_ of doing, but on a day-to-d
 This system, however, has allowed me to get around that, and actually _do_ these projects. This includes doing the hardest intro to coding, [Harvard's CS 50 course](https://cs50.harvard.edu/){:target="_blank"} as a side project while doing a full courseload at Oxford University, waking up at 8:30 am on average in college despite having a natural tendency to wake up at 11 am, and following through on a bunch of side projects (like this blog!). 
 
 ### What this guide is for 
-Specifically, this guide has 4 parts, all of which are pretty essential:
+Specifically, this guide has 4 parts. Feel free to jump to what's most useful for you. 
 
-1. An Accountability System --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
+* Part 1: An Accountability System (this page) --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
+* Part 2: <a href="http://www.nehakay.com/productivity-guide/#time-organization-guide">The Time Organization Guide</a> --- to simply be more organized with one's time and to develop a solid time organization system.
+* Part 3: <a href="http://www.nehakay.com/productivity-guide/#goal-organization-guide">The Goal Organization Guide</a> --- a system to organize and maintain clarity on macro-level and day-to-day goals within whatever time constraint you have.
+* Part 4: [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
 
-2. A Time Organization Guide --- to simply be more organized with one's time and to develop a solid time organization system.
-
-3. A Goal Organization Guide --- a system to organize and maintain clarity on macro-level and day-to-day goals within whatever time constraint you have.  
-
-4. A compiled list of useful tidbits of advice --- I've read a *lot* of things on productivity --- some great, some absolute crap. At the end of this article I've included a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource. 
-
-I'm also going to temporarily invent the word _'unproductivity'_, because apparently it's not a word when it really should be. 
+I'm also going to temporarily invent the word _'unproductivity'_, because it's not a word when it really should be. 
 
 ### What this guide isn't for
 
