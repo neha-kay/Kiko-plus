@@ -10,7 +10,7 @@ category: organization/productivity
 
 ---
 
-### Introduction
+## Introduction
 
 Goal organization refers to 2 elements:
 * Awareness of macro-level and micro-level goals and how the two relate
@@ -53,24 +53,22 @@ Being really straightforward and honest about why you want to get something done
 
 So for each goal, I often find it incredibly helpful to dig deeper into each goal with the following chart: 
 
-| Mission | Why is this important? | Generic Ways to Accomplish Mission | Actionable Next Steps |
-| :------: | :------: | :------: | :------: |
-| Build a successful blog. |  |  | |
+| Mission | Why is this important? | Generic Ways to Accomplish Mission |
+| :------: | :------: | :------: |
+| Build a successful blog. |  |  |
 
 When creating missions, it’s better if your missions are __entirely within your control__ and _task oriented rather than outcome oriented. So instead of “Give a TED talk”, something determined largely by the external forces of the selection committee, you could write, “Write a TED worthy compelling narrative / story” or "Reach out to 100 TED selection committees".
 
 You can identify which of these goals are priorities by asking yourself: 
 > > "Say you could only accomplish 5 of these. Which would it be and why?”
 
-
-
-
 ### Other Macro Level Views
-Another way of viewing macro level projects is something like the following:
 
 <p align="center">
   <img src="/images/goal-org-guide-other-views.png">
 </p>
+
+Sometimes, in addition to the reflective process above, I'll layout vague project/goal/habits as they occur to me like the example above. Then, at the start of each month or at the end of a project, I'll pick a to-do/project/thing-to-learn/habit to implement that month, and focus then on hammering out the details during that month. 
 
 ## Project Pipeline
 
