@@ -20,4 +20,4 @@ Instead, I'd argue a more sustainable route is to respect someone on the basis o
 
 So I have to say, despite identifying strongly as an intellectual and being incredibly proud of my mind, I hope my mind is appreciated, but beyond that, that I'm loved for who I am and my commitment to someone versus the quality of my thought. 
 
-I call this the 'Hermione Granger' effect. Read more [here]({% post_url 2017-04-15-we-want-to-be-valued-for-our-less-obvious-traits-abilities %}){:target="_blank"}.
+I call this the 'Hermione Granger' effect. Read more [here]({% post_url 2017-04-15-we-want-to-be-valued-for-our-less-obvious-traits %}){:target="_blank"}.
