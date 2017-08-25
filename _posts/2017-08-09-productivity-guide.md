@@ -46,33 +46,6 @@ Specifically, this guide has 4 parts, all of which are pretty essential:
 
 I'm also going to temporarily invent the word _'unproductivity'_, because apparently it's not a word when it really should be. 
 
-##### Table of Contents
-
-<a href="http://www.nehakay.com/productivity-guide/#welcome" target="_blank">The Accountability Guide</a>
-* Introduction
-	- What this guide is for
-	- What this guide isn’t for
-* De-constructing Unproductivity
-* Accountability as a solution
-* Implementing an accountability sprint
-* A template for accountability declarations
-* Other Important Implementation Tips
-* Cool Accountability Examples
-
-<a href="http://www.nehakay.com/productivity-guide/#time-organization-guide" target="_blank">Time Organization Guide</a>
-* The Basics
-* Different Views of Time
-* Macro Level Views
-* Micro Level Views
-
-<a href="http://www.nehakay.com/productivity-guide/#goal-organization-guide" target="_blank">Goal Organization Guide</a>
-* Introduction
-* Excel Spreadsheets, Ahoy!
-* Macro Level Goal Planning
-* Micro Level Goal Planning
-* Weekly Planning
-* Other Cool Views & Planning Tools
-
 ### What this guide isn't for
 
 ##### This guide isn't a quick skim or a list of 10 tips. 
@@ -665,6 +638,6 @@ This Productivity Guide has 4 sections in total:
 
 __If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
 
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily and I promise I’ll get back to you. Till then . . . yay for productivity!
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily and I promise I’ll get back to you. Till then . . . happy working. 😊
 
 ------

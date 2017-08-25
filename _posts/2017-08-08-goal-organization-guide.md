@@ -10,6 +10,16 @@ category: organization/productivity
 
 ---
 
+_This guide is part of the 4-Part Productivity Guide._ 
+
+_Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
+
+* _Part 1. [The Accountability Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}_
+* _Part 2. [The Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}_
+* _Part 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"}_
+* _Part 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"}_
+
+-------
 ## Introduction
 
 Goal organization refers to 2 elements:
@@ -153,6 +163,23 @@ These past few months for me have been interesting simply because I have 8 month
   <img src="/images/goal-organization-guide/goal-org-guide-essential-breakdown.png">
 </p>
 
+----
 
+_This guide is part of the 4-Part Productivity Guide._ 
+
+_Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
+
+* _Part 1. [The Accountability Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}_
+* _Part 2. [The Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}_
+* _Part 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"}_
+* _Part 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"}_
+
+-------
+
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily and I promise I’ll get back to you. Till then . . . happy working. 😊
+
+------
 
 
