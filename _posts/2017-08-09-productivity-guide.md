@@ -12,10 +12,6 @@ permalink: /productivity-guide/
 
 _This is Part 1 of the 4-part_ Productivity Guide:
 
-* _Part 1: An Accountability System --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done._
-* _Part 2: A [Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"} --- to simply be more organized with one's time and to develop a solid time organization system._
-* _Part 3: A [Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize and maintain clarity on macro-level and day-to-day goals within whatever time constraint you have._
-
 * Part 1: An Accountability System --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
 * Part 2: A <a href="http://www.nehakay.com/productivity-guide/#time-organization-guide" target="_blank">The Time Organization Guide</a>
 * Part 3: A <a href="http://www.nehakay.com/productivity-guide/#goal-organization-guide" target="_blank">The Goal Organization Guide</a>
