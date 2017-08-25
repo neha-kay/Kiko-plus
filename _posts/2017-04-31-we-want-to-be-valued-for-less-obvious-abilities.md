@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Want to Be Valued For Our Less Obvious Abilities
+title: We Want to Be Valued For Our Less Obvious Traits & Abilities
 description: 
 date: 2017-07-31
 tags: [relationships]
@@ -26,7 +26,7 @@ Unlike every other person, Ron valued her for who she _was_ versus solely recogn
 
 Sugandha's [Quora comment](https://www.quora.com/Why-is-Hermione-never-attracted-to-Harry-Why-fall-in-love-with-Ron-instead-of-Harry){:target="_blank"} explains the notion well:
 
-> > "Love and attraction are largely about what one gets from a relationship. Is it self-confidence? Is it care? Is it fun? Different people have different preferences, but most people tend to be drawn to people who make them feel good about themselves. __Most smart people, in particular, tend to be drawn to people who can make them feel unique.__
+> > "Love and attraction are largely about what one gets from a relationship. Is it self-confidence? Is it care? Is it fun? Different people have different preferences, but most people tend to be drawn to people who make them feel good about themselves. Most smart people, in particular, tend to be drawn to people who can make them feel unique.
 > > 
 > > What is "unique"? __For a common person, it means being treated like a star. For a star, it means being treated like a common person. Hermione was not a common person and she knew that. She was intelligent, smart, wise, and knowledgeable. Everybody else knew that too and she knew that they did. Being desired for these qualities would not have been be "the thing" for her.__
 > > 
