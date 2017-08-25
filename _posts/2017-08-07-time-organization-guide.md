@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Time Organization Guide"
+title: Time Organization Guide
 description: 
 date: 2017-08-07
 tags: [guides, organization/productivity]
@@ -91,7 +91,7 @@ Email me at [neha@nehakay.com](mailto:neha@nehakay.com) for the multi-month and 
 
 From there, customize it by filling in the right dates. Enter major events like tests, major milestones, due dates, major problem sets, extracurricular events, etc.
 
-### Micro Views | Google Calendar
+### Micro Level Views | Google Calendar
 
 For weekly and daily views, ALL HAIL GOOGLE CALENDAR! 
 

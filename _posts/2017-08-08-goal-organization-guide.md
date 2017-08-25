@@ -24,7 +24,7 @@ The purpose of this piece is to lay out different ways of representing goals and
 
 And that's pretty much it by way of introduction. So with that, onwards, friend! 
 
-### Excel Spreadsheets, ahoy! 
+### Excel Spreadsheets, Ahoy! 
 
 As you'll see below, I do all of my major goal, project, and multi-month planning in Excel spreadsheets. It's versatile, free form, great for lists, and combined with my [multi-month and month views]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}, allows me to centralize all my productivity tools around Google Calendar and Excel.
 
@@ -78,7 +78,7 @@ You can identify which of these goals are priorities by asking yourself:
 
 Sometimes, in addition to the reflective process above, I'll lay out vague projects/goals/habits as they occur to me like the example above. Then, at the start of each month or at the end of a project, I'll pick a to-do/project/thing-to-learn/habit to implement that month, and focus then on hammering out the details during that month. 
 
-## Project Pipeline
+## Micro Level Goal Planning
 
 So, at this point, I have a great sense of the larger goals I want to achieve, but little idea how to actually achieve them in terms of day-to-day tasks. __It's time to make each goals actionable.__
 
