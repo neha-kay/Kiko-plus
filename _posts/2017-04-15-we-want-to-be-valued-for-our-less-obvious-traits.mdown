@@ -8,6 +8,7 @@ comments: true
 share: true
 published: true
 category: relationships
+permalink: /relationships/we-want-to-be-valued-for-our-less-obvious-traits
 ---
 
 In Harry Potter, Hermione ends up marrying Ron.
