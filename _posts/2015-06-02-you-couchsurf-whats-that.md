@@ -3,7 +3,7 @@ layout: post
 title: You Couchsurf? What's that?
 description: An overview of what Couchsurfing is.
 date: 2015-06-02
-tags: [travel-couchsurfing]
+tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
