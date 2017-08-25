@@ -21,7 +21,7 @@ Below are playlists I've customized for different music preferences:
 * [Fun Bollywood Party Songs](#fun-bollywood-party-songs)
 * [Hip Hop](#hip-hop)
 * [Indian Classics](#indian-classics)
-* [Cute, Light Mood & Happy](#cute-light-mood-and-happy)
+* [Cute, Light Mood & Happy](#cute-light-mood-and-happy
 
 ### How this Works
 
@@ -30,11 +30,10 @@ Below are playlists I've customized for different music preferences:
 3. If you're really serious about getting into the music, I'd recommend re-listening to the playlist(s) 2-3 times. 
 4. Message/[email me](mailto:neha@nehakay.com) for further recommendations if you want them. 
 
+(I've included the playlist links below, in case you wanted to listen to them on your phone)
+
 ### A note to my Indian friends
 I know there are a million ways to pick these playlists and the way below happens to be my preferred way. If you think there are other top songs that should be added, let me know! Or, if you're super serious about it, you could create a set of starter songs which I could guest-post here on my blog --- whatever you want =) 
-
-## Playlist Link
-(I've included the playlist links below, in case you wanted to listen to them on your phone)
 
 ## Slow and Beautiful Ballets
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLu7Y7aQ3dp60nG0TeXcPOv2o3PhceNYhn" frameborder="0" allowfullscreen></iframe>

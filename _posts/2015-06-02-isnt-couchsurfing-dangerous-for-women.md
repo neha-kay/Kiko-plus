@@ -78,7 +78,7 @@ To do this:
 This has been *incredibly* helpful for me in the past, with screenshots of what I've sent as an example below. If any one of them report anything 'off', don't take the risk and find another host.
 
 <p align="center">
-  <img src="/images/contact-previous-surfers.png">
+  <img src="/images/couchsurfing-guide/contact-previous-surfers.png">
 </p>
 
 ### 3. Analyze the references carefully
