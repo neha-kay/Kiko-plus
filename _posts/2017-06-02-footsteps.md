@@ -133,6 +133,14 @@ Overlooking the ancient temples and ruins of Bagan, Burma.
 ------
 
 <p align="center">
+  <img src="/images/photos-travel/equador.png">
+</p>
+
+Standing on the Equator! 
+
+------
+
+<p align="center">
   <img src="/images/photos-travel/5-london-new-years.jpg">
 </p>
 

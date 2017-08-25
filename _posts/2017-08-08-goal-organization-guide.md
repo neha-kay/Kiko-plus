@@ -65,7 +65,7 @@ You can identify which of these goals are priorities by asking yourself:
 ### Other Macro Level Views
 
 <p align="center">
-  <img src="/images/goal-org-guide-other-views.png">
+  <img src="/images/goal-organization-guide/goal-org-guide-other-views.png">
 </p>
 
 Sometimes, in addition to the reflective process above, I'll layout vague project/goal/habits as they occur to me like the example above. Then, at the start of each month or at the end of a project, I'll pick a to-do/project/thing-to-learn/habit to implement that month, and focus then on hammering out the details during that month. 
@@ -86,7 +86,7 @@ These tasks need to be written in such a way that you could physically do them w
 After a macro planning session I like to lay out goals/action items per project with the following template: 
 
 <p align="center">
-  <img src="/images/goal-org-guide-project-view.png">
+  <img src="/images/goal-organization-guide/goal-org-guide-project-view.png">
 </p>
 
 Each project has a set of actionable tasks, arranged by how long it takes to complete each task.
@@ -128,7 +128,7 @@ I don’t have a set platform for weekly planning – sometimes I’ll use pen a
 
 I also have a "Done" Column to copy tasks into once I've finished them. Even though it's easier deleting them, it's nice looking back after a couple months and seeing the progress of work. Suffice to say, it's a friendly reminder that achievement is simply the summation of small, seemingly unimportant tasks.
 
-#### Brain dumps
+#### Brain Dumps
 Brain dumps involve racking your brain for _every_ existing project and action item, and getting it all on paper. They’re particularly great to do during a macro level planning session or in transitory periods (e.g. start or end of a work/school period).
 
 The benefit of this is simply not having to remember a million tasks in your head. There’s a huge amount of ‘carrying cost’ to store tasks, reminders, and to-dos in one’s head and it’s often times incredibly relieving to just sort of write them down and remove them from one’s internal memory storage. Use this list <INSERT LINK> as a starting point for your brain dump. 
@@ -138,11 +138,11 @@ The benefit of this is simply not having to remember a million tasks in your hea
 These past few months for me have been interesting simply because I have 8 months off before starting work at Microsoft, to make progress on whatever goals I see fit. I've taken to listing out the general projects I'll be working on each month, and then drilling down the actionable tasks that month itself. 
 
 <p align="center">
-  <img src="/images/goal-org-guide-month-goals.png">
+  <img src="/images/goal-organization-guide/goal-org-guide-month-goals.png">
 </p>
 
 <p align="center">
-  <img src="/images/goal-org-guide-essential-breakdown.png">
+  <img src="/images/goal-organization-guide/goal-org-guide-essential-breakdown.png">
 </p>
 
 
