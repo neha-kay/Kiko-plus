@@ -13,7 +13,7 @@ permalink: /productivity-guide/
 -------
 #### Table of Contents
 
-__Accountability Guide__
+<a href="http://www.nehakay.com/productivity-guide/#welcome" target="_blank">The Accountability Guide</a>
 * Introduction
 	- What this guide is for
 	- What this guide isn’t for
@@ -24,13 +24,13 @@ __Accountability Guide__
 * Other Important Implementation Tips
 * Cool Accountability Examples
 
-__Time Organization Guide__
+<a href="http://www.nehakay.com/productivity-guide/#time-organization-guide" target="_blank">Time Organization Guide</a>
 * The Basics
 * Different Views of Time
 * Macro Level Views
 * Micro Level Views
 
-__Goal Organization Guide__
+<a href="http://www.nehakay.com/productivity-guide/#goal-organization-guide" target="_blank">Goal Organization Guide</a>
 * Introduction
 * Excel Spreadsheets, Ahoy!
 * Macro Level Goal Planning
