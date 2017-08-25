@@ -10,15 +10,19 @@ category: organization/productivity
 
 ---
 
-## Introduction
+### Introduction
 
-This guide is going to be less extensive than the Time Organization or Productivity Guide – mostly because the sole purpose of this guide is to highlight different ways of representing and laying out goals and action items. I have a rather different system based out of Excel and pen & paper but it works and it works well, so I figured I’d share it. 
+Goal organization refers to 2 elements:
+* Awareness of macro-level and micro-level goals and how the two relate
+* Having clarity in how to achieve both goal levels
 
-Before starting I want to first point out that I am just another human – by no means the most organized person. These are simply my ideas on goal organization and what has worked for me. I hope you glean some useful tidbits from it. If you have useful (or better?) tips, leave them in the comments below. 
+Goal organization is as idiosyncratic as time organization; some people prefer fancy apps like [Omnifocus](https://www.omnigroup.com/omnifocus){:target="_blank"}, [Asana](https://asana.com/){:target="_blank"}, or [Wunderlist](https://www.wunderlist.com/){:target="_blank"} while others prefer pen and paper. In this guide, I'll go over my system --- again, not necessarily the best one, but one that has worked well for me. If you have useful (or better?) tips, leave them in the comments below. 
 
-Disclaimer: You don’t have to use all the methods described in this guide – at various points I’ll use some or all – the idea is simply to achieve clarity in what needs to be done at various scales in time – a semester, 3 months, a week, and that day. Sometimes I prefer using more drawn out tools like the one above, especially when I have a lot of time on hand while other times I’ll just use a quick jotted down to-do list. Do what works for you. At the bottom of the page I have links to other great organization and productivity sources if you’re interested in reading more. 
+In this piece, I'll lay out the different ways I represent goals and action items. 
 
-One last thing: this post features a number of excel templates. If you’d like to get the original Excel template, email me at [neha@nehakay.com](mailto:neha@nehakay.com). 
+##### Pick and Choose
+
+I'll go over a bunch of different ways of laying out goals and action items. If this is a system you'd like to adopt, remember that you don’t have to use all the methods described in this guide – at various points I’ll use some of them or all of them – the idea is simply to achieve clarity in what needs to be done at various scales in time – a semester, 3 months, a week, etc. 
 
 With that, onwards, new friend! 
 
