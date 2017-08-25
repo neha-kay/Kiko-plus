@@ -26,7 +26,9 @@ And that's pretty much it by way of introduction. So with that, onwards, friend!
 
 ### Excel Spreadsheets, ahoy! 
 
-As you'll see below, I do all of my major goal, project, and multi-month planning in Excel spreadhseets. It's versatile, free form, great for lists, and combined with my [multi-month and month views]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}, allows me to centralize all my productivity tools around Google Calendar and Excel.
+As you'll see below, I do all of my major goal, project, and multi-month planning in Excel spreadsheets. It's versatile, free form, great for lists, and combined with my [multi-month and month views]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}, allows me to centralize all my productivity tools around Google Calendar and Excel.
+
+If you want any of the Excel templates of the layouts below, email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'll send them right over. 
 
 ### Macro Level Goal Planning
 
@@ -80,7 +82,7 @@ Sometimes, in addition to the reflective process above, I'll lay out vague proje
 
 So, at this point, I have a great sense of the larger goals I want to achieve, but little idea how to actually achieve them in terms of day-to-day tasks. __It's time to make each goals actionable.__
 
-Each project has an associated list of actionable to-do items. _'Build a website'_, for example translates into a 100 differention action items, from _'Research and pick a platform to develop on'_ to _'Get the favicon working'_ to _'Fill out about page'._ 
+Each project has an associated list of actionable to-do items. _'Build a website'_, for example translates into a 100 different action items, from _'Research and pick a platform to develop on'_ to _'Get the favicon working'_ to _'Fill out about page'._ 
 
 __In other words, we need to streamline action on a project by listing out the more finely grained day-to-day actions that achieve a giant project.__ These tasks need to be written in such a way that you could physically do them with no ambiguity about how to do them. Below are a couple examples of non-actionable tasks made actionable. 
 
