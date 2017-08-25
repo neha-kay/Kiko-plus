@@ -10,33 +10,18 @@ category: organization/productivity
 permalink: /productivity-guide/
 ---
 
--------
-#### Table of Contents
+_This is Part 1 of the 4-part_ Productivity Guide:
 
-<a href="http://www.nehakay.com/productivity-guide/#welcome" target="_blank">The Accountability Guide</a>
-* Introduction
-	- What this guide is for
-	- What this guide isn’t for
-* De-constructing Unproductivity
-* Accountability as a solution
-* Implementing an accountability sprint
-* A template for accountability declarations
-* Other Important Implementation Tips
-* Cool Accountability Examples
+* _Part 1: An Accountability System --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done._
+* _Part 2: A [Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"} --- to simply be more organized with one's time and to develop a solid time organization system._
+* _Part 3: A [Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize and maintain clarity on macro-level and day-to-day goals within whatever time constraint you have._
 
-<a href="http://www.nehakay.com/productivity-guide/#time-organization-guide" target="_blank">Time Organization Guide</a>
-* The Basics
-* Different Views of Time
-* Macro Level Views
-* Micro Level Views
+* Part 1: An Accountability System --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
+* Part 2: A <a href="http://www.nehakay.com/productivity-guide/#time-organization-guide" target="_blank">The Time Organization Guide</a>
+* Part 3: A <a href="http://www.nehakay.com/productivity-guide/#goal-organization-guide" target="_blank">The Goal Organization Guide</a>
 
-<a href="http://www.nehakay.com/productivity-guide/#goal-organization-guide" target="_blank">Goal Organization Guide</a>
-* Introduction
-* Excel Spreadsheets, Ahoy!
-* Macro Level Goal Planning
-* Micro Level Goal Planning
-* Weekly Planning
-* Other Cool Views & Planning Tools
+[Time Organization Guide]({% post_url  %}){:target="_blank"} --- to simply be more organized with one's time and to develop a solid time organization system._
+* _Part 3: A [Goal Organization Guide]({% post_url  %}){:target="_blank"} --- a system to organize and maintain clarity on macro-level and day-to-day goals within whatever time constraint you have._
 --------
 ### Welcome! 
 
@@ -65,6 +50,33 @@ Specifically, this guide has 4 parts, all of which are pretty essential:
 4. A compiled list of useful tidbits of advice --- I've read a *lot* of things on productivity --- some great, some absolute crap. At the end of this article I've included a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource. 
 
 I'm also going to temporarily invent the word _'unproductivity'_, because apparently it's not a word when it really should be. 
+
+##### Table of Contents
+
+<a href="http://www.nehakay.com/productivity-guide/#welcome" target="_blank">The Accountability Guide</a>
+* Introduction
+	- What this guide is for
+	- What this guide isn’t for
+* De-constructing Unproductivity
+* Accountability as a solution
+* Implementing an accountability sprint
+* A template for accountability declarations
+* Other Important Implementation Tips
+* Cool Accountability Examples
+
+<a href="http://www.nehakay.com/productivity-guide/#time-organization-guide" target="_blank">Time Organization Guide</a>
+* The Basics
+* Different Views of Time
+* Macro Level Views
+* Micro Level Views
+
+<a href="http://www.nehakay.com/productivity-guide/#goal-organization-guide" target="_blank">Goal Organization Guide</a>
+* Introduction
+* Excel Spreadsheets, Ahoy!
+* Macro Level Goal Planning
+* Micro Level Goal Planning
+* Weekly Planning
+* Other Cool Views & Planning Tools
 
 ### What this guide isn't for
 
