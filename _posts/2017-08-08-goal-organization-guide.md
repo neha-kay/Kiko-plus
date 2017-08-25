@@ -72,9 +72,13 @@ Sometimes, in addition to the reflective process above, I'll layout vague projec
 
 ## Project Pipeline
 
-Given that our macro-level planning has yielded a core set of projects to work on, we’re ready for the Project Pipeline.
+So, at this point, we have a great sense of the larger goals we want to achieve, but little idea how to actually achieve them in terms of day-to-day tasks. _We need to make our goals actionable.__
 
-The project pipeline is simply a more finely grained view of the very projects we listed above, with more emphasis on __actionable tasks__ - in other words, tasks which are written in such a way that you could physically do them. There’s no ambiguity about how to do them. Below are a couple examples of non-actionable tasks turned into a set of actionable tasks. 
+At this point, all we have is a list of projects, and each project has an associated list of actionable to-do items. 'Build a website', for example translates into a 100 differention action items, from 'Research and pick a platform to develop on' to 'Get the favicon working' to 'Fill out about page.'
+
+In other words, we need to streamline action on a project by listing out the more finely grained day-to-day actions that bring us closer to achieving the giant project. 
+
+These tasks need to be written in such a way that you could physically do them with no ambiguity about how to do them. Below are a couple examples of non-actionable tasks turned into a set of actionable tasks. 
 
 | Bad “Actionable Task” Example | Good “Actionable Task” Example |
 | :------: | :------: |
