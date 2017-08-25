@@ -18,41 +18,42 @@ Goal organization refers to 2 elements:
 
 Goal organization is as idiosyncratic as time organization; some people prefer fancy apps like [Omnifocus](https://www.omnigroup.com/omnifocus){:target="_blank"}, [Asana](https://asana.com/){:target="_blank"}, or [Wunderlist](https://www.wunderlist.com/){:target="_blank"} while others prefer pen and paper. In this guide, I'll go over my system --- again, not necessarily the best one, but one that has worked well for me. If you have useful (or better?) tips, leave them in the comments below. 
 
-In this piece, I'll lay out the different ways I represent goals and action items. 
-
-##### Pick and Choose
-
-I'll go over a bunch of different ways of laying out goals and action items. If this is a system you'd like to adopt, remember that you don’t have to use all the methods described in this guide – at various points I’ll use some of them or all of them – the idea is simply to achieve clarity in what needs to be done at various scales in time – a semester, 3 months, a week, etc. 
+In this piece, I'll lay out the different ways I represent goals and action items. I'll go over a bunch of different ways of laying out goals and action items. If this is a system you'd like to adopt, remember that you don’t have to use all the methods described in this guide – at various points I’ll use some of them or all of them – the idea is simply to achieve clarity in what needs to be done at various scales in time – a semester, 3 months, a week, etc. 
 
 With that, onwards, new friend! 
 
-## Macro Level Goal Planning
+### Macro Level Goal Planning
 
-I love macro level goal planning. It just feels super optimistic / inspiring / awesome. I also think it’s the best place to start at the beginning of any ‘new phase’ – a new semester, before starting a job, before a vacation, etc., 
+I _love_ macro level goal planning. It just feels super optimistic/inspiring/awesome --- kind of like the start of a semester. Macro level planning is particularly great at the beginning of any ‘new phase’ – a new semester, before starting a job, before a vacation, etc., 
 
-My favorite method of macro level planning is imagining myself in the future and thinking retrospectively about what I’d feel great having gotten done or achieved. I ask myself something along these lines:  
+#### Forward projections
+__My favorite method of macro level planning is imagining myself in the future, and thinking retrospectively about what I’d feel great having gotten done or achieved.__
 
-__“Imagine you just got off the plane in Dallas after 8 Months. You have a wide grin on your face because you've accomplished *everything* you set out to accomplish. What did you accomplish?__
+I ask myself:  
+
+__“Imagine you just got off the plane in Dallas after your 8 months off. You have a wide grin on your face because you've accomplished *everything* you set out to accomplish. What did you accomplish?__
  
-Yes, it’s a cheesy process but it works so well! I’ll then go ahead and outline various goals underneath which might look like this: 
+Is it cheesy? Yep.
+Does it work well? Yep.
 
-•	Newsletter in motion
-o	Effortless way of keeping in touch with people
-o	Engaging content, links to blog
-•	Website
-o	Works and doesn't shut down all the time
-o	Has a significant number of viewers/readers (>50-100/day)
-o	Incorporated into daily life -- I naturally seek to write
+I’ll then go ahead and outline some vague goals underneath which might look like this: 
+
+* Newsletter in motion
+* Have a successful website up and running
+	- Works and doesn't shut down all the time
+	- Has a significant number of viewers/readers (>50-100/day)
+	- Incorporated into daily life -- I naturally seek to write
+* *(and more goals)*
 
 At this point, you’ll likely have a number of goals – maybe as many as 7 or 10 depending on how optimistic you are. Sometimes I find it helpful to identify which of these goals are priorities by asking myself:
 
-__”Say you could only accomplish 5 of these. Which would it be and why?”__ 
+__"Say you could only accomplish 5 of these. Which would it be and why?”__ 
 
 And using the following template as a reflective tool:
 
-| Mission | Why is this important to you? | Generic Ways to Accomplish Mission | Actionable Next Steps |
+| Mission | Why is this important? | Generic Ways to Accomplish Mission | Actionable Next Steps |
 | :------: | :------: | :------: | :------: |
-| | 😕😕😕 | 🙂🙂🙂 | |
+| |  |  | |
 
 Pro-tip: When creating missions, I think it’s vitally important that you make sure your missions are entirely within your control. So instead of “Give a TED talk”, something determined largely by the external forces of the selection committee, you could write, “Write a TED worthy compelling narrative / story”.
 
