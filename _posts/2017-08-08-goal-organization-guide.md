@@ -72,68 +72,79 @@ Sometimes, in addition to the reflective process above, I'll layout vague projec
 
 ## Project Pipeline
 
-So, at this point, we have a great sense of the larger goals we want to achieve, but little idea how to actually achieve them in terms of day-to-day tasks. _We need to make our goals actionable.__
+So, at this point, we have a great sense of the larger goals we want to achieve, but little idea how to actually achieve them in terms of day-to-day tasks. __We need to make our goals actionable.__
 
-At this point, all we have is a list of projects, and each project has an associated list of actionable to-do items. 'Build a website', for example translates into a 100 differention action items, from 'Research and pick a platform to develop on' to 'Get the favicon working' to 'Fill out about page.'
+At this point, all we have is a list of projects, and each project has an associated list of actionable to-do items. 'Build a website', for example translates into a 100 differention action items, from _'Research and pick a platform to develop on'_ to _'Get the favicon working'_ to _'Fill out about page'._ __In other words, we need to streamline action on a project by listing out the more finely grained day-to-day actions that achieve the giant project.__ 
 
-In other words, we need to streamline action on a project by listing out the more finely grained day-to-day actions that bring us closer to achieving the giant project. 
-
-These tasks need to be written in such a way that you could physically do them with no ambiguity about how to do them. Below are a couple examples of non-actionable tasks turned into a set of actionable tasks. 
+These tasks need to be written in such a way that you could physically do them with no ambiguity about how to do them. Below are a couple examples of non-actionable tasks made actionable. 
 
 | Bad “Actionable Task” Example | Good “Actionable Task” Example |
 | :------: | :------: |
-| Study for Italian test | Do 3 sets of Duolingo flash cards, read chapters 4 & 5 of textbook😕😕😕 |
-| Exercise | Do the 25 minute Jillian “Killer Buns” workout everyday for the next 6 days |
+| Study for Italian test | Do 3 sets of Duolingo flash cards, read chapters 4 & 5 of textbook |
+| Exercise | Do the 25 minute Jillian “Killer Buns” workout everyday for the next 6 days. |
 
-After either a brain dump session or a macro planning session we begin laying out goals/action items per project with the following template: 
+After a macro planning session I like to lay out goals/action items per project with the following template: 
 
 <p align="center">
   <img src="/images/goal-org-guide-project-view.png">
 </p>
 
-I like this setup for a few reasons: 
+Each project has a set of actionable tasks, arranged by how long it takes to complete each task.
 
-* It’s great if you have multiple projects you’re managing. Organized by project / class allows us to pick and choose which projects are more pressing or which we’re more in the mood for.
-* Breaking tasks down by the time it takes to do them is helpful when deciding what to do on a day-to-day basis. If I have small blocks of time, I know I can grab tasks from the *Quick* column and quickly finish them off during those small time blocks. 
-* If you have a lot of action items in the 5-8 hour column, it’s likely because they aren’t broken down into actionable sub-tasks. For example, ‘study for Data Structures test’ can be broken down into “Read Chapter 5, read chapter 6, etc.,” each of which go in either of the first three columns.
-* You can highlight in Yellow the more pressing tasks.
+A couple quick notes:
+
+* You can highlight in yellow the more pressing tasks.
+* I usually order the tasks logically, so what needs to get done first is listed at the top. 
+* If you have a lot of action items in the 5-8 hour column, it’s likely because they aren’t broken down into actionable sub-tasks. For example, ‘study for Data Structures test’ can be broken down into “Read Chapter 5, read chapter 6, etc.,” each of which go in one of the first three columns.
+
+I like this setup for a few reasons. 
+
+##### It’s great if you have multiple projects you’re managing. 
+
+Organized by project / class allows us to pick and choose which projects are more pressing or which we’re more in the mood for. 
+
+##### It's helpful for seeing what you can get done in a given time period.
+
+Breaking tasks down by the time it takes to do them is helpful when deciding what to do on a day-to-day basis. If I have small blocks of time, I know I can grab tasks from the *Quick* column and quickly finish them off during those small time blocks. 
+
+Plus, if you're on the go, you can quickly see which projects you can complete on a train or in a different work environment. If you travel a lot, you could even add 'mobile tasks' as a column for each project. 
 
 This view gives you a sense of 2-3 week action items, allowing you to perfectly filter out which of the tasks you want to take care of this week. 
 
 ## Weekly Planning
 
-From the Project Pipeline view above, I’ll usually pick out all the action items I need to get done this week as a sort of free-form list of tasks. By that I mean, I’ll literally cut and paste the task from the project view into a separate ‘weekly to-do’ area. From there, making sure each task is A) incredibly actionable (e.g. no ambiguity of what needs to be done in order to cross it off the list) and B) is able to be completed within a 0-4 hour block. If it isn’t able to be completed in that time block, I’ll try and break the task down a bit further. 
+From the Project Pipeline view above, I’ll usually pick out all the action items I need to get done this week as a sort of free-form list of tasks. 
+
+By that I mean, I’ll literally cut and paste the task from the project view into a separate ‘weekly to-do’ area. From there, making sure each task is 
+
+a. Incredibly actionable (e.g. no ambiguity of what needs to be done in order to cross it off the list) 
+b. Is able to be completed within a 0-4 hour block. If it isn’t able to be completed in that time block, I’ll try and break the task down a bit further. 
 	
 I don’t have a set platform for weekly planning – sometimes I’ll use pen and paper, other times I’ll use my Mac Stickies app, other times I’ll plan each task out per day on my Google Calendar. 
 
 ## Other Cool Views & Planning Tools
-### A Done Category
-I think it's also quite helpful to have a "Done" Column to copy tasks into once you've finished them. Even though it's easier deleting them, it's nice looking back after a couple months and seeing the progress of work. Suffice to say, it's a friendly reminder that achievement is simply the summation of small, seemingly unimportant tasks.
 
+#### A Done Category
 
-### Brain dumps
-Brain dumps involve racking your brain for every existing project and action item, and getting it all on paper. They’re particularly great to do during a macro level planning session or in transitory periods (e.g. start or end of a work/school period).
+I also have a "Done" Column to copy tasks into once I've finished them. Even though it's easier deleting them, it's nice looking back after a couple months and seeing the progress of work. Suffice to say, it's a friendly reminder that achievement is simply the summation of small, seemingly unimportant tasks.
+
+#### Brain dumps
+Brain dumps involve racking your brain for _every_ existing project and action item, and getting it all on paper. They’re particularly great to do during a macro level planning session or in transitory periods (e.g. start or end of a work/school period).
 
 The benefit of this is simply not having to remember a million tasks in your head. There’s a huge amount of ‘carrying cost’ to store tasks, reminders, and to-dos in one’s head and it’s often times incredibly relieving to just sort of write them down and remove them from one’s internal memory storage. Use this list <INSERT LINK> as a starting point for your brain dump. 
 
-### If you live a more free-form life…
+### If you live a more free-form life. . .
 
-These past few months have been interesting simply because I have 8 months off to make progress on whatever goals I see fit. This has required more free-form goal planning, with screenshots of the process below: 
-
-<p align="center">
-  <img src="/images/goal-org-guide-essential-breakdown.png">
-</p>
+These past few months for me have been interesting simply because I have 8 months off before starting work at Microsoft, to make progress on whatever goals I see fit. I've taken to listing out the general projects I'll be working on each month, and then drilling down the actionable tasks that month itself. 
 
 <p align="center">
   <img src="/images/goal-org-guide-month-goals.png">
 </p>
 
-### Other great resources
+<p align="center">
+  <img src="/images/goal-org-guide-essential-breakdown.png">
+</p>
 
-* This guide goes hand in hand with my Time Organization Guide. If you don’t have an adequate sense of the time you have, your goal-setting can only go so far and vice versa. As a next step, I’d recommend checking it out here. 
 
-* I’ve also written a Productivity Guide, which is best read after reading the Time Organization Guide and the Goal Organization Guide.
-
-* Another great resource on this topic is the legendary ‘Getting Things Done’ book.  
 
 
