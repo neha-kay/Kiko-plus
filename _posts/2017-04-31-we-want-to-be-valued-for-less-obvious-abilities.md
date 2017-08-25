@@ -1,14 +1,14 @@
 ---
 layout: post
-title: We Want to Be Valued for Our Less Obvious Traits
+title: We Want to Be Valued For Our Less Obvious Abilities
 description: 
-date: 2017-04-15
+date: 2017-07-31
 tags: [relationships]
 comments: true
 share: true
 published: true
+
 category: relationships
-permalink: /relationships/we-want-to-be-valued-for-our-less-obvious-traits
 ---
 
 In Harry Potter, Hermione ends up marrying Ron.
