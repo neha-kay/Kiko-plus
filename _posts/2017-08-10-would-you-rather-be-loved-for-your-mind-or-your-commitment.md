@@ -12,8 +12,10 @@ category: relationships
 
 We intellectuals tend to place an incredibly high premium on our minds. But in this piece, I want to make the case for valuing 'common' traits like loyalty and commitment over the quality of one's thoughts or intellectualism. 
 
-In general, I've found after spending a decent amount of time together, each person tends to learn each other's responses to the point that they're able to accurately predict what the other person will say about a given topic. Because you know their general perspective, their perspective itself becomes commonplace. So at some point, the content of your significant other stops being novel. Which is a pretty scary thing. 
+##### Why?
 
-Instead, I'd argue a more sustainable route is to respect someone on the basis of their character traits. In other words, to value the simple things that go a long way --- being loyal, committed, and always there, instead of for your content or interesting ideas. Because the latter you'll run out of, particularly in terms of novelty, but the former is always there if you respect and love the other person and generally embody those traits. 
+In general, I've found after spending a decent amount of time together, each person tends to learn each other's responses to the point that they're able to accurately predict the other person's response on a given topic. Because you know their general perspective, their perspective itself becomes commonplace. So at some point, the content of your significant other stops being novel. Which is a pretty scary thing. 
 
-So I have to say, despite identifying strongly as an intellectual and being incredibly proud of my mind, I hope my mind is minimally appreciated, but beyond that, I'm loved for who I am and my commitment to someone versus the quality of my thought. 
+Instead, I'd argue a more sustainable route is to respect someone on the basis of their character. In other words, to value the simple things that go a long way --- being loyal and committed, for example, beyond the initial respect for one's thoughts. Because the latter get used to, but the former is always there if you respect and love the other person and generally embody those traits. 
+
+So I have to say, despite identifying strongly as an intellectual and being incredibly proud of my mind, I hope my mind is appreciated, but beyond that, that I'm loved for who I am and my commitment to someone versus the quality of my thought. 
