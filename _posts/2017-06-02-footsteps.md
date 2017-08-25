@@ -61,7 +61,7 @@ If you could imagine an entire city erupting in a party for 3 consecutive nights
 
 
 <p align="center">
-  <img src="/images/photos-travel/gangnam.jpg">
+  <img src="/images/photos-travel/gangnam.jpg" width="400">
 </p>
 
 Me in the Gangnam district in South Korea! Yes, I did the Gangnam Style dance there, and no, I will not be posting that. 😛
