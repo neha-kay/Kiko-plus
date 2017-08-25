@@ -26,12 +26,12 @@ With that, onwards, new friend!
 
 I _love_ macro level goal planning. It just feels super optimistic/inspiring/awesome --- kind of like the start of a semester. Macro level planning is particularly great at the beginning of any ‘new phase’ – a new semester, before starting a job, before a vacation, etc., 
 
-#### Forward projections
+#### I. Retrospective Reflection
 __My favorite method of macro level planning is imagining myself in the future, and thinking retrospectively about what I’d feel great having gotten done or achieved.__
 
 I ask myself:  
 
-__“Imagine you just got off the plane in Dallas after your 8 months off. You have a wide grin on your face because you've accomplished *everything* you set out to accomplish. What did you accomplish?__
+> > “Imagine you just got off the plane in Dallas after your 8 months off. You have a wide grin on your face because you've accomplished *everything* you set out to accomplish. What did you accomplish?
  
 Is it cheesy? Yep.
 Does it work well? Yep.
@@ -45,18 +45,27 @@ I’ll then go ahead and outline some vague goals underneath which might look li
 	- Incorporated into daily life -- I naturally seek to write
 * *(and more goals)*
 
-At this point, you’ll likely have a number of goals – maybe as many as 7 or 10 depending on how optimistic you are. Sometimes I find it helpful to identify which of these goals are priorities by asking myself:
+##### Prioritizing & Organizing
 
-__"Say you could only accomplish 5 of these. Which would it be and why?”__ 
+At this point, you’ll likely have a number of goals – maybe as many as 7 or 10 depending on how optimistic you are. 
 
-And using the following template as a reflective tool:
+Being really straightforward and honest about why you want to get something done --- both good and bad reasons --- can be an insightful tool of getting to know yourself better and can help you prioritize when to do what.
+
+So for each goal, I often find it incredibly helpful to dig deeper into each goal with the following chart: 
 
 | Mission | Why is this important? | Generic Ways to Accomplish Mission | Actionable Next Steps |
 | :------: | :------: | :------: | :------: |
-| |  |  | |
+| Build a successful blog. |  |  | |
 
-Pro-tip: When creating missions, I think it’s vitally important that you make sure your missions are entirely within your control. So instead of “Give a TED talk”, something determined largely by the external forces of the selection committee, you could write, “Write a TED worthy compelling narrative / story”.
+When creating missions, it’s better if your missions are __entirely within your control__ and _task oriented rather than outcome oriented. So instead of “Give a TED talk”, something determined largely by the external forces of the selection committee, you could write, “Write a TED worthy compelling narrative / story” or "Reach out to 100 TED selection committees".
 
+You can identify which of these goals are priorities by asking yourself: 
+> > "Say you could only accomplish 5 of these. Which would it be and why?”
+
+
+
+
+### Other Macro Level Views
 Another way of viewing macro level projects is something like the following:
 
 <p align="center">
