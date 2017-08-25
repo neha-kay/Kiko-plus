@@ -19,3 +19,5 @@ In general, I've found after spending a decent amount of time together, each per
 Instead, I'd argue a more sustainable route is to respect someone on the basis of their character. In other words, to value the simple things that go a long way --- being loyal and committed, for example, beyond the initial respect for one's thoughts. Because the latter get used to, but the former is always there if you respect and love the other person and generally embody those traits. 
 
 So I have to say, despite identifying strongly as an intellectual and being incredibly proud of my mind, I hope my mind is appreciated, but beyond that, that I'm loved for who I am and my commitment to someone versus the quality of my thought. 
+
+I call this the 'Hermione Granger' effect. Read more [here]({% post_url 2017-04-15-we-want-to-be-valued-for-our-less-obvious-traits-abilities %}){:target="_blank"}.
