@@ -633,7 +633,7 @@ This Productivity Guide has 4 sections in total:
 
 -------
 
-__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily and I promise I’ll get back to you__. 
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily_. 🙂 
 
 You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. Till then . . . happy working. 😊
 

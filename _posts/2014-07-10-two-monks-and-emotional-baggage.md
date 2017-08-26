@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two Monks and Emotional Baggage
+title: "Two Monks and Emotional Baggage"
 description: 
 date: 2014-07-10
 tags: [relationships]

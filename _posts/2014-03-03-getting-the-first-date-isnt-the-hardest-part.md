@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting the first date isn't the hardest part. . . 
+title: "Getting the first date isn't the hardest part. . . "
 description: "Getting the first date isn't the hardest part; it's finding a reason to continue meeting up that is."
 date: 2014-03-03
 tags: [relationships]
@@ -13,7 +13,7 @@ category: relationships
 
 Getting the first date isn't the hardest part; it's __finding a reason to continue meeting up__ that is. 
 
-One off meetups are easy; translating that into a series of n + 1 meetings is tricky at best, and usually avoided. 
+One off meet-ups are easy; translating that into a series of n + 1 meetings is tricky at best, and usually avoided. 
 
 ### A Thought Experiment
 

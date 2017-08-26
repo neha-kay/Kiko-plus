@@ -1,12 +1,13 @@
 ---
 layout: post
-title: This is Exactly How I Feel About Writing
-description: 
+title: "This is Exactly How I Feel About Writing"
+description: "A very accurate description on the writing process."
 date: 2014-01-03
-tags: [random, writing]
+tags: [writing]
 comments: true
 share: true
 published: true
+
 category: writing
 ---
 
