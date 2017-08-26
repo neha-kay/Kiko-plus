@@ -12,11 +12,10 @@ future: true
 category: career
 ---
 
-Welcome to the Career Guide! 
-
 For years we grapple with the question, _“What do you want to do?”_. For graduating college seniors, it’s an especially unsettling question; the time we have to procrastinate the decision is very obviously (and unnervingly) winding down.
 
-This was very much the case with me. While I had a general sense of my career objectives, I considered myself nothing short of naïve. [What should I prioritize – money, titles, personal growth, prestige?]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %}){:target="_blank"} [Is their validity to the ‘passion hypothesis’]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %}){:target="_blank"}? [What should I be doing to maximize the career opportunities available to me? ]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %}){:target="_blank"}
+This was very much the case with me. While I had a general sense of my career objectives, I considered myself nothing short of naïve. What should I prioritize – money, titles, personal growth, prestige? Is their validity to the ‘passion hypothesis’? What should I be doing to maximize the career opportunities available to me? 
+
 My natural instinct was to consult the experts – researching advice from experts on developing one’s career. Over the past few months, I’ve read their advice and created this guide, in an effort to help fellow graduating seniors around me and, more generally, spread knowledge on a rather fuzzy topic.
 
 __In writing this guide, I’ve done my best to cull the cream of advice from the books I’ve read, elaborating on the most thought-provoking advice along with themes which consistently emerge across different authors.__
@@ -45,22 +44,11 @@ This guide won’t tell you which career to pursue or answer any million dollar 
 
 Continue to the next page in this series, [What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %}){:target="_blank"}.
 
-Neha 
-&nbsp;	
-May 25, 2016
-&nbsp;
-Bogota, Colombia
-
-----
-
-__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
-
-If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [neha@nehakay.com](mailto:neha@nehakay.com). If you have any questions or comments by leaving a comment on one of the pages -- I check them daily and I promise I’ll get back to you. With that, onwards, friends!
-
 -----
 _Other Posts in This Series:_
-* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %}){:target="_blank"}_
-* _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %}){:target="_blank"}_
-* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %}){:target="_blank"}_
-* _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %}){:target="_blank"}_
-* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %}){:target="_blank"}_
+* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
+* _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %})_
+* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
+* _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})_
+* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
+
