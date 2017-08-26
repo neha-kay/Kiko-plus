@@ -159,3 +159,11 @@ Every. Day.
 > > TL;DR - Regardless of how objectively good looking a woman is and remains, many -- if not most -- women will just age out of the category of "pretty" or "beautiful." They will not be considered ugly. They just won't be considered at all.
 
 All of the quotes above were directly quoted from the thread [here](https://www.reddit.com/r/AskReddit/comments/6n2g3j/what_part_of_aging_do_you_wish_someone_had_warned/){:target="_blank"}.
+
+------
+
+__Was this post/guide helpful/intriguing? Leave a comment below, if so --- I check them daily__ 🙂 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+
+-- Neha

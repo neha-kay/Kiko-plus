@@ -89,3 +89,11 @@ Read more on my [Goal Organization Guide]({% post_url 2017-08-08-goal-organizati
 If it takes less than 2 minutes to do, __just do it.__
 
 It's simply easier and less work to just get it done rather than carrying around the mental effort of _remembering_ to do the 2 minute task throughout the day. 
+
+------
+
+__Was this post/guide helpful? Leave a comment below, if so --- I check them daily__ 🙂 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+
+-- Neha

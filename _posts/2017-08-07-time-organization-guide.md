@@ -186,11 +186,10 @@ _Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-
 * _Part 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"}_
 * _Part 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"}_
 
--------
-
-__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
-
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. Till then . . . happy working. 😊
-
 ------
 
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+
+-- Neha

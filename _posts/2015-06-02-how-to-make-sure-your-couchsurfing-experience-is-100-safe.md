@@ -96,12 +96,6 @@ And that's pretty much it! Take the steps above, embrace your freedom and Couchs
 
 ------
 
-__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
-
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily and I promise I’ll get back to you. Till then . . . happy traveling and Couchsurfing!
-
-------
-
 _Other Posts in This Series:_
 
 * _[Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}_
@@ -117,3 +111,11 @@ _Other Posts in This Series:_
 * _[How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}_
 
 * _[Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}_
+
+------
+
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+
+-- Neha

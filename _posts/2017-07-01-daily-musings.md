@@ -309,3 +309,8 @@ But even with that in mind, I think the power of having such major cities at you
 An epic saying, which, as [explained by Robert Osowiecki](https://www.quora.com/What-does-the-Polish-proverb-not-my-circus-not-my-monkeys-mean){:target="_blank"} means:
 
 _“I won’t interfere or bother myself with trouble in a place I don’t belong to or have no authority — it’s someone else’s job to deal with this.”_
+
+----
+__Was this post/guide helpful/intriguing? Leave a comment below, if so --- I check them daily__ 🙂 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 

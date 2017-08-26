@@ -51,3 +51,10 @@ _Other Posts in This Series:_
 * _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
 * _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
 
+------
+
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+
+-- Neha

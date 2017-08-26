@@ -52,13 +52,15 @@ LOL.
 
 Get a train. The wifi is pretty crappy on all bus carriers. 😛
 
-------
-
-__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so__. 
-
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really _any_ way. If you have any questions, comments or concerns, you can also comment below -- I check them daily. Till then . . . happy traveling and Couchsurfing!
-
 -------
 _Other Posts in This Series:_
 * _[Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %}){:target="_blank"}_
 * _[Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_
+
+------
+
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+
+-- Neha

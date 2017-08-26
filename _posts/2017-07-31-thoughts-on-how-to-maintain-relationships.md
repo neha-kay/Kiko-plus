@@ -164,4 +164,6 @@ But it sure as heck pays off; I feel secure, loved, and supported and suffice to
 
 __Was this post/guide helpful? Leave a comment below, if so.__
 
-If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [neha@nehakay.com](mailto:neha@nehakay.com). If you have any questions or comments by leaving a comment on one of the pages – I check them daily and I promise I’ll get back to you. With that, onwards, friends!
+If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [neha@nehakay.com](mailto:neha@nehakay.com). If you have any questions or comments by leaving a comment on one of the pages – I check them daily and I promise I’ll get back to you.
+
+-- Neha

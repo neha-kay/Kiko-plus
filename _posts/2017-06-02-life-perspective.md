@@ -134,3 +134,11 @@ __I strongly believe that achievement is more a function of how you play the car
 When I first heard this phrase I wasn't sure I entirely agreed with it; after all, you technically *can* consult books, mentors, friends to avoid making mistakes in the first place. 
 
 That being said, the phrase is incredibly calming, in light of a personal mistake, precisely because there's some truth to it. At the end of the day, all you can do is try to avoid making the same mistake over and over again. 
+
+------
+
+__Was this post/guide helpful? Leave a comment below, if so --- I check them daily__ 🙂 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+
+-- Neha
