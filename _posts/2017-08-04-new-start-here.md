@@ -33,8 +33,6 @@ permalink: /start-here/
 * [Society Has Dating All Wrong]({% post_url 2014-07-31-society-has-dating-all-wrong %}).
 * [We Want to Be Valued For Our Less Obvious Traits & Abilities]({% post_url 2017-04-31-we-want-to-be-valued-for-less-obvious-abilities %}){:target="_blank"}
 
-
-
 ### Photos to Stalk
 
 * [Photos Traveling!]({% post_url 2017-06-02-footsteps %}){:target="_blank"} 
@@ -42,10 +40,9 @@ permalink: /start-here/
 
 ### On Traveling
 
-* Wow! You Couchsurf? [What's that?]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}
+* You Couchsurf? [What's that?]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}){:target="_blank"}
 * [Isn't Couchsurfing dangerous for women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}
 * [How do you start Couchsurfing?]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}
-* How do you meet and hang out with locals in cities you travel to? 
 * [What's the best place you've traveled to?]({% post_url 2017-06-02-footsteps %}){:target="_blank"} 
 * Do you have any [tips on booking buses?]({% post_url 2017-07-06-bus-booking-optimization-guide %}){:target="_blank"}
 * Do you have any tips on booking flights? _Yes, haven't written them out yet. Email me._
