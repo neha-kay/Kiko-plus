@@ -14,9 +14,7 @@ permalink: /travel/the-beginners-guide-to-couchsurfing-how-to-couchsurf/
 
 __Welcome to the Beginner's Couchsurfing Guide!__
 
-You won't find a guide that's better or more comprehensive. 
-
-Having backpacked and couchsurfed in 28 countries, I've learned the ins and outs of the system and have taken the time to write them down in an 8 part guide. But I'm just one human. So, to add to my knowledge, I've also interviewed a number of more experienced Couchsurfers (e.g. 200+ reviewed Couchsurfers) for their tips and insights, which are included in this guide as well. Like I said: you won’t find a guide that’s better or more comprehensive.
+ Having backpacked and couchsurfed in 28 countries, I've learned the ins and outs of the system and have taken the time to write them down in an 8 part guide. But I'm just one human. So, to add to my knowledge, I've also interviewed a number of more experienced Couchsurfers (e.g. 200+ reviewed Couchsurfers) for their tips and insights, which are included in this guide as well. You won't find a guide that's better or more comprehensive.
 
 The hardest part about Couchsurfing is undoubtedly getting started. You want to get hosted. But you have no reviews. How do you get hosts if hosts only accept people with reviews? Seems like quite the closed circle. It can be, and a number of people struggle to find hosts on Couchsurfing. That being said, if you take the time to read through the guide, by the end, you'll have no trouble whatsoever.
 
@@ -45,6 +43,10 @@ This guide covers:
 
 ------
 
-__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__. 🙂 
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
 
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. Till then . . . happy traveling and Couchsurfing!
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+
+Cheers
+
+- Neha
