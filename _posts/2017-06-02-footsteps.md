@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Footsteps & Photos Abroad
+title: "Footsteps & Photos Abroad"
 description: "Where I've been and photos of travel."
 date: 2017-06-02
 tags: [about neha, photos]

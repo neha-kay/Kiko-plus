@@ -1,7 +1,7 @@
 ---
 layout: post
-title: To What Degree Should You Plan Your Career?
-description: 
+title: "To What Degree Should You Plan Your Career?"
+description: "How do you go about planning a career?"
 date: 2016-06-19
 tags: [career]
 comments: true

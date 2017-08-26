@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Life Perspective"
-description: "5 min read"
+description: "Elements of my personal life view which I find most impactful."
 date: 2017-06-02
 tags: [life perspective, about neha]
 comments: true

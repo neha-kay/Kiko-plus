@@ -631,7 +631,6 @@ This Productivity Guide has 4 sections in total:
 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"}
 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"}
 
-
 ------
 
 __If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 

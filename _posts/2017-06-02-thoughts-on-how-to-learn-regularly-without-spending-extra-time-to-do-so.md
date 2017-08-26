@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Thoughts on How to Learn Regularly Without Spending Extra Time to Do So
-description: Learning in Everyday Life
+title: "Thoughts on How to Learn Regularly Without Spending Extra Time to Do So"
+description: "Learning in everyday life"
 date: 2016-06-19
 tags: [life perspective, guides]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: We Want to Be Valued For Our Less Obvious Traits & Abilities
-description: 
+title: "We Want to Be Valued For Our Less Obvious Traits & Abilities"
+description: "We want to be valued for our less obvious and less recognized traits and abilities."
 date: 2017-07-31
 tags: [relationships]
 comments: true

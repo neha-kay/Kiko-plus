@@ -14,10 +14,11 @@ _This guide is part of the 4-Part Productivity Guide._
 
 _Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
 
-* _Part 1. [The Accountability Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}_
-* _Part 2. [The Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}_
-* _Part 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"}_
-* _Part 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"}_
+* _Part 1. [The Accountability Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"} --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done._
+* _Part 2. [The Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"} --- to simply be more organized with one's time and to develop a solid time organization system._
+* _Part 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize and maintain clarity on macro-level and day-to-day goals within whatever time constraint you have._
+* _Part 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource._
+
 
 -------
 ## Introduction

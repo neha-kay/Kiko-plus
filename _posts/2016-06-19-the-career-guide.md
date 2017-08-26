@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Career Guide
-description: 
+title: "The Career Guide"
+description: "Learning about how to make career decisions from those who know best."
 date: 2016-06-19
 tags: [career, guides]
 comments: true

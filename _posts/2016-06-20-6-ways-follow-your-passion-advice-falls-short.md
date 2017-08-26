@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Many Ways 'Follow Your Passion' Advice Falls Short
-description: 
+title: "The Many Ways 'Follow Your Passion' Advice Falls Short"
+description: "How the advice to 'follow your passion' falls short."
 date: 2016-06-20
 tags: [career]
 comments: true

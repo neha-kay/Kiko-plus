@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Note Organization Guide"
-description: 
+description: "Creating a system to maintain and catalog notes."
 date: 2017-08-10
 tags: [guides, organization/productivity]
 comments: true
@@ -187,3 +187,12 @@ I use Day One for strictly personal diary entries – thoughts about my current 
 And that’s ultimately it! The system, particularly with a centralized OneNote hub, works beautifully. Given how scalable it is, I don’t think it’s changing anytime soon.
 
 If you have your own (better?) note organization system, mention it below in the comments! Till then, I hope this was of help. 
+
+
+------
+
+__Was this post/guide helpful? Leave a comment below, if so --- I check them daily__ 🙂 
+
+You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+
+-- Neha

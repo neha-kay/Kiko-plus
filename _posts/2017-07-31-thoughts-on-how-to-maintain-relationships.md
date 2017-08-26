@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Thoughts on How to Maintain Relationships and a Network
-description: 
+title: "Thoughts on How to Maintain Relationships and a Network"
+description: "Thoughts on how to maintain relationships and a network of friends."
 date: 2017-07-31
 tags: [life perspective, relationships, guides, career]
 comments: true

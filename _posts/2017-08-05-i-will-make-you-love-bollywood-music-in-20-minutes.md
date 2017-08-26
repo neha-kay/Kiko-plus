@@ -1,7 +1,7 @@
 ---
 layout: post
-title: I Will Get You To Love Bollywood Music in 20 Minutes 
-description: 
+title: "I Will Get You To Love Bollywood Music in 20 Minutes"
+description: "An introduction to Bollywood music via curated playlists!"
 date: 2017-08-05
 tags: [random]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frequently Asked Questions"
-description: ""
+description: "A table of contents of this blog."
 date: 2017-06-04
 tags: [about neha, random]
 comments: true

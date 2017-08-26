@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Isn’t Couchsurfing Dangerous For Women?
+title: "Isn’t Couchsurfing Dangerous For Women?"
 description: "Tips on how to Couchsurf safely as a woman."
 date: 2015-06-02
 tags: [travel - couchsurfing]

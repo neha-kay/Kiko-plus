@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Would You Rather Be Loved for Your Mind or Your Loyalty/Commitment? 
-description: 
+title: "Would You Rather Be Loved for Your Mind or Your Loyalty/Commitment?"
+description: "An intellectual's case for valuing common traits over the quality of one's mind."
 date: 2017-07-31
 tags: [relationships]
 comments: true
