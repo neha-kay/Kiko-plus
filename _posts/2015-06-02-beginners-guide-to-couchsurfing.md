@@ -47,5 +47,4 @@ __If this post/guide was helpful to you in any way, the best thing you can do is
 
 You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
 
-Cheers,
 -- Neha
