@@ -27,7 +27,7 @@ Reid Hoffman, founder of LinkedIn points out:
 
 >  > "Sure, Bill Clinton decided on politics at age sixteen, and set his sights on the presidency almost as young. But most of us zig and zag our way through life. Tony Blair spent a year trying to make a go of it as a rock music promoter before entering politics. Jerry Springer was mayor of Cincinnati before attaining daytime television fame. Andrea Bocelli practiced law before he became a world-famous singer.  Winning careers, like winning start-ups, are in permanent beta: always a work in progress."
 
-Jeff Goins, author of *The Art of Work*, argues:
+Jeff Goins, author of [The Art of Work](https://www.amazon.com/gp/product/0718022076/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0718022076&linkCode=as2&tag=amazon05b3-20&linkId=fca6114f2ea8714d7e7f0f7a31891613){:target="_blank"}, argues:
 
 > > “Finding your purpose is more of a path than a plan: it involves twists and turns that you never expected. Ultimately these surprises lead you to your destiny. And once you arrive at what you thought was the destination, you realize it’s only another leg in the journey.”
 
@@ -37,7 +37,7 @@ Here, I’ll point out the two most useful models of career planning I’ve come
 
 ### The Mission & Goal Oriented Model | Keith Ferrazzi
 
-Ferrazzi argues the more specific we are about our goals, the easier it becomes to strategize around it and develop meaningful relationships relevant to the goal at hand. He points to a study which asked Yale’s class of 1953 a number of questions regarding goals, including:
+In [Never Eat Alone](https://www.amazon.com/gp/product/0385346654/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385346654&linkCode=as2&tag=amazon05b3-20&linkId=47ffa9b6bd24b7724878e004eb592405){:target="_blank"}, Ferrazzi argues the more specific we are about our goals, the easier it becomes to strategize around it and develop meaningful relationships relevant to the goal at hand. He points to a study which asked Yale’s class of 1953 a number of questions regarding goals, including:
 
 - Have you set goals?
 - Have you written them down?
