@@ -160,6 +160,14 @@ As you can see, maintaining relationships for me is no small matter; it’s an a
 
 But it sure as heck pays off; I feel secure, loved, and supported and suffice to say, it's been very much well worth the effort =)
 
+---
+
+_Other Posts in the Career Guide._
+* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
+* _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})_
+* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
+* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
+
 ----
 
 __Was this post/guide helpful? Leave a comment below, if so.__

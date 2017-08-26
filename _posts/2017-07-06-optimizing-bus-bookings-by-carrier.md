@@ -12,8 +12,8 @@ category: travel
 
 _This is Part 3 of the 3-part_ Bus Booking Optimization Guide:
 
-* _Part 1: [Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %}){:target="_blank"}_
-* _Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_
+* _Part 1: [Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %})_
+* _Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %})_
 * _Part 3: Optimizing Bus Bookings by Carrier_
 
 -------
@@ -54,8 +54,8 @@ Get a train. The wifi is pretty crappy on all bus carriers. 😛
 
 -------
 _Other Posts in This Series:_
-* _[Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %}){:target="_blank"}_
-* _[Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_
+* _[Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %})_
+* _[Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %})_
 
 ------
 

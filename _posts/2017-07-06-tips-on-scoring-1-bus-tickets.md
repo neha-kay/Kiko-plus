@@ -12,9 +12,9 @@ category: travel
 
 _This is Part 2 of the 3-part_ Bus Booking Optimization Guide:
 
-* _Part 1: [Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %}){:target="_blank"}_
+* _Part 1: [Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %})_
 * _Part 2: Tips on Scoring $1 Bus Tickets_
-* _Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}_
+* _Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %})_
 
 -------
 
@@ -53,12 +53,12 @@ According to Busbud, you’re more likely to snag a $1 bus ticket set to travel 
 ### IV. Join the Dollar Bus Club
 [The Dollar Bus Club](https://www.busbud.com/promo-dollar-bus-club/){:target="_blank"} is a free email alert which emails you when a $1 bus fare was found in your city. Pretty neat!
 
-__Next up in the Bus Booking Optimization Guide:__ [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}
+__Next up in the Bus Booking Optimization Guide:__ [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %})
 
 -------
 
 _Other Posts in This Series:_
-* _[Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %}){:target="_blank"}_
+* _[Basics of Bus Booking Optimization]({% post_url 2017-07-06-bus-booking-optimization-guide %})_
 
 ------
 

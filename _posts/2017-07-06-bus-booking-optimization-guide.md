@@ -13,8 +13,8 @@ category: travel
 _This is Part 1 of the 3-part Bus Booking Optimization Guide:_
 
 * _Part 1: Basics of Bus Booking Optimization_
-* _Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}_
-* _Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}_
+* _Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %})_
+* _Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %})_
 
 -------
 
@@ -74,12 +74,12 @@ The best strategy here is to first use [Wanderu](https://www.wanderu.com/en/){:t
 
 Say you're a college student, and between the months of August and May, you return home on a $20 bus ride for Thanksgiving, Christmas, Spring Break, and Fall Break (8 roundtrips -- a total of 32 roundtrips and 64 individual trips over 4 years). __With a Boltbus or Greyhound rewards program, you end up saving $160 with 8 free trips__. Not too shabby!
 
-__Next up in the Bus Booking Optimization Guide:__ [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %}){:target="_blank"}
+__Next up in the Bus Booking Optimization Guide:__ [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %})
 
 -------
 
 _Other Posts in This Series:_
-* _[Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %}){:target="_blank"}_
+* _[Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %})_
 
 ------
 
