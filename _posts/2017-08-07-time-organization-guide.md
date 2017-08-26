@@ -119,7 +119,7 @@ This is an example of how my calendar looked like in college:
   <img src="/images/time-organization-guide/week-view.png">
 </p>
 
-Google Calendar isn't that great for a monthly view as all the day-to-day events cloud out the big picture. That being said, if you wanted to use Google Calendar on a monthly basis, you could enter in big project due dates, tests, significant events, etc., as 'all-day events' in a calendar with a bright red color; this would make the important milestone events stand out, making the Google Calendar monthly view more useable.
+Google Calendar isn't that great for a monthly view as all the day-to-day events cloud out the big picture. That being said, if you wanted to use Google Calendar on a monthly basis, you could enter in big project due dates, tests, significant events, etc., as 'all-day events' in a calendar with a bright red color; this would make the important milestone events stand out, making the Google Calendar monthly view more usable.
 
 #### Setting up the system
 
@@ -142,9 +142,9 @@ I used to maintain as many as 10 calendars for different elements of my life (e.
 I now maintain 3-4 active calendars which works _way_ better:
 
 * Commanding Center --- This is the default calendar , used for any meetings with people or generic events. Unless my events fit better into a different calendar, they'll go in here.
-* Classes --- All reocurring classes and tests go in here.
-* Me Time --- This is a calendar I use for any 'self-decided' activities --- for example working on projects, sleeping, eating food, etc., are all classfied as 'me time'.
-* (Career/Exercise/Social) --- In addition to the calendars above, it's likely useful to have some calendars corresponding to things you value highly. During the job recruiting season, for example, I maintained a career calendar to distinguish all the recruiting events from the regular ones. If you're super into exercise, on the other hand, it might be worthy to have a calendar dedicated solely to workout schedules. This is for you to customize and play aroud with. Other useful calendars may include: side project, learning music, office hours, etc.
+* Classes --- All recurring classes and tests go in here.
+* Me Time --- This is a calendar I use for any 'self-decided' activities --- for example working on projects, sleeping, eating food, etc., are all classified as 'me time'.
+* (Career/Exercise/Social) --- In addition to the calendars above, it's likely useful to have some calendars corresponding to things you value highly. During the job recruiting season, for example, I maintained a career calendar to distinguish all the recruiting events from the regular ones. If you're super into exercise, on the other hand, it might be worthy to have a calendar dedicated solely to workout schedules. This is for you to customize and play around with. Other useful calendars may include: side project, learning music, office hours, etc.
 
 <p align="center">
   <img src="/images/time-organization-guide/day-view.png">

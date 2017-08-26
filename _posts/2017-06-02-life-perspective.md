@@ -12,7 +12,7 @@ category: life
 
 Below are some of my personal life perspectives. 
 
-I know they don't hold universally and it isn't my intention to convince anyone of any of them. Specifically, these views originate from various sources and schools of thought --  Buddhism to computer science to positive psychology. There're just things I strongly believe in, for better or for worse, rationally or irrationally.
+I know they don't hold universally and it isn't my intention to convince anyone of any of them. Specifically, these views originate from various sources and schools of thought --  Buddhism to computer science to positive psychology. They're just things I strongly believe in, for better or for worse, rationally or irrationally.
 
 Here we go!
 
@@ -22,9 +22,9 @@ Simply put, life is suffering. While it may sound depressing, it really isn't me
 This leads to the second belief, that . . .
 
 ### Life owes one nothing at all. Nothing whatsoever.
-By being born, I'm entitled to neither a good life nor a happy family nor a great career. If anything, by sheer probability, I'm entitled to a disadvantaged life; afterall, __at least 80% of humanity lives on less than $10 a day__. 
+By being born, I'm entitled to neither a good life nor a happy family nor a great career. If anything, by sheer probability, I'm entitled to a disadvantaged life; after all, __at least 80% of humanity lives on less than $10 a day__. 
 
-By some miracle, I was born into the 0.10% of the world that has access to internet, a top education, and the comfort of having time and freedom to write this blog. I know that's something that I need to appreciate and value more often.
+By some miracle, I was born into the 0.10% of the world that has access to the internet, a top education, and the comfort of having time and freedom to write this blog. I know that's something that I need to appreciate and value more often.
 
 <p align="center">
   <img src="/images/posts/privilege.png">
@@ -46,7 +46,7 @@ Labels which characterize our self-identity - for example 'extrovert' or 'introv
 
 By this logic, changing our identities is relatively straightforward; it's a simple matter of changing my actions at time *t* and beyond. Over time, if I continue those actions, the integration of those behaviors generate the label, not the other way around. 
 
-In the same way a smoker becomes a non-smoker by, day by day, not smoking, an intorvert can become an extrovert by, day by day, going out to events more, reaching out to more people, etc.,
+In the same way a smoker becomes a non-smoker by, day by day, not smoking, an introvert can become an extrovert by, day by day, going out to events more, reaching out to more people, etc.,
 
 In this way, changing an identity is __way__ simpler and straightforward than we originally think; __it's a matter of changing small, daily action that is entirely independent of past action and entirely dependent on present motive.__
 

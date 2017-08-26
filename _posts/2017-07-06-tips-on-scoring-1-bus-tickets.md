@@ -33,7 +33,7 @@ If you’re aiming for scoring one of these tickets, consider the following tips
   <img src="/images/bus-optimization-guide/probability-1-ticket.png">
 </p>
 
-Unlike other carriers, Greyhound specifically offers $1 busses _only_ 31 days in advance and not any earlier. 
+Unlike other carriers, Greyhound specifically offers $1 buses _only_ 31 days in advance and not any earlier. 
 
 <p align="center">
   <img src="/images/bus-optimization-guide/greyhound.png">

@@ -92,7 +92,7 @@ A whole article of these [here]({% post_url 2015-03-04-quotes %}){:target="_blan
 * A podcast hosted by best-selling author Gretchen Rubin and TV writer and producer, Elizabeth Craft which discusses happiness, good habits, and human nature.
 
 [Happier in Hollywood](http://happierinhollywood.com/){:target="_blank"}
-* How to be happier, saner, more creative, more successsful, and more productive in a back-biting, superficial, chaotic, unpredictable, and fundamentally insane world.
+* How to be happier, saner, more creative, more successful, and more productive in a back-biting, superficial, chaotic, unpredictable, and fundamentally insane world.
 
 [Invisibilia](http://www.npr.org/podcasts/510307/invisibilia){:target="_blank"}
 * Invisibilia is about the invisible forces that control human behavior - ideas, beliefs, assumptions, and emotions. 

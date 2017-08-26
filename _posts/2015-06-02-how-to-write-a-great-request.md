@@ -45,7 +45,7 @@ I know of many hosts (including me 😛) who don’t bother to reply or even rea
 
 ### Length matters.
 
-People make superficial judgements all the time. And hosts surely do so as well. __Usually, longer requests have almost always been the better requests, so as a host, I'll take more time reading a request if I notice it's longer__. Of course, if you fill your request with lots of blabber it won’t do you any good. But as far as split second judgments, the longer your request, the more likely a host is going to keep reading and take your perspective seriously.
+People make superficial judgments all the time. And hosts surely do so as well. __Usually, longer requests have almost always been the better requests, so as a host, I'll take more time reading a request if I notice it's longer__. Of course, if you fill your request with lots of blabber it won’t do you any good. But as far as split second judgments, the longer your request, the more likely a host is going to keep reading and take your perspective seriously.
 
 ### How I personally write requests.
 

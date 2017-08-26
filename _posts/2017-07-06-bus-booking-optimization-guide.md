@@ -20,7 +20,7 @@ _This is Part 1 of the 3-part Bus Booking Optimization Guide:_
 
 ## The Basics
 
-You're probably thinking --- I didn't even think booking busses _could_ be optimized. In fact they can! 😀
+You're probably thinking --- I didn't even think booking buses _could_ be optimized. In fact they can! 😀
 
 #### I. Use Wanderu!
 [Wanderu](https://www.wanderu.com/en/){:target="_blank"} is the Google of bus tickets --- it pulls and sorts options from all major bus providers so you can identify the best ride across a 100 options instead of the 10 proprietary options the Greyhound/Megabus/Boltbus site provides.
@@ -29,7 +29,7 @@ On top of that, you can:
 * Sort the options for the cheapest/fastest/shortest route
 * Select specific carriers
 * Include nearby cities
-* Adjust the time slider to identify only the busses which leave after a certain time or arrive by a certain time. 
+* Adjust the time slider to identify only the buses which leave after a certain time or arrive by a certain time. 
 
 Once you've found a bus, you can either:
 
@@ -48,7 +48,7 @@ Say you’re traveling from Philadelphia to New York on a weekend 3 months in th
 
 3. If the prices of a ticket 1-3 months out is significantly cheaper (say $1-5 instead of $20-$30) buy multiple tickets for a couple weekends.
 
-Depending on the route, this can actually be _way_ cheaper than booking last minute. If you do this through Megabus, you can later credit the un-used tickets to a future trip. 
+Depending on the route, this can actually be _way_ cheaper than booking last minute. If you do this through Megabus, you can later credit the unused tickets to a future trip. 
 
 #### III. Snag overnight trips if you can.
 

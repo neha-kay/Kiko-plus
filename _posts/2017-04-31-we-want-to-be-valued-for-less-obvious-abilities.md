@@ -20,7 +20,7 @@ WHY?
 If you're like me, you were probably pretty skeptical of this arrangement. Put simply, Ron seems well below Hermione's league. 
 
 
-But it's likely because we tend to want to be valued for our less obvious traits & abilites. I call this the 'Hermione Granger' effect. 
+But it's likely because we tend to want to be valued for our less obvious traits & abilities. I call this the 'Hermione Granger' effect. 
 
 Unlike every other person, Ron valued her for who she _was_ versus solely recognizing her for her insane knowledge. I think in some sense, when something defines us, we want to be recognized for our other characteristics, given how often we're recognized for our more obvious abilities. 
 

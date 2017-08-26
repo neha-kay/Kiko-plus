@@ -94,7 +94,7 @@ This also happens to be where the James Bond movie, _The Man with the Golden Gun
   <img src="/images/photos-travel/8-paris.jpg">
 </p>
 
-This photo above of the [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe){:target="_blank"} is by far, one of my favorite photos. I had taken a bus (from Brussels, I think?) to Paris, but of course, it arrived _ridiculously_ early in the morning --- around 6 am or so. And so I sort of shurgged, and figured I'd visit the Eiffel Tower, because, well, why not. On the way, I passed by this beauty, caught right as the sun was rising. 
+This photo above of the [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe){:target="_blank"} is by far, one of my favorite photos. I had taken a bus (from Brussels, I think?) to Paris, but of course, it arrived _ridiculously_ early in the morning --- around 6 am or so. And so I sort of shrugged, and figured I'd visit the Eiffel Tower, because, well, why not. On the way, I passed by this beauty, caught right as the sun was rising. 
 
 -------
 

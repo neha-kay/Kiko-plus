@@ -48,7 +48,7 @@ An interesting insight from the podcast I listen to, _Happier in Hollywood_.
 
 Today is my first day in Milan, Italy. 
 
-My host took me on a tour of Milan, working our way from the outside in. He had a way of pointing out details I'd never normally notice -- art on columns, the architecture of the city, even pointing out the handle of a store and the way it was designed. I'm so unattuned to art.
+My host took me on a tour of Milan, working our way from the outside in. He had a way of pointing out details I'd never normally notice -- art on columns, the architecture of the city, even pointing out the handle of a store and the way it was designed. I'm so un-attuned to art.
 
 I think the overall change in how I explored with him versus how I explore by myself is a matter of *attentiveness* - going slow and embracing all the details not just the most ostentatious ones.
 
