@@ -12,7 +12,14 @@ future: true
 category: career
 ---
 
-***THIS IS PART OF THE CAREER GUIDE***
+_This page is part of the 5-part Career Guide._
+* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
+* _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %})_
+* _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})_
+* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
+* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
+
+----
 
 ## The passion hypothesis
 
@@ -119,4 +126,21 @@ As such our view of what we’re passionate about is biased towards the good and
 
 Given these pitfalls of the passion hypothesis, it’s clear job satisfaction is far more nuanced than a matter of simply following one’s passion. Yet, the fact that it’s repeated again and again, by some of the most successful world-achievers, from Steve Jobs to Oprah Winfrey implies there must be some truth behind it. 
 
- Where does that leave us? Click here TO-DO to continue to the next page, on reconciling the pitfalls of the passion hypothesis to the truth behind it. 
+ Where does that leave us? Click here TO-DO to continue to the next page, on reconciling the pitfalls of the passion hypothesis to the truth behind it.
+
+ Next up in the series: [How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %}).
+ 
+--
+
+_Other posts in the Career Guide._
+* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
+* _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %})_
+* _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})_
+* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
+* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
+
+----
+
+__Was this post/guide helpful? Leave a comment below, if so.__
+
+If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [neha@nehakay.com](mailto:neha@nehakay.com). If you have any questions or comments by leaving a comment on one of the pages – I check them daily and I promise I’ll get back to you. With that, onwards, friends! 
