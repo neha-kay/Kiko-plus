@@ -33,6 +33,8 @@ A whole article of these [here]({% post_url 2015-03-04-quotes %}){:target="_blan
 [Wait But Why](https://waitbutwhy.com){:target="_blank"}
 * A long-form blog which analyzes all aspects of life and technology.
 
+* [Paul Graham's Essays](http://www.paulgraham.com/articles.html){:target="_blank"}
+
 [James Clear](http://jamesclear.com/articles){:target="_blank"}
 * James writes various pieces on productivity, habits and organization. 
 
