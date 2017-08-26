@@ -11,13 +11,28 @@ published: true
 category: life
 ---
 
-Below are some of the most useful methods I've come across, for learning without devoting too much time to doing so, in order from the least to most time intensive. 
+Below are some of the most useful methods I've come across for learning without devoting too much time to doing so. 
 
-The idea is to point out that anyone, a CEO or a waitress working three jobs, can employ at least the top few in her life. There are so many unexploited pockets of time in our day-to-day schedules that can easily be flipped into learning opportunities. 
+They're listed in order from the least to most time intensive. The idea is to point out that anyone, a CEO or a waitress working three jobs can employ at least the top few in her life. There are so many unexploited pockets of time in our day-to-day schedules that can easily be flipped into learning opportunities. 
 
-So from the top: 
+### 1. Pocket
 
-## 1. Listen to podcasts
+We've all found articles or have been emailed articles at entirely random times or times when we couldn't actually sit down and read the article. And we've also all been bored on a bus, train or car ride, with little to do. 
+
+[Pocket](https://getpocket.com/){:target="_blank"} solves these inefficiencies.
+__Pocket allows you to save articles via a Google Chrome/Safari extension and download those articles to your phone/device for offline reading.__ That way, in those pockets of awkward time, in line to get food or on the subway, or at the doctor’s office, you can easily read the articles you’ve saved to Pocket, which will appear, automatically downloaded for you, even if you're off wifi. 
+
+Usually, when I’m doing work on my desktop and come across articles, I’ll save them to Pocket. After about a month of doing this, I've effectively created a perfectly curated magazine for myself. 
+
+On top of that, Pocket now serves as my article storage and organization system --- any articles I particularly like, I'll save them in Pocket and refer back to my Favorites category if I ever need to retrieve them. Pocket's archive also lets you see all the articles you've previously saved and read. 
+
+On top of that, the app analyzes your selections and, based on similar users, suggests articles you'd like which tend to _actually_ match your preferences. 
+
+##### Time Required 
+
+Literally take 5 minutes to create an account and download the web extension [here](https://getpocket.com/){:target="_blank"} and save a few articles for later. 
+
+### 2. Podcasts
 
 ### What are podcasts? 
 
@@ -47,26 +62,6 @@ Time to Setup: ~ 30 min
 For iOS listeners, [this guide](http://www.everythingicafe.com/listen-to-podcasts-on-iphone/){{:target=":_blank"}} will get you going in about 30 minutes. Podcasts integrate seamlessly with the iTunes store and the Apple podcasts app, so listening to podcasts is a simple matter of downloading the podcast in the iTunes store and syncing your device, much like iTunes music. 
 
 For Android listeners, there are a number of apps to choose from – some paid, some free. A popular free app is Stitcher, with a guide on getting started [here](http://jeremymccommons.com/business/learn-faster-8-simple-steps-for-stitcher-radio/){:target=":_blank"}. 
-
-## 2. Read Saved Articles Via Pocket
-
-Have you ever found an article which you’ve wanted to read but didn’t have the time to do so right then? 
-
-….introducing Pocket! It allows you to save articles via a Google Chrome / Safari extension and download those articles to your phone/device for offline reading. That way, in those pockets of awkward time, in line to get food or on the subway, or at the doctor’s office, you can easily read the articles you’ve saved to Pocket, which will appear, automatically downloaded for you. 
-
-Usually, when I’m doing work on my desktop and come across articles, I’ll save them to Pocket and overtime, the articles accumulate, such that the app becomes a personally curated magazine. Better yet, the app analyzes your selections and, based on similar users, suggests articles for you. 
-
-### Time Required 
-
-Literally all you need to do is download the app and save a few articles for later. 
-
-<h2> 3. Maintaining a <i>Things I Learned</i> List </h2>
-
-By reflecting at the end of the day, what you've learned earlier, you'll force yourself to remember and notice 'learned lessons' of the day - both when writing it down and during the day. 
-
-### Time Required
-
-10 minutes a day and the ability to keep doing it and make it a long-standing habit -- *that's* the hardest part. A good way of making it a long-standing habit is to pair it with another routine -- for example, pairing it with your bedtime routine.
 
 ## 3. Listen to Audiobooks
 
@@ -106,7 +101,16 @@ I think here, the more relevant unit is, ‘courage required’.
 
 For me, it takes a lot of courage to get out of my comfort zone (and off my phone) to start up a conversation with someone next to me. Sometimes even that isn’t enough. For that reason, sometimes I incorporate it into my personal habits list, or in other words, aim to have a conversation with X number of new people per week, and checkmark and tally the number of times I do so. Either way, it pays off.
 
-## 5. eBooks 
+<h2> 5. Maintaining a <i>Things I Learned</i> List </h2>
+
+By reflecting at the end of the day, what you've learned earlier, you'll force yourself to remember and notice 'learned lessons' of the day - both when writing it down and during the day. 
+
+### Time Required
+
+10 minutes a day and the ability to keep doing it and make it a long-standing habit -- *that's* the hardest part. A good way of making it a long-standing habit is to pair it with another routine -- for example, pairing it with your bedtime routine.
+
+
+## 6. eBooks 
 
 And last but not least, eBooks! Otherwise known as books on the go, or at home, or really anywhere, because they’re eBooks! Once these are downloaded to my phone and once it’s a book that I truly enjoy, reading it on the go becomes a preference and not an obligation.   
 
