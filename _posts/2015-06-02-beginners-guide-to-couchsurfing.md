@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Beginner's Guide to Couchsurfing - How to Couchsurf & Not Get Killed
-description: A multi-part guide on how to Couchsurf.
+title: "The Beginner's Guide to Couchsurfing - How to Couchsurf & Not Get Killed"
+description: "A multi-part guide on how to Couchsurf."
 date: 2015-06-02
 tags: [guides, travel - couchsurfing]
 comments: true
@@ -22,26 +22,26 @@ The hardest part about Couchsurfing is undoubtedly getting started. You want to 
 
 Take a look at the guide topics below and choose where you want to begin:
 
-* If you're entirely new to Couchsurfing, read more about [what it is and how it works]({% post_url 2015-06-02-you-couchsurf-whats-that %}){:target="_blank"}. 
-* If you already have a good sense of what Couchsurfing is, skip the overview and head to [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}. 
+* If you're entirely new to Couchsurfing, read more about [what it is and how it works]({% post_url 2015-06-02-you-couchsurf-whats-that %}). 
+* If you already have a good sense of what Couchsurfing is, skip the overview and head to [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}). 
 
 Otherwise, feel free to skip to some of the other content listed below:
 
 This guide covers: 
 
-* Part 2: [What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %}){:target="_blank"}
+* Part 2: [What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %})
 
-* Part 3: [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}){:target="_blank"}
+* Part 3: [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %})
 
-* Part 4: [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}){:target="_blank"}
+* Part 4: [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %})
 
-* Part 5: [Examples: What *Not* To Do]({% post_url 2015-06-02-what-not-to-do-in-requests %}){:target="_blank"}
+* Part 5: [Examples: What *Not* To Do]({% post_url 2015-06-02-what-not-to-do-in-requests %})
 
-* Part 6: [How to Write a Great Request]({% post_url 2015-06-02-how-to-write-a-great-request %}){:target="_blank"}
+* Part 6: [How to Write a Great Request]({% post_url 2015-06-02-how-to-write-a-great-request %})
 
-* Part 7: [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}
+* Part 7: [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %})
 
-* Part 8: [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}){:target="_blank"}
+* Part 8: [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %})
 
 ------
 
