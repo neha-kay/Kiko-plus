@@ -39,7 +39,7 @@ Podcasts are radio stations with episodes of content. Each podcast has different
 
 ##### Setup Time Required
 
-Podcasts are the perfect time-creators, because you can easily do them while doing mindless or physical tasks --- while driving, running errrands, standing in line, etc.
+Podcasts are the perfect time-creators, because you can easily do them while doing mindless or physical tasks --- while driving, running errands, standing in line, etc.
 
 They’re bit-sized (30 minutes – 1 hour long) and vary across topics so you can select which podcast you’re in the mood for. 
 
