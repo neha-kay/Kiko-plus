@@ -34,6 +34,27 @@ Eventually, I'll take the date tags off and it'll just be 'Musings'. But for now
 
 A lot of the thoughts you'll see here may end up as full blown posts. I've put them here in the meantime as a holding ground, allowing me to share them in a more raw form until I have the time to scale them into full posts. 
 
+<h3 style="color:#6495ed;"> Blog Launch! | August 27, 2017 </h3>
+
+This baby is going live!
+
+From this in July: 
+
+<p align="center">
+  <img src="/images/posts/day1.png">
+</p>
+
+To this in August:
+
+<p align="center">
+  <img src="/images/posts/now.png">
+</p>
+
+This blog is the culmination of 1000+ small, *entirely* insignificant milestones --- getting the favicon up, customizing the CSS to look just right, writing a bazillion posts that quite possibly no one may read, _proofreading_ the bazillion posts that quite possibly no one may read, etc. 
+
+And it’s been so great to see the website ‘grow up’ into what it is now. I love it so much ❤️
+
+
 <h3 style="color:#6495ed;"> Job v. Career | August 8, 2017 </h3>
 
 An interesting insight from the podcast I listen to, _Happier in Hollywood_.
