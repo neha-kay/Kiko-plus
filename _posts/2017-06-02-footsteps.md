@@ -14,7 +14,7 @@ permalink: /photos/
 ### Footsteps Abroad
 
 <p align="center">
-  <img src="/images/photos-travel/1-autobahn.jpg">
+  <img src="/images/photos-travel/1-autobahn.jpg" width="500">
 </p>
 
 This photo above was taken somewhere on the [autobahn](https://en.wikipedia.org/wiki/Autobahn){:target="_blank"} --- German highways with no federally mandated speed limit. 😉
