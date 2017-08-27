@@ -50,20 +50,11 @@ This photo above was taken somewhere on the [autobahn](https://en.wikipedia.org/
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/2-scotland-st-patricks.jpg">
-</p>
-
-In 2015, I visited Dublin, Ireland on St. Patrick's Day. Yep, and it was as insane as that sounded, and more. 
-
-If you could imagine an entire city erupting in a party for 3 consecutive nights, that's more or less what St. Patrick's Day is like in Ireland's capital city. These were some of the crowds during the festival.
-
--------
-
-<p align="center">
-  <img src="/images/photos-travel/sal.jpg">
+  <img src="/images/photos-travel/Sal.jpg">
 </p>
 
 Saying hi to Sal, the founder of Khan Academy and getting a bit goofy.
+
 ---
 
 <p align="center">
@@ -73,6 +64,14 @@ Saying hi to Sal, the founder of Khan Academy and getting a bit goofy.
 Me in the Gangnam district in South Korea! Yes, I did the Gangnam Style dance there, and no, I will not be posting that. 😛
 
 -------
+
+<p align="center">
+  <img src="/images/photos-travel/jkrowling.jpg">
+</p>
+
+The cafe where J.K. Rowling started writing Harry Potter. 
+
+---
 
 <p align="center">
   <img src="/images/photos-travel/underwater.jpg">
@@ -90,11 +89,11 @@ At Oxford, I once played underwater hockey which is about as crazy as it sounds.
   <img src="/images/photos-travel/border.png" width="300">
 </p>
 
+The two images here are of me at the North Korean - South Korean border. 
+
 <p align="center">
   <img src="/images/photos-travel/dmz.jpg">
 </p>
-
-The two images above are of me at the North Korean - South Korean border. 
 
 -------
 
@@ -109,28 +108,20 @@ This also happens to be where the James Bond movie, _The Man with the Golden Gun
 ------
 
 <p align="center">
-  <img src="/images/photos-travel/8-paris.jpg">
+  <img src="/images/photos-travel/2-scotland-st-patricks.jpg">
 </p>
 
-This photo above of the [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe){:target="_blank"} is by far, one of my favorite photos. I had taken a bus (from Brussels, I think?) to Paris, but of course, it arrived _ridiculously_ early in the morning --- around 6 am or so. And so I sort of shrugged, and figured I'd visit the Eiffel Tower, because, well, why not. On the way, I passed by this beauty, caught right as the sun was rising. 
+In 2015, I visited Dublin, Ireland on St. Patrick's Day. Yep, and it was as insane as that sounded, and more. 
+
+If you could imagine an entire city erupting in a party for 3 consecutive nights, that's more or less what St. Patrick's Day is like in Ireland's capital city. These were some of the crowds during the festival.
 
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/shwedagon.jpg">
+  <img src="/images/photos-travel/8-paris.jpg">
 </p>
 
-This is the [Shwedagon Pagoda](https://www.google.gr/search?q=shwedagon+pagoda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCuaLYxu_VAhWqD8AKHQ2mBacQ_AUICigB&biw=701&bih=736){:target="_blank"}, in Burma. Even after 28+ countries, the Shwedagon Pagoda is by far, the most impressive religious structure I've _ever_ seen --- far more impressive than even [St. Peter's Basilica](https://www.google.gr/search?biw=701&bih=696&tbm=isch&sa=1&q=st.+peter%27s+basilica&oq=st.+peter%27s+bas&gs_l=psy-ab.3.0.0j0i30k1l3.55474.57301.0.58136.15.12.0.0.0.0.241.1305.0j7j1.8.0....0...1.1.64.psy-ab..7.8.1304...0i67k1.NHKf5NUWoLM){:target="_blank"}. It's simply absolutely _stunning_.
-
-------
-
-<p align="center">
-  <img src="/images/photos-travel/chang-rai.jpg">
-</p>
-
-This is [Wat Rong Khun](https://en.wikipedia.org/wiki/Wat_Rong_Khun){:target="_blank"} in Chang Rai, Thailand. The entire structure is symbolic of Buddhist philosophy. As explained by Wikipedia:
-
-> > "The main building at the white temple, the ubosot, is reached by crossing a bridge, "the cycle of rebirth", over a small lake. In front of the bridge are hundreds of outreaching hands that symbolize unrestrained desire. The bridge proclaims that the way to happiness is by foregoing temptation, greed, and desire."
+This photo above of the [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe){:target="_blank"} is by far, one of my favorite photos. I had taken a bus (from Brussels, I think?) to Paris, but of course, it arrived _ridiculously_ early in the morning --- around 6 am or so. And so I sort of shrugged, and figured I'd visit the Eiffel Tower, because, well, why not. On the way, I passed by this beauty, caught right as the sun was rising. 
 
 -------
 
@@ -208,7 +199,29 @@ This is [Shibuya crossing](https://www.google.gr/search?q=Shibuya+crossing&tbm=i
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/shuya.jpg">
+  <img src="/images/photos-travel/3-canoe.jpg">
+</p>
+
+This is us canoe polo-ing, which, believe it or not, is a [thing](https://www.youtube.com/watch?v=LPmxXt47XJU){:target="_blank"}. It's literally playing polo while canoeing. The picture below is me tipping over in the canoe --- it's actually incredibly hard to stay stable while trying to move forward with the ball. That whole week I was afraid some sort of swamp worm would have infected me. 
+
+----
+
+<p align="center">
+  <img src="/images/photos-travel/4-c.jpg">
+</p>
+
+---
+
+<p align="center">
+  <img src="/images/photos-travel/brandon.jpg">
+</p>
+
+Meeting Brandon Stanton of [Humans of New York ](http://www.humansofnewyork.com/about){:target="_blank"}. I heard he was coming to Hopkins to speak and made a point of making sure I met him before he left :P
+
+---
+
+<p align="center">
+  <img src="/images/photos-travel/shuya.jpg" width="400">
 </p>
 
 My Tokyo host above was _amazing_. He not only let me stay at his place for almost a week but also cooked me an _amazing_ traditional Japanese dinner. 
@@ -236,6 +249,24 @@ This is me and Nicole being crazy, and totally contradicting the prim and proper
 </p>
 
 In the Czech Republic, it was so interesting to see kids casually walking the streets alone --- such a different cultural take than the American view of 'kids walking alone is incredibly dangerous'.
+
+-------
+
+<p align="center">
+  <img src="/images/photos-travel/shwedagon.jpg">
+</p>
+
+This is the [Shwedagon Pagoda](https://www.google.gr/search?q=shwedagon+pagoda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCuaLYxu_VAhWqD8AKHQ2mBacQ_AUICigB&biw=701&bih=736){:target="_blank"}, in Burma. Even after 28+ countries, the Shwedagon Pagoda is by far, the most impressive religious structure I've _ever_ seen --- far more impressive than even [St. Peter's Basilica](https://www.google.gr/search?biw=701&bih=696&tbm=isch&sa=1&q=st.+peter%27s+basilica&oq=st.+peter%27s+bas&gs_l=psy-ab.3.0.0j0i30k1l3.55474.57301.0.58136.15.12.0.0.0.0.241.1305.0j7j1.8.0....0...1.1.64.psy-ab..7.8.1304...0i67k1.NHKf5NUWoLM){:target="_blank"}. It's simply absolutely _stunning_.
+
+------
+
+<p align="center">
+  <img src="/images/photos-travel/chang-rai.jpg">
+</p>
+
+This is [Wat Rong Khun](https://en.wikipedia.org/wiki/Wat_Rong_Khun){:target="_blank"} in Chang Rai, Thailand. The entire structure is symbolic of Buddhist philosophy. As explained by Wikipedia:
+
+> > "The main building at the white temple, the ubosot, is reached by crossing a bridge, "the cycle of rebirth", over a small lake. In front of the bridge are hundreds of outreaching hands that symbolize unrestrained desire. The bridge proclaims that the way to happiness is by foregoing temptation, greed, and desire."
 
 -------
 
@@ -296,40 +327,10 @@ Big Bang concert! I ended up sneaking up to the front to see them a bit closer +
 ----
 
 <p align="center">
-  <img src="/images/photos-travel/3-canoe.jpg">
-</p>
-
-This is us canoe polo-ing, which, believe it or not, is a [thing](https://www.youtube.com/watch?v=LPmxXt47XJU){:target="_blank"}. It's literally playing polo while canoeing. The picture below is me tipping over in the canoe --- it's actually incredibly hard to stay stable while trying to move forward with the ball. That whole week I was afraid some sort of swamp worm would have infected me. 
-
-----
-
-<p align="center">
-  <img src="/images/photos-travel/4-c.jpg">
-</p>
-
----
-
-<p align="center">
-  <img src="/images/photos-travel/brandon.jpg">
-</p>
-
-Meeting Brandon Stanton of [Humans of New York ](http://www.humansofnewyork.com/about){:target="_blank"}. I heard he was coming to Hopkins to speak and made a point of making sure I met him before he left :P
-
----
-
-<p align="center">
   <img src="/images/photos-travel/croc-min.jpg">
 </p>
 
 Almost got eaten by a crocodile :P
-
----
-
-<p align="center">
-  <img src="/images/photos-travel/jkrowling.jpg">
-</p>
-
-Went to the cafe where J.K. Rowling started writing Harry Potter. 
 
 ---
 
