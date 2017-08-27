@@ -22,7 +22,7 @@ This photo above was taken somewhere on the [autobahn](https://en.wikipedia.org/
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/Sal.jpg">
+  <img src="/images/photos-travel/Sal.jpg" width="700">
 </p>
 
 Saying hi to Sal, the founder of Khan Academy and getting a bit goofy.
@@ -38,7 +38,7 @@ Me in the Gangnam district in South Korea! Yes, I did the Gangnam Style dance th
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/jkrowling.jpg">
+  <img src="/images/photos-travel/jkrowling.jpg" width="700">
 </p>
 
 The cafe where J.K. Rowling started writing Harry Potter. 
@@ -46,7 +46,7 @@ The cafe where J.K. Rowling started writing Harry Potter.
 ---
 
 <p align="center">
-  <img src="/images/photos-travel/underwater.jpg">
+  <img src="/images/photos-travel/underwater.jpg" width="700">
 </p>
 
 At Oxford, I once played underwater hockey which is about as crazy as it sounds. This is me before the game. It's literally played on the floor of a pool, about 10 feet down with scuba equipment. The scuba equipment is so that you can watch the game while recovering your breath but the actual play is on the pool floor. When you're back in play, you sort of dive down and get into the game --- this is [what it looks like under the water](https://www.youtube.com/watch?v=SAukrpTEvZA){:target="_blank"}. 
@@ -64,13 +64,13 @@ At Oxford, I once played underwater hockey which is about as crazy as it sounds.
 The two images here are of me at the North Korean - South Korean border. 
 
 <p align="center">
-  <img src="/images/photos-travel/dmz.jpg">
+  <img src="/images/photos-travel/dmz.jpg" width="700">
 </p>
 
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/4-kayak.jpg">
+  <img src="/images/photos-travel/4-kayak.jpg" width="700">
 </p>
 
 Kayaking in caves in Phang Nga Bay, in Thailand. 
@@ -80,7 +80,7 @@ This also happens to be where the James Bond movie, _The Man with the Golden Gun
 ------
 
 <p align="center">
-  <img src="/images/photos-travel/2-scotland-st-patricks.jpg">
+  <img src="/images/photos-travel/2-scotland-st-patricks.jpg" width="700">
 </p>
 
 In 2015, I visited Dublin, Ireland on St. Patrick's Day. Yep, and it was as insane as that sounded, and more. 
@@ -90,7 +90,7 @@ If you could imagine an entire city erupting in a party for 3 consecutive nights
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/8-paris.jpg">
+  <img src="/images/photos-travel/8-paris.jpg" width="700">
 </p>
 
 This photo above of the [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_Triomphe){:target="_blank"} is by far, one of my favorite photos. I had taken a bus (from Brussels, I think?) to Paris, but of course, it arrived _ridiculously_ early in the morning --- around 6 am or so. And so I sort of shrugged, and figured I'd visit the Eiffel Tower, because, well, why not. On the way, I passed by this beauty, caught right as the sun was rising. 
@@ -98,14 +98,14 @@ This photo above of the [Arc de Triomphe](https://en.wikipedia.org/wiki/Arc_de_T
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/napoleon.jpg">
+  <img src="/images/photos-travel/napoleon.jpg" width="700">
 </p>
 
 ---
 Visiting Napoleon's house and the Mona Lisa!
 
 <p align="center">
-  <img src="/images/photos-travel/bagan-sun.jpg">
+  <img src="/images/photos-travel/bagan-sun.jpg" width="700">
 </p>
 
 This is one of the many beautiful temples in Bagan, Burma. This image was taken at sunrise. 
@@ -113,7 +113,7 @@ This is one of the many beautiful temples in Bagan, Burma. This image was taken 
 ------
 
 <p align="center">
-  <img src="/images/photos-travel/bagan.jpg">
+  <img src="/images/photos-travel/bagan.jpg" width="700">
 </p>
 
 Overlooking the ancient temples and ruins of Bagan, Burma.
@@ -121,7 +121,7 @@ Overlooking the ancient temples and ruins of Bagan, Burma.
 ------
 
 <p align="center">
-  <img src="/images/photos-travel/equador.png">
+  <img src="/images/photos-travel/equador.png" width="700">
 </p>
 
 Standing on the Equator! 
@@ -129,7 +129,7 @@ Standing on the Equator!
 ------
 
 <p align="center">
-  <img src="/images/photos-travel/5-london-new-years.jpg">
+  <img src="/images/photos-travel/5-london-new-years.jpg" width="700">
 </p>
 
 Celebrating the 2014 New Year in London, across the Thames river. 
@@ -137,7 +137,7 @@ Celebrating the 2014 New Year in London, across the Thames river.
 -----
 
 <p align="center">
-  <img src="/images/photos-travel/6-london-new-years-crowd.jpg">
+  <img src="/images/photos-travel/6-london-new-years-crowd.jpg" width="700">
 </p>
 
 And the super crazy and super drunk London crowds. 
@@ -145,7 +145,7 @@ And the super crazy and super drunk London crowds.
 -----
 
 <p align="center">
-  <img src="/images/photos-travel/7-burma-new-years.jpg">
+  <img src="/images/photos-travel/7-burma-new-years.jpg" width="700">
 </p>
 
 This was the 2016 New Year in Burma! As explained [here](http://www.123newyear.com/newyear-traditions/buddhist.html){:target="_blank"}:
@@ -155,7 +155,7 @@ This was the 2016 New Year in Burma! As explained [here](http://www.123newyear.c
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/3-pichu.jpg">
+  <img src="/images/photos-travel/3-pichu.jpg" width="700">
 </p>
 
 Visiting [Machu Picchu](){:target="_blank"} of the Incan civilization.
@@ -163,7 +163,7 @@ Visiting [Machu Picchu](){:target="_blank"} of the Incan civilization.
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/shibuya.jpg">
+  <img src="/images/photos-travel/shibuya.jpg" width="700">
 </p>
 
 This is [Shibuya crossing](https://www.google.gr/search?q=Shibuya+crossing&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiQ1rPMy-_VAhVpLcAKHWWrA3gQsAQIOQ&biw=700&bih=736){:target="_blank"}, in Tokyo, famed to be the busiest intersection in the world. Find me! 
@@ -171,7 +171,7 @@ This is [Shibuya crossing](https://www.google.gr/search?q=Shibuya+crossing&tbm=i
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/3-canoe.jpg">
+  <img src="/images/photos-travel/3-canoe.jpg" width="700">
 </p>
 
 This is us canoe polo-ing, which, believe it or not, is a [thing](https://www.youtube.com/watch?v=LPmxXt47XJU){:target="_blank"}. It's literally playing polo while canoeing. The picture below is me tipping over in the canoe --- it's actually incredibly hard to stay stable while trying to move forward with the ball. That whole week I was afraid some sort of swamp worm would have infected me. 
@@ -179,13 +179,13 @@ This is us canoe polo-ing, which, believe it or not, is a [thing](https://www.yo
 ----
 
 <p align="center">
-  <img src="/images/photos-travel/4-c.jpg">
+  <img src="/images/photos-travel/4-c.jpg" width="700">
 </p>
 
 ---
 
 <p align="center">
-  <img src="/images/photos-travel/brandon.jpg">
+  <img src="/images/photos-travel/brandon.jpg" width="700">
 </p>
 
 Meeting Brandon Stanton of [Humans of New York ](http://www.humansofnewyork.com/about){:target="_blank"}. I heard he was coming to Hopkins to speak and made a point of making sure I met him before he left :P
@@ -193,7 +193,7 @@ Meeting Brandon Stanton of [Humans of New York ](http://www.humansofnewyork.com/
 ---
 
 <p align="center">
-  <img src="/images/photos-travel/shuya.jpg" width="400">
+  <img src="/images/photos-travel/shuya.jpg" width="400" width="700">
 </p>
 
 My Tokyo host above was _amazing_. He not only let me stay at his place for almost a week but also cooked me an _amazing_ traditional Japanese dinner. 
@@ -201,7 +201,7 @@ My Tokyo host above was _amazing_. He not only let me stay at his place for almo
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/9-colombia.jpg">
+  <img src="/images/photos-travel/9-colombia.jpg" width="700">
 </p>
 
 This is overlooking the beautiful Colombian city of Bogota.
@@ -209,7 +209,7 @@ This is overlooking the beautiful Colombian city of Bogota.
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/10-london-crazy.jpg">
+  <img src="/images/photos-travel/10-london-crazy.jpg" width="400">
 </p>
 
 This is me and Nicole being crazy, and totally contradicting the prim and proper British ways. 😛
@@ -217,7 +217,7 @@ This is me and Nicole being crazy, and totally contradicting the prim and proper
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/11-czech.jpg">
+  <img src="/images/photos-travel/11-czech.jpg" width="400">
 </p>
 
 In the Czech Republic, it was so interesting to see kids casually walking the streets alone --- such a different cultural take than the American view of 'kids walking alone is incredibly dangerous'.
@@ -225,7 +225,7 @@ In the Czech Republic, it was so interesting to see kids casually walking the st
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/shwedagon.jpg">
+  <img src="/images/photos-travel/shwedagon.jpg" width="700">
 </p>
 
 This is the [Shwedagon Pagoda](https://www.google.gr/search?q=shwedagon+pagoda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjCuaLYxu_VAhWqD8AKHQ2mBacQ_AUICigB&biw=701&bih=736){:target="_blank"}, in Burma. Even after 28+ countries, the Shwedagon Pagoda is by far, the most impressive religious structure I've _ever_ seen --- far more impressive than even [St. Peter's Basilica](https://www.google.gr/search?biw=701&bih=696&tbm=isch&sa=1&q=st.+peter%27s+basilica&oq=st.+peter%27s+bas&gs_l=psy-ab.3.0.0j0i30k1l3.55474.57301.0.58136.15.12.0.0.0.0.241.1305.0j7j1.8.0....0...1.1.64.psy-ab..7.8.1304...0i67k1.NHKf5NUWoLM){:target="_blank"}. It's simply absolutely _stunning_.
@@ -233,7 +233,7 @@ This is the [Shwedagon Pagoda](https://www.google.gr/search?q=shwedagon+pagoda&s
 ------
 
 <p align="center">
-  <img src="/images/photos-travel/chang-rai.jpg">
+  <img src="/images/photos-travel/chang-rai.jpg" width="700">
 </p>
 
 This is [Wat Rong Khun](https://en.wikipedia.org/wiki/Wat_Rong_Khun){:target="_blank"} in Chang Rai, Thailand. The entire structure is symbolic of Buddhist philosophy. As explained by Wikipedia:
@@ -243,7 +243,7 @@ This is [Wat Rong Khun](https://en.wikipedia.org/wiki/Wat_Rong_Khun){:target="_b
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/13-scotland-volcano.jpg">
+  <img src="/images/photos-travel/13-scotland-volcano.jpg" width="700">
 </p>
 
 This was a mountain I climbed in Scotland which would have been an awesome hike, had it not started snowing and hailing _super_ hard halfway up. Suffice to say, I still made it up and back down without dying. 
@@ -259,7 +259,7 @@ Below is an image of the mountain from afar.
 -------
 
 <p align="center">
-  <img src="/images/about-page/colosseum.jpg">
+  <img src="/images/about-page/colosseum.jpg" width="700">
 </p>
 
 Exploring the Colosseum. 
@@ -267,7 +267,7 @@ Exploring the Colosseum.
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/15-spain.jpg">
+  <img src="/images/photos-travel/15-spain.jpg" width="700">
 </p>
 
 This was _the best_ pastry shop I've ever been to, in Madrid, Spain. Cakes and pastries to die for.
@@ -277,7 +277,7 @@ I believe it was [La Mallorquina](https://www.tripadvisor.co.uk/Restaurant_Revie
 -------
 
 <p align="center">
-  <img src="/images/photos-travel/1-bigbang.jpg">
+  <img src="/images/photos-travel/1-bigbang.jpg" width="700">
 </p>
 
 You've probably seen me wear this. A lot :P
@@ -291,7 +291,7 @@ So a couple weeks later, I ended up getting one made in Bangkok, Thailand, where
 ----
 
 <p align="center">
-  <img src="/images/photos-travel/2-bb.jpg">
+  <img src="/images/photos-travel/2-bb.jpg" width="300">
 </p>
 
 Big Bang concert! I ended up sneaking up to the front to see them a bit closer + had a camera with _epic_ zoom, resulting in this awesome photo. 😊
@@ -299,7 +299,7 @@ Big Bang concert! I ended up sneaking up to the front to see them a bit closer +
 ----
 
 <p align="center">
-  <img src="/images/photos-travel/croc-min.jpg">
+  <img src="/images/photos-travel/croc-min.jpg" width="300">
 </p>
 
 Almost got eaten by a crocodile :P
@@ -307,7 +307,7 @@ Almost got eaten by a crocodile :P
 ---
 
 <p align="center">
-  <img src="/images/couchsurfing-guide/hawking.jpg">
+  <img src="/images/couchsurfing-guide/hawking.jpg" width="300">
 </p>
 
 Couchsurfed at Cambridge University, where my host took me to see Stephen Hawking's old office. 
@@ -315,7 +315,7 @@ Couchsurfed at Cambridge University, where my host took me to see Stephen Hawkin
 ---
 
 <p align="center">
-  <img src="/images/photos-travel/view.jpg">
+  <img src="/images/photos-travel/view.jpg" width="300">
 </p>
 
 Enjoying the view.
@@ -323,7 +323,7 @@ Enjoying the view.
 ----
 
 <p align="center">
-  <img src="/images/photos-travel/16-salinas-grande.jpg">
+  <img src="/images/photos-travel/16-salinas-grande.jpg" width="700">
 </p>
 
 This picture was taken at the [Salinas Grandes](https://en.wikipedia.org/wiki/Salinas_Grandes_(Jujuy_and_Salta)){:target="_blank"} in Jujuy, Argentina. 
