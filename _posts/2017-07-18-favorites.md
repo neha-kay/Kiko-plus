@@ -22,7 +22,7 @@ category: about_neha
 
 ## Favorite Books
 
-A whole article on this coming soon! 
+Listed [here]({% post_url 2017-07-18-favorite-books %}){:target="_blank"}.
 
 ## Favorite Quotes
 
