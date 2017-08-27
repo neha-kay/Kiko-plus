@@ -11,35 +11,6 @@ category: about_neha
 permalink: /photos/
 ---
 
-### Countries I've Most Enjoyed Visiting
-
-In no particular order:
-
-* India
-* Myanmar (Burma)
-* Italy
-* Thailand
-* Argentina
-* Brazil
-
-### Favorite Experiences (in no particular order)
-
-* Myanmar (Burma) - The most epic people, super, super cheap, stunned by the [Shwedagon Pagoda](https://www.google.it/search?q=shwedagon+pagoda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwixst_p5d7VAhXD0RQKHStSAqkQ_AUICigB&biw=1226&bih=780){:target="_blank"}.
-* Ghana - Worked with and met some of the greatest people ever.
-* United Kingdom - Studied as a visiting student at Oxford, what's not to love?
-
-### Countries I Want to Go Back To. . . (in no particular order)
-
-* Argentina and Chile - So much to see + absolutely beautiful, need to visit Patagonia.
-* Brazil - *incredibly* fun country (especially Rio 😛 ).
-
-### Great but Wouldn't Recommend Locations 
-
-* South Korea - I found it a bit boring 😕 (but that's just me)
-* Jamaica - Expensive and pretty creepy -- as a thrifty female, both of these are dealbreakers 😕
-* Ecuador - Besides _Mitad del Mundo_ found it a bit boring (but that's just me) 
-* Switzerland - Expensive *AF*
-
 ### Footsteps Abroad
 
 <p align="center">
@@ -359,6 +330,35 @@ This picture was taken at the [Salinas Grandes](https://en.wikipedia.org/wiki/Sa
 
 More photos [here](https://www.flickr.com/photos/150567501@N07/){:target="_blank"}!
 ## Footsteps Abroad 
+
+### Countries I've Most Enjoyed Visiting
+
+In no particular order:
+
+* India
+* Myanmar (Burma)
+* Italy
+* Thailand
+* Argentina
+* Brazil
+
+### Favorite Experiences (in no particular order)
+
+* Myanmar (Burma) - The most epic people, super, super cheap, stunned by the [Shwedagon Pagoda](https://www.google.it/search?q=shwedagon+pagoda&source=lnms&tbm=isch&sa=X&ved=0ahUKEwixst_p5d7VAhXD0RQKHStSAqkQ_AUICigB&biw=1226&bih=780){:target="_blank"}.
+* Ghana - Worked with and met some of the greatest people ever.
+* United Kingdom - Studied as a visiting student at Oxford, what's not to love?
+
+### Countries I Want to Go Back To. . . (in no particular order)
+
+* Argentina and Chile - So much to see + absolutely beautiful, need to visit Patagonia.
+* Brazil - *incredibly* fun country (especially Rio 😛 ).
+
+### Great but Wouldn't Recommend Locations 
+
+* South Korea - I found it a bit boring 😕 (but that's just me)
+* Jamaica - Expensive and pretty creepy -- as a thrifty female, both of these are dealbreakers 😕
+* Ecuador - Besides _Mitad del Mundo_ found it a bit boring (but that's just me) 
+* Switzerland - Expensive *AF*
 
 __Asia |__
 Hong Kong, India. Japan, Malaysia, Myanmar (Burma), South Korea, Thailand
