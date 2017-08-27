@@ -59,6 +59,12 @@ If you could imagine an entire city erupting in a party for 3 consecutive nights
 
 -------
 
+<p align="center">
+  <img src="/images/photos-travel/sal.jpg">
+</p>
+
+Saying hi to Sal, the founder of Khan Academy and getting a bit goofy.
+---
 
 <p align="center">
   <img src="/images/photos-travel/gangnam.jpg" width="400">
@@ -67,6 +73,18 @@ If you could imagine an entire city erupting in a party for 3 consecutive nights
 Me in the Gangnam district in South Korea! Yes, I did the Gangnam Style dance there, and no, I will not be posting that. 😛
 
 -------
+
+<p align="center">
+  <img src="/images/photos-travel/underwater.jpg">
+</p>
+
+At Oxford, I once played underwater hockey which is about as crazy as it sounds. This is me before the game. It's literally played on the floor of a pool, about 10 feet down with scuba equipment. The scuba equipment is so that you can watch the game while recovering your breath but the actual play is on the pool floor. When you're back in play, you sort of dive down and get into the game --- this is [what it looks like under the water](https://www.youtube.com/watch?v=SAukrpTEvZA){:target="_blank"}. 
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/OctopushTwoPlayers28092009.JPG/300px-OctopushTwoPlayers28092009.JPG">
+</p>
+
+----
 
 <p align="center">
   <img src="/images/photos-travel/border.png" width="300">
@@ -115,6 +133,13 @@ This is [Wat Rong Khun](https://en.wikipedia.org/wiki/Wat_Rong_Khun){:target="_b
 > > "The main building at the white temple, the ubosot, is reached by crossing a bridge, "the cycle of rebirth", over a small lake. In front of the bridge are hundreds of outreaching hands that symbolize unrestrained desire. The bridge proclaims that the way to happiness is by foregoing temptation, greed, and desire."
 
 -------
+
+<p align="center">
+  <img src="/images/photos-travel/napoleon.jpg">
+</p>
+
+---
+Visiting Napoleon's house and the Mona Lisa!
 
 <p align="center">
   <img src="/images/photos-travel/bagan-sun.jpg">
@@ -247,6 +272,82 @@ This was _the best_ pastry shop I've ever been to, in Madrid, Spain. Cakes and p
 I believe it was [La Mallorquina](https://www.tripadvisor.co.uk/Restaurant_Review-g187514-d2071743-Reviews-La_Mallorquina-Madrid.html){:target="_blank"} that we went to, but I guess I'll have to re-visit to be 100% sure. 😛
 
 -------
+
+<p align="center">
+  <img src="/images/photos-travel/1-bigbang.jpg">
+</p>
+
+You've probably seen me wear this. A lot :P
+
+Big Bang is probably the only artist I've ever had a super strong allegiance to, so naturally, I made it a mission to get a hat with BigBang's logo in South Korea. 
+
+But lo and behold, after about a week of searching I _could not_ find a hat with a simple BigBang logo on it --- even in Myeongdong, the mecca for all things K-pop. 
+
+So a couple weeks later, I ended up getting one made in Bangkok, Thailand, where it costs about $12 to make a custom hat. SO that's the origin story of this hat. Only $12 of value, but took a great deal of effort to make :P  
+
+----
+
+<p align="center">
+  <img src="/images/photos-travel/2-bb.jpg">
+</p>
+
+Big Bang concert! I ended up sneaking up to the front to see them a bit closer + had a camera with _epic_ zoom, resulting in this awesome photo. 😊
+
+----
+
+<p align="center">
+  <img src="/images/photos-travel/3-canoe.jpg">
+</p>
+
+This is us canoe polo-ing, which, believe it or not, is a [thing](https://www.youtube.com/watch?v=LPmxXt47XJU){:target="_blank"}. It's literally playing polo while canoeing. The picture below is me tipping over in the canoe --- it's actually incredibly hard to stay stable while trying to move forward with the ball. That whole week I was afraid some sort of swamp worm would have infected me. 
+
+----
+
+<p align="center">
+  <img src="/images/photos-travel/4-c.jpg">
+</p>
+
+---
+
+<p align="center">
+  <img src="/images/photos-travel/brandon.jpg">
+</p>
+
+Meeting Brandon Stanton of [Humans of New York ](http://www.humansofnewyork.com/about){:target="_blank"}. I heard he was coming to Hopkins to speak and made a point of making sure I met him before he left :P
+
+---
+
+<p align="center">
+  <img src="/images/photos-travel/croc-min.jpg">
+</p>
+
+Almost got eaten by a crocodile :P
+
+---
+
+<p align="center">
+  <img src="/images/photos-travel/jkrowling.jpg">
+</p>
+
+Went to the cafe where J.K. Rowling started writing Harry Potter. 
+
+---
+
+<p align="center">
+  <img src="/images/couchsurfing-guide/hawking.jpg">
+</p>
+
+Couchsurfed at Cambridge University, where my host took me to see Stephen Hawking's old office. 
+
+---
+
+<p align="center">
+  <img src="/images/photos-travel/view.jpg">
+</p>
+
+Enjoying the view.
+
+----
 
 <p align="center">
   <img src="/images/photos-travel/16-salinas-grande.jpg">
