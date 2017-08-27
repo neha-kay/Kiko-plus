@@ -13,7 +13,7 @@ category: about_neha
 
 ## Navigate the Favorites
 
-* Books --- A whole article coming soon 😊
+* [Books](#favorite-books)
 * [Quotes]({% post_url 2015-03-04-quotes %}){:target="_blank"}
 * [Blogs](#favorite-blogs)
 * [Articles](#favorite-articles)
@@ -26,14 +26,14 @@ Listed [here]({% post_url 2017-07-18-favorite-books %}){:target="_blank"}.
 
 ## Favorite Quotes
 
-A whole article of these [here]({% post_url 2015-03-04-quotes %}){:target="_blank"}
+Listed [here]({% post_url 2015-03-04-quotes %}){:target="_blank"}.
 
 ## Favorite Blogs
 
 [Wait But Why](https://waitbutwhy.com){:target="_blank"}
 * A long-form blog which analyzes all aspects of life and technology.
 
-* [Paul Graham's Essays](http://www.paulgraham.com/articles.html){:target="_blank"}
+[Paul Graham's Essays](http://www.paulgraham.com/articles.html){:target="_blank"}
 
 [James Clear](http://jamesclear.com/articles){:target="_blank"}
 * James writes various pieces on productivity, habits and organization. 
