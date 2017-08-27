@@ -8,6 +8,7 @@ comments: true
 share: true
 
 category: about_neha
+permalink: /photos/
 ---
 
 ### Countries I've Most Enjoyed Visiting
@@ -356,6 +357,7 @@ Enjoying the view.
 
 This picture was taken at the [Salinas Grandes](https://en.wikipedia.org/wiki/Salinas_Grandes_(Jujuy_and_Salta)){:target="_blank"} in Jujuy, Argentina. 
 
+More photos [here](https://www.flickr.com/photos/150567501@N07/){:target="_blank"}!
 ## Footsteps Abroad 
 
 __Asia |__
