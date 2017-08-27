@@ -50,9 +50,9 @@ To this in August:
   <img src="/images/posts/now.png">
 </p>
 
-This blog is the culmination of 1000+ small, *entirely* insignificant milestones --- getting the favicon up, customizing the CSS to look just right, writing a bazillion posts that quite possibly no one may read, _proofreading_ the bazillion posts that quite possibly no one may read, etc. 
+LOL. Yep.
 
-And it’s been so great to see the website ‘grow up’ into what it is now. I love it so much ❤️
+This blog is the culmination of 1000+ small, *entirely* insignificant milestones --- getting the favicon up, customizing the CSS to look just right, writing a bazillion posts that quite possibly no one may read, _proofreading_ the bazillion posts that quite possibly no one may read, etc. And it’s been so great to see the website ‘grow up’ into what it is now. I love it so much ❤️
 
 
 <h3 style="color:#6495ed;"> Job v. Career | August 8, 2017 </h3>
