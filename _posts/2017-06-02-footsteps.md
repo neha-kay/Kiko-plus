@@ -381,12 +381,6 @@ Coming soon ;)
 __Upcoming Trips |__
 Australia, China, New Zealand
 
-__Oceania |__
-Coming soon ;) 
-
-__Antartica |__
-Coming soon ;)
-
 <p align="center">
   <img src="/images/photos-travel/ForevertheForeigner.jpeg">
 </p>
