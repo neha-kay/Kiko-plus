@@ -120,7 +120,7 @@ If you see something you like or want to reach out, please do.
 
 Below is a list of which cities I'll be in and when --- if you're in town, let's meet up. I'm super approachable and love meeting new people. Otherwise, welcome to the site, and have fun 😊
 
-<h3> 2017: Where's <strike>Waldo</strike> Neha 😛 </h3>
+<h3> 2017: 8 Month Plan 😛 </h3>
 -----
 
 <p align="center">
