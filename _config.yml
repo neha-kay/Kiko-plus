@@ -59,6 +59,8 @@ nav:
     url:            "/about"
   - name:           "Archive"
     url:            "/archive"
+ - name:            "Life Perspective"
+    url:            "/life-perspective/"
   - name:           "Musings"
     url:            "/daily-musings/"
   - name:           "Guides"

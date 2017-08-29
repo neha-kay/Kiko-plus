@@ -8,6 +8,7 @@ comments: true
 share: true
 
 category: life
+permalink: /life-perspective/
 ---
 
 Below are some of my personal life perspectives. 

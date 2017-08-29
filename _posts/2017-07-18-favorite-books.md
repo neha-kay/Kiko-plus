@@ -52,10 +52,12 @@ category: about_neha
 * The Compound Effect
 * The Dip (Seth Godin)
 * The Invisible Gorilla
-* The Lean Startup 
+* The Lean Startup
+* The Power of Habit 
 * The Power of Now
 * The Shack
 * The Subtle Art of Not Giving a Fuck
+* The 4-Hour Workweek
 * Things I Wish My Mother Had Told Me
 * Think Like a Freak: The Authors of Freakonomics Retrain Your Brain
 * What Color is Your Parachute?
