@@ -20,6 +20,14 @@ Here we go!
 ### Suffering is universal.
 Simply put, life is suffering. While it may sound depressing, it really isn't meant to be. On the contrary, it's meant to acknowledge that life's suffering should be expected and any joy beyond it is a gift, not the other way around.
 
+As Mark Manson puts it:
+
+> > “One of those realizations was this: that life itself is a form of suffering. The rich suffer because of their riches. The poor suffer because of their poverty. People without a family suffer because they have no family. People with a family suffer because of their family. People who pursue worldly pleasures suffer because of their worldly pleasures. People who abstain from worldly pleasures suffer because of their abstention.
+
+> > This isn’t to say that all suffering is equal. Some suffering is certainly more painful than other suffering. But we all must suffer nonetheless.”
+
+
+
 This leads to the second belief, that . . .
 
 ### Life owes one nothing at all. Nothing whatsoever.

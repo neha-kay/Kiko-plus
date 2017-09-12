@@ -27,6 +27,10 @@ Reid Hoffman, founder of LinkedIn points out:
 
 >  > "Sure, Bill Clinton decided on politics at age sixteen, and set his sights on the presidency almost as young. But most of us zig and zag our way through life. Tony Blair spent a year trying to make a go of it as a rock music promoter before entering politics. Jerry Springer was mayor of Cincinnati before attaining daytime television fame. Andrea Bocelli practiced law before he became a world-famous singer.  Winning careers, like winning start-ups, are in permanent beta: always a work in progress."
 
+Meanwhile, Sheryl Sandberg, current COO of Facebook points out that, had she mapped out her entire career from the start, she would have missed working at both Google and Facebook; after all, when she graduated from Harvard, as [this article](https://www.gsb.stanford.edu/insights/sheryl-sandberg-develop-your-voice-not-your-brand?utm_source=facebook&utm_medium=social&utm_campaign=stripes&utm_content=08052017&utm_source=FBPAGE&utm_medium=Social&utm_campaign=Insights&Date=20170805&linkId=40402833){:target="_blank"} points out, Facebook hadn't existed yet. 
+
+> > Sheryl Sandberg: “If you try to plan out your career, it’s going to be boring. You’re going to miss all the good stuff, because all the good stuff hasn’t been invented yet”. “You want to have a really long-run dream and you want to have a short-run plan. And that short-run plan, it’s not about what you accomplish, especially in the early days. It’s about what you help other people accomplish and about what you learn. You invest in yourself. You invest in the success of your teams.”
+
 Jeff Goins, author of [The Art of Work](https://www.amazon.com/gp/product/0718022076/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0718022076&linkCode=as2&tag=amazon05b3-20&linkId=fca6114f2ea8714d7e7f0f7a31891613){:target="_blank"}, argues:
 
 > > “Finding your purpose is more of a path than a plan: it involves twists and turns that you never expected. Ultimately these surprises lead you to your destiny. And once you arrive at what you thought was the destination, you realize it’s only another leg in the journey.”
