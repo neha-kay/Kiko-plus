@@ -133,7 +133,7 @@ For me, this section looks something like this:
   <img src="/images/couchsurfing-guide/good-requests.jpg">
 </p>
 
-And that’s it! If you follow these guidelines you'll be good to go, but if you still need help I’m here for you --- just email me at [neha@nehakay.com](mailto:neha@nehakay.com) if you need me to look over your request or need help in any way. 
+And that’s it! If you follow these guidelines you'll be good to go, but if you still need help I’m here for you --- just email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) if you need me to look over your request or need help in any way. 
 
 ### Staying Safe
 Continue to the next page of this guide to learn more about [making sure your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}). If you're a woman reading this, you can check out my other post with similar information, [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %}).
@@ -161,6 +161,6 @@ _Other Posts in This Series:_
 
 __If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
 
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
 
 -- Neha

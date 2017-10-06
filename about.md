@@ -7,7 +7,7 @@ permalink: /about/
 
 Hi! My name is Neha. This is my brain space - my tabula rasa for random thoughts.
 
-Welcome, have fun, and if you see something you like, reach out at <neha@nehakay.com>.
+Welcome, have fun, and if you see something you like, reach out at <nehakay8@gmail.com>.
 
 ## About Me
 

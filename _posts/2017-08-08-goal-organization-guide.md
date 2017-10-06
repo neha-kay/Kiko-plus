@@ -39,7 +39,7 @@ And that's pretty much it by way of introduction. So with that, onwards, friend!
 
 As you'll see below, I do all of my major goal, project, and multi-month planning in Excel spreadsheets. It's versatile, free form, great for lists, and combined with my [multi-month and month views]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}, allows me to centralize all my productivity tools around Google Calendar and Excel.
 
-If you want any of the Excel templates of the layouts below, email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'll send them right over. 
+If you want any of the Excel templates of the layouts below, email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'll send them right over. 
 
 ### Macro Level Goal Planning
 
@@ -180,7 +180,7 @@ _Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-
 
 __If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
 
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
 
 -- Neha
 

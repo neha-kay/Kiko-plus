@@ -98,7 +98,7 @@ I highly recommend setting up multi-month and month views in **Excel**. It's ver
 Bam! Your entire productivity system is now centralized between Excel and Google Calendar. Sometimes, it helps to print these views to PDF if you want an application that will open quickly, but otherwise, an exclusive Google Calendar and Excel system is perfect. 
 
 ##### The Template
-Email me at [neha@nehakay.com](mailto:neha@nehakay.com) for the multi-month and month template above. 
+Email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) for the multi-month and month template above. 
 
 From there, customize it by filling in the right dates. Enter major events like tests, major milestones, due dates, major problem sets, extracurricular events, etc.
 
@@ -173,7 +173,7 @@ __Build the habit of always entering an event into your calendar and checking Go
 
 ## Conclusion
 
-And that's it! If you follow those guidelines, you're new and upgraded time organization system is ready to go. If you liked the Excel templates above, email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I can send the ones I use over. Otherwise, make your own, get started, and have a ton of fun! Fill in below with any advice you might have that wasn't otherwise said.
+And that's it! If you follow those guidelines, you're new and upgraded time organization system is ready to go. If you liked the Excel templates above, email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I can send the ones I use over. Otherwise, make your own, get started, and have a ton of fun! Fill in below with any advice you might have that wasn't otherwise said.
 
 ---
 
@@ -190,6 +190,6 @@ _Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-
 
 __If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
 
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
 
 -- Neha

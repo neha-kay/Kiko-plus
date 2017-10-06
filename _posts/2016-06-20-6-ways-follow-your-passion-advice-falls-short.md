@@ -143,4 +143,4 @@ _Other posts in the Career Guide._
 
 __Was this post/guide helpful? Leave a comment below, if so.__
 
-If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [neha@nehakay.com](mailto:neha@nehakay.com). If you have any questions or comments by leaving a comment on one of the pages – I check them daily and I promise I’ll get back to you. With that, onwards, friends! 
+If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com). If you have any questions or comments by leaving a comment on one of the pages – I check them daily and I promise I’ll get back to you. With that, onwards, friends! 

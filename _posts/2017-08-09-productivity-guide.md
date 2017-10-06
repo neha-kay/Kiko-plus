@@ -397,7 +397,7 @@ I highly recommend setting up multi-month and month views in **Excel**. It's ver
 Bam! Your entire productivity system is now centralized between Excel and Google Calendar. Sometimes, it helps to print these views to PDF if you want an application that will open quickly, but otherwise, an exclusive Google Calendar and Excel system is perfect. 
 
 ##### The Template
-Email me at [neha@nehakay.com](mailto:neha@nehakay.com) for the multi-month and month template above. 
+Email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) for the multi-month and month template above. 
 
 From there, customize it by filling in the right dates. Enter major events like tests, major milestones, due dates, major problem sets, extracurricular events, etc.
 
@@ -492,7 +492,7 @@ And that's pretty much it by way of introduction. So with that, onwards, friend!
 
 As you'll see below, I do all of my major goal, project, and multi-month planning in Excel spreadsheets. It's versatile, free form, great for lists, and combined with my [multi-month and month views]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}, allows me to centralize all my productivity tools around Google Calendar and Excel.
 
-If you want any of the Excel templates of the layouts below, email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'll send them right over. 
+If you want any of the Excel templates of the layouts below, email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'll send them right over. 
 
 ### Macro Level Goal Planning
 
@@ -619,7 +619,7 @@ These past few months for me have been interesting simply because I have 8 month
 
 ## Conclusion
 
-And that's pretty much it! If you have any questions *at all* about implementing this, improving it, walking through accountability declarations --- literally anything --- email me at [neha@nehakay.com](mailto:neha@nehakay.com). I **love** talking about this stuff and helping you work through it would literally be a hobby for me. 
+And that's pretty much it! If you have any questions *at all* about implementing this, improving it, walking through accountability declarations --- literally anything --- email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com). I **love** talking about this stuff and helping you work through it would literally be a hobby for me. 
 
 Make sure to also check out [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"}.
 
@@ -635,6 +635,6 @@ This Productivity Guide has 4 sections in total:
 
 __If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
 
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
 
 -- Neha

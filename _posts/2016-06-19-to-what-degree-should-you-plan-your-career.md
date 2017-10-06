@@ -84,6 +84,6 @@ _Other posts in the Career Guide._
 
 __If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
 
-If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [neha@nehakay.com](mailto:neha@nehakay.com). Happy to help in really any way. 
+If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com). Happy to help in really any way. 
 
 -- Neha

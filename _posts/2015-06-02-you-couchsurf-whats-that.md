@@ -167,6 +167,6 @@ _Other Posts in This Series:_
 
 __If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
 
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
 
 -- Neha

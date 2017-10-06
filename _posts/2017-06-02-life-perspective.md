@@ -148,6 +148,6 @@ That being said, the phrase is incredibly calming, in light of a personal mistak
 
 __Was this post/guide helpful? Leave a comment below, if so --- I check them daily__ 🙂 
 
-You can also email me at [neha@nehakay.com](mailto:neha@nehakay.com) and I'm happy to help out in really any way. 
+You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
 
 -- Neha
