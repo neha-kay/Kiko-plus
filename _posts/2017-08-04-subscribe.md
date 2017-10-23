@@ -8,7 +8,6 @@ comments: true
 share: true
 
 category: about_neha
-permalink: /start-here/
 --- 
 
 ### Subscribe!
