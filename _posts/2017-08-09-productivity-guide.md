@@ -3,7 +3,7 @@ layout: post
 title: "Productivity Guide"
 description: "A guide on getting things done when you have little motivation to do them."
 date: 2017-08-09
-tags: [guides, organization/productivity]
+tags: [organization/productivity]
 comments: true
 share: true
 category: organization/productivity

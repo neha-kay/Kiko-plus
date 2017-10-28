@@ -3,7 +3,7 @@ layout: post
 title: "Note Organization Guide"
 description: "Creating a system to maintain and catalog notes."
 date: 2017-08-10
-tags: [guides, organization/productivity]
+tags: [organization/productivity]
 comments: true
 share: true
 

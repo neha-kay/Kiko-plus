@@ -3,7 +3,7 @@ layout: post
 title: "Time Organization Guide"
 description: 
 date: 2017-08-07
-tags: [guides, organization/productivity]
+tags: [organization/productivity]
 comments: true
 share: true
 

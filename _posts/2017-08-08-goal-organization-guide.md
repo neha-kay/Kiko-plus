@@ -3,7 +3,7 @@ layout: post
 title: "Goal Organization Guide"
 description: 
 date: 2017-08-08
-tags: [guides, organization/productivity]
+tags: [organization/productivity]
 comments: true
 share: true
 category: organization/productivity
