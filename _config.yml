@@ -67,7 +67,7 @@ nav:
     url:            "/goals/"
   - name:           "Photos"
     url:            "/photos/"  
-  - name:           "Liked this?"
+  - name:           "Like this?"
     url:            "/subscribe/"   
 # Sass
 sass:
