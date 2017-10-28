@@ -12,13 +12,13 @@ layout: default
   <nav class="header-nav">
     {% for nav in site.nav %}
     {% if nav.url contains 'http://' or nav.url contains 'https://' %}
-    <a href="{{ nav.url }}" target="_blank"><font color="#ed9d64">{{ nav.name }}</font></a>
+    <a href="{{ nav.url }}" target="_blank"><font color="#6495ed">{{ nav.name }}</font></a>
     &thinsp;
     {% elsif nav.url contains 'subscribe' %}
-    <a href="{{ nav.url | prepend: site.baseurl }}" ><font color="#6495ed">{{ nav.name }}</font></a>
+    <a href="{{ nav.url | prepend: site.baseurl }}" ><font color="#c9c9ff">{{ nav.name }}</font></a>
     &thinsp;
     {% else %}
-    <a href="{{ nav.url | prepend: site.baseurl }}" ><font color="#ed9d64">{{ nav.name }}</font></a>
+    <a href="{{ nav.url | prepend: site.baseurl }}" ><font color="#6495ed">{{ nav.name }}</font></a>
     &thinsp;
     {% endif %}
     {% endfor %}
