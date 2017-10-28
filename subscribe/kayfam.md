@@ -7,7 +7,7 @@ tags: [about neha, random]
 comments: true
 share: true
 
-category: about_neha
+permalink: /joinfam/
 --- 
 
 ### Join the Kay Family!
