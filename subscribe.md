@@ -7,7 +7,7 @@ tags: [about neha, random]
 comments: true
 share: true
 
-permalink: /subscribe
+permalink: /subscribe/
 --- 
 
 ### Join the Kay Family!

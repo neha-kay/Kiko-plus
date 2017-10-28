@@ -71,7 +71,8 @@ nav:
     url:            "/photos/"
   - name:           "New? Start Here"
     url:            "/start-here/"   
-    
+  - name:           "Like this content?"
+    url:            "/subscribe/"   
 # Sass
 sass:
   sass_dir:         _sass
