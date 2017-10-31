@@ -3,11 +3,12 @@ layout: post
 title: Society Has Dating All Wrong
 description: "Two fundamental misconceptions about dating."
 date: 2014-07-31
-tags: [random]
+tags: [relationships]
 comments: true
 share: true
 published: true
 
+category: relationships
 ---
 
 I read [this Wait But Why Article](https://waitbutwhy.com/2014/02/pick-life-partner.html){:target="_blank"} recently and couldn't help but highlight two *entirely* accurate concepts. 
