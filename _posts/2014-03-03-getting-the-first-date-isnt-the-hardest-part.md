@@ -3,10 +3,10 @@ layout: post
 title: "Getting the first date isn't the hardest part. . . "
 description: "Getting the first date isn't the hardest part; it's finding a reason to continue meeting up that is."
 date: 2014-03-03
-tags: [relationships]
+tags: [random]
 comments: true
 share: true
-published: true
+published: false
 
 category: relationships
 ---
