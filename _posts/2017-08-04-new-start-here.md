@@ -29,9 +29,8 @@ permalink: /start-here/
 * On [organizing notes]({% post_url 2017-08-10-note-organization-guide %}).
 
 ### On People & Relationships
-* [Thoughts On Maintaining Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %}).
+* [Thoughts On Maintaining a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %}).
 * [Society Has Dating All Wrong]({% post_url 2014-07-31-society-has-dating-all-wrong %}).
-* [We Want to Be Valued For Our Less Obvious Traits & Abilities]({% post_url 2017-04-31-we-want-to-be-valued-for-less-obvious-abilities %}){:target="_blank"}
 
 ### Photos to Stalk
 
