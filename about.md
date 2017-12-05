@@ -62,11 +62,7 @@ I studied at Johns Hopkins as a double major, double minor, majoring in Economic
 
 Like most people, I had generally no clue as to what I'd want to do in the future, beyond wanting to gain technical skill. I researched a ton and even documented my research as a [career guide]({% post_url 2016-06-19-the-career-guide %}){:target="_blank"} before hitting the college fall recruiting season in full force. 
 
-I was lucky enough to receive 8 job offers in the fall with companies probably far too good for me --  Deloitte, Booz Allen Hamilton, Prudential, Teach for America, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018. 
-
-If I can be of any help to you in terms of job recruiting / getting a job / the job search, feel free to email me at <neha@nehakay.com>; I'm happy to help out and pay it forward. 😊 
-
-In any case, from a long-term perspective, I still have no clue what I want to do in the future. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
+In any case, from a long-term perspective, even after all of that, I still have no clue what I want to do in the future. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
 
 ### In my free time I . . . 
 
