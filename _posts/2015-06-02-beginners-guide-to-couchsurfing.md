@@ -9,7 +9,7 @@ share: true
 published: true
 
 category: travel
-permalink: /travel/the-beginners-guide-to-couchsurfing-how-to-couchsurf/
+permalink: /couchsurfing-guide
 ---
 
 __Welcome to the Beginner's Couchsurfing Guide!__
