@@ -27,6 +27,8 @@ Otherwise, feel free to skip to some of the other content listed below:
 
 This guide covers: 
 
+* Part 1: The Beginner's Guide to Couchsurfing - How to Couchsurf (this page)
+
 * Part 2: [What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %})
 
 * Part 3: [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %})
