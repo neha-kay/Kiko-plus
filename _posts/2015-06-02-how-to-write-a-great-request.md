@@ -71,7 +71,7 @@ So, I usually start off my request with:
 
 > > “I come bearing chocolate!”
 
-which is quite the attention-getter. By starting off this way, I give the host an incentive to host me while peaking their interest in my request – which is incredibly important when messaging hosts in cities like London or New York, where hosts are flooded with 10-15 requests per day. In these cases, hosts are skimming their inboxes, not sure which to click on first. A mention of food, I guarantee you, will elevate your chances of standing out in the crowd of contenders. If you have some other type of skill – like cooking for example – mention it in the request itself.
+which is quite the attention-getter. By starting off this way, I give the host an incentive to host me while piquing their interest in my request – which is incredibly important when messaging hosts in cities like London or New York, where hosts are flooded with 10-15 requests per day. In these cases, hosts are skimming their inboxes, not sure which to click on first. A mention of food, I guarantee you, will elevate your chances of standing out in the crowd of contenders. If you have some other type of skill – like cooking for example – mention it in the request itself.
 
 #### 2. Show genuine interest in them
 
