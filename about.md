@@ -11,7 +11,7 @@ In September 2015, I published [The Official Couchsurfing Guide](https://www.neh
 
 Now, back to a modest 10-20 daily visitors, I focus on updating the blog with my thoughts on career exploration, organization, entrepreneurship, and positive psychology. The website is mostly a place for me to share my thoughts, in the event others like me will find them useful.
 
-Welcome, have fun, and if you see something you like, reach out at <neha@nehakay.com>.
+Welcome, have fun, and if you see something you like, feel free to email me! (<neha@nehakay.com>).
 
 ## About Me
 
