@@ -7,19 +7,24 @@ permalink: /about/
 
 Hi! My name is Neha. This is my brain space - my tabula rasa for random thoughts.
 
+In September 2015, I published [The Official Couchsurfing Guide](https://www.nehakay.com/couchsurfing-guide) which became super popular within the Couchsurfing community.
+
+Now, back to a modest 10-20 daily visitors, I focus on updating the blog with my thoughts on career exploration, organization, entrepreneurship, and positive psychology. The website is mostly a place for me to share my thoughts, in the event others like me will find them useful.
+
 Welcome, have fun, and if you see something you like, reach out at <neha@nehakay.com>.
 
 ## About Me
 
-### My friends describe me as . . . 
+### I'm generally described as . . . 
 * Cheerful
 * Playful
 * Analytical
 * High-energy
 * Giving
-* Spreadsheet-oriented (thanks Alex :P)
+* "Spreadsheet-oriented" #Alex
+* "Data-driven" #Ron #Annapurna
 
-I used to joke that I have basically no social life, but I don't think that's entirely true anymore. My close friends and family mean the world to me. If we've ever videochatted, hung out at a board game night, or spent time together in person, you know I'm referring to you. 
+I used to joke that I have basically no social life, but I don't think that's entirely true (anymore). My close friends and family mean the world to me. If we've ever videochatted, hung out at a board game night, or spent time together in person, you know I'm referring to you. 
 
 At the same time, I'm pretty binary when it comes to relationships; I know most people from a distance, with the exception of a select few whom I invest all my energy in. So I guess I'm pretty picky when it comes to close relationships and take a good deal of time to warm up to people. But if I do warm up, I can promise an incredibly intense and fulfilling relationship.
 
@@ -61,6 +66,8 @@ __Future Plans / Future Trajectory__
 I studied at Johns Hopkins as a double major, double minor, majoring in Economics & Psychology and minoring in Computer Science and Entrepreneurship & Management. Also studied at Oxford University as a visiting student in 2014 and 2015.
 
 Like most people, I had generally no clue as to what I'd want to do in the future, beyond wanting to gain technical skill. I researched a ton and even documented my research as a [career guide]({% post_url 2016-06-19-the-career-guide %}){:target="_blank"} before hitting the college fall recruiting season in full force. 
+
+I was lucky enough to receive 8 job offers in the fall with companies probably far too good for me -- Deloitte, Booz Allen Hamilton, Prudential, Teach for America, Bloomberg, etc., before finally choosing to work at Microsoft in February 2018.
 
 In any case, from a long-term perspective, even after all of that, I still have no clue what I want to do in the future. But I'm open-minded, driven, and ready to put in the time if I see or create something valuable.
 
