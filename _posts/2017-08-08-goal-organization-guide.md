@@ -1,26 +1,29 @@
 ---
 layout: post
-title: "Goal Organization Guide"
-description: 
+title: "Too Many Goals? Organizing & Prioritizing Them"
+description: "A system to organize macro-level and day-to-day goals within your time constraints."
 date: 2017-08-08
 tags: [organization/productivity]
 comments: true
 share: true
 category: organization/productivity
-
+f-image: /images/goal-organization-guide/goals.jpg
 ---
 
-_This guide is part of the 4-Part Productivity Guide._ 
+This guide is part of the 5-Part Productivity Guide. 
 
-_Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
+Check out all 5 parts in __[The Only Productivity Guide You'll Ever Need]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}__.
 
-* _Part 1. [The Accountability Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"} --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done._
-* _Part 2. [The Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"} --- to simply be more organized with one's time and to develop a solid time organization system._
-* _Part 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize and maintain clarity on macro-level and day-to-day goals within whatever time constraint you have._
-* _Part 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource._
 
+__The Productivity Guide:__
+* Part 1. [Getting Stuff Done When You Have No Motivation To Do Them]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"} --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
+* Part 2: [Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"} --- the ultimate guide on organizing time.
+* _Part 3: Too Many Goals? Organizing & Prioritizing Them_ --- a system to organize macro-level and day-to-day goals within your time constraints.
+* Part 4: [The Most Useful Productivity Insights I've Come Across]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
+* Part 5: [The Note Organization Guide]({% post_url 2017-08-10-note-organization-guide %}){:target="_blank"} --- how to actually organize the million notes you have.
 
 -------
+
 ## Introduction
 
 Goal organization refers to 2 elements:
@@ -35,26 +38,26 @@ The purpose of this piece is to lay out different ways of representing goals and
 
 And that's pretty much it by way of introduction. So with that, onwards, friend! 
 
-### Excel Spreadsheets, Ahoy! 
+## Excel Spreadsheets, Ahoy! 
 
 As you'll see below, I do all of my major goal, project, and multi-month planning in Excel spreadsheets. It's versatile, free form, great for lists, and combined with my [multi-month and month views]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}, allows me to centralize all my productivity tools around Google Calendar and Excel.
 
-If you want any of the Excel templates of the layouts below, email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'll send them right over. 
+If you want any of the Excel templates of the layouts below, email me at <a href="mailto:{{site.email}}">{{site.email}}</a> and I'll send them right over. 
 
-### Macro Level Goal Planning
+## Macro Level Goal Planning
 
 I _love_ macro level goal planning. 
 
 It just feels super optimistic/inspiring/awesome --- kind of like the start of a semester. Macro level planning is particularly great at the beginning of any new phase – a new semester, before starting a job, before a vacation, etc.
 
-#### I. Retrospective Reflection
-__My favorite method of macro level planning is imagining myself in the future, and thinking retrospectively about what I’d feel great having done or achieved.__
+### I. Retrospective Reflection
 
-I ask myself:  
+My favorite method of macro level planning is imagining myself in the future, and thinking retrospectively about what I’d feel great having done or achieved. I ask myself:  
 
-> > __“Imagine you just got off the plane in Dallas after your 8 months off. You have a wide grin on your face because you've accomplished *everything* you set out to accomplish. What did you accomplish?__
+> > __“Imagine it's 8 months in the future and you're thinking back over the last 8 months. You have a wide grin on your face because you've accomplished *everything* you set out to accomplish. What did you accomplish?__
  
 Is it cheesy? Yep.
+
 Does it work well? Yep.
 
 I’ll then go ahead and outline some vague goals underneath which might look like this: 
@@ -66,7 +69,7 @@ I’ll then go ahead and outline some vague goals underneath which might look li
 	- Incorporated into daily life -- I naturally seek to write.
 * *(and more goals)*
 
-##### Prioritizing & Organizing
+### Prioritizing & Organizing
 
 At this point, you’ll likely have a number of goals – maybe as many as 7 or 10 depending on how optimistic you are. 
 
@@ -81,11 +84,9 @@ When creating missions, it’s better if your missions are _task oriented_ rathe
 You can identify which of these goals are priorities by asking yourself: 
 > > "Say you could only accomplish 5 of these. Which would it be and why?”
 
-### Other Macro Level Views
+## Other Macro Level Views
 
-<p align="center">
-  <img src="/images/goal-organization-guide/goal-org-guide-other-views.png">
-</p>
+<a href="#" class="image main"><img src="{{ "/images/goal-organization-guide/goal-org-guide-other-views.png" | absolute_url }}" alt="" /></a>
 
 Sometimes, in addition to the reflective process above, I'll lay out vague projects/goals/habits as they occur to me like the example above. Then, at the start of each month or at the end of a project, I'll pick a to-do/project/thing-to-learn/habit to implement that month, and focus then on hammering out the details during that month. 
 
@@ -104,9 +105,9 @@ __In other words, we need to streamline action on a project by listing out the m
 
 After a macro planning session I like to lay out goals/action items per project with the following template: 
 
-<p align="center">
+<div align="center">
   <img src="/images/goal-organization-guide/goal-org-guide-project-view.png">
-</p>
+</div>
 
 Each project has a set of actionable tasks, arranged by how long it takes to complete each task.
 
@@ -118,11 +119,11 @@ A couple quick notes:
 
 I like this setup for a few reasons. 
 
-##### It’s great if you have multiple projects you’re managing. 
+#### It’s great if you have multiple projects you’re managing. 
 
 Organized by project/class allows you to pick and choose which projects are more pressing or which you're more in the mood for. 
 
-##### It's helpful for seeing what you can get done in a given time period.
+#### It's helpful for seeing what you can get done in a given time period.
 
 Breaking tasks down by the time it takes to do them is helpful when deciding what to do on a day-to-day basis. If I have small blocks of time, I know I can grab tasks from the *Quick* column and quickly finish them off during those small time blocks. 
 
@@ -143,45 +144,35 @@ I don’t have a set platform for weekly planning – sometimes I’ll use paper
 
 ## Other Cool Views & Planning Tools
 
-#### A Done Category
+### A 'Done' Category
 
 I maintain a "Done" Column to copy tasks into once I've finished them. Even though it's easier deleting them, it's nice looking back after a couple months and seeing your progress. Suffice to say, it's a friendly reminder that achievement is simply the summation of small, seemingly unimportant tasks.
 
-#### Brain Dumps
+### Brain Dumps
 Brain dumps involve racking your brain for _every_ existing project and action item, and getting it all on paper. They’re particularly great to do during a macro level planning session or in transitory periods (e.g. start or end of a work/school period).
 
 The benefit of this is simply not having to remember a million tasks in your head. There’s a huge amount of ‘carrying cost’ to store tasks, reminders, and to-dos in one’s head and it’s often times incredibly relieving to just sort of write them down and remove them from one’s internal memory storage. Use [this list](http://gettingthingsdone.com/wp-content/uploads/2014/10/Mind_Sweep_Trigger_List.pdf){:target="_blank"} as a starting point for your brain dump. 
 
-### If you live a more free-form life. . .
+## If you live a more free-form life. . .
 
 These past few months for me have been interesting simply because I have 8 months off to make progress on whatever goals I see fit before starting work at Microsoft. I've taken to listing out the general projects I'll be working on each month, and then drilling down the actionable tasks that month itself. 
 
-<p align="center">
+<div align="center">
   <img src="/images/goal-organization-guide/goal-org-guide-month-goals.png">
-</p>
+</div>
 -----------
-<p align="center">
+<div align="center">
   <img src="/images/goal-organization-guide/goal-org-guide-essential-breakdown.png">
-</p>
+</div>
 
 ----
 
-_This guide is part of the 4-Part Productivity Guide._ 
+__This guide is part of the 5-Part Productivity Guide.__
 
-_Check out all 4 parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
+_Check out all parts together in the [Productivity Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}, or see the individual pages below:_
 
-* _Part 1. [The Accountability Guide]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"}_
-* _Part 2. [The Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"}_
-* _Part 3. [The Goal Organization Guide]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"}_
-* _Part 4. [Crowdsourced Tips on Being More Productive]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"}_
-
-
-------
-
-__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
-
-You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
-
--- Neha
-
-
+* Part 1. [Getting Stuff Done When You Have No Motivation To Do Them]({% post_url 2017-08-09-productivity-guide %}){:target="_blank"} --- to get beyond one's natural laziness/lack of self-discipline to actually get valuable projects done.
+* Part 2: [Time Organization Guide]({% post_url 2017-08-07-time-organization-guide %}){:target="_blank"} --- the ultimate guide on organizing time.
+* Part 3: [Too Many Goals? Organizing & Prioritizing Them]({% post_url 2017-08-08-goal-organization-guide %}){:target="_blank"} --- a system to organize macro-level and day-to-day goals within your time constraints.
+* Part 4: [The Most Useful Productivity Insights I've Come Across]({% post_url 2017-08-04-crowdsourced-tips-on-being-more-productive %}){:target="_blank"} --- a running list of great tips, resources, and links curated from other top sources to create a centralized productivity resource.
+* Part 5: [The Note Organization Guide]({% post_url 2017-08-10-note-organization-guide %}){:target="_blank"} --- how to actually organize the million notes you have.

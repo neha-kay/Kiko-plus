@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts"
+title: "Career Choices - Money, Personal Growth, Titles, or Prestige?"
 description: "What do you choose and optimize for - money, personal growth, titles, or prestige?"
 date: 2016-06-19
 tags: [career]
@@ -8,16 +8,18 @@ comments: true
 share: true
 published: true
 future: true
-
+f-image: /images/career-guide/choice.jpg
 category: career
 ---
 
 _This page is part of the 5-part Career Guide._
-* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
-* _What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts_
-* _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})_
-* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
-* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
+* [Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})
+* _Career Choices - Money, Personal Growth, Titles, or Prestige?_
+* [To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})
+* [6 Ways Advice To 'Follow Your Passion' Falls Short For Millenials]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})
+* [How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})
+
+
 
 -----
 
@@ -39,18 +41,15 @@ He argues the best work opportunities are awarded to those who’ve built up ‘
 
 In this sense, Newport argues a focus on personal development is not just a priority, but vitally necessary in achieving career success. With that, he argues, the rest – titles, promotions, money, and prestige, will follow. Easier said than done, in my opinion, but still pretty worthy advice. 
 
-Continue to the next page in this series, [To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %}).
+__Continue to the next page in this series:__ [To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %}).
 
 ---
 
-_Other Posts in the Career Guide._
+__Other Posts in the Career Guide.__
 * _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
+
 * _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})_
-* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
+
+* _[6 Ways Advice To 'Follow Your Passion' Falls Short For Millenials]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
+
 * _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
-
------
-
-__Was this post/guide helpful? Leave a comment below, if so.__
-
-If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com). If you have any questions or comments by leaving a comment on one of the pages – I check them daily and I promise I’ll get back to you. With that, onwards, friends!

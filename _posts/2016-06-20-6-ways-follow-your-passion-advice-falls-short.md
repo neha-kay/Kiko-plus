@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Many Ways 'Follow Your Passion' Advice Falls Short"
+title: "6 Ways Advice To 'Follow Your Passion' Falls Short for Millenials"
 description: "How the advice to 'follow your passion' falls short."
 date: 2016-06-20
 tags: [career]
@@ -8,20 +8,20 @@ comments: true
 share: true
 published: true
 future: true
-
+f-image: /images/posts/passion.jpg
 category: career
 ---
 
 _This page is part of the 5-part Career Guide._
-* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
-* _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %})_
-* _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})_
-* _The Many Ways 'Follow Your Passion' Advice Falls Short_
-* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
+* [Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})
+* [Career Choices - Money, Personal Growth, Titles, or Prestige?]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %})
+* [To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})
+* _6 Ways Advice To 'Follow Your Passion' Falls Short For Millenials_
+* [How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})
 
 ----
 
-### The Passion Hypothesis
+## The Passion Hypothesis
 
 We’re all fairly familiar with the passion hypothesis:
 
@@ -35,7 +35,7 @@ However, the ‘follow your passion’ advice has a number of pitfalls. Many of 
 
 Below I've highlighted 6 key flaws of the 'passion hypothesis' which often go overlooked. 
 
-#### Problem 1: Being ‘passionate’ about a skill is an entirely different issue than surviving the rigor of that skill. 
+### Problem 1: Being ‘passionate’ about a skill is an entirely different issue than surviving the rigor of that skill. 
 
 It's easy to tell someone "I am passionate about ___X___".
 
@@ -51,22 +51,22 @@ Meanwhile, prestigious occupations like consulting and finance have hoards of st
  
 Or more generally, what happens when passion simply isn’t enough? Perhaps the focus shouldn’t be on a nebulous notion of ‘passion’ but rather on other more concrete factors and character qualities – grit, emotional intelligence, teamwork skills, ability to network, etc.
 
-#### Problem 2: Career passions are rare and market demand is a powerful force
+### Problem 2: Career passions are rare and market demand is a powerful force
 
 No one ever says they’re passionate about legal investigation. Most people point to activities like sports, singing, dancing, etc., and it’s this precise sector that has the largest dearth of jobs. 
 
 The less likely someone is to pay for your skill the harder it becomes to support yourself with that skill, no matter your degree of expertise. Naturally this doesn’t mean it’s impossible; professional dancers exist as do companies which employ historians. 
 
 __But it simply means the odds are statistically stacked against your favor, and other character qualities, like grit, hard work, and personal connections all become vitally crucial.__ You may have to out-skill many more people , have specific personal connections in the industry (example: Hollywood), or simply work incredibly, incredibly hard (example: professional sports), etc.,). 
-<p align="center">
-  <img src="/images/career-guide/passion-v-jobs.png" width="400">
-</p>
 
+<div align="center">
+  <img src="/images/career-guide/passion-v-jobs.png" width="400">
+</div>
 ([Source]( https://web.archive.org/web/20150816224758/http://selfdeterminationtheory.org/SDT/documents/2003_VallerancBlanchardMageauKoesnterRatelleLeonardGagneMacolais_JPSP.pdf){:target=”:_blank”} and [Source]( https://web.archive.org/web/20150816225221/http://www12.statcan.gc.ca/census-recensement/2006/dp-pd/tbt/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=0&GK=0&GRP=1&PID=92117&PRID=0&PTYPE=88971,97154&S=0&SHOWALL=0&SUB=0&Temporal=2006&THEME=74&VID=0&VNAMEE=&VNAMEF=){:target=”:_blank”})
 
 Which brings us to the next problem. . .
 
-#### Problem 3: Passions change and are hard to pin down
+### Problem 3: Passions change and are hard to pin down
 
 If that isn’t enough, passions change over time and are particularly hard to pin down right out of college when one has little experience in the real world. These interests take time to develop and cultivate.  
 
@@ -78,7 +78,7 @@ If that isn’t enough, passions change over time and are particularly hard to p
 > > 
 > > Don’t panic if you can’t think of a career path that’s a perfect fit. In large part, this is because interests are not just discovered, they’re developed. Scientists have learned that the sort of enduring fascination that commencement speakers like to praise usually takes time and experience to bloom fully.”
 
-#### Problem 4: Most of us have a very limited purview of available jobs
+### Problem 4: Most of us have a very limited purview of available jobs
 
 Ask a kid which jobs exist, and he’ll likely be able to list 10, 20, 40 tops. Doctor, lawyer, engineer, consultant. What about an industrial engineer? Or an appeals reviewer?
 
@@ -91,7 +91,7 @@ This results in a set of problems:
 
 This is important because . . .
 
-#### Problem 5: We like jobs for more nuanced reasons than innate interests 
+### Problem 5: We like jobs for more nuanced reasons than innate interests 
 
 Research shows there are many elements which lead us to enjoy our jobs. 
 [As 80,000 hours puts it](https://80000hours.org/articles/dont-follow-your-passion/){:target="_blank"}:
@@ -115,7 +115,7 @@ Meanwhile, career expert, Cal Newport argues the 3 most important elements in jo
 
 Suffice to say, the formula for job satisfaction encompasses far more than one’s passion for a job. 
 
-#### Problem 6: The passion hypothesis tends to cast too much focus on the destination and not enough on the journey and environment there. 
+### Problem 6: The passion hypothesis tends to cast too much focus on the destination and not enough on the journey and environment there. 
 
 Often when we imagine ourselves in a position – dancing, serving as a CEO, serving as a doctor – we imagine the camera-facing view without the underlying annoyances. Perhaps we imagine the prestige of serving as a professor in a top tier institution, without considering the constant expectation of searching for grant funding and underlying academic politics. Consider Tim Westergren (founder of Pandora)’s [take on serving as a founder/ CEO of a startup](https://www.quora.com/What-does-it-feel-like-being-the-CEO-of-a-startup#!n=18){:target="_blank"}: 
 
@@ -129,18 +129,15 @@ As such our view of what we’re passionate about is biased towards the good and
 
 Given these pitfalls of the passion hypothesis, it’s clear job satisfaction is far more nuanced than a matter of simply following one’s passion. 
 
- Next up in the series: [How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %}).
+__Next up in the series:__ [How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %}).
 
---
+-----
 
-_Other posts in the Career Guide._
+__Other posts in the Career Guide.__
 * _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
+
 * _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %})_
+
 * _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})_
+
 * _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
-
-----
-
-__Was this post/guide helpful? Leave a comment below, if so.__
-
-If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com). If you have any questions or comments by leaving a comment on one of the pages – I check them daily and I promise I’ll get back to you. With that, onwards, friends! 

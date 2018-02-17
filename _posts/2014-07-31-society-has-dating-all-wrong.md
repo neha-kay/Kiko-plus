@@ -7,15 +7,13 @@ tags: [random]
 comments: true
 share: true
 published: true
-
-category: relationships
+f-image: /images/posts/dating.jpg
+category: life
 ---
 
-I read [this Wait But Why Article](https://waitbutwhy.com/2014/02/pick-life-partner.html){:target="_blank"} recently and couldn't help but highlight two *entirely* accurate concepts. 
+I read [this Wait But Why Article](https://waitbutwhy.com/2014/02/pick-life-partner.html){:target="_blank"} recently and couldn't help but highlight two *entirely* accurate concepts. I've directly quoted Tim below:
 
-I've directly quoted Tim below:
-
-## An obvious paradox between dating and pretty much everything else in life
+## A paradox between dating and pretty much everything else in life
 
 > > "If you’re running a business, conventional wisdom states that you’re a much more effective business owner if you study business in school, create well thought-out business plans, and analyze your business’s performance diligently. This is logical, because that’s the way you proceed when you want to do something well and minimize mistakes.
 > > 
@@ -23,7 +21,6 @@ I've directly quoted Tim below:
 > > 
 > > No, when it comes to dating, society frowns upon thinking too much about it, instead opting for things like relying on fate, going with your gut, and hoping for the best. If a business owner took society’s dating advice for her business, she’d probably fail, and if she succeeded, it would be partially due to good luck—and that’s how society wants us to approach dating."
 > > 
-> > [Source](https://waitbutwhy.com/2014/02/pick-life-partner.html){:target="_blank"}
 
 ## Inefficiency everywhere 
 

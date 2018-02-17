@@ -1,17 +1,15 @@
 ---
 layout: post
-title: "What Part of Aging Do You Wish Someone Had Warned You About?"
-description: "Reddit users weigh in on the advice they wish their younger selves had known."
+title: "Parts of Aging You Wish You'd Been Warned About"
+description: Reddit users weigh in on the advice they wish their younger selves had known.
 date: 2017-07-14
 tags: [life perspective]
 comments: true
 share: true
 published: true
-
+f-image: /images/posts/aging.jpg
 category: life
 ---
-
-# Being Humbled
 
 A friend forwarded [this Reddit page](https://www.reddit.com/r/AskReddit/comments/6n2g3j/what_part_of_aging_do_you_wish_someone_had_warned/){:target="_blank"} which highlights what people wish they had known about aging. 
 
@@ -53,6 +51,10 @@ Some particularly moving perspectives:
 
 > > That try as you may, you're never fully prepared for your parents to get older. Somehow I still half expect my mom to be able to do certain things and it's disheartening that she can't. Even more so that she lacks the ambition and drive to do much. 
 
+<div align="center">
+  <img src="/images/posts/aging-2.jpg" width="550">
+</div>
+<br>
 ## On Hearing
 
 > > OH! And you know all of those metal concerts??? Tinnitus is a bitch!
@@ -160,10 +162,3 @@ Every. Day.
 
 All of the quotes above were directly quoted from the thread [here](https://www.reddit.com/r/AskReddit/comments/6n2g3j/what_part_of_aging_do_you_wish_someone_had_warned/){:target="_blank"}.
 
-------
-
-__Was this post/guide helpful/intriguing? Leave a comment below, if so --- I check them daily__ 🙂 
-
-You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
-
--- Neha
