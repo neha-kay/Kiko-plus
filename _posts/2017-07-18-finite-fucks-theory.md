@@ -7,12 +7,14 @@ tags: [life perspective]
 comments: true
 share: true
 published: true
-f-image: /images/posts/fucks.jpg
+
 category: life
 ---
 
-
-<a href="#" class="image main"><img src="{{ "/images/posts/finite-fucks-theory.png" | absolute_url }}" alt="" /></a>
-
+<p align="center">
+  <img src="/images/posts/finite-fucks-theory.png">
+</p>
 
 Brought to you by [Reddit](https://www.reddit.com/r/AskReddit/comments/6n2g3j/what_part_of_aging_do_you_wish_someone_had_warned/){:target="_blank"}.
+
+

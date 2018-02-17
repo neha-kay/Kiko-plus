@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Ultimate Career Guide"
+title: "The Career Guide"
 description: "Learning about how to make career decisions from those who know best."
 date: 2016-06-19
 tags: [career]
@@ -8,7 +8,7 @@ comments: true
 share: true
 published: true
 future: true
-f-image: /images/career-guide/career.jpg
+
 category: career
 ---
 
@@ -42,14 +42,19 @@ This guide won’t tell you which career to pursue or answer any million dollar 
 -	Everyone says 'do what you love' but it sounds a bit flaky. Should I be listening to that advice?
 -	Successful people work hard but they also seem to have good luck. How do I _make_ luck?
 
-__Continue to the next page in this series:__ [What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %}){:target="_blank"}.
+Continue to the next page in this series, [What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %}){:target="_blank"}.
 
 -----
-__Other Posts in This Series:__
+_Other Posts in This Series:_
 * _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %})_
-
 * _[To What Degree Should You Plan Your Career?]({% post_url 2016-06-19-to-what-degree-should-you-plan-your-career %})_
-
-* _[6 Ways Advice To 'Follow Your Passion' Falls Short For Millenials]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
-
+* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
 * _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
+
+------
+
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
+
+You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
+
+-- Neha

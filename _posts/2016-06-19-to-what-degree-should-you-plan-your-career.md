@@ -1,24 +1,23 @@
 ---
 layout: post
 title: "To What Degree Should You Plan Your Career?"
-description: "How much should you actually plan?"
+description: "How do you go about planning a career?"
 date: 2016-06-19
 tags: [career]
 comments: true
 share: true
 published: true
 future: true
-f-image: /images/career-guide/plan.jpg
+
 category: career
 ---
 
-__This page is part of the 5-part Career Guide.__
-* [Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})
-* [Career Choices - Money, Personal Growth, Titles, or Prestige?]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %})
+_This page is part of the 5-part Career Guide._
+* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
+* _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %})_
 * _To What Degree Should You Plan Your Career?_
-* [6 Ways Advice To 'Follow Your Passion' Falls Short For Millenials]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})
-* [How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})
-
+* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
+* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
 
 ----
 
@@ -36,11 +35,11 @@ Jeff Goins, author of [The Art of Work](https://www.amazon.com/gp/product/071802
 
 > > “Finding your purpose is more of a path than a plan: it involves twists and turns that you never expected. Ultimately these surprises lead you to your destiny. And once you arrive at what you thought was the destination, you realize it’s only another leg in the journey.”
 
-In other words, a career is the **sum path of individual inflection points** – or in other words, the vector that arises from connecting the different jobs we take on. In that way, it’s un-plannable; how do you plan the people you’ll meet that will offer you jobs? Or how do you plan the realizations you’ll make as you progress through jobs, which end up affecting which jobs you take and which jobs you don’t? In that sense, career planning is unplannable in the traditional sense, but fully plannable in a more flexible way. 
+In other words, a career is the *sum path of individual inflection points* – or in other words, the vector that arises from connecting the different jobs we take on. In that way, it’s un-plannable; how do you plan the people you’ll meet that will offer you jobs? Or how do you plan the realizations you’ll make as you progress through jobs, which end up affecting which jobs you take and which jobs you don’t? In that sense, career planning is unplannable in the traditional sense, but fully plannable in a more flexible way. 
 
 Here, I’ll point out the two most useful models of career planning I’ve come across: that of Keith Ferrazzi and that of Reid Hoffman. 
 
-## The Mission & Goal Oriented Model | Keith Ferrazzi
+### The Mission & Goal Oriented Model | Keith Ferrazzi
 
 In [Never Eat Alone](https://www.amazon.com/gp/product/0385346654/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0385346654&linkCode=as2&tag=amazon05b3-20&linkId=47ffa9b6bd24b7724878e004eb592405){:target="_blank"}, Ferrazzi argues the more specific we are about our goals, the easier it becomes to strategize around it and develop meaningful relationships relevant to the goal at hand. He points to a study which asked Yale’s class of 1953 a number of questions regarding goals, including:
 
@@ -57,7 +56,7 @@ Make of that, what you will. Ferrazzi recommends using a plan which involves:
 -	Each year has a set of two smaller goals to accomplish within that time frame (A & B goals).
 -	If you’re a massive planner, you can create 3 month goals within those periods to focus and drive your efforts.
 
-## The Entrepreneurial Approach | Reid Hoffman (Founder of LinkedIn)
+### The Entrepreneurial Approach | Reid Hoffman (Founder of LinkedIn)
 
 Hoffman highlights a [Plan A, Plan B, and Plan Z model](https://www.linkedin.com/pulse/20121023063237-1213-flexibly-persistent-career-planning-it-s-not-about-the-color-of-your-parachute){:target="_blank"}: 
 
@@ -71,15 +70,20 @@ Hoffman argues, _"the best Plan B’s are different but related to what you are 
 
 Both of these methods highlight a concept of *flexible planning* -- allowing one to be goal-oriented but still responsive to environmental opportunities and conditions. 
 
-__Next up in the series:__ [The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %}).
+Next up in the series: [The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %}).
+
+--
+
+_Other posts in the Career Guide._
+* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
+* _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %})_
+* _[The Many Ways 'Follow Your Passion' Advice Falls Short]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
+* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
 
 ----
 
-__Other posts in the Career Guide:__
-* _[Introduction to the Career Guide]({% post_url 2016-06-19-the-career-guide %})_
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
 
-* _[What to Choose - Money, Personal Growth, Titles, or Prestige? As Told By Various Experts]({% post_url 2016-06-19-what-to-choose-money-personal-growth-titles-or-prestige %})_
+If you need individual help / an extra perspective, or simply want to pick my brain about really anything, feel free to email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com). Happy to help in really any way. 
 
-* _[6 Ways Advice To 'Follow Your Passion' Falls Short For Millenials]({% post_url 2016-06-20-6-ways-follow-your-passion-advice-falls-short %})_
-
-* _[How to Maintain Relationships and a Network]({% post_url 2017-07-31-thoughts-on-how-to-maintain-relationships %})_
+-- Neha

@@ -6,21 +6,23 @@ date: 2017-07-06
 tags: [travel - bus]
 comments: true
 share: true
-f-image: /images/bus-optimization-guide/bus.jpg
+
 category: travel
 ---
 
-__This is Part 1 of the 3-part Bus Booking Optimization Guide:__
+_This is Part 1 of the 3-part Bus Booking Optimization Guide:_
 
 * _Part 1: Basics of Bus Booking Optimization_
-* Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %})
-* Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %})
+* _Part 2: [Tips on Scoring $1 Bus Tickets]({% post_url 2017-07-06-tips-on-scoring-1-bus-tickets %})_
+* _Part 3: [Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %})_
 
 -------
 
+## The Basics
+
 You're probably thinking --- I didn't even think booking buses _could_ be optimized. In fact they can! 😀
 
-## I. Use Wanderu!
+#### I. Use Wanderu!
 [Wanderu](https://www.wanderu.com/en/){:target="_blank"} is the Google of bus tickets --- it pulls and sorts options from all major bus providers so you can identify the best ride across a 100 options instead of the 10 proprietary options the Greyhound/Megabus/Boltbus site provides.
 
 On top of that, you can:
@@ -36,7 +38,7 @@ Once you've found a bus, you can either:
 
 While I personally find Wanderu the most versatile, another great option is [BusBud](busbud.com){:target="_blank"}.
 
-## II. Booking multiple dates 1-3 months in advance may be cheaper than booking a single date the week of travel.
+#### II. Booking multiple dates 1-3 months in advance may be cheaper than booking a single date the week of travel.
 
 Say you’re traveling from Philadelphia to New York on a weekend 3 months in the future, though you’re not sure which weekend.
 
@@ -48,18 +50,18 @@ Say you’re traveling from Philadelphia to New York on a weekend 3 months in th
 
 Depending on the route, this can actually be _way_ cheaper than booking last minute. If you do this through Megabus, you can later credit the unused tickets to a future trip. 
 
-## III. Snag overnight trips if you can.
+#### III. Snag overnight trips if you can.
 
 Since you’ll be asleep a majority of the time, you won’t even realize how much time you’ve been on the bus. Plus, you avoid paying for a hotel that night. 😉
 
-## IV. If you travel often, play the rewards game.
+#### IV. If you travel often, play the rewards game.
 
 Yes, they're irritating to sign up for, but if you travel often (for example if you're a college student), being strategic about your trips and using rewards programs can pay off. 
 
-### Boltbus Rewards
+##### Boltbus Rewards
 Take 8 trips, get 1 free =)
 
-### Greyhound Rewards
+##### Greyhound Rewards
 
 |:--------:|:-------:|:--------:|
 | Book    | Reward    |
@@ -76,5 +78,13 @@ __Next up in the Bus Booking Optimization Guide:__ [Tips on Scoring $1 Bus Ticke
 
 -------
 
-__Other Posts in This Series:__
+_Other Posts in This Series:_
 * _[Optimizing Bus Bookings by Carrier]({% post_url 2017-07-06-optimizing-bus-bookings-by-carrier %})_
+
+------
+
+__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
+
+You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
+
+-- Neha

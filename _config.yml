@@ -1,63 +1,99 @@
-# Site
-title:              Neha Kay
-bio:                'Hi!'
-description:        "Hi"
-locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+# # # # # # # # # # # # #
+#    Neha Kay's Blog    #
+# # # # # # # # # # # # #
 
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    permalink: "/blog/:title/"
-    layout: post
-    author:
+# Basic
+name:               "Neha Kay"
 
-# Jekyll
-permalink:          /blog/:title/
+author:
+  facebook:         
+  youtubeUser:      
+  youtubeChannel:   
+  twitter:          
+  github:           
+  stackoverflow:    
+  quora:            
+  linkedin:         
+  pinterest:        
+  googlePlus:       
+  instagram:        
+  reddit:           
+  medium:           nehakay
+  tumblr:           
+  email:            neha@nehakay.com
+
+copyright:
+  year:             2017
+  name:             Neha Kay
+
+# Google-analytics
+google-analytics:
+  id:               "UA-102145407-1"
+
+# Disqus
+disqus:
+  id:               "neha-kay"
+
+# URL
+#url:                "nehakay.com" # the base hostname & protocol for your site
+#url:                "http://localhost:4000" # use this url when you develop
+baseurl:            "" # the subpath of your site, e.g. /blog
+
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Asia/Seoul
+permalink:          /:categories/:title
+
+# Pagination
+paginate:           200
+paginate_path:      /page:num/
+
+# Markdown
 markdown:           kramdown
-highlighter:        rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+  input:            GFM
+
+# Navigation
+nav:
+  - name:           "About"
+    url:            "/about"
+  - name:           "Archive"
+    url:            "/archive"
+  - name:            "Life Perspective"
+    url:            "/life-perspective/"
+  - name:           "Guides"
+    url:            "/guides/"
+  - name:           "Goals"
+    url:            "/goals/"
+  - name:           "Photos"
+    url:            "/photos/"  
+  - name:           "Like this?"
+    url:            "/subscribe/"   
+# Sass
 sass:
   sass_dir:         _sass
-  style:            compressed
+  style:            :compressed
 
-# Comments
-disqus_shortname:   default
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
 
-# Social
-analytics-id:       "default"
-twitter:            nehakayofficial
-facebook:           default
-instagram:          nehakayofficial
-#github:             default
-
-# personal
-location:           Dallas, TX
-phone:              Email me :P
-email:              nehakay8@gmail.com
-
-# Gems
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
 gems:
-  - jekyll-mentions
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-gist
+  - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-admin
+  - jekyll-language-plugin
 
-paginate: 6
-paginate_path: "/blog/page:num/"
-
-jekyll-mentions:
-    base_url: https://github.com
-
-# Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
+exclude:            [vendor]
