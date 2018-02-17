@@ -1,7 +1,4 @@
 <footer id="footer">
-  <body>
-    {% include clicky.html %}
-  </body>
   <section>
     <form method="POST" action="https://formspree.io/{{site.email}}">
       <div class="field">
@@ -9,23 +6,15 @@
         <input type="text" name="name" id="name" />
       </div>
       <div class="field">
-        <label for="email">Email (To Receive Replies) </label>
+        <label for="email">Email</label>
         <input type="text" name="email" id="email" />
       </div>
       <div class="field">
-        <label for="message">Ask/Tell Neha Anything!</label>
+        <label for="message">Message</label>
         <textarea name="message" id="message" rows="3"></textarea>
       </div>
-      <div class="field">
-        <label for="message">Get New Post Updates / Join the Kay Family?</label>
-        <input type="text" name="updates" id="updates" rows="1" value="Yes!"><br>
-      </div>
-
       <!--
       <div class="field">
-        
-        <textarea name="updates" id="updates" rows="1" value="Yes" ></textarea>
-
         <label for="newsletter">Updates</label>
         <input type="checkbox" name="newsletter" id="newsletter" />
         <form> <input type="checkbox" name="love" value="love" id="love"><label for="love"> Join the Kay Family!</label> </form>
@@ -34,8 +23,7 @@
       <ul class="actions">
         <li><input type="submit" value="Send Message" /></li>
       </ul>
-
-
+    </form>
   </section>
   <section class="split contact">
     <section>
