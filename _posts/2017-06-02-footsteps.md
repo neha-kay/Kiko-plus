@@ -251,7 +251,7 @@ I believe it was [La Mallorquina](https://www.tripadvisor.co.uk/Restaurant_Revie
 
 -------
 
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/1-bigbang.jpg" style="max-width:500px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/1-bigbang.jpg" style="max-width:400px" alt="" /></a></div>
 
 You've probably seen me wear this. A lot :P
 
