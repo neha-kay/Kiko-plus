@@ -53,10 +53,9 @@ Some particularly moving perspectives:
 
 > > That try as you may, you're never fully prepared for your parents to get older. Somehow I still half expect my mom to be able to do certain things and it's disheartening that she can't. Even more so that she lacks the ambition and drive to do much. 
 
-<div align="center">
-  <img src="/images/posts/aging-2.jpg" width="550">
-</div>
+<div align="center"><a href="#" class="image main"><img src="/images/posts/aging-2.jpg" style="max-width:700px" alt="" /></a></div>
 <br>
+
 ## On Hearing
 
 > > OH! And you know all of those metal concerts??? Tinnitus is a bitch!

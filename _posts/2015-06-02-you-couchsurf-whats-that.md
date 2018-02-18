@@ -16,6 +16,7 @@ featured: yes
 
 __This is Part 2 of the 8-part Beginner's Guide to Couchsurfing:__
 <br>1. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}) <br>2. _What Couchsurfing Is & How it Works_ <br> 3. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}) <br>4. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}) <br>5. [Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %}) <br>6. [How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %}) <br>7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}) <br>8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %})
+
 -------
 
 ## An Overview of Couchsurfing
@@ -28,7 +29,7 @@ Couchsurfing is perfect for people who are:
 * Open-minded (to new people and ways of living)
 * Interested in learning about the culture when traveling
 * Flexible (if dates change)
-* Willing to spend less time at the touristy sites and connect with your host (grab dinner, go to an event, have an intellectual discussion etc.,) --- 
+* Willing to spend less time at the touristy sites and connect with your host (grab dinner, go to an event, have an intellectual discussion etc.,)
 
 If you surf (e.g. stay at other people's houses) there's no obligation to host in the future, though many (including me!) often do host to pay it forward after many phenomenal surfing experiences. 
 
@@ -44,28 +45,20 @@ A huge benefit of Couchsurfing is the ability to connect with locals. When I cou
 
 The next day, he took me to see Stephen Hawking’s office - an experience only a local would know of and access. 
 
-<div align="center">
-  <img src="/images/couchsurfing-guide/hawking.jpg" width="400">
-</div>
+<div align="center"><a href="#" class="image main"><img src="/images/couchsurfing-guide/hawking.jpg" style="max-width:700px" alt="" /></a></div>
 
 Meanwhile, in the Czech Republic, my host had the most __awesome__ house and we spent a decent amount of time playing video games on his massive projector in addition to hanging out in person in the city. 
 
-<div align="center">
-  <img src="/images/couchsurfing-guide/czech.jpg" width="600">
-</div>
+<div align="center"><a href="#" class="image main"><img src="/images/couchsurfing-guide/czech.jpg" style="max-width:700px" alt="" /></a></div>
 
 He even later cooked me a vegetarian meal --- which apparently is pretty unheard of in the Czech Republic (lol).
 
-<div align="center">
-  <img src="/images/couchsurfing-guide/czech2.jpg" width="600">
-</div>
+<div align="center"><a href="#" class="image main"><img src="/images/couchsurfing-guide/czech2.jpg" style="max-width:700px" alt="" /></a></div>
 
 Finally, a couple years ago, a German surfer, Val, stayed at my place in Oxford University.
 Unlike other travelers, he he had a chance to experience what it's like living as an Oxford University student – again, an opportunity he had solely because he was Couchsurfing. I also took him canoe polo-ing -- aka playing polo in *canoes*.
 
-<div align="center">
-  <img src="/images/couchsurfing-guide/cs-canoe.jpg" width="600">
-</div>
+<div align="center"><a href="#" class="image main"><img src="/images/couchsurfing-guide/cs-canoe.jpg" style="max-width:700px" alt="" /></a></div>
 
 This is the magic of Couchsurfing 😊
 
@@ -77,13 +70,11 @@ Indeed Couchsurfing is free - free to stay with others for a few nights and free
 
 It's true that you're staying in the house of people you haven't met but references help make the experience safer. Each member of the Couchsurfing community has a profile which looks something like this:
 
-<a href="#" class="image main"><img src="/images/couchsurfing-guide/cs-profile.png" alt="" /></a>
+<div align="center"><a href="#" class="image main"><img src="/images/couchsurfing-guide/cs-profile.png" style="max-width:700px" alt="" /></a></div>
 
 Each member also has a set of references that look something like this:
 
-<div align="center">
-<img src="/images/couchsurfing-guide/cs-references.png" width="600">
-</div>
+<div align="center"><a href="#" class="image main"><img src="/images/couchsurfing-guide/cs-references.png" style="max-width:700px" alt="" /></a></div>
 
 In general, if you stay with people with a large number of references and [take the proper precautions]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}, indeed it's pretty safe, even for women. 
 

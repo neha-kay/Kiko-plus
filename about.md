@@ -118,6 +118,5 @@ Below is a list of which cities I'll be in and when --- if you're in town, let's
 <h3> 2017: 8 Month Plan 😛 </h3>
 -----
 
-<p align="center">
-  <img src="/images/about-page/8-mo.png">
-</p>
+<div align="center"><a href="#" class="image main"><img src="/images/about-page/8-mo.png" style="max-width:700px" alt="" /></a></div>
+

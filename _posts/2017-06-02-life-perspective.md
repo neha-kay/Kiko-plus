@@ -37,9 +37,7 @@ By being born, I'm entitled to neither a good life nor a happy family nor a grea
 
 By some miracle, I was born into the 0.10% of the world that has access to the internet, a top education, and the comfort of having time and freedom to write this blog. I know that's something that I need to appreciate and value more often.
 
-<p align="center">
-  <img src="/images/posts/privilege.png">
-</p>
+<div align="center"><a href="#" class="image main"><img src="/images/posts/privilege.png" style="max-width:700px" alt="" /></a></div>
 
 Sometimes, when things go wrong, I'll wonder _"why me? Why did this happen to *me*?"_
 

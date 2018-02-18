@@ -251,25 +251,17 @@ In the last few minutes when you're rushing to meet a deadline, you'll look for 
 
 ### Using accountability to wake up early.
 
-<p align="center">
-  <img src="/images/accountability-guide/accountability-wake-up.png" width="400">
-</p>
+<div align="center"><a href="#" class="image main"><img src="/images/accountability-guide/accountability-wake-up.png" style="max-width:600px" alt="" /></a></div>
 
 ### Using accountability to meet specific personal project & social goals.
 
-<p align="center">
-  <img src="/images/accountability-guide/accountability-wilson.png" width="800">
-</p>
+<div align="center"><a href="#" class="image main"><img src="/images/accountability-guide/accountability-wilson.png" style="max-width:700px" alt="" /></a></div> 
 
 ### Using accountability to exercise daily.
 
-<p align="center">
-  <img src="/images/accountability-guide/accountability-workout.png" width="600">
-</p>
+<div align="center"><a href="#" class="image main"><img src="/images/accountability-guide/accountability-workout.png" style="max-width:700px" alt="" /></a></div>
 
-<p align="center">
-  <img src="/images/accountability-guide/accountability-fitbit.png" width="400">
-</p>
+<div align="center"><a href="#" class="image main"><img src="/images/accountability-guide/accountability-fitbit.png" style="max-width:500px" alt="" /></a></div>
 
 ## Troubleshooting
 
@@ -541,9 +533,7 @@ __In other words, we need to streamline action on a project by listing out the m
 
 After a macro planning session I like to lay out goals/action items per project with the following template: 
 
-<div align="center">
-  <img src="/images/goal-organization-guide/goal-org-guide-project-view.png">
-</div>
+<div align="center"><a href="#" class="image main"><img src="/images/goal-organization-guide/goal-org-guide-project-view.png" alt="" /></a></div>
 
 Each project has a set of actionable tasks, arranged by how long it takes to complete each task.
 
@@ -593,13 +583,13 @@ The benefit of this is simply not having to remember a million tasks in your hea
 
 These past few months for me have been interesting simply because I have 8 months off to make progress on whatever goals I see fit before starting work at Microsoft. I've taken to listing out the general projects I'll be working on each month, and then drilling down the actionable tasks that month itself. 
 
-<div align="center">
-  <img src="/images/goal-organization-guide/goal-org-guide-month-goals.png">
-</div>
+<div align="center"><a href="#" class="image main"><img src="/images/goal-organization-guide/goal-org-guide-month-goals.png" style="max-width:700px" alt="" /></a></div>
+
 -----------
-<div align="center">
-  <img src="/images/goal-organization-guide/goal-org-guide-essential-breakdown.png">
-</div>
+
+<div align="center"><a href="#" class="image main"><img src="/images/goal-organization-guide/goal-org-guide-essential-breakdown.png" style="max-width:700px" alt="" /></a></div>
+
+----
 
 ## Conclusion
 
