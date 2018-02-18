@@ -31,14 +31,14 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   neha-kay
 
 # Social
 analytics-id:       "UA-102145407-1"
 twitter:            nehakayofficial
 facebook:           default
 instagram:          nehakayofficial
-#github:             default
+github:             default
 
 # personal
 location:           Dallas, TX
