@@ -52,17 +52,14 @@ In no particular order:
 ## Some Awesome Photos!
 Photos of cool experiences abroad :)
 <br> 
-<div align="center">
-  <img src="/images/photos-travel/1-autobahn.jpg" width="700">
-</div>
+
+<a href="#" class="image main"><img src="{{ "/images/photos-travel/1-autobahn.jpg" | absolute_url }}" alt="" /></a>
 
 This photo above was taken somewhere on the [autobahn](https://en.wikipedia.org/wiki/Autobahn){:target="_blank"} --- German highways with no federally mandated speed limit. 😉
 
 -------
 
-<div align="center">
-  <img src="/images/photos-travel/Sal.jpg" width="700">
-</div>
+<a href="#" class="image main"><img src="{{ "/images/Sal.jpg" | absolute_url }}" alt="" /></a>
 
 Saying hi to Sal, the founder of Khan Academy and getting a bit goofy.
 
