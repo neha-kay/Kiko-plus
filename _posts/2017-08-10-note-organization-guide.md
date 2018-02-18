@@ -95,9 +95,10 @@ Let's dive deeper into the niche each of these tools fills.
 <div class="box alt">
 	<div class="row 10% uniform">
 		<div class="4u"><span class="image fit"><img src="/images/note-organization-guide/one-note.png" alt="" /></span></div>
-		<div class="4u"><span class="image fit"><img src="/images/note-organization-guide/day-one.png" width= "300" /></span></div>
 		<div class="4u"><span class="image fit"><img src="/images/note-organization-guide/keep.png" alt="" /></span></div>
-	</div>
+		</div>
+		<div class="4u"><span class="image fit"><img src="/images/note-organization-guide/day-one.png" width= "300" /></span></div>
+		
 </div>
 
 ## I. Microsoft OneNote | The Central Hub
