@@ -2,39 +2,25 @@
 layout: post
 title: "You Couchsurf? What's that?"
 description: An overview of what Couchsurfing is.
-date: 2015-06-02
+date: 2018-01-29
 tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
-
+f-image: /images/posts/featured/couch.jpg
 category: travel
 permalink: /travel/what-is-couchsurfing/
+featured: yes
+
 ---
 
 __This is Part 2 of the 8-part Beginner's Guide to Couchsurfing:__
-
-_1. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %})_
-
-_2. What Couchsurfing Is & How it Works_
-
-_3. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %})_
-
-_4. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %})_
-
-_5. [Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %})_
-
-_6. [How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %})_
-
-_7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %})_
-
-_8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %})_
-
+<br>1. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}) <br>2. _What Couchsurfing Is & How it Works_ <br> 3. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}) <br>4. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}) <br>5. [Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %}) <br>6. [How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %}) <br>7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}) <br>8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %})
 -------
 
 ## An Overview of Couchsurfing
 
-### What is Couchsurfing? 
+## What is Couchsurfing? 
 
 Couchsurfing is a [website](couchsurfing.com){:target="_blank"} which allows you to connect with people in different cities and participate in cultural exchange for free by staying with them in their house, usually for 2-4 nights. 
 
@@ -52,34 +38,34 @@ Some hosts are pretty hands off or are busy with work; others want to take you o
 
 ### What has your experience been like? 
 
-As a female solo backpacker, I've Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. 
+As a female solo backpacker, as of writing this post, I've Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. 
 
 A huge benefit of Couchsurfing is the ability to connect with locals. When I couchsurfed at  Cambridge University, for example, I lived like a student with my host, Jacky, a Cambridge student. We dined at a Hogwarts-style common room other travelers couldn’t access and my host even treated me to a _giant_ home-cooked feast with his classmates the day I arrived.
 
 The next day, he took me to see Stephen Hawking’s office - an experience only a local would know of and access. 
 
-<p align="center">
+<div align="center">
   <img src="/images/couchsurfing-guide/hawking.jpg" width="400">
-</p>
+</div>
 
 Meanwhile, in the Czech Republic, my host had the most __awesome__ house and we spent a decent amount of time playing video games on his massive projector in addition to hanging out in person in the city. 
 
-<p align="center">
+<div align="center">
   <img src="/images/couchsurfing-guide/czech.jpg" width="600">
-</p>
+</div>
 
 He even later cooked me a vegetarian meal --- which apparently is pretty unheard of in the Czech Republic (lol).
 
-<p align="center">
+<div align="center">
   <img src="/images/couchsurfing-guide/czech2.jpg" width="600">
-</p>
+</div>
 
 Finally, a couple years ago, a German surfer, Val, stayed at my place in Oxford University.
 Unlike other travelers, he he had a chance to experience what it's like living as an Oxford University student – again, an opportunity he had solely because he was Couchsurfing. I also took him canoe polo-ing -- aka playing polo in *canoes*.
 
-<p align="center">
+<div align="center">
   <img src="/images/couchsurfing-guide/cs-canoe.jpg" width="600">
-</p>
+</div>
 
 This is the magic of Couchsurfing 😊
 
@@ -91,15 +77,13 @@ Indeed Couchsurfing is free - free to stay with others for a few nights and free
 
 It's true that you're staying in the house of people you haven't met but references help make the experience safer. Each member of the Couchsurfing community has a profile which looks something like this:
 
-<p align="center">
-  <img src="/images/couchsurfing-guide/cs-profile.png">
-</p>
+<a href="#" class="image main"><img src="/images/couchsurfing-guide/cs-profile.png" alt="" /></a>
 
 Each member also has a set of references that look something like this:
 
-<p align="center">
-  <img src="/images/couchsurfing-guide/cs-references.png">
-</p>
+<div align="center">
+<img src="/images/couchsurfing-guide/cs-references.png" width="600">
+</div>
 
 In general, if you stay with people with a large number of references and [take the proper precautions]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}){:target="_blank"}, indeed it's pretty safe, even for women. 
 
@@ -140,9 +124,11 @@ If you Couchsurf, expect to spend time with your host -- perhaps touring the cit
 
 Yes, sometimes a host will cancel on you last minute. It's only happened once or twice for me of 21 surfing experiences, but indeed, it's a possibility. If you aren't able to be flexible in these circumstances, you're better off booking a hostel or hotel. 
 
-### In Conclusion
+## In Conclusion
 
 Imagine going to different cities, coming home to home-cooked meals, experiencing the city with friends your age, and having wild, unexpected and unequivocally valuable experiences.  This is the magic of Couchsurfing.
+
+__Continue to the next page in the guide:__ [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %})
 
 ------
 
@@ -161,12 +147,3 @@ _Other Posts in This Series:_
 * _[How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %})_
 
 * _[Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %})_
-
-
-------
-
-__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
-
-You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
-
--- Neha

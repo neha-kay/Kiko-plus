@@ -1,34 +1,20 @@
 ---
 layout: post
 title: "Isn’t Couchsurfing Dangerous For Women?"
-description: "Tips on how to Couchsurf safely as a woman."
-date: 2015-06-02
+description: "Tips for women on how to Couchsurf safely as a woman."
+date: 2017-11-04
 tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
-
+f-image: /images/posts/featured/women.jpg
 category: travel
 permalink: /travel/is-couchsurfing-safe-for-women/
 ---
 
 __This is Part 8 of the 8-part Beginner's Guide to Couchsurfing:__
 
-_1. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %})_
-
-_2. [What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %})_
-
-_3. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %})_
-
-_4. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %})_
-
-_5. [Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %})_
-
-_6. [How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %})_
-
-_7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %})_
-
-_8. Isn't Couchsurfing Dangerous For Women?_
+<br>1. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}) <br>2. [What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %}) <br> 3. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}) <br>4. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}) <br>5. [Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %}) <br>6. [How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %}) <br>7. [How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %}) <br>8. _Isn't Couchsurfing Dangerous For Women?_
 
 -----
 
@@ -40,13 +26,15 @@ As a bit of background, I'm a solo female backpacker who, as of July 2017, has t
 
 __The first thing I'll point out is that there is no such thing as a 100% safe Couchsurfing experience.__  I'd argue there's no such thing as a 100% safe _travel_ experience, either. These things can always carry a small inherent danger that prevents someone from guaranteeing 100% safety. But you can get pretty darn close with the tips below. 
 
-### 1. Only stay with female hosts (with good reviews).
+### 1. Only stay with female hosts (with good reviews)
 
 I personally surf with both men and women but this is a great option for beginner female Couchsurfers who are very uneasy about the idea of staying with a male host. Naturally you'll have way less options, but it's a good way to dip one's toe into the community to see what it's like. However, note that it's *significantly* more difficult to find a female host since most Couchsurfers do tend to be male, so you may have to put in more effort in the messaging process to find a female host. 
 
 If you're open-minded to staying with a male host, I'd recommend doing so --- if you follow the tips below, it's just as possible to find a super safe male host.
 
-### 2. Only stay with people with a large number of reviews. Additionally, don't interact, stay with, or host people who have 0 references or seem off in some way. 
+### 2. Only stay with people with a large number of reviews
+
+Additionally, don't interact, stay with, or host people who have 0 references or seem off in some way. 
 Every person on the platform has a reference section which details what staying with them is like. It's just like a Yelp or Airbnb review. As a solo surfer, stay away from people who don't have reviews -- while they're likely great people, they could also be more sinister, and since you cannot differentiate which of the two they are, don't stay with them or meet up in person.
 
 How many is 'large'? This depends on how trusting you are of the community, really. I'd say the following is a good outline: 
@@ -63,11 +51,11 @@ Also, if someone seems 'off' when messaging you, err on the side of caution and 
 
 If I'm still not sure if it's safe, I'll do some of the things outlined below.
 
-### 3. Opt away from people who offer to host you (instead of responding to your request) unless they have a large number of great reviews.
+### 3. If someone offer to host you (instead of you sending them a request), be extra sure they have a large number of great reviews
 
 I'm always very suspicious of people who offer to host me and I don't think I've ever actually accepted one, and if I have, it's only because they have 30 or 40+ reviews. If they offer to host me, usually I'd need 30-40+ reviews to feel comfortable staying with them. 
 
-### 3. Contact women who have stayed with the host before 
+### 4. Contact women who have stayed with the host before 
 
 Again, to double check the safety of a host, especially if you're very uneasy about surfing with a male host, you can message women who have stayed at the potential host's place and ask them if they felt safe and what the host is like. 
 
@@ -77,11 +65,9 @@ To do this:
 
 This has been *incredibly* helpful for me in the past, with screenshots of what I've sent as an example below. If any one of them report anything 'off', don't take the risk and find another host.
 
-<p align="center">
-  <img src="/images/couchsurfing-guide/contact-previous-surfers.png">
-</p>
+<a href="#" class="image main"><img src="{{ "/images/couchsurfing-guide/contact-previous-surfers.png" | absolute_url }}" alt="" /></a>
 
-### 3. Analyze the references carefully
+### 5. Analyze the references carefully
 
 Good hosts usually have a large number of rave reviews referring to the host as super great and generous. If a number of reviews have more neutral tones or mention things that seem 'off', it's better to dig deeper by contacting previous surfers. 
 
@@ -103,7 +89,7 @@ _Other Posts in This Series:_
 
 * _[Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %})_
 
-*  _[What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %})
+*  _[What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %})_
 
 * _[Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %})_
 
@@ -114,12 +100,3 @@ _Other Posts in This Series:_
 * _[How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %})_
 
 * _[How to Make Sure Your Couchsurfing Experience is 100% Safe]({% post_url 2015-06-02-how-to-make-sure-your-couchsurfing-experience-is-100-safe %})_
-
-
-------
-
-__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
-
-You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
-
--- Neha

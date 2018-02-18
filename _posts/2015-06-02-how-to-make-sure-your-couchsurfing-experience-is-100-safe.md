@@ -2,44 +2,26 @@
 layout: post
 title: "How to Make Sure Your Couchsurfing Experience is 100% Safe"
 description: "Tips on making your Couchsurfing experience as safe as possible."
-date: 2015-06-02
+date: 2017-08-12
 tags: [travel - couchsurfing]
 comments: true
 share: true
 published: true
 future: true
-
+f-image: /images/posts/featured/safe.jpg
 category: travel
 ---
 
 __This is Part 7 of the 8-part Beginner's Guide to Couchsurfing:__
-
-_1. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %})_
-
-_2. [What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %})_
-
-_3. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %})_
-
-_4. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %})_
-
-_5. [Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %})_
-
-_6. [How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %})_
-
-_7. How to Make Sure Your Couchsurfing Experience is 100% Safe_
-
-_8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %})_
+<br>1. [Introduction to the Guide]({% post_url 2015-06-02-beginners-guide-to-couchsurfing %}) <br>2. [What Couchsurfing Is & How it Works]({% post_url 2015-06-02-you-couchsurf-whats-that %}) <br> 3. [Getting Started and What Hosts Want]({% post_url 2015-06-02-getting-started-and-what-hosts-want %}) <br>4. [How to Write a Great Couchsurfing Profile]({% post_url 2015-06-02-how-to-write-a-great-couchsurfing-profile %}) <br>5. [Examples: What *Not* To Do in Couchsurfing Requests]({% post_url 2015-06-02-what-not-to-do-in-requests %}) <br>6. [How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %}) <br>7. _How to Make Sure Your Couchsurfing Experience is 100% Safe_ <br>8. [Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %})
 
 -----
 
-## How to Make Sure Your Couchsurfing Experience is 100% Safe
-As a solo female backpacker, I spend a lot of time thinking about how to Couchsurf safely. 
-
-Thus far, as of July 2017, I've safely Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. 
+As a solo female backpacker, I spend a lot of time thinking about how to Couchsurf safely. Thus far, as of July 2017, I've safely Couchsurfed 31 times, hosting guests 10 times and surfing 21 times. 
 
 __The first thing I'll point out is that there is no such thing as a 100% safe Couchsurfing experience.__  I'd argue there's no such thing as a 100% safe _travel_ experience, either. These things can always carry a small inherent danger that prevents someone from guaranteeing 100% safety. But you can get pretty darn close with the tips below.  
 
-### 1. Only stay with people with a large number of reviews. 
+## 1. Only stay with people with a large number of reviews. 
 
 Additionally, don't interact, stay with, or host people who have 0 references or seem off in some way. 
 
@@ -61,11 +43,11 @@ I personally surf with both men and women but if you're a beginner female Couchs
 
 If I'm still not sure if it's safe, I'll do some of the things outlined below.
 
-### 2. Opt away from people who offer to host you (instead of responding to your request) unless they have a large number of great reviews.
+## 2.If someone offers to host you (instead of responding to your request) be extra sure they have a large number of great reviews.
 
-I'm always very suspicious of people who offer to host me and if I do accept people who offer to host me, it's only because they have a large number of positive reviews. If they offer to host me, usually I'd need 15-40+ reviews to feel comfortable staying with them. 
+If I do accept to stay with hosts who offer to host me, it's only because they have a large number of positive reviews. If they offer to host me, usually I'd need 15-40+ reviews to feel comfortable staying with them. 
 
-### 3. Contact people who have stayed with the host before 
+## 3. Contact people who have stayed with the host before 
 
 Again, to double check the safety of a host, especially if you're very uneasy about surfing with a male host, you can message women or past surfers who have stayed at the potential host's place and ask them if they felt safe and what the host is like. 
 
@@ -74,15 +56,14 @@ To do this:
 * Send them a message asking about their experience with the host and if they felt safe. Make sure to do this with 5-7 hosts if possible (or as many as you can in case some don't respond).
 
 This has been *incredibly* helpful for me in the past, with screenshots of what I've sent as an example below. If any one of them report anything 'off', don't take the risk and find another host.
-<p align="center">
-  <img src="/images/couchsurfing-guide/contact-previous-surfers.png">
-</p>
 
-### 4. Analyze the references carefully
+<a href="#" class="image main"><img src="{{ "/images/couchsurfing-guide/contact-previous-surfers.png" | absolute_url }}" alt="" /></a>
+
+## 4. Analyze the references carefully
 
 Good hosts usually have a large number of rave reviews referring to the host as super great and generous. If a number of reviews have more neutral tones or mention things that seem 'off', it's better to dig deeper by contacting previous surfers. 
 
-### In Conclusion: Is it safe?
+## In Conclusion: Is it safe?
 
 If you follow the guidelines above, yes.
 
@@ -111,11 +92,3 @@ _Other Posts in This Series:_
 * _[How to Write a Great Couchsurfing Request]({% post_url 2015-06-02-how-to-write-a-great-request %})_
 
 * _[Isn't Couchsurfing Dangerous For Women?]({% post_url 2015-06-02-isnt-couchsurfing-dangerous-for-women %})_
-
-------
-
-__If this post/guide was helpful to you in any way, the best thing you can do is to leave a comment below saying so --- I check them daily__ 🙂 
-
-You can also email me at [nehakay8@gmail.com](mailto:nehakay8@gmail.com) and I'm happy to help out in really any way. 
-
--- Neha
