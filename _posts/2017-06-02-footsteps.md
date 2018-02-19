@@ -78,7 +78,7 @@ Saying hi to Sal, the founder of Khan Academy and getting a bit goofy.
 
 ---
 
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/gangnam.jpg" style="max-width:600px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/gangnam.jpg" style="max-width:500px" alt="" /></a></div>
 
 Me in the Gangnam district in South Korea! Yes, I did the Gangnam Style dance there, and no, I will not be posting that. 😛
 
@@ -90,7 +90,7 @@ The cafe where J.K. Rowling started writing Harry Potter.
 
 ---
 
-<div align="center"><a href="#" class="image main"><img src="/images/teracotta.jpg" style="max-width:700px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/posts/teracotta.jpg" style="max-width:700px" alt="" /></a></div>
 
 Terracotta warriors (Xi'an, China).
 
