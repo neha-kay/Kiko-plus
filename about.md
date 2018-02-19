@@ -12,6 +12,10 @@ sitemap:
 
 Hi! My name is Neha. This is my brain space - my tabula rasa for random thoughts.
 
+
+<div align="center"><a href="#" class="image main"><img src="/images/posts/central-perk.jpg" style="max-width:700px" alt="" /></a></div>
+
+
 In September 2015, I published [The Official Couchsurfing Guide](https://www.nehakay.com/couchsurfing-guide) which went viral within the Couchsurfing community. 
 
 Now, back to a modest 10-20 daily visitors, I focus on updating the blog with my thoughts on travel, organization, career exploration, and life perspective. 

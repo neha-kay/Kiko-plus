@@ -57,9 +57,18 @@ In no particular order:
 ## Some Awesome Photos!
 Photos of cool experiences abroad :)
 <br> 
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/1-autobahn.jpg" style="max-width:900px" alt="" /></a></div>
 
-This photo above was taken somewhere on the [autobahn](https://en.wikipedia.org/wiki/Autobahn){:target="_blank"} --- German highways with no federally mandated speed limit. 😉
+<div align="center"><a href="#" class="image main"><img src="/images/posts/great-wall.jpg" style="max-width:700px" alt="" /></a></div>
+
+Camping on the Great Wall (Beijing, China).
+
+-------
+
+<div align="center"><a href="#" class="image main"><img src="/images/posts/central-perk.jpg" style="max-width:700px" alt="" /></a></div>
+
+<div align="center"><a href="#" class="image main"><img src="/images/posts/friends.jpg" style="max-width:700px" alt="" /></a></div>
+
+On the set of the Friends TV show!
 
 -------
 
@@ -80,6 +89,24 @@ Me in the Gangnam district in South Korea! Yes, I did the Gangnam Style dance th
 The cafe where J.K. Rowling started writing Harry Potter. 
 
 ---
+
+<div align="center"><a href="#" class="image main"><img src="/images/teracotta.jpg" style="max-width:700px" alt="" /></a></div>
+
+Terracotta warriors (Xi'an, China).
+
+----
+
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/3-pichu.jpg" style="max-width:900px" alt="" /></a></div>
+
+Visiting [Machu Picchu](){:target="_blank"} of the Incan civilization.
+
+-------
+
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/1-autobahn.jpg" style="max-width:900px" alt="" /></a></div>
+
+This photo above was taken somewhere on the [autobahn](https://en.wikipedia.org/wiki/Autobahn){:target="_blank"} --- German highways with no federally mandated speed limit. 😉
+
+------
 
 <div align="center"><a href="#" class="image main"><img src="/images/photos-travel/underwater.jpg" style="max-width:900px" alt="" /></a></div>
 
@@ -156,12 +183,6 @@ And the super crazy and super drunk London crowds.
 This was the 2016 New Year in Burma! As explained [here](http://www.123newyear.com/newyear-traditions/buddhist.html){:target="_blank"}:
 
 > "According to Buddhist traditions, no celebrations or festivals are considered to be complete until and unless one lights up candles in the temples and monasteries, as doing so is considered to be a symbol of showing love and respect to the blessed souls and to the supreme power. Also, it is considered to bless petitioner with good luck and happiness for the coming time. The same goes for New Year celebrations as well. On New Year day, people in Buddhist countries make a visit to temples and monasteries, bath Buddha statues, offer prayers and worship to Lord Buddha, and call for getting conferred with happy and peaceful times ahead."
-
--------
-
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/3-pichu.jpg" style="max-width:900px" alt="" /></a></div>
-
-Visiting [Machu Picchu](){:target="_blank"} of the Incan civilization.
 
 -------
 
