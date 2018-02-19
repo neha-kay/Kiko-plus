@@ -64,13 +64,18 @@ Camping on the Great Wall (Beijing, China).
 
 -------
 
-<div align="center"><a href="#" class="image main"><img src="/images/posts/central-perk.jpg" style="max-width:700px" alt="" /></a></div>
-
 <div align="center"><a href="#" class="image main"><img src="/images/posts/friends.jpg" style="max-width:700px" alt="" /></a></div>
+
+<div align="center"><a href="#" class="image main"><img src="/images/posts/central-perk.jpg" style="max-width:700px" alt="" /></a></div>
 
 On the set of the Friends TV show!
 
 -------
+
+<div align="center"><a href="#" class="image main"><img src="/images/posts/alexis.jpg" style="max-width:700px" alt="" /></a></div>
+
+You'd think I'd just smile like a normal person when meeting the founder of Reddit, but instead I do this LOL...😑 
+-----
 
 <div align="center"><a href="#" class="image main"><img src="/images/photos-travel/Sal.jpg" style="max-width:800px" alt="" /></a></div>
 
@@ -78,17 +83,11 @@ Saying hi to Sal, the founder of Khan Academy and getting a bit goofy.
 
 ---
 
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/gangnam.jpg" style="max-width:500px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/gangnam.jpg" style="max-width:400px" alt="" /></a></div>
 
 Me in the Gangnam district in South Korea! Yes, I did the Gangnam Style dance there, and no, I will not be posting that. 😛
 
 -------
-
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/jkrowling.jpg" style="max-width:900px" alt="" /></a></div>
-
-The cafe where J.K. Rowling started writing Harry Potter. 
-
----
 
 <div align="center"><a href="#" class="image main"><img src="/images/posts/teracotta.jpg" style="max-width:700px" alt="" /></a></div>
 
@@ -100,11 +99,33 @@ Terracotta warriors (Xi'an, China).
 
 Visiting [Machu Picchu](){:target="_blank"} of the Incan civilization.
 
+
+----
+
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/jkrowling.jpg" style="max-width:900px" alt="" /></a></div>
+
+The cafe where J.K. Rowling started writing Harry Potter. 
+
+
+------
+
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/border.png" style="max-width:900px" alt="" /></a></div>
+
+The two images here are of me at the North Korean - South Korean border. 
+
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/dmz.jpg" style="max-width:500px" alt="" /></a></div>
 -------
 
 <div align="center"><a href="#" class="image main"><img src="/images/photos-travel/1-autobahn.jpg" style="max-width:900px" alt="" /></a></div>
 
 This photo above was taken somewhere on the [autobahn](https://en.wikipedia.org/wiki/Autobahn){:target="_blank"} --- German highways with no federally mandated speed limit. 😉
+
+
+-----
+
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/equador.png" style="max-width:900px" alt="" /></a></div>
+
+Standing on the Equator! 
 
 ------
 
@@ -113,14 +134,9 @@ This photo above was taken somewhere on the [autobahn](https://en.wikipedia.org/
 At Oxford, I once played underwater hockey which is about as crazy as it sounds. This is me before the game. It's literally played on the floor of a pool, about 10 feet down with scuba equipment. The scuba equipment is so that you can watch the game while recovering your breath but the actual play is on the pool floor. When you're back in play, you sort of dive down and get into the game --- this is [what it looks like under the water](https://www.youtube.com/watch?v=SAukrpTEvZA){:target="_blank"}. 
 
 <div align="center"><a href="#" class="image main"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/OctopushTwoPlayers28092009.JPG/300px-OctopushTwoPlayers28092009.JPG" style="max-width:600px" alt="" /></a></div>
+
 ----
 
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/border.png" style="max-width:900px" alt="" /></a></div>
-
-The two images here are of me at the North Korean - South Korean border. 
-
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/dmz.jpg" style="max-width:500px" alt="" /></a></div>
--------
 
 <div align="center"><a href="#" class="image main"><img src="/images/photos-travel/4-kayak.jpg" style="max-width:900px" alt="" /></a></div>
 
@@ -157,12 +173,6 @@ This is one of the many beautiful temples in Bagan, Burma. This image was taken 
 <div align="center"><a href="#" class="image main"><img src="/images/photos-travel/bagan.jpg" style="max-width:900px" alt="" /></a></div>
 
 Overlooking the ancient temples and ruins of Bagan, Burma.
-
-------
-
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/equador.png" style="max-width:900px" alt="" /></a></div>
-
-Standing on the Equator! 
 
 ------
 
