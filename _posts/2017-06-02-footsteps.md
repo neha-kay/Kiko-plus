@@ -75,7 +75,7 @@ Visiting [Machu Picchu](https://en.wikipedia.org/wiki/Machu_Picchu){:target="_bl
 
 ----
 
-Scuba-diving and snorkeling the Great Barrier Reef (Cairns, Australia)... was _beyond amazing_. Believe it or not, this photo was taken underwater in the reef itself :P
+Scuba-diving and snorkeling the Great Barrier Reef (Cairns, Australia). Believe it or not, this photo was taken with my iPhone underwater in the reef itself :P
 
 <div align="center"><a href="#" class="image main"><img src="/images/posts/reef.jpg" style="max-width:700px" alt="" /></a></div>
 
