@@ -69,15 +69,21 @@ Me in the Gangnam district in South Korea! Yes, I did the Gangnam Style dance th
 
 -------
 
-Terracotta warriors (Xi'an, China).
-
-<div align="center"><a href="#" class="image main"><img src="/images/posts/teracotta.jpg" style="max-width:700px" alt="" /></a></div>
-
-----
-
 Visiting [Machu Picchu](https://en.wikipedia.org/wiki/Machu_Picchu){:target="_blank"} of the Incan civilization.
 
 <div align="center"><a href="#" class="image main"><img src="/images/photos-travel/3-pichu.jpg" style="max-width:800px" alt="" /></a></div>
+
+----
+
+Scuba-diving and snorkeling the Great Barrier Reef (Cairns, Australia)... was _beyond amazing_. Believe it or not, this photo was taken underwater in the reef itself :P
+
+<div align="center"><a href="#" class="image main"><img src="/images/posts/reef.jpg" style="max-width:700px" alt="" /></a></div>
+
+----
+
+Terracotta warriors (Xi'an, China).
+
+<div align="center"><a href="#" class="image main"><img src="/images/posts/teracotta.jpg" style="max-width:700px" alt="" /></a></div>
 
 ----
 
