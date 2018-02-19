@@ -46,11 +46,11 @@ On the set of the Friends TV show!
 
 <div align="center"><a href="#" class="image main"><img src="/images/posts/friends.jpg" style="max-width:700px" alt="" /></a></div>
 
-<div align="center"><a href="#" class="image main"><img src="/images/posts/central-perk.jpg" style="max-width:700px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/posts/perk.jpg" style="max-width:700px" alt="" /></a></div>
 
 -------
 
-You'd think I'd just smile like a normal person when meeting the founder of Reddit, but instead I do this LOL...😑
+You'd think I'd just smile like a normal person when meeting the founder of Reddit, but instead I do THIS smh...😑
 
 <div align="center"><a href="#" class="image main"><img src="/images/posts/alexis.jpg" style="max-width:700px" alt="" /></a></div>
 
@@ -89,21 +89,21 @@ Eating at the cafe where J.K. Rowling started writing Harry Potter (Edinburgh, S
 
 The two images here are of me at the North Korean - South Korean border. 
 
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/border.png" style="max-width:800px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/border.png" style="max-width:500px" alt="" /></a></div>
 
 
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/dmz.jpg" style="max-width:500px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/dmz.jpg" style="max-width:700px" alt="" /></a></div>
 -------
 
-Standing on the Equator (Quito, Ecuador)! 
+Standing on the Equator (Quito, Ecuador).
 
 <div align="center"><a href="#" class="image main"><img src="/images/photos-travel/equador.png" style="max-width:800px" alt="" /></a></div>
 
 ------
 
-Meeting Brandon Stanton of [Humans of New York ](http://www.humansofnewyork.com/about){:target="_blank"}. I heard he was coming to Hopkins to speak and made a point of making sure I met him before he left :P
+Meeting Brandon Stanton of [Humans of New York ](http://www.humansofnewyork.com/about){:target="_blank"}. 
 
-<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/brandon.jpg" style="max-width:800px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/photos-travel/brandon.jpg" style="max-width:500px" alt="" /></a></div>
 
 ---
 
