@@ -4,7 +4,7 @@ bio:                'Hi!'
 description:        "Hi"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://neha-kay.github.io/" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -31,7 +31,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   
+disqus_shortname:   neha-kay
 
 # Social
 analytics-id:       "UA-102145407-1"
