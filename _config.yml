@@ -4,7 +4,7 @@ bio:                'Hi!'
 description:        "Hi"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://neha-kay.github.io/" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 defaults:
 - scope:
