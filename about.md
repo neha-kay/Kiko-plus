@@ -13,7 +13,7 @@ sitemap:
 Hi! My name is Neha. This is my brain space - my tabula rasa for random thoughts.
 
 
-<div align="center"><a href="#" class="image main"><img src="/images/posts/central-perk.jpg" style="max-width:700px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/posts/perk.jpg" style="max-width:700px" alt="" /></a></div>
 
 
 In September 2015, I published [The Official Couchsurfing Guide](https://www.nehakay.com/couchsurfing-guide) which went viral within the Couchsurfing community. 
@@ -80,9 +80,10 @@ In any case, even after all of that, I still have no clue what I want to do in t
 * Played underwater hockey
 * Got bit by a dog in Jamaica 😕
 * Met HONY's Brandon Stanton 
-* Studied at Oxford
+* Studied at Oxford University
 * [Traveled to 30 countries & 6 continents]({% post_url 2017-06-02-footsteps %}){:target="_blank"} and will be traveling to the last few countries I want to see before settling down and starting work at Microsoft.
-
+* Scuba-dived (twice!) the Great Barrier Reef (Sydney, Australia)
+* Failed 2 or 3 times at doing P90X (hopefully one day...) 
 
 <a href="#" class="image main"><img src="{{ "/images/about-page/peru.jpg" | absolute_url }}" alt="" /></a>
 
