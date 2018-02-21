@@ -8,6 +8,7 @@ comments: true
 share: true
 published: true
 future: true
+permalink: /career-guide/
 f-image: /images/posts/featured/career.jpg
 category: career
 ---
