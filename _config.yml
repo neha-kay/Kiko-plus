@@ -33,6 +33,10 @@ sass:
 # Comments
 disqus_shortname:   neha-kay
 
+# Disqus
+disqus:
+  id:               "neha-kay"
+  
 # Social
 analytics-id:       "UA-102145407-1"
 twitter:            nehakayofficial
