@@ -6,6 +6,7 @@ date: 2018-01-26
 tags: [organization/productivity]
 comments: true
 share: true
+permalink: /goal-organization-guide/
 category: organization/productivity
 f-image: /images/posts/featured/goal-organization.jpg
 featured: yes
