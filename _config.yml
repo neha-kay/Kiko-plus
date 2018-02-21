@@ -33,17 +33,20 @@ sass:
 # Comments
 disqus_shortname:   "neha-kay"
 
-# Disqus
 disqus:
   id:               "neha-kay"
-  
+
+permalink:          /:categories/:title
+
 # Social
 analytics-id:       "UA-102145407-1"
 twitter:            nehakayofficial
-facebook:           default
+facebook:           
 instagram:          nehakayofficial
 github:             default
-
+youtubeUser:      
+youtubeChannel: 
+  
 # personal
 location:           Dallas, TX
 phone:              Email me :P
