@@ -7,6 +7,7 @@ tags: [life perspective, relationships, career]
 comments: true
 share: true
 published: true
+permalink: /how-to-maintain-your-network-guide/
 f-image: /images/posts/featured/network.jpg
 category: career
 featured: yes
