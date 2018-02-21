@@ -16,7 +16,7 @@ defaults:
     author:
 
 # Jekyll
-permalink:          /blog/:title/
+permalink:          /:categories/:title
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -34,9 +34,7 @@ sass:
 disqus_shortname:   "neha-kay"
 
 disqus:
-  id:               "neha-kay"
-
-permalink:          /:categories/:title
+  id:               "neha-kay"     
 
 # Social
 analytics-id:       "UA-102145407-1"
