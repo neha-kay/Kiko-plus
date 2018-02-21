@@ -31,7 +31,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   neha-kay
+disqus_shortname:   "neha-kay"
 
 # Disqus
 disqus:
