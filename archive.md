@@ -2,7 +2,6 @@
 layout: archive
 title: Archive
 description: Page could not be found
-permalink: /archive/
 sitemap:
     priority: 1.0
     lastmod: 2017-11-02
@@ -17,7 +16,7 @@ sitemap:
 
 {% assign tags_list = site_tags | split:',' | sort %}
 
-<div class="tags">
+<div class="posttags">
   <ul>
     {% for item in (0..site.tags.size) %}
     {% unless forloop.last %}
