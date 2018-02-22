@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: Archive
-description: Page could not be found
+description: 
+permalink: archive
 sitemap:
     priority: 1.0
     lastmod: 2017-11-02
@@ -15,22 +16,6 @@ sitemap:
 {% endcapture %}
 
 {% assign tags_list = site_tags | split:',' | sort %}
-
-<div class="posttags">
-  <ul>
-    {% for item in (0..site.tags.size) %}
-    {% unless forloop.last %}
-      {% capture this_tag %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
-      
-        <a href="#{{ this_tag }}">
-          <span>{{ this_tag }}</span>
-          <span class="count">{{ site.tags[this_tag].size }}</span>
-        </a>
-      
-    {% endunless %}
-    {% endfor %}
-  </ul>
-</div>
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_tag %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
