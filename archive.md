@@ -1,14 +1,13 @@
 ---
-layout: page
-title: 404
+layout: archive
+title: Archive
 description: Page could not be found
+permalink: /archive/
 sitemap:
     priority: 1.0
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-
-I couldn't find the page you're looking for. But try one of these posts :)
 
 {% capture site_tags %}
 {% for tag in site.tags %}
@@ -17,6 +16,22 @@ I couldn't find the page you're looking for. But try one of these posts :)
 {% endcapture %}
 
 {% assign tags_list = site_tags | split:',' | sort %}
+
+<div class="tags">
+  <ul>
+    {% for item in (0..site.tags.size) %}
+    {% unless forloop.last %}
+      {% capture this_tag %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+      
+        <a href="#{{ this_tag }}">
+          <span>{{ this_tag }}</span>
+          <span class="count">{{ site.tags[this_tag].size }}</span>
+        </a>
+      
+    {% endunless %}
+    {% endfor %}
+  </ul>
+</div>
 
 {% for item in (0..site.tags.size) %}{% unless forloop.last %}
   {% capture this_tag %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
