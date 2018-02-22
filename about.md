@@ -2,7 +2,7 @@
 layout: page
 title: About Neha Kay
 description: About the site.
-permalink: /about
+permalink: /about/
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
