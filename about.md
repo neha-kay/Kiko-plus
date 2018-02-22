@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Neha Kay
+title: About
 description: About the site.
 permalink: /about/
 sitemap:

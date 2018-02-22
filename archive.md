@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: Archive
 description: 
 permalink: archive
@@ -8,6 +8,8 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
+
+<h1>Archive</h1>
 
 {% capture site_tags %}
 {% for tag in site.tags %}
