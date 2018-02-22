@@ -5,88 +5,71 @@
 	
     <style>
 
-	 .posttags
-		{
-			list-style:none;
-		}
+.tags a {
 
-		.posttags li 
-		{
-			background:#eee;
-			border-radius: 0 20px 20px 0;
-			display: block;
-			height:24px;
-			line-height: 24px;
-			margin: 1em 0.7em;
-			padding:5px 5px 5px 20px;
-			position: relative;
-			text-align: left;
-			width:124px;
-		}
-		.posttags li a
-		{
-			color: #56a3d5;
-			display: block;
-		}
-	   .posttags li:before
-		{
-			content:"";
-			float:left;
-			position:absolute;
-			top:0;
-			left:-17px;
-			width:0;
-			height:0;
-			border-color:transparent #eee transparent transparent;
-			border-style:solid;
-			border-width:17px 17px 17px 0;
-		}
+	display: inline-block;
+	height: 21px;
+	margin: 10px 10px 10px 10px;
+	padding: 15px 15px 30px 20px;
+  
+	white-space: nowrap;
+	position: relative;
+	background: -moz-linear-gradient(top, #fed970 0%, #febc4a 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fed970), color-stop(100%,#febc4a));
+	background: -webkit-linear-gradient(top, #fed970 0%,#febc4a 100%);
+	background: -o-linear-gradient(top, #fed970 0%,#febc4a 100%);
+	background: linear-gradient(to bottom, #fed970 0%,#febc4a 100%);
+	background-color: #FEC95B;
 
-		.posttags li:after
-		{
-			content:"";
-			position:absolute;
-			top:15px;
-			left:2px;
-			float:left;
-			width:6px;
-			height:6px;
-			-moz-border-radius:2px;
-			-webkit-border-radius:2px;
-			border-radius:2px;
-			background:#fff;
-			box-shadow:-1px -1px 2px #004977;
-		}
+	color: #223047;
+	font: bold 20px/21px Baskerville, Tahoma, sans-serif;
+	text-decoration: none;
+	text-shadow: 0 1px rgba(255,255,255,0.4);
 
-		.posttags li span {
-			background: #56a3d5;
-		        border-color: #3591cd #318cc7 #2f86be;
-		        background-image: -webkit-linear-gradient(top, #6aaeda, #4298d0);
-		        background-image: -moz-linear-gradient(top, #6aaeda, #4298d0);
-		        background-image: -o-linear-gradient(top, #6aaeda, #4298d0);
-		        background-image: linear-gradient(to bottom, #6aaeda, #4298d0);
-			border-radius: 0 20px 20px 0;
-			color: transparent;
-			display: inline-block;
-			height:24px;
-			line-height: 24px;
-			padding:5px;
-			width:0;
-			position: absolute;
-			text-align: center;
-			top:-1px;
-			right:0;
-			-webkit-transition: width 0.3s ease-out;
-			-moz-transition: width 0.3s ease-out;
-			-o-transition: width 0.3s ease-out;
-			transition: width 0.3s ease-out;
-		}
+  border-left: 1px solid #EDB14A;
+	border-top: 1px solid #EDB14A;
+	border-bottom: 1px solid #CE922E;
+	border-right: 1px solid #DCA03B;
+	border-radius: 1px 3px 3px 1px;
+	box-shadow: inset 0 1px #FEE395, 0 1px 2px rgba(0,0,0,0.21);
+}
+a:before {
 
-		.posttags li:hover span
-		{
-			width:20px;
-			color: #FFF;
-		}
+	background: -moz-linear-gradient(45deg, #fed970 0%, #febc4a 100%);
+	background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#fed970), color-stop(100%,#febc4a));
+	background: -webkit-linear-gradient(-45deg, #fed970 0%,#febc4a 100%);
+	background: -o-linear-gradient(45deg, #fed970 0%,#febc4a 100%);
+	background: linear-gradient(135deg, #fed970 0%,#febc4a 100%);
+	background-color: #FEC95B;
+
+	border-left: 1px solid #EDB14A;
+	border-bottom: 1px solid #CE922E;
+	border-radius: 0 0 0 2px;
+	box-shadow: inset 1px 0 #FEDB7C, 0 2px 2px -2px rgba(0,0,0,0.33);
+}
+a:before {
+	-webkit-transform: scale(1, 1.5) rotate(45deg);
+	-moz-transform: scale(1, 1.5) rotate(45deg);
+	-ms-transform: scale(1, 1.5) rotate(45deg);
+	transform: scale(1, 1.5) rotate(45deg);
+}
+a:after {
+	content: '';
+	position: absolute;
+	top: 23px;
+	left: 7px;
+	width: 5px;
+	height: 5px;
+	background: #FFF;
+	border-radius: 14px;
+	border: 1px solid #DCA03B;
+	box-shadow: 0 1px 0 rgba(255,255,255,0.2), inset 0 1px 1px rgba(0,0,0,0.21);
+}
+.tags a:hover {
+	color: #FFF;
+	text-shadow: -1px -1px 0 rgba(153,102,51,0.3);
+} 
+
 	</style>
 
 	</head>
@@ -122,6 +105,7 @@
 
 					<!-- Post -->
 					<section class="post">
+					<h1>{{page.title}}</h1>
 						<p>{{content}}</p>
 					</section>
 
