@@ -14,7 +14,7 @@ sitemap:
 Hi! My name is Neha. This is my brain space - my tabula rasa for random thoughts.
 
 
-<div align="center"><a href="#" class="image main"><img src="/images/posts/perk.jpg" style="max-width:700px" alt="" /></a></div>
+<div align="center"><a href="#" class="image main"><img src="/images/posts/friends.jpg" style="max-width:700px" alt="" /></a></div>
 
 
 In September 2015, I published [The Official Couchsurfing Guide](https://www.nehakay.com/couchsurfing-guide) which went viral within the Couchsurfing community. 
