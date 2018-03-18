@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Only Productivity Guide You'll Ever Need"
+title: "The 999th Productivity Guide The Internet Has But Never Wanted"
 description: "The most comprehensive productivity guide you'll come across on the interwebs."
 date: 2018-01-24
 tags: [organization/productivity]
