@@ -3,7 +3,7 @@ layout: post
 title: "All The Books I've Read and The 6 I'd Recommend"
 description: "A curated list of the books I'd recommend."
 date: 2017-07-18
-tags: [about neha]
+tags: [reading]
 comments: true
 share: true
 published: true

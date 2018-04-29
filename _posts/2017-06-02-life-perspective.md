@@ -3,7 +3,7 @@ layout: post
 title: "Life Perspective"
 description: "Elements of my personal life perspective which I find most impactful."
 date: 2017-06-02
-tags: [life perspective, about neha]
+tags: [life perspective]
 comments: true
 share: true
 category: life

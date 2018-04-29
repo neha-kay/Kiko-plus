@@ -3,7 +3,7 @@ layout: post
 title: "This is Exactly How I Feel About Writing"
 description: "A very accurate description on the writing process."
 date: 2014-01-03
-tags: [writing]
+tags: [life perspective]
 comments: true
 share: true
 published: true

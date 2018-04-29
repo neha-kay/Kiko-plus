@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Daily Musings"
+title: "Random Daily Musings"
 description: "Short thought nuggets about the world as they occur to me."
 date: 2015-01-01
 tags: [life perspective]
