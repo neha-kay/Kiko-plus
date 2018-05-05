@@ -12,24 +12,26 @@
         <header id="header">
           <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
 
-        <!-- Mailchimp pop-up -->
-        <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"190027b3042ef1ffeac8ac1f8","lid":"96664d6013"}) })</script>
+          <!-- Mailchimp pop-up -->
+          <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"190027b3042ef1ffeac8ac1f8","lid":"96664d6013"}) })</script>
 
         </header>
 
 				<!-- Nav -->
-					<nav id="nav">
+				<nav id="nav">
 
             {% include nav.html %}
 
+          <!--
           <ul class="icons">
                 <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
                 <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
-             <!--
+             
                 <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
                 <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
-          -->
+          
             </ul> 
+          -->
 					</nav>
 
 				<!-- Main -->
@@ -67,7 +69,7 @@
                */
 
               var disqus_config = function () {
-                  this.page.url = 'https://neha-kay.github.io/{{ page.url }}';  /*Replace PAGE_URL with your page's canonical URL variable*/
+                  this.page.url = 'https://projecthustle.github.io/{{ page.url }}';  /*Replace PAGE_URL with your page's canonical URL variable*/
                   this.page.identifier = '{{ page.url }}'; /*Replace PAGE_IDENTIFIER with your page's unique identifier variable*/
               };
 
