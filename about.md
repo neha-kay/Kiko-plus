@@ -21,7 +21,7 @@ In September 2015, I published [The Official Couchsurfing Guide](https://www.neh
 
 Now, back to a modest 10-20 daily visitors, I focus on updating the blog with my thoughts on travel, organization, career exploration, and life perspective. 
 
-Welcome, have fun, and if you see something you like, feel free to email me (<nehakay8@gmail.com>). I live in Dallas, TX + love meeting people so if you're in the area, reach out.
+Welcome, have fun, and if you see something you like, feel free to email me ({{site.email}}). I live in Dallas, TX + love meeting people so if you're in the area, reach out.
 
 ## About Me
 
