@@ -31,24 +31,24 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   "neha-kay"
+disqus_shortname:   ""
 
 disqus:
-  id:               "neha-kay"     
+  id:               ""     
 
 # Social
 analytics-id:       "UA-102145407-1"
-twitter:            nehakayfam
+twitter:            
 facebook:           
-instagram:          nehakayfam
-github:             default
+instagram:          
+github:             
 youtubeUser:      
 youtubeChannel: 
   
 # personal
 location:           Dallas, TX
 phone:              Email me :P
-email:              nehakay8@gmail.com
+email:              neha@projecthustle.org
 
 # Gems
 gems:
